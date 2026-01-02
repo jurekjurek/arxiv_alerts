@@ -38,7 +38,7 @@ ARXIV_API_URL = "https://export.arxiv.org/api/query"
 # ----------------------------
 
 CATEGORIES = ["cs.AI", "cs.CL", "hep-lat", "quant-ph"]  # Example: machine learning + AI
-DAYS_BACK = 2                   # How far back to look
+DAYS_BACK = 20                   # How far back to look
 MAX_RESULTS = 300               # Over-fetch, then filter locally
 
 # Keywords are case-insensitive. Use plain phrases; script compiles safe regex.
