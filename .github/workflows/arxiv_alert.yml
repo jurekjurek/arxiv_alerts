@@ -2,8 +2,8 @@ name: arXiv Alerts
 
 on:
   schedule:
-    # Runs daily at 07:30 UTC (08:30 Berlin in winter; 09:30 in summer).
-    - cron: "30 7 * * *"
+    # Runs daily at 05:30 UTC (06:30 Berlin in winter; 07:30 in summer).
+    - cron: "30 5 * * *"
   workflow_dispatch: {}
 
 permissions:

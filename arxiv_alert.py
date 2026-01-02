@@ -38,15 +38,17 @@ ARXIV_API_URL = "https://export.arxiv.org/api/query"
 # ----------------------------
 
 CATEGORIES = ["cs.AI", "cs.CL", "hep-lat", "quant-ph"]  # Example: machine learning + AI
-DAYS_BACK = 1                   # How far back to look
+DAYS_BACK = 2                   # How far back to look
 MAX_RESULTS = 300               # Over-fetch, then filter locally
 
 # Keywords are case-insensitive. Use plain phrases; script compiles safe regex.
 INCLUDE_ANY = [
-    # "discocat",
-    # "krylov",
-    # "subspace-expansion",
-    # "wilson",
+    "discocat",
+    "krylov",
+    "subspace-expansion",
+    "wilson",
+    "quantum error mitigation",
+    "quantum machine learning",
 ]
 
 # If you want to require multiple terms, use INCLUDE_ALL.
@@ -55,7 +57,7 @@ INCLUDE_ALL = [
 ]
 
 EXCLUDE_ANY = [
-    "survey",
+    #"survey",
 ]
 
 # Scoring weights
