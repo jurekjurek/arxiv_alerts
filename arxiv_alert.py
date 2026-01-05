@@ -55,7 +55,8 @@ INCLUDE_ANY = [
     "quantum natural language processing",
     "qnlp",
     "quantum computing",
-    "trapped ions"
+    "trapped ions", 
+    "entanglement",
 ]
 
 # If you want to require multiple terms, use INCLUDE_ALL.
