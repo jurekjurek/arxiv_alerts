@@ -1,137 +1,173 @@
 # arXiv alert report
 
-- Generated: 2026-01-06 05:47 UTC
-- Window: papers published since 2026-01-05 05:47 UTC
-- Matches: 11
+- Generated: 2026-01-07 05:47 UTC
+- Window: papers published since 2026-01-06 05:47 UTC
+- Matches: 14
 
-## 1. Wilson-'t Hooft classification and the perimeter law for dyonic loops in 3d monopole semiclassics
+## 1. When does entanglement through gravity imply gravitons?
 
-- arXiv: `2601.02058v1`
-- Published: 2026-01-05 12:27 UTC
-- Authors: Yui Hayashi, Yuya Tanizaki
-- Categories: hep-th, hep-lat, hep-ph
-- Links: [abs](https://arxiv.org/abs/2601.02058v1) | [pdf](https://arxiv.org/pdf/2601.02058v1)
-- Score: 4
-- Keyword hits: title=['wilson'] abstract=['wilson']
-
-We investigate the long-distance behavior of dyonic loop operators in 4d $SU(N)$ gauge theories on $\mathbb{R}^3 \times S^1$ using the 3d monopole semiclassics. If we employ the naive definition of the 't Hooft loop in the Abelianized regime, the dyonic loop operators do not admit the well-defined computations within the effective field theory. Moreover, if one forcibly proceeds with the computations of their expectation values, all the dyonic loops turn out to show the area law, which contradicts the prediction of the Wilson-'t Hooft classification. In this paper, we resolve this puzzle by…
-
-## 2. Global Parametric Gates for Multi-qubit Entanglement
-
-- arXiv: `2601.01826v1`
-- Published: 2026-01-05 06:44 UTC
-- Authors: Jize Yang, Lin Guo, Haonan Xiong, Jiahui Wang, Yan Li, Yunfan Yang et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.01826v1) | [pdf](https://arxiv.org/pdf/2601.01826v1)
+- arXiv: `2601.03214v1`
+- Published: 2026-01-06 17:54 UTC
+- Authors: Nikolaos Mitrakos, Maria Papageorgiou, T. Rick Perche, Marios Christodoulou
+- Categories: gr-qc, quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.03214v1) | [pdf](https://arxiv.org/pdf/2601.03214v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We propose and experimentally demonstrate a global parametric gate that generates multi-qubit entangled states in a single step. By applying a parametric drive to a common qubit at precise detunings relative to computational qubits, we directly produce two-, three-, and four-qubit entanglement with state fidelities of 99.4\%\pm0.2\%, 93.4\%\pm0.3\%, and 91.4\%\pm0.3\%, respectively. This scheme enables efficient, reconfigurable control using only microwave drives and is compatible with fixed-frequency qubits. Error analyses indicate that infidelity stems primarily from decoherence and…
+Detection of entanglement through the Newtonian potential has been claimed to support the existence of gravitons, by extrapolating to a thought experiment which demonstrates that complementarity and causality would be in conflict unless quantum fluctuations exist. We critically assess this consistency argument using scalar field models. We show that whether complementarity or no-signalling is violated when quantum fluctuations are neglected, depends on how this approximation is taken, while in both cases entanglement is generated locally in spacetime. We clarify that the correct reading of…
 
-## 3. Quantum dynamics of cosmological particle production: interacting quantum field theories with matrix product states
+## 2. Energetics of Rydberg-atom Quantum Computing
 
-- arXiv: `2601.02331v1`
-- Published: 2026-01-05 18:23 UTC
-- Authors: Evan Budd, Adrien Florio, David Frenklakh, Swagato Mukherjee
-- Categories: hep-th, astro-ph.CO, hep-lat, hep-ph
-- Links: [abs](https://arxiv.org/abs/2601.02331v1) | [pdf](https://arxiv.org/pdf/2601.02331v1)
+- arXiv: `2601.03141v1`
+- Published: 2026-01-06 16:11 UTC
+- Authors: Óscar Alves, Marco Pezzutto, Yasser Omar
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.03141v1) | [pdf](https://arxiv.org/pdf/2601.03141v1)
+- Score: 4
+- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
+
+Quantum computing exploits the properties of Quantum Mechanics to solve problems faster than classical computers. The potential applications of this technology have been widely explored, and extensive research over the past decades has been dedicated to developing scalable quantum computers. However, the question of the energetic performance of quantum computation has only gained attention more recently, and its importance is now recognized. In fact, quantum computers can only be a viable alternative if their energy cost scales favorably, and some research has shown that there is even a…
+
+## 3. Collective dynamics versus entanglement in quantum battery performance
+
+- arXiv: `2601.03119v1`
+- Published: 2026-01-06 15:48 UTC
+- Authors: Rohit Kumar Shukla, Sunil K. Mishra, Ujjwal Sen
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.03119v1) | [pdf](https://arxiv.org/pdf/2601.03119v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+Identifying the physical origin of enhanced charging performance in many-body quantum batteries is a key challenge in quantum thermodynamics. We investigate whether improvements in stored energy and instantaneous charging power arise from genuine quantum correlations or from coherent collective dynamics that are not intrinsically quantum. We compare the time evolution of energetic quantities with a hierarchy of information-theoretic measures probing bipartite, tripartite, and further-partite correlations. Across different battery charger configurations, we find a consistent temporal ordering…
+
+## 4. Entanglement signatures of quantum criticality in Floquet non-Hermitian topological systems
+
+- arXiv: `2601.03002v1`
+- Published: 2026-01-06 13:27 UTC
+- Authors: Siyuan Cheng, Rui Xie, Xiaosen Yang, Yuee Xie, Yuanping Chen
+- Categories: quant-ph, cond-mat.mes-hall
+- Links: [abs](https://arxiv.org/abs/2601.03002v1) | [pdf](https://arxiv.org/pdf/2601.03002v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+The entanglement entropy can be an effective diagnostic tool for probing topological phase transitions. In one-dimensional single particle systems, the periodic driving generates a variety of topological phases and edge modes. In this work, we investigate the topological phase transition of the one-dimensional Floquet Su-Schrieffer-Heeger model using entanglement entropy, and construct the phase diagram based on entanglement entropy. The entanglement entropy exhibits pronounced peaks and follows the logarithmic scaling law at the phase transition points, from which we extract the central…
+
+## 5. Does relativistic motion really freeze initially maximal entanglement?
+
+- arXiv: `2601.02976v1`
+- Published: 2026-01-06 12:36 UTC
+- Authors: Si-Han Li, Hui-Chen Yang, Rui-Yang Xu, Shu-Min Wu
+- Categories: gr-qc, quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.02976v1) | [pdf](https://arxiv.org/pdf/2601.02976v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+We investigate the relativistic dynamics of quantum entanglement in a four-qubit cluster ($CL_4$) state using a fully operational Unruh-DeWitt detector framework. Contrary to the widely held expectation that the Unruh effect inevitably degrades initially maximal entanglement, we demonstrate that the 1-3 bipartite entanglement of the $CL_4$ state remains strictly maximal for all accelerations, including the infinite-acceleration limit. This result uncovers a previously unexplored phenomenon, namely the ``complete freezing of initially maximal entanglement" under relativistic motion. To the…
+
+## 6. Entanglement Entropy for Screened Interactions via Dimensional Mapping to Harmonic Oscillators
+
+- arXiv: `2601.02877v1`
+- Published: 2026-01-06 10:04 UTC
+- Authors: Akshay Kulkarni, Rahul Nigam
+- Categories: quant-ph, hep-th
+- Links: [abs](https://arxiv.org/abs/2601.02877v1) | [pdf](https://arxiv.org/pdf/2601.02877v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+We investigate interaction-induced corrections to entanglement entropy by mapping a screened Yukawa-type interaction to an effective harmonic oscillator system with controlled anharmonic perturbations. Starting from a one-dimensional interaction $V(x) = -g^2 e^{-αm x}/x$, we reformulate the problem in terms of a four-dimensional radial oscillator, where the finite screening length generates a systematic hierarchy of polynomial interactions in the radial coordinate. This mapping enables a controlled Rayleigh-Schrodinger perturbative treatment of the ground-state wavefunction and an explicit…
+
+## 7. Shallow-circuit Supervised Learning on a Quantum Processor
+
+- arXiv: `2601.03235v1`
+- Published: 2026-01-06 18:26 UTC
+- Authors: Luca Candelori, Swarnadeep Majumder, Antonio Mezzacapo, Javier Robledo Moreno, Kharen Musaelian, Santhanam Nagarajan et al.
+- Categories: quant-ph, cs.LG, stat.ML
+- Links: [abs](https://arxiv.org/abs/2601.03235v1) | [pdf](https://arxiv.org/pdf/2601.03235v1)
+- Score: 3
+- Keyword hits: title=[] abstract=['krylov', 'quantum machine learning', 'quantum computing']
+
+Quantum computing has long promised transformative advances in data analysis, yet practical quantum machine learning has remained elusive due to fundamental obstacles such as a steep quantum cost for the loading of classical data and poor trainability of many quantum machine learning algorithms designed for near-term quantum hardware. In this work, we show that one can overcome these obstacles by using a linear Hamiltonian-based machine learning method which provides a compact quantum representation of classical data via ground state problems for k-local Hamiltonians. We use the recent…
+
+## 8. MoE Adapter for Large Audio Language Models: Sparsity, Disentanglement, and Gradient-Conflict-Free
+
+- arXiv: `2601.02967v1`
+- Published: 2026-01-06 12:24 UTC
+- Authors: Yishu Lei, Shuwei He, Jing Hu, Dan Zhang, Xianlong Luo, Danxiang Zhu et al.
+- Categories: cs.SD, cs.AI, eess.AS
+- Links: [abs](https://arxiv.org/abs/2601.02967v1) | [pdf](https://arxiv.org/pdf/2601.02967v1)
+- Score: 3
+- Keyword hits: title=['entanglement'] abstract=[]
+
+Extending the input modality of Large Language Models~(LLMs) to the audio domain is essential for achieving comprehensive multimodal perception. However, it is well-known that acoustic information is intrinsically \textit{heterogeneous}, entangling attributes such as speech, music, and environmental context. Existing research is limited to a dense, parameter-shared adapter to model these diverse patterns, which induces \textit{gradient conflict} during optimization, as parameter updates required for distinct attributes contradict each other. To address this limitation, we introduce the…
+
+## 9. Nonseparability as Time-Averaged Dynamic States
+
+- arXiv: `2601.02977v1`
+- Published: 2026-01-06 12:37 UTC
+- Authors: Mathieu Padlewski, Tim Tuuva, Benjamin Apffel, Hervé Lissek, Romain Fleury
+- Categories: quant-ph, physics.app-ph
+- Links: [abs](https://arxiv.org/abs/2601.02977v1) | [pdf](https://arxiv.org/pdf/2601.02977v1)
 - Score: 2
-- Keyword hits: title=[] abstract=['Schwinger model', 'entanglement']
+- Keyword hits: title=[] abstract=['quantum computing', 'entanglement']
 
-Understanding real-time dynamics of interacting quantum fields in curved spacetime remains a major theoretical challenge. We employ tensor network methods to study such dynamics using interacting scalar and gauge theories in 1+1 spacetime dimensions, subject to a quench modeling a homogeneously expanding gravitational background. The models considered are the scalar $λφ^4$ theory and the Schwinger model, i.e. a Dirac fermion coupled to a $U(1)$ gauge field which is equivalent via bosonization to a scalar field with a cosine self-interaction. In the free scalar limit, both theories reproduce…
+Nonseparability - multipartite states that cannot be factorized - is one of the most striking features of quantum mechanics, as it gives rise to entanglement and non-causal correlations. In quantum computing, it also contributes directly to the computational advantage of quantum computers over its digital counterparts. In this work, we introduce a simple mechanism that frames nonseparability as a time-averaged manifestation of an underlying oscillatory process within state space. The central idea is the inclusion of auxiliary angular frequencies that modulate the temporal evolution of…
 
-## 4. Binarisation-loophole-free observation of high-dimensional quantum nonlocality
+## 10. Decoupling the Effect of Chain-of-Thought Reasoning: A Human Label Variation Perspective
 
-- arXiv: `2601.02350v1`
-- Published: 2026-01-05 18:48 UTC
-- Authors: Jia-le Miao, Elna Svegborn, Zhuo Chen, Yu Guo, Xiao-Min Hu, Yun-Feng Huang et al.
+- arXiv: `2601.03154v1`
+- Published: 2026-01-06 16:26 UTC
+- Authors: Beiduo Chen, Tiancheng Hu, Caiqi Zhang, Robert Litschko, Anna Korhonen, Barbara Plank
+- Categories: cs.CL
+- Links: [abs](https://arxiv.org/abs/2601.03154v1) | [pdf](https://arxiv.org/pdf/2601.03154v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Reasoning-tuned LLMs utilizing long Chain-of-Thought (CoT) excel at single-answer tasks, yet their ability to model Human Label Variation--which requires capturing probabilistic ambiguity rather than resolving it--remains underexplored. We investigate this through systematic disentanglement experiments on distribution-based tasks, employing Cross-CoT experiments to isolate the effect of reasoning text from intrinsic model priors. We observe a distinct "decoupled mechanism": while CoT improves distributional alignment, final accuracy is dictated by CoT content (99% variance contribution),…
+
+## 11. Towards Faithful Reasoning in Comics for Small MLLMs
+
+- arXiv: `2601.02991v1`
+- Published: 2026-01-06 13:00 UTC
+- Authors: Chengcheng Feng, Haojie Yin, Yucheng Jin, Kaizhu Huang
+- Categories: cs.CV, cs.AI
+- Links: [abs](https://arxiv.org/abs/2601.02991v1) | [pdf](https://arxiv.org/pdf/2601.02991v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Comic-based visual question answering (CVQA) poses distinct challenges to multimodal large language models (MLLMs) due to its reliance on symbolic abstraction, narrative logic, and humor, which differ from conventional VQA tasks. Although Chain-of-Thought (CoT) prompting is widely used to enhance MLLM reasoning, surprisingly, its direct application to CVQA often degrades performance, especially in small-scale models. Our theoretical and empirical analyses reveal that standard CoT in CVQA suffers from state entanglement, spurious transitions, and exploration inefficiency, with small models…
+
+## 12. Violation of Bell Monogamy Relations
+
+- arXiv: `2601.02925v1`
+- Published: 2026-01-06 11:09 UTC
+- Authors: Abhisek Panda, Chandan Datta, Pankaj Agrawal
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.02350v1) | [pdf](https://arxiv.org/pdf/2601.02350v1)
+- Links: [abs](https://arxiv.org/abs/2601.02925v1) | [pdf](https://arxiv.org/pdf/2601.02925v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Bell inequality tests based on high-dimensional entanglement usually require measurements that can resolve multiple possible outcomes. However, the implementation of high-dimensional multi-outcome measurements is often only emulated via a collection of ``click or no-click'' measurements. This reduction of multi-outcome measurements to binary-outcome measurements opens a loophole in high-dimensional tests Bell inequalities which can be exploited by local hidden variable models [Tavakoli et al., Phys. Rev. A 111, 042433 (2025)]. Here, we close this loophole by using four-dimensional photonic…
+The entangled multipartite systems, specially in pure states, exhibit the phenomenon entanglement monogamy. Such systems also display the phenomenon of Bell nonlocality. Like entanglement monogamy relations, there are Bell monogamy relations. These relations suggest a sharing of nonlocality across the subsystems. The nonlocality, as characterized by Bell inequalities, of one subsystem limits the nonlocality exhibited by another subsystem. We show that the Bell monogamy relations can be violated by using local filtering operations. We consider permutation-symmetric multipartite pure states, in…
 
-## 5. A General Class of Functionals for Certifying Quantum Incompatibility
+## 13. Quantum-Enhanced Neural Contextual Bandit Algorithms
 
-- arXiv: `2601.02239v1`
-- Published: 2026-01-05 16:13 UTC
-- Authors: Kuan-Yi Lee, Jhen-Dong Lin, Adam Miranowicz, Yueh-Nan Chen
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.02239v1) | [pdf](https://arxiv.org/pdf/2601.02239v1)
+- arXiv: `2601.02870v1`
+- Published: 2026-01-06 09:58 UTC
+- Authors: Yuqi Huang, Vincent Y. F Tan, Sharu Theresa Jose
+- Categories: cs.LG, cs.IT, quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.02870v1) | [pdf](https://arxiv.org/pdf/2601.02870v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['variational quantum eigensolver']
+
+Stochastic contextual bandits are fundamental for sequential decision-making but pose significant challenges for existing neural network-based algorithms, particularly when scaling to quantum neural networks (QNNs) due to issues such as massive over-parameterization, computational instability, and the barren plateau phenomenon. This paper introduces the Quantum Neural Tangent Kernel-Upper Confidence Bound (QNTK-UCB) algorithm, a novel algorithm that leverages the Quantum Neural Tangent Kernel (QNTK) to address these limitations. By freezing the QNN at a random initialization and utilizing its…
+
+## 14. Quantum-enhanced long short-term memory with attention for spatial permeability prediction in oilfield reservoirs
+
+- arXiv: `2601.02818v1`
+- Published: 2026-01-06 08:47 UTC
+- Authors: Muzhen Zhang, Yujie Cheng, Zhanxiang Lei
+- Categories: cs.AI, quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.02818v1) | [pdf](https://arxiv.org/pdf/2601.02818v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Quantum steering, measurement incompatibility, and instrument incompatibility have recently been recognized as unified manifestations of quantum incompatibility. Building on this perspective, we develop a general framework for constructing optimization-free, nonlinear incompatibility witnesses based on convex functionals, valid in arbitrary dimensions. We prove that these witnesses are nontrivial precisely when the underlying functional is non-affine on extremal points (e.g., pure states for ensembles). For pure bipartite states, the witnesses yield lower bounds on entanglement measures,…
-
-## 6. Developments in superconducting erasure qubits for hardware-efficient quantum error correction
-
-- arXiv: `2601.02183v1`
-- Published: 2026-01-05 15:02 UTC
-- Authors: Maria Violaris, Luciana Henaut, James Wills, Gioele Consani, Jamie Friel, Brian Vlastakis
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.02183v1) | [pdf](https://arxiv.org/pdf/2601.02183v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Quantum computers are inherently noisy, and a crucial challenge for achieving large-scale, fault-tolerant quantum computing is to implement quantum error correction. A promising direction that has made rapid recent progress is to design hardware that has a specific noise profile, leading to a significantly higher threshold for noise with certain quantum error correcting codes. This Perspective focuses on erasure qubits, which enable hardware-efficient quantum error correction, by concatenating an inner code built-in to the hardware with an outer code. We focus on implementations of dual-rail…
-
-## 7. Quantum Extreme Reservoir Computing for Phase Classification of Polymer Alloy Microstructures
-
-- arXiv: `2601.02150v1`
-- Published: 2026-01-05 14:25 UTC
-- Authors: Arisa Ikeda, Akitada Sakurai, Kae Nemoto, Mayu Muramatsu
-- Categories: quant-ph, cond-mat.mtrl-sci
-- Links: [abs](https://arxiv.org/abs/2601.02150v1) | [pdf](https://arxiv.org/pdf/2601.02150v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum machine learning']
-
-Quantum machine learning (QML) is expected to offer new opportunities to process high-dimensional data efficiently by exploiting the exponentially large state space of quantum systems. In this work, we apply quantum extreme reservoir computing (QERC) to the classification of microstructure images of polymer alloys generated using self-consistent field theory (SCFT). While previous QML efforts have primarily focused on benchmark datasets such as MNIST, our work demonstrates the applicability of QERC to engineering data with direct materials relevance. Through numerical experiments, we examine…
-
-## 8. Integrating Quantum Software Tools with(in) MLIR
-
-- arXiv: `2601.02062v1`
-- Published: 2026-01-05 12:38 UTC
-- Authors: Patrick Hopf, Erick Ochoa Lopez, Yannick Stade, Damian Rovara, Nils Quetschlich, Ioan Albert Florea et al.
-- Categories: quant-ph, cs.SE
-- Links: [abs](https://arxiv.org/abs/2601.02062v1) | [pdf](https://arxiv.org/pdf/2601.02062v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Compilers transform code into action. They convert high-level programs into executable hardware instructions - a crucial step in enabling reliable and scalable quantum computation. However, quantum compilation is still in its infancy, and many existing solutions are ad hoc, often developed independently and from scratch. The resulting lack of interoperability leads to significant missed potential, as quantum software tools remain isolated and cannot be seamlessly integrated into cohesive toolchains. The Multi-Level Intermediate Representation (MLIR) has addressed analogous challenges in the…
-
-## 9. Absolutely Maximal Contextual Correlations
-
-- arXiv: `2601.02009v1`
-- Published: 2026-01-05 11:18 UTC
-- Authors: Nripendra Majumdar, S. Aravinda
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.02009v1) | [pdf](https://arxiv.org/pdf/2601.02009v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-The foundational work by Bell led to an interest in understanding non-local correlations that arise from entangled states shared between distinct, spacelike-separated parties, which formed a foundation for the theory of quantum information processing. We investigate the question of maximal correlations analogous to the maximally entangled states defined in the entanglement theory of multipartite systems. To formalize this, we employ the sheaf-theoretic framework for contextuality, which generalizes non-locality. This provides a new metric for correlations called contextual fraction (CF),…
-
-## 10. A Survey of Bargmann Invariants: Geometric Foundations and Applications
-
-- arXiv: `2601.01858v1`
-- Published: 2026-01-05 07:36 UTC
-- Authors: Lin Zhang, Bing Xie
-- Categories: quant-ph, math-ph, math.FA
-- Links: [abs](https://arxiv.org/abs/2601.01858v1) | [pdf](https://arxiv.org/pdf/2601.01858v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Bargmann invariants, a class of gauge-invariant quantities arising from the overlaps of quantum state vectors, provide a profound and unifying framework for understanding the geometric structure of quantum mechanics. This survey offers a comprehensive overview of Bargmann invariants, with a particular focus on their role in shaping the informational geometry of the state space. The core of this review demonstrates how these invariants serve as a powerful tool for characterizing the intrinsic geometry of the space of quantum states, leading to applications in determining local unitary…
-
-## 11. Quantum Interaction Between Free Electrons and Light Involving First-order and Second-order Process
-
-- arXiv: `2601.01846v1`
-- Published: 2026-01-05 07:19 UTC
-- Authors: Hongteng Lin, Xiaotong Xiong, Junjie Liu, Yidong Huang, Fang Liu
-- Categories: quant-ph, physics.optics
-- Links: [abs](https://arxiv.org/abs/2601.01846v1) | [pdf](https://arxiv.org/pdf/2601.01846v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Photon-induced Near-field Electron Microscopy (PINEM) effect has revealed the quantum interaction between free electrons and optical near filed, which demonstrated plenty of novel phenomena of manipulating free electron wave packet and detecting/shaping quantum photonic states. However, free electrons generally only absorb/emit one photon at a time, while the physical mechanism and phenomena of free electron-two-photon interaction have not been studied yet. Moreover, the relationship between PINEM and Kapitza-Dirac (KD) effect and nonlinear Compton scattering is still unclear. Here we develop…
+Spatial prediction of reservoir parameters, especially permeability, is crucial for oil and gas exploration and development. However, the wide range and high variability of permeability prevent existing methods from providing reliable predictions. For the first time in subsurface spatial prediction, this study presents a quantum-enhanced long short-term memory with attention (QLSTMA) model that incorporates variational quantum circuits (VQCs) into the recurrent cell. Using quantum entanglement and superposition principles, the QLSTMA significantly improves the ability to predict complex…
