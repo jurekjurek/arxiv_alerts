@@ -1,113 +1,185 @@
 # arXiv alert report
 
-- Generated: 2026-01-13 05:47 UTC
-- Window: papers published since 2026-01-12 05:47 UTC
-- Matches: 9
+- Generated: 2026-01-14 05:47 UTC
+- Window: papers published since 2026-01-13 05:47 UTC
+- Matches: 15
 
-## 1. Fault-tolerant modular quantum computing with surface codes using single-shot emission-based hardware
+## 1. The Quantum Complexity of String Breaking in the Schwinger Model
 
-- arXiv: `2601.07241v1`
-- Published: 2026-01-12 06:23 UTC
-- Authors: Siddhant Singh, Rikiya Kashiwagi, Kazufumi Tanji, Wojciech Roga, Daniel Bhatti, Masahiro Takeoka et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.07241v1) | [pdf](https://arxiv.org/pdf/2601.07241v1)
+- arXiv: `2601.08825v1`
+- Published: 2026-01-13 18:57 UTC
+- Authors: Sebastian Grieninger, Martin J. Savage, Nikita A. Zemlevskiy
+- Categories: hep-ph, hep-lat, hep-th, nucl-th, quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.08825v1) | [pdf](https://arxiv.org/pdf/2601.08825v1)
 - Score: 5
-- Keyword hits: title=['quantum computing'] abstract=['quantum computing', 'entanglement']
+- Keyword hits: title=['Schwinger model'] abstract=['Schwinger model', 'entanglement']
 
-Fault-tolerant modular quantum computing requires stabilizer measurements across the modules in a quantum network. For this, entangled states of high quality and rate must be distributed. Currently, two main types of entanglement distribution protocols exist, namely emission-based and scattering-based, each with its own advantages and drawbacks. On the one hand, scattering-based protocols with cavities or waveguides are fast but demand stringent hardware such as high-efficiency integrated circulators or strong waveguide coupling. On the other hand, emission-based platforms are experimentally…
+String breaking, the process by which flux tubes fragment into hadronic states, is a hallmark of confinement in strongly-interacting quantum field theories. We examine a suite of quantum complexity measures using Matrix Product States to dissect the string breaking process in the 1+1D Schwinger model. We demonstrate the presence of nonlocal quantum correlations along the string that may affect fragmentation dynamics, and show that entanglement and magic offer complementary perspectives on string formation and breaking beyond conventional observables.
 
-## 2. Mechanical Resonator-based Quantum Computing
+## 2. Superadditivity of Krylov Complexity for Tensor Products
 
-- arXiv: `2601.07825v1`
-- Published: 2026-01-12 18:58 UTC
-- Authors: Yu Yang, Igor Kladaric, Martynas Skrabulis, Michael Eichenberger, Stefano Marti, Simon Storz et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.07825v1) | [pdf](https://arxiv.org/pdf/2601.07825v1)
+- arXiv: `2601.08723v1`
+- Published: 2026-01-13 16:48 UTC
+- Authors: Jeff Murugan, Hendrik J. R. van Zyl
+- Categories: hep-th, quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.08723v1) | [pdf](https://arxiv.org/pdf/2601.08723v1)
 - Score: 4
-- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
+- Keyword hits: title=['krylov'] abstract=['krylov']
 
-Hybrid quantum systems combine the unique advantages of different physical platforms with the goal of realizing more powerful and practical quantum information processing devices. Mechanical systems, such as bulk acoustic wave resonators, feature a large number of highly coherent harmonic modes in a compact footprint, which complements the strong nonlinearities and fast operation times of superconducting quantum circuits. Here, we demonstrate an architecture for mechanical resonator-based quantum computing, in which a superconducting qubit is used to perform quantum gates on a collection of…
+We study Krylov complexity for quantum systems whose Hamiltonians factorise as tensor products. We prove that complexity is superadditive under tensor products, $C_{12}\ge C_1+C_2$, and identify a positive operator that quantifies the resulting excess complexity. The underlying mechanism is made transparent by introducing a Krylov graph representation in which tensor products generate a higher-dimensional lattice whose diagonal shells encode operator growth and binomial path multiplicities. In the continuum limit, Krylov dynamics reduces to diffusion on this graph, with superadditivity…
 
-## 3. Bright Source of High-Dimensional Temporal Entanglement
+## 3. Entanglement-swapping measurements for deterministic entanglement distribution
 
-- arXiv: `2601.07678v1`
-- Published: 2026-01-12 16:07 UTC
-- Authors: Dorian Schiffer, Robert Kindler, Alexandra Bergmayr-Mann, Florian Kanitschar, Amin Babazadeh, Paul Erker et al.
+- arXiv: `2601.08581v1`
+- Published: 2026-01-13 14:04 UTC
+- Authors: Mir Alimuddin, Jaemin Kim, Acín, Leonardo Zambrano
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.07678v1) | [pdf](https://arxiv.org/pdf/2601.07678v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-High-dimensional entanglement is considered to hold great potential for quantum key distribution (QKD) in high-loss and -noise scenarios. To harness its robustness, we construct a source for high-dimensional time-bin entangled photons optimized for high brightness, low complexity, and long-term stability. We certify the generated high-dimensional entanglement with a new witness employing nested Franson interferometry. Finally, we obtain key rates using a novel, noise-resilient QKD protocol. Our flexible evaluation method, centered around discretizations of the time stream, enables the same…
-
-## 4. Thermodynamic Recycling in Quantum Computing: Demonstration Using the Harrow-Hassidim-Lloyd Algorithm and Information Erasure
-
-- arXiv: `2601.07522v1`
-- Published: 2026-01-12 13:25 UTC
-- Authors: Nobumasa Ishida, Yoshihiko Hasegawa
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.07522v1) | [pdf](https://arxiv.org/pdf/2601.07522v1)
-- Score: 4
-- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
-
-Branch selection, including postselection, is a standard method for implementing nonunitary transformations in quantum algorithms. Conventionally, states associated with unsuccessful branches are discarded and treated as useless. Here we propose a generic framework that reuses these failure branches as thermodynamic resources. The central element is an athermal bath that is naturally generated during the reset of a failure branch. By coupling this bath to a target system prior to relaxation, useful thermodynamic tasks can be performed, enabling performance beyond conventional thermodynamic…
-
-## 5. Scalable Certification of Entanglement in Quantum Networks
-
-- arXiv: `2601.07427v1`
-- Published: 2026-01-12 11:19 UTC
-- Authors: Jing-Tao Qiu, D. M. Tong, Xiao-Dong Yu
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.07427v1) | [pdf](https://arxiv.org/pdf/2601.07427v1)
+- Links: [abs](https://arxiv.org/abs/2601.08581v1) | [pdf](https://arxiv.org/pdf/2601.08581v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Quantum networks form the backbone of long-distance quantum information processing. Genuine multipartite entanglement (GME) serves as a key indicator of network performance and overall state quality. However, the widely used methods for certifying GME suffer from a major drawback that they either detect only a limited range of states or are applicable only to systems with a small number of parties. To overcome these limitations, we propose a family of sub-symmetric witnesses (SSWs), which are tractable both theoretically and experimentally. Analytically, we establish a connection between SSWs…
+Entanglement swapping is a key primitive for distributing entanglement across nodes in quantum networks. In standard protocols, the outcome of the intermediate measurement determines the resulting state, making the process inherently probabilistic and requiring postselection. In this work, we fully characterize those measurements under which entanglement swapping becomes deterministic: for arbitrary pure inputs, every measurement outcome produces local-unitarily equivalent states. We also show that an optimal measurement, maximizing a concurrence-type entanglement measure, is built from…
 
-## 6. TrackHHL: The 1-Bit Quantum Filter for particle trajectory reconstruction
+## 4. A dataflow programming framework for linear optical distributed quantum computing
 
-- arXiv: `2601.07766v1`
-- Published: 2026-01-12 17:49 UTC
-- Authors: Xenofon Chiotopoulos, Davide Nicotra, George Scriven, Kurt Driessens, Marcel Merk, Jochen Schütz et al.
-- Categories: quant-ph, hep-ex
-- Links: [abs](https://arxiv.org/abs/2601.07766v1) | [pdf](https://arxiv.org/pdf/2601.07766v1)
+- arXiv: `2601.08389v1`
+- Published: 2026-01-13 09:57 UTC
+- Authors: Giovanni de Felice, Boldizsár Poór, Cole Comfort, Lia Yeh, Mateusz Kupper, William Cashman et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.08389v1) | [pdf](https://arxiv.org/pdf/2601.08389v1)
+- Score: 4
+- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
+
+Photonic systems offer a promising platform for interconnecting quantum processors and enabling scalable, networked architectures. Designing and verifying such architectures requires a unified formalism that integrates linear algebraic reasoning with probabilistic and control-flow structures. In this work, we introduce a graphical framework for distributed quantum computing that brings together linear optics, the ZX-calculus, and dataflow programming. Our language supports the formal analysis and optimization of distributed protocols involving both qubits and photonic modes, with explicit…
+
+## 5. Verification of continuous variable entanglement with undetected photons
+
+- arXiv: `2601.08364v1`
+- Published: 2026-01-13 09:22 UTC
+- Authors: Sanjukta Kundu, Balakrishnan Viswanathan, Pawel Szczypkowski, Gabriela Barreto Lemos, Mayukh Lahiri, Radek Lapkiewicz
+- Categories: quant-ph, physics.optics
+- Links: [abs](https://arxiv.org/abs/2601.08364v1) | [pdf](https://arxiv.org/pdf/2601.08364v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+We verify transverse spatial entanglement of photon-pairs generated in spontaneous parametric down conversion using a nonlinear interferometric technique without relying on any coincidence detection. We experimentally demonstrate the violation of the Einstein-Podolsky-Rosen criterion and of the Mancini-Giovannetti-Vitali-Tombesi criterion using single photon interference of one of the photons of the pairs. We also provide a comprehensive theoretical analysis. The experimental results that we have obtained show good agreement with the theoretical values. Our method performs well under…
+
+## 6. Quantum Computing -- Strategic Recommendations for the Industry
+
+- arXiv: `2601.08578v1`
+- Published: 2026-01-13 13:58 UTC
+- Authors: Marvin Erdmann, Lukas Karch, Abhishek Awasthi, Caitlin Isobel Jones, Pallavi Bhardwaj, Florian Krellner et al.
+- Categories: quant-ph, cs.ET
+- Links: [abs](https://arxiv.org/abs/2601.08578v1) | [pdf](https://arxiv.org/pdf/2601.08578v1)
+- Score: 3
+- Keyword hits: title=['quantum computing'] abstract=[]
+
+This whitepaper surveys the current landscape and short- to mid-term prospects for quantum-enabled optimization and machine learning use cases in industrial settings. Grounded in the QCHALLenge program, it synthesizes hardware trajectories from different quantum architectures and providers, and assesses their maturity and potential for real-world use cases under a standardized traffic-light evaluation framework. We provide a concise summary of relevant hardware roadmaps, distinguishing superconducting and ion-trap technologies, their current states, modalities, and projected scaling…
+
+## 7. Single-Period Floquet Control of Bosonic Codes with Quantum Lattice Gates
+
+- arXiv: `2601.08782v1`
+- Published: 2026-01-13 18:14 UTC
+- Authors: Tangyou Huang, Lei Du, Lingzhen Guo
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.08782v1) | [pdf](https://arxiv.org/pdf/2601.08782v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-The transition to the High-Luminosity Large Hadron Collider (HL-LHC) presents a computational challenge where particle reconstruction complexity may outpace classical computing resources. While quantum computing offers potential speedups, standard algorithms like Harrow-Hassidim-Lloyd (HHL) require prohibitive circuit depths for near-term hardware. Here, we introduce the 1-Bit Quantum Filter, a domain-specific adaptation of HHL that reformulates tracking from matrix inversion to binary ground-state filtering. By replacing high-precision phase estimation with a single-ancilla spectral…
+Bosonic codes constitute a promising route to fault-tolerant quantum computing. {Existing Floquet protocols enable analytical construction of bosonic codes but typically rely on slow adiabatic ramps with thousands of driving periods.} In this work, we circumvent this bottleneck by introducing an analytical and deterministic Floquet method that directly synthesizes arbitrary unitaries within a single period. The phase-space unitary ensembles generated by our approach reproduce the Haar-random statistics, enabling practical pseudorandom unitaries in continuous-variable systems. We prepare…
 
-## 7. Assembly to Quantum Compiler
+## 8. A Novel Approach to Explainable AI with Quantized Active Ingredients in Decision Making
 
-- arXiv: `2601.07706v1`
-- Published: 2026-01-12 16:39 UTC
-- Authors: Andrew Haverly, Shahram Rahimi, Mark A. Novotny
+- arXiv: `2601.08733v1`
+- Published: 2026-01-13 17:06 UTC
+- Authors: A. M. A. S. D. Alagiyawanna, Asoka Karunananda, Thushari Silva, A. Mahasinghe
+- Categories: cs.LG, quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.08733v1) | [pdf](https://arxiv.org/pdf/2601.08733v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Artificial Intelligence (AI) systems have shown good success at classifying. However, the lack of explainability is a true and significant challenge, especially in high-stakes domains, such as health and finance, where understanding is paramount. We propose a new solution to this challenge: an explainable AI framework based on our comparative study with Quantum Boltzmann Machines (QBMs) and Classical Boltzmann Machines (CBMs). We leverage principles of quantum computing within classical machine learning to provide substantive transparency around decision-making. The design involves training…
+
+## 9. Phase-sensitive superposition of quantum states
+
+- arXiv: `2601.08579v1`
+- Published: 2026-01-13 14:00 UTC
+- Authors: Xiaotong Wang, Shunlong Luo, Yue Zhang
 - Categories: quant-ph, math-ph
-- Links: [abs](https://arxiv.org/abs/2601.07706v1) | [pdf](https://arxiv.org/pdf/2601.07706v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-This research presents a novel approach in quantum computing by transforming ARM assembly instructions for use in quantum algorithms. The core achievement is the development of a method to directly map the ARM assembly language, a staple in classical computing, to quantum computing paradigms. The practical application of this methodology is demonstrated through the computation of the Fibonacci sequence. This example serves to validate the approach and underscores its potential in simplifying quantum algorithms. Grover's Algorithm was realized through the use of quantum-specific instructions.…
-
-## 8. Beyond Entangled Planning: Task-Decoupled Planning for Long-Horizon Agents
-
-- arXiv: `2601.07577v1`
-- Published: 2026-01-12 14:30 UTC
-- Authors: Yunfan Li, Bingbing Xu, Xueyun Tian, Xiucheng Xu, Huawei Shen
-- Categories: cs.AI
-- Links: [abs](https://arxiv.org/abs/2601.07577v1) | [pdf](https://arxiv.org/pdf/2601.07577v1)
+- Links: [abs](https://arxiv.org/abs/2601.08579v1) | [pdf](https://arxiv.org/pdf/2601.08579v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Recent advances in large language models (LLMs) have enabled agents to autonomously execute complex, long-horizon tasks, yet planning remains a primary bottleneck for reliable task execution. Existing methods typically fall into two paradigms: step-wise planning, which is reactive but often short-sighted; and one-shot planning, which generates a complete plan upfront yet is brittle to execution errors. Crucially, both paradigms suffer from entangled contexts, where the agent must reason over a monolithic history spanning multiple sub-tasks. This entanglement increases cognitive load and lets…
+Although the principle of superposition lies at the heart of quantum mechanics and is the root of almost all quantum phenomena such as coherence and entanglement, its quantification, except for that related to the resource theory of coherence and interference, remains relatively less studied. In this work, we address quantification of superposition from an information-theoretic perspective. We introduce a family of quantifiers of superposition, the phase-sensitive superposition, by taking into account the phases of amplitudes in the superposition of a fixed basis states (e.g., computational…
 
-## 9. Heavy hadron spectrum from 2+1+1 flavor MILC lattices
+## 10. MultiQ: Multi-Programming Neutral Atom Quantum Architectures
 
-- arXiv: `2601.07360v1`
-- Published: 2026-01-12 09:36 UTC
-- Authors: Sabiar Shaikh, Protick Mohanta, M. Padmanath, Subhasish Basak
-- Categories: hep-lat
-- Links: [abs](https://arxiv.org/abs/2601.07360v1) | [pdf](https://arxiv.org/pdf/2601.07360v1)
+- arXiv: `2601.08504v1`
+- Published: 2026-01-13 12:40 UTC
+- Authors: Francisco Romão, Daniel Vonk, Emmanuil Giortamis, Pramod Bhatotia
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.08504v1) | [pdf](https://arxiv.org/pdf/2601.08504v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['wilson']
+- Keyword hits: title=[] abstract=['quantum computing']
 
-We study the mass spectra and various mass differences of heavy hadrons containing one or more bottom quarks using MILC's $N_f = 2+1+1$ HISQ gauge ensembles at three lattice spacings. For the valence quarks, we employ a combination of lattice actions: the NRQCD action is used for bottom quarks, the anisotropic Clover action for charm quarks, and the $O(a)$-improved Wilson--Clover action for strange and lighter (up/down) quarks. Heavy hadron operators with at least one bottom quark are constructed by considering all possible combinations with charm, strange, and light quarks corresponding to…
+Neutral atom Quantum Processing Units (QPUs) are emerging as a popular quantum computing technology due to their large qubit counts and flexible connectivity. However, performance challenges arise as large circuits experience significant fidelity drops, while small circuits underutilize hardware and face initialization latency issues. To tackle these problems, we propose $\textit{multi-programming on neutral atom QPUs}$, allowing the co-execution of multiple circuits by logically partitioning the qubit array. This approach increases resource utilization and mitigates initialization latency…
+
+## 11. Temporal Fusion Nexus: A task-agnostic multi-modal embedding model for clinical narratives and irregular time series in post-kidney transplant care
+
+- arXiv: `2601.08503v1`
+- Published: 2026-01-13 12:38 UTC
+- Authors: Aditya Kumar, Simon Rauch, Mario Cypko, Marcel Naik, Matthieu-P Schapranow, Aadil Rashid et al.
+- Categories: cs.LG, cs.AI
+- Links: [abs](https://arxiv.org/abs/2601.08503v1) | [pdf](https://arxiv.org/pdf/2601.08503v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+We introduce Temporal Fusion Nexus (TFN), a multi-modal and task-agnostic embedding model to integrate irregular time series and unstructured clinical narratives. We analysed TFN in post-kidney transplant (KTx) care, with a retrospective cohort of 3382 patients, on three key outcomes: graft loss, graft rejection, and mortality. Compared to state-of-the-art model in post KTx care, TFN achieved higher performance for graft loss (AUC 0.96 vs. 0.94) and graft rejection (AUC 0.84 vs. 0.74). In mortality prediction, TFN yielded an AUC of 0.86. TFN outperformed unimodal baselines (approx 10% AUC…
+
+## 12. Toolchain for shuttling trapped-ion qubits in segmented traps
+
+- arXiv: `2601.08495v1`
+- Published: 2026-01-13 12:29 UTC
+- Authors: Andreas Conta, Santiago Bogino, Frodo Köhncke, Ferdinand Schmidt-Kaler, Ulrich Poschinger
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.08495v1) | [pdf](https://arxiv.org/pdf/2601.08495v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Scalable trapped-ion quantum computing requires fast and reliable transport of ions through complex, segmented radiofrequency trap architectures without inducing excessive motional excitation. We present a numerical toolchain for the systematic generation of time-dependent electrode voltages enabling fast, low-excitation ion shuttling in segmented radiofrequency traps. Based on a model of the trap electrode geometry, the framework combines an electrostatic field solver, efficient unconstrained optimization, waveform postprocessing, and dynamical simulations of ion motion to compute voltage…
+
+## 13. On-chip semi-device-independent quantum random number generator exploiting contextuality
+
+- arXiv: `2601.08392v1`
+- Published: 2026-01-13 09:59 UTC
+- Authors: Maddalena Genzini, Caterina Vigliar, Mujtaba Zahidy, Hamid Tebyanian, Andrzej Gajda, Klaus Petermann et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.08392v1) | [pdf](https://arxiv.org/pdf/2601.08392v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+We present a semi-device-independent quantum random number generator (QRNG) based on the violation of a contextuality inequality, implemented by the integration of two silicon photonic chips. Our system combines a heralded single-photon source with a reconfigurable interferometric mesh to implement qutrit state preparation, transformations, and measurements suitable for testing a KCBS contextuality inequality. This architecture enables the generation of random numbers from the intrinsic randomness of single-photon interference in a complex optical network, while simultaneously allowing a…
+
+## 14. PosIR: Position-Aware Heterogeneous Information Retrieval Benchmark
+
+- arXiv: `2601.08363v1`
+- Published: 2026-01-13 09:22 UTC
+- Authors: Ziyang Zeng, Dun Zhang, Yu Yan, Xu Sun, Yudong Zhou, Yuqing Yang
+- Categories: cs.IR, cs.CL
+- Links: [abs](https://arxiv.org/abs/2601.08363v1) | [pdf](https://arxiv.org/pdf/2601.08363v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+While dense retrieval models have achieved remarkable success, rigorous evaluation of their sensitivity to the position of relevant information (i.e., position bias) remains largely unexplored. Existing benchmarks typically employ position-agnostic relevance labels, conflating the challenge of processing long contexts with the bias against specific evidence locations. To address this challenge, we introduce PosIR (Position-Aware Information Retrieval), a comprehensive benchmark designed to diagnose position bias in diverse retrieval scenarios. PosIR comprises 310 datasets spanning 10…
+
+## 15. Efficient and broadband quantum frequency comb generation in a monolithic AlGaAs-on-insulator microresonator
+
+- arXiv: `2601.08289v1`
+- Published: 2026-01-13 07:30 UTC
+- Authors: Xiaodong Zheng, Xu Jing, Chenbo Liu, Yufu Li, Runqiu He, Lina Xia et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.08289v1) | [pdf](https://arxiv.org/pdf/2601.08289v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+The exploration of photonic systems for quantum information processing has generated widespread interest in multiple cutting-edge research fields. Photonic frequency encoding stands out as an especially viable approach, given its natural alignment with established optical communication technologies, including fiber networks and wavelength-division multiplexing systems. Substantial reductions in hardware resources and improvements in quantum performance can be expected by utilizing multiple frequency modes. The integration of nonlinear photonics with microresonators provides a compelling way…
