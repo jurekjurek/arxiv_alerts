@@ -1,137 +1,137 @@
 # arXiv alert report
 
-- Generated: 2026-01-15 05:48 UTC
-- Window: papers published since 2026-01-14 05:48 UTC
+- Generated: 2026-01-16 05:46 UTC
+- Window: papers published since 2026-01-15 05:46 UTC
 - Matches: 11
 
-## 1. Dissipative State Engineering of Complex Entanglement with Markovian Dynamics
+## 1. Quantifying the properties of evolutionary quantum states of the XXZ spin model using quantum computing
 
-- arXiv: `2601.09597v1`
-- Published: 2026-01-14 16:14 UTC
-- Authors: Manish Chaudhary
+- arXiv: `2601.10650v1`
+- Published: 2026-01-15 18:18 UTC
+- Authors: M. P. Tonne, Kh. P. Gnatenko
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.09597v1) | [pdf](https://arxiv.org/pdf/2601.09597v1)
+- Links: [abs](https://arxiv.org/abs/2601.10650v1) | [pdf](https://arxiv.org/pdf/2601.10650v1)
 - Score: 5
-- Keyword hits: title=['entanglement'] abstract=['quantum computing', 'entanglement']
+- Keyword hits: title=['quantum computing'] abstract=['quantum computing', 'entanglement']
 
-Highly multipartite entangled states play an important role in various quantum computing tasks. We investigate the dissipative generation of a complex entanglement structure as in a cluster state through engineered Markovian dynamics in the spin systems coupled via Ising interactions. Using the Lindblad master equation, we design a projection based dissipative channel that drives the system toward a unique pure steady state corresponding to the desired cluster state. This is done by removing the contribution of the orthogonal states. By explicitly constructing the Liouvillian superoperator in…
+The entanglement distance of evolutionary quantum states of a two-spin system with the XXZ model has been studied. The analysis has been conducted both analytically and using quantum computing. An analytical dependence of the entanglement distance on the values of the model coupling constants and the parameters of the initial states has been obtained. The speed of evolution of a two-spin system has been investigated. The analysis has been performed analytically and using quantum computing. An explicit dependence of the speed of evolution on the coupling constants and on the parameters of the…
 
-## 2. Spatial Wilson Loops and Energy Loss for Heavy Quarks in Magnetized HQCD Model
+## 2. Breaking the Storage-Bandwidth Tradeoff in Distributed Storage with Quantum Entanglement
 
-- arXiv: `2601.09611v1`
-- Published: 2026-01-14 16:33 UTC
-- Authors: Irina Ya. Aref'eva, Ali Hajilou, Kristina Rannu, Pavel Slepov
-- Categories: hep-th, hep-lat, hep-ph
-- Links: [abs](https://arxiv.org/abs/2601.09611v1) | [pdf](https://arxiv.org/pdf/2601.09611v1)
-- Score: 4
-- Keyword hits: title=['wilson'] abstract=['wilson']
-
-We investigate the effective potential and the string tension for the spatial Wilson loop (SWL) in hot dense QGP with two types of anisotropy, i.e. external magnetic field and spatial anisotropy, employing a holographic approach for the heavy quark model. In this approach, the string is extended in the 5th, holographic direction and has a turning point either on a dynamical wall (DW) configuration or on the horizon configuration in the 5th direction. We obtain the magnetic catalysis behavior for a phase transition between DW and horizon configuration of the string. The structure of the phase…
-
-## 3. Genuine multipartite Rains entanglement
-
-- arXiv: `2601.09590v1`
-- Published: 2026-01-14 16:04 UTC
-- Authors: Hailey S. Murray, Sagnik Bhattacharya, M. Cerezo, Liuke Lyu, Mark M. Wilde
-- Categories: quant-ph, cond-mat.stat-mech
-- Links: [abs](https://arxiv.org/abs/2601.09590v1) | [pdf](https://arxiv.org/pdf/2601.09590v1)
+- arXiv: `2601.10676v1`
+- Published: 2026-01-15 18:41 UTC
+- Authors: Lei Hu, Mohamed Nomeir, Alptug Aytekin, Sennur Ulukus
+- Categories: cs.IT, cs.DC, cs.NI, eess.SP, quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.10676v1) | [pdf](https://arxiv.org/pdf/2601.10676v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We introduce the genuine multipartite Rains entanglement (GMRE) as a measure of genuine multipartite entanglement that can be computed using semi-definite programming. Similar to the Rains relative entropy (its bipartite counterpart), the GMRE is monotone under selective quantum operations that completely preserve the positivity of the partial transpose, implying that it is a multipartite entanglement monotone. As a consequence, we show that the GMRE bounds both the one-shot standard and probabilistic approximate GHZ-distillable entanglement from above. We also develop a generalization of…
+This work investigates the use of quantum resources in distributed storage systems. Consider an $(n,k,d)$ distributed storage system in which a file is stored across $n$ nodes such that any $k$ nodes suffice to reconstruct the file. When a node fails, any $d$ helper nodes transmit information to a newcomer to rebuild the system. In contrast to the classical repair, where helper nodes transmit classical bits, we allow them to send classical information over quantum channels to the newcomer. The newcomer then generates its storage by performing appropriate measurements on the received quantum…
 
-## 4. Geometry- and Topology-Informed Quantum Computing: From States to Real-Time Control with FPGA Prototypes
+## 3. Geometric Aspects of Entanglement Generating Hamiltonian Evolutions
 
-- arXiv: `2601.09556v1`
-- Published: 2026-01-14 15:18 UTC
-- Authors: Gunhee Cho
+- arXiv: `2601.10662v1`
+- Published: 2026-01-15 18:31 UTC
+- Authors: Carlo Cafaro, James Schneeloch
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.09556v1) | [pdf](https://arxiv.org/pdf/2601.09556v1)
+- Links: [abs](https://arxiv.org/abs/2601.10662v1) | [pdf](https://arxiv.org/pdf/2601.10662v1)
 - Score: 4
-- Keyword hits: title=['quantum computing'] abstract=['entanglement']
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-This book gives a geometry-first, hardware-aware route through quantum-information workflows, with one goal: connect states, circuits, and measurement to deterministic classical pipelines that make hybrid quantum systems run. Part 1 develops the backbone (essential linear algebra, the Bloch-sphere viewpoint, differential-geometric intuition, and quantum Fisher information geometry) so evolution can be read as motion on curved spaces and measurement as statistics. Part 2 reframes circuits as dataflow graphs: measurement outcomes are parsed, aggregated, and reduced to small linear-algebra…
+We examine the pertinent geometric characteristics of entanglement that arise from stationary Hamiltonian evolutions transitioning from separable to maximally entangled two-qubit quantum states. From a geometric perspective, each evolution is characterized by means of geodesic efficiency, speed efficiency, and curvature coefficient. Conversely, from the standpoint of entanglement, these evolutions are quantified using various metrics, such as concurrence, entanglement power, and entangling capability. Overall, our findings indicate that time-optimal evolution trajectories are marked by high…
 
-## 5. Network-Based Quantum Computing: an efficient design framework for many-small-node distributed fault-tolerant quantum computing
+## 4. Exponential Analysis for Entanglement Distillation
 
-- arXiv: `2601.09374v1`
-- Published: 2026-01-14 10:58 UTC
-- Authors: Soshun Naito, Yasunari Suzuki, Yuuki Tokunaga
-- Categories: quant-ph, cs.DC
-- Links: [abs](https://arxiv.org/abs/2601.09374v1) | [pdf](https://arxiv.org/pdf/2601.09374v1)
-- Score: 4
-- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
-
-In fault-tolerant quantum computing, a large number of physical qubits are required to construct a single logical qubit, and a single quantum node may be able to hold only a small number of logical qubits. In such a case, the idea of distributed fault-tolerant quantum computing (DFTQC) is important to demonstrate large-scale quantum computation using small-scale nodes. However, the design of distributed systems on small-scale nodes, where each node can store only one or a few logical qubits for computation, has not been explored well yet. In this paper, we propose network-based quantum…
-
-## 6. Efficient State Preparation for Quantum Machine Learning
-
-- arXiv: `2601.09363v1`
-- Published: 2026-01-14 10:43 UTC
-- Authors: Chris Nakhl, Maxwell West, Muhammad Usman
+- arXiv: `2601.10190v1`
+- Published: 2026-01-15 08:46 UTC
+- Authors: Zhiwen Lin, Ke Li, Kun Fang
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.09363v1) | [pdf](https://arxiv.org/pdf/2601.09363v1)
+- Links: [abs](https://arxiv.org/abs/2601.10190v1) | [pdf](https://arxiv.org/pdf/2601.10190v1)
 - Score: 4
-- Keyword hits: title=['quantum machine learning'] abstract=['quantum machine learning']
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-One of the key considerations in the development of Quantum Machine Learning (QML) protocols is the encoding of classical data onto a quantum device. In this chapter we introduce the Matrix Product State representation of quantum systems and show how it may be used to construct circuits which encode a desired state. Putting this in the context of QML we show how this process may be modified to give a low depth approximate encoding and crucially that this encoding does not hinder classification accuracy and is indeed exhibits an increased robustness against classical adversarial attacks. This…
+Historically, the focus in entanglement distillation has predominantly been on the distillable entanglement, and the framework assumes complete knowledge of the initial state. In this paper, we study the reliability function of entanglement distillation, which specifies the optimal exponent of the decay of the distillation error when the distillation rate is below the distillable entanglement. Furthermore, to capture greater operational significance, we extend the framework from the standard setting of known states to a black-box setting, where distillation is performed from a set of possible…
 
-## 7. High-Resolution Spectroscopy of $^{173}$Yb$^{+}$ Ions
+## 5. Quantum solver for single-impurity Anderson models with particle-hole symmetry
 
-- arXiv: `2601.09585v1`
-- Published: 2026-01-14 15:54 UTC
-- Authors: J. Jiang, A. V. Viatkina, Saaswath JK, M. Steinel, M. Filzinger, E. Peik et al.
-- Categories: physics.atom-ph, hep-ex, quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.09585v1) | [pdf](https://arxiv.org/pdf/2601.09585v1)
+- arXiv: `2601.10594v1`
+- Published: 2026-01-15 17:02 UTC
+- Authors: Mariia Karabin, Tanvir Sohail, Dmytro Bykov, Eduardo Antonio Coello Pérez, Swarnava Ghosh, Murali Gopalakrishnan Meena et al.
+- Categories: quant-ph, cond-mat.mtrl-sci
+- Links: [abs](https://arxiv.org/abs/2601.10594v1) | [pdf](https://arxiv.org/pdf/2601.10594v1)
+- Score: 2
+- Keyword hits: title=[] abstract=['variational quantum eigensolver', 'vqe']
+
+Quantum embedding methods, such as dynamical mean-field theory (DMFT), provide a powerful framework for investigating strongly correlated materials. A central computational bottleneck in DMFT is in solving the Anderson impurity model (AIM), whose exact solution is classically intractable for large bath sizes. In this work, we develop and benchmark a quantum-classical hybrid solver tailored for DMFT applications, using the variational quantum eigensolver (VQE) to prepare the ground state of the AIM with shallow quantum circuits. The solver uses a unified ansatz framework to prepare the…
+
+## 6. The SpinPulse library for transpilation and noise-accurate simulation of spin qubit quantum computers
+
+- arXiv: `2601.10435v1`
+- Published: 2026-01-15 14:29 UTC
+- Authors: Benoît Vermersch, Oscar Gravier, Nathan Miscopein, Julia Guignon, Carlos Ramos Marimón, Jonathan Durandau et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2601.10435v1) | [pdf](https://arxiv.org/pdf/2601.10435v1)
+- Score: 2
+- Keyword hits: title=[] abstract=['quantum error mitigation', 'quantum computing']
+
+We introduce SpinPulse, an open-source python package for simulating spin qubit-based quantum computers at the pulse-level. SpinPulse models the specific physics of spin qubits, particularly through the inclusion of classical non-Markovian noise. This enables realistic simulations of native gates and quantum circuits, in order to support hardware development. In SpinPulse, a quantum circuit is first transpiled into the native gate set of our model and then converted to a pulse sequence. This pulse sequence is subsequently integrated numerically in the presence of a simulated noisy…
+
+## 7. Scalable Spin Squeezing in Power-Law Interacting XXZ Models with Disorder
+
+- arXiv: `2601.10703v1`
+- Published: 2026-01-15 18:55 UTC
+- Authors: Samuel E. Begg, Bishal K. Ghosh, Chong Zu, Chuanwei Zhang, Michael Kolodrubetz
+- Categories: quant-ph, cond-mat.mes-hall, cond-mat.quant-gas
+- Links: [abs](https://arxiv.org/abs/2601.10703v1) | [pdf](https://arxiv.org/pdf/2601.10703v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
+- Keyword hits: title=[] abstract=['trapped ions']
 
-Compared to other stable isotopes of $\rm{Yb}^+$, $^{173}\rm{Yb}^+$ has a richer hyperfine structure, which leads to more favorable clock transitions, spectroscopic techniques for probing new physics, and more sophisticated quantum computing architectures. However, to date, its electronic spectrum remains poorly characterized. Here, we report on efficient laser cooling, state preparation, and detection of a single trapped $^{173}\rm{Yb}^+$ ion. The previously unobserved $^2\!S_{1/2} \rightarrow {}^2\!D_{3/2}$ electric quadrupole transition at 436 nm is coherently excited, and the isotope…
+While spin squeezing has been traditionally considered in all-to-all interacting models, recent works have shown that spin squeezing can occur in systems with power-law interactions, leading to direct testing in Rydberg atoms, trapped ions, ultracold atoms and nitrogen vacancy (NV) centers in diamond. For the latter, Wu. et al. Nature 646 (2025) demonstrated that spin squeezing is heavily affected by positional disorder, reducing any capacity for a practical squeezing advantage, which requires scalability with the system size. In this Letter we explore the robustness of spin-squeezing in…
 
-## 8. Quantum properties of heavy-fermion pairs at a lepton collider with polarised beams
+## 8. Constant-Depth Unitary Preparation of Dicke States
 
-- arXiv: `2601.09558v1`
-- Published: 2026-01-14 15:28 UTC
-- Authors: Mohammad Mahdi Altakach, Priyanka Lamba, Fabio Maltoni, Kazuki Sakurai
-- Categories: hep-ph, hep-ex, hep-th, quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.09558v1) | [pdf](https://arxiv.org/pdf/2601.09558v1)
+- arXiv: `2601.10693v1`
+- Published: 2026-01-15 18:51 UTC
+- Authors: Francisca Vasconcelos, Malvika Raj Joshi
+- Categories: quant-ph, cs.CC
+- Links: [abs](https://arxiv.org/abs/2601.10693v1) | [pdf](https://arxiv.org/pdf/2601.10693v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['trapped ions']
+
+Dicke states serve as a critical resource in quantum metrology, communication, and computation. However, unitary preparation of Dicke states is limited to logarithmic depth in standard circuit models and existing constant-depth protocols require measurement and feed-forward. In this work, we present the first unitary, constant-depth protocols for exact Dicke state preparation. We overcome the logarithmic-depth barrier by moving beyond the standard circuit model and leveraging global interactions (native to architectures such as neutral atoms and trapped ions). Specifically, utilizing…
+
+## 9. H-EFT-VA: An Effective-Field-Theory Variational Ansatz with Provable Barren Plateau Avoidance
+
+- arXiv: `2601.10479v1`
+- Published: 2026-01-15 15:01 UTC
+- Authors: Eyad I. B Hamid
+- Categories: quant-ph, cs.LG, math-ph
+- Links: [abs](https://arxiv.org/abs/2601.10479v1) | [pdf](https://arxiv.org/pdf/2601.10479v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We investigate the quantum properties of heavy-fermion pairs, such as $t\bar t$ or $τ^+τ^-$, produced in lepton-lepton collisions with polarised beams. Focusing on spin correlations, entanglement, Bell-inequality violation, and quantum-information--theoretic measures such as purity and magic, we analyse how beam polarisation shapes the structure of the spin-density matrix. We derive analytic expressions for a wide range of helicity configurations, including both Standard Model contributions and generic new-physics effects parametrised by scalar, vector, and tensor four-fermion operators…
+Variational Quantum Algorithms (VQAs) are critically threatened by the Barren Plateau (BP) phenomenon. In this work, we introduce the H-EFT Variational Ansatz (H-EFT-VA), an architecture inspired by Effective Field Theory (EFT). By enforcing a hierarchical "UV-cutoff" on initialization, we theoretically restrict the circuit's state exploration, preventing the formation of approximate unitary 2-designs. We provide a rigorous proof that this localization guarantees an inverse-polynomial lower bound on the gradient variance: $Var[\partial θ] \in Ω(1/poly(N))$. Crucially, unlike approaches that…
 
-## 9. A measurement-based protocol for the generation of delocalised quantum states of a mechanical system
+## 10. Adversarial Hypothesis Testing for Quantum Channels
 
-- arXiv: `2601.09431v1`
-- Published: 2026-01-14 12:27 UTC
-- Authors: Matteo Bordin
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.09431v1) | [pdf](https://arxiv.org/pdf/2601.09431v1)
+- arXiv: `2601.10243v1`
+- Published: 2026-01-15 10:04 UTC
+- Authors: Masahito Hayashi, Hao-Chung Cheng, Li Gao
+- Categories: quant-ph, cs.IT
+- Links: [abs](https://arxiv.org/abs/2601.10243v1) | [pdf](https://arxiv.org/pdf/2601.10243v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Non-Gaussian mechanical states are a key resource for quantum-enhanced sensing and tests of macroscopic quantum physics. We propose a measurement-based protocol to herald delocalized, nonclassical states of a mechanical oscillator in cavity optomechanics by conditioning on Geiger photodetection of the optical output. We analyse under which conditions Stokes-induced optomechanical entanglement give rise to mechanical Wigner Function negativity upon detection. We develop and compare a blue-detuned pulsed scheme and a continuous-wave steady-state scheme employing temporal-mode filtering, and we…
+This paper presents a systematic study of adversarial hypothesis testing for both quantum-quantum (QQ) and classical-quantum (CQ) channels. Unlike conventional channel discrimination, we consider a framework where the sender, Alice, selects the channel input adversarially to minimize Bob's distinguishability. We analyze this problem across four settings based on whether Alice employs i.i.d. or general inputs and whether the receiver, Bob, is informed of the specific input choice (allowing his measurement to depend on the input). We characterize the Stein exponents for each setting and reveal…
 
-## 10. Sparse quantum state preparation with improved Toffoli cost
+## 11. Noise-Resilient Quantum Evolution in Open Systems through Error-Correcting Frameworks
 
-- arXiv: `2601.09388v1`
-- Published: 2026-01-14 11:28 UTC
-- Authors: Felix Rupprecht, Sabine Wölk
+- arXiv: `2601.10206v1`
+- Published: 2026-01-15 09:11 UTC
+- Authors: Nirupam Basak, Goutam Paul, Pritam Chattopadhyay
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2601.09388v1) | [pdf](https://arxiv.org/pdf/2601.09388v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-The preparation of quantum states is one of the most fundamental tasks in quantum computing, and a key primitive in many quantum algorithms. Of particular interest to areas such as quantum simulation and linear-system solvers are sparse quantum states, which contain only a small number $s$ of non-zero computational basis states compared to a generic state. In this work, we present an approach that prepares $s$-sparse states on $n$ qubits, reducing the number of Toffoli gates required compared to prior art. We work in the established framework of first preparing a dense state on a…
-
-## 11. Eigenstate Thermalization and Spectral Imprints of the Hamiltonian in Local Observables
-
-- arXiv: `2601.09340v1`
-- Published: 2026-01-14 10:15 UTC
-- Authors: Shivam Mishra, C Jisha, Ravi Prakash
-- Categories: quant-ph, cond-mat.stat-mech, nlin.CD
-- Links: [abs](https://arxiv.org/abs/2601.09340v1) | [pdf](https://arxiv.org/pdf/2601.09340v1)
+- Links: [abs](https://arxiv.org/abs/2601.10206v1) | [pdf](https://arxiv.org/pdf/2601.10206v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-The Eigenstate Thermalization Hypothesis explains thermalization in isolated quantum systems through the statistical properties of observables in the energy eigenbasis. We investigate the crossover from integrability to chaos in the spin-$1/2$ XXZ chain, establishing a direct correspondence between the spectral correlations of the Hamiltonian and local observables expressed in the energy eigenbasis as a signature of ergodicity breaking. By introducing a local perturbation that drives the system from integrability to chaos, we track the standard ETH indicators and the eigenstate entanglement…
+We analyze quantum state preservation in open quantum systems using quantum error-correcting (QEC) codes that are explicitly embedded into microscopic system-bath models. Instead of abstract quantum channels, we consider multi-qubit registers coupled to bosonic thermal environments, derive a second-order master equation for the reduced dynamics, and use it to benchmark the five-qubit, Steane, and toric codes under local and collective noise. We compute state fidelities for logical qubits as functions of coupling strength, bath temperature, and the number of correction cycles. In the…
