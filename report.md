@@ -1,197 +1,161 @@
 # arXiv alert report
 
-- Generated: 2026-02-05 06:14 UTC
-- Window: papers published since 2026-02-04 06:14 UTC
-- Matches: 16
+- Generated: 2026-02-06 06:11 UTC
+- Window: papers published since 2026-02-05 06:11 UTC
+- Matches: 13
 
-## 1. Quantifying the Operational Cost of Multipartite Entanglement
+## 1. Improving Ground State Accuracy of Variational Quantum Eigensolvers with Soft-coded Orthogonal Subspace Representations
 
-- arXiv: `2602.04760v1`
-- Published: 2026-02-04 16:58 UTC
-- Authors: Francois Payn, Michele Minervini, Davide Girolami
+- arXiv: `2602.05980v1`
+- Published: 2026-02-05 18:28 UTC
+- Authors: Giuseppe Clemente, Marco Intini
+- Categories: quant-ph, hep-lat
+- Links: [abs](https://arxiv.org/abs/2602.05980v1) | [pdf](https://arxiv.org/pdf/2602.05980v1)
+- Score: 5
+- Keyword hits: title=['variational quantum eigensolver'] abstract=['variational quantum eigensolver', 'vqe']
+
+We propose a new approach to improve the accuracy of ground state estimates in Variational Quantum Eigensolver (VQE) algorithms by employing subspace representations with soft-coded orthogonality constraints. As in other subspace-based VQE methods, such as the Subspace-Search VQE (SSVQE) and Multistate Contracted VQE (MCVQE), once the parameters are optimized to maximize the subspace overlap with the low-energy sector of the Hamiltonian, one diagonalizes the Hamiltonian restricted to the subspace. Unlike these methods, where \emph{hard-coded} orthogonality constraints are enforced at the…
+
+## 2. Quantum Error Mitigation at the pre-processing stage
+
+- arXiv: `2602.05916v1`
+- Published: 2026-02-05 17:30 UTC
+- Authors: Juan F. Martin, Giuseppe Cocco, Javier Fonollosa
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.04760v1) | [pdf](https://arxiv.org/pdf/2602.04760v1)
+- Links: [abs](https://arxiv.org/abs/2602.05916v1) | [pdf](https://arxiv.org/pdf/2602.05916v1)
 - Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
+- Keyword hits: title=['quantum error mitigation'] abstract=['quantum error mitigation']
 
-Multipartite entanglement determines the strength and range of interactions in many-body quantum systems. Yet, it is hard to evaluate it, due to the complex structures of quantum states. Here, we introduce a generic method to quantify the k <= N-partite entanglement of an N-particle system, by maximizing an arbitrary bipartite entanglement measure within subsystems of size up to k. The resulting classification of multipartite states captures their experimental cost: creating a k-partite entangled state requires at least k-1 two-particle entangling gates. Further, we analytically calculate the…
+The realization of fault-tolerant quantum computers remains a challenging endeavor, forcing state-of-the-art quantum hardware to rely heavily on noise mitigation techniques. Standard quantum error mitigation is typically based on post-processing strategies. In contrast, the present work explores a pre-processing approach, in which the effects of noise are mitigated before performing a measurement on the output state. The main idea is to find an observable $Y$ such that its expectation value on a noisy quantum state $\mathcal{E(ρ)}$ matches the expectation value of a target observable $X$ on…
 
-## 2. Entanglement improves coordination in distributed systems
+## 3. Efficient implementation of arbitrary Hermitian-preserving and trace-preserving maps
 
-- arXiv: `2602.04588v1`
-- Published: 2026-02-04 14:14 UTC
-- Authors: Francisco Ferreira da Silva, Stephanie Wehner
-- Categories: quant-ph, cs.DC
-- Links: [abs](https://arxiv.org/abs/2602.04588v1) | [pdf](https://arxiv.org/pdf/2602.04588v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-Coordination in distributed systems is often hampered by communication latency, which degrades performance. Quantum entanglement offers fundamentally stronger correlations than classically achievable without communication. Crucially, these correlations manifest instantaneously upon measurement, irrespective of the physical distance separating the systems. We investigate the application of shared entanglement to a dual-work optimization problem in a distributed system comprising two servers. The system must process both a continuously available, preemptible baseline task and incoming customer…
-
-## 3. Effect of initial intrasystem entanglement on entropy growth in generalized Jaynes-Cummings models
-
-- arXiv: `2602.04543v1`
-- Published: 2026-02-04 13:34 UTC
-- Authors: Daria Gaidukevich
+- arXiv: `2602.05777v1`
+- Published: 2026-02-05 15:37 UTC
+- Authors: Weizhou Cai, Zi-Jie Chen, Xuanqiang Zhao, Xin Wang, Guang-Can Guo, Luyan Sun et al.
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.04543v1) | [pdf](https://arxiv.org/pdf/2602.04543v1)
+- Links: [abs](https://arxiv.org/abs/2602.05777v1) | [pdf](https://arxiv.org/pdf/2602.05777v1)
 - Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
+- Keyword hits: title=[] abstract=['quantum error mitigation', 'quantum machine learning', 'quantum computing', 'entanglement']
 
-We investigate how initial intrasystem entanglement influences the entropy generated in atomic systems interacting with a photonic environment in several generalizations of the Jaynes-Cummings model with two or more subsystems. Since the initial entanglement does not uniquely determine the final entropy, we focus on ensemble-averaged behavior. We consider ensembles of initial system states including pure and mixed Haar-random states, ensembles with fixed average energy or fixed mixedness, and varying initial photon numbers in the environment. In all cases, we observe a positive correlation…
+Quantum control has been a cornerstone of quantum information science, driving major advances in quantum computing, quantum communication, and quantum sensing. Over the years, it has enabled the implementation of arbitrary completely positive and trace-preserving (CPTP) maps; an important next step is to extend control to Hermitian-preserving and trace-preserving (HPTP) maps, which underpin applications such as entanglement detection, quantum error mitigation, quantum simulation, and quantum machine learning. Here we present an efficient and fully constructive method for implementing…
 
-## 4. Probing Instanton Dynamics in the Pion Vector Form Factor with Wilson Flow
+## 4. Local measurements and the entanglement transition in quantum spin chains
 
-- arXiv: `2602.04409v1`
-- Published: 2026-02-04 10:39 UTC
-- Authors: Vaibhav Chahar, Piotr Korcyl
-- Categories: hep-lat
-- Links: [abs](https://arxiv.org/abs/2602.04409v1) | [pdf](https://arxiv.org/pdf/2602.04409v1)
-- Score: 4
-- Keyword hits: title=['wilson'] abstract=['wilson']
-
-Instanton liquid model is believed to capture the main features of vacuum QCD dynamics. Recently, multiple predictions for hadron structure functions have been derived and compared with experimental measurements and lattice QCD calculations, finding a general agreement. In order to explore the precision of the instanton liquid model, one has to compare its predictions with non-perturbative simulations in a regime dominated by instanton dynamics. This has been performed for two gluon-sensitive observables: the gluon Green's function and the strong running coupling constant. In this…
-
-## 5. Low resource entanglement classification from neural network interpretability
-
-- arXiv: `2602.04366v1`
-- Published: 2026-02-04 09:42 UTC
-- Authors: A. García-Velo, R. Puebla, Y. Ban, E. Torrontegui, M. Paraschiv
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.04366v1) | [pdf](https://arxiv.org/pdf/2602.04366v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-Entanglement is a central resource in quantum information and quantum technologies, yet its characterization remains challenging due to both theoretical complexity and measurement requirements. Machine learning has emerged as a promising alternative, enabling entanglement characterization from incomplete measurement data, however model interpretability remains a challenge. In this work, we introduce a unified and interpretable framework for SLOCC entanglement classification of two- and three-qubit states, encompassing both pure and mixed states. We train dense and convolutional neural…
-
-## 6. Does the entropy of systems with larger internal entanglement grow stronger?
-
-- arXiv: `2602.04345v1`
-- Published: 2026-02-04 09:14 UTC
-- Authors: Daria Gaidukevich
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.04345v1) | [pdf](https://arxiv.org/pdf/2602.04345v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-It is known that when a system interacts with its environment, the entanglement contained in the system is redistributed since parts of the system entangle with the environment. On the other hand, the entanglement of a system with its environment is closely related to the entropy of the system. However, does this imply that the entropy of systems with larger internal entanglement will grow stronger? We study the issue using the simplest model as an example: a system of qubits interacts with the environment described by the quantum harmonic oscillator. The answer to the posed question is…
-
-## 7. A Quantum Computing Framework for VLBI Data Correlation
-
-- arXiv: `2602.04269v1`
-- Published: 2026-02-04 06:59 UTC
-- Authors: Lei Liu
-- Categories: astro-ph.IM, quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.04269v1) | [pdf](https://arxiv.org/pdf/2602.04269v1)
-- Score: 4
-- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
-
-We present a quantum computing framework for VLBI data correlation. We point out that a classical baseband time series data of length $N$ can be embedded into a quantum superposition state using amplitude encoding with only $\log_2 N$ qubits. The basic VLBI correlation and fringe fitting operations, including fringe rotation, Fourier transform, delay compensation, and cross correlation, can be implemented via quantum algorithms with significantly reduced computational complexity. We construct a full quantum processing pipeline and validate its feasibility and accuracy through direct…
-
-## 8. Pre-optimization of quantum circuits, barren plateaus and classical simulability: tensor networks to unlock the variational quantum eigensolver
-
-- arXiv: `2602.04676v1`
-- Published: 2026-02-04 15:49 UTC
-- Authors: Baptiste Anselme Martin, Thomas Ayral
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.04676v1) | [pdf](https://arxiv.org/pdf/2602.04676v1)
+- arXiv: `2602.05914v1`
+- Published: 2026-02-05 17:28 UTC
+- Authors: Sven Bachmann, Mahsa Rahnama, Gabrielle Tournaire
+- Categories: math-ph, quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.05914v1) | [pdf](https://arxiv.org/pdf/2602.05914v1)
 - Score: 3
-- Keyword hits: title=['variational quantum eigensolver'] abstract=[]
+- Keyword hits: title=['entanglement'] abstract=[]
 
-Variational quantum algorithms are practical approaches to prepare ground states, but their potential for quantum advantage remains unclear. Here, we use differentiable 2D tensor networks (TN) to optimize parameterized quantum circuits that prepare the ground state of the transverse field Ising model (TFIM). Our method enables the preparation of states with high energy accuracy, even for large systems beyond 1D. We show that TN pre-optimization can mitigate the barren plateau issue by giving access to enhanced gradient zones that do not shrink exponentially with system size. We evaluate the…
+We consider the transition between short-range entangled (SRE) and long-range ordered (and therefore long-range entangled) states of infinite quantum spin chains, which is induced by local measurements. Specifically, we assume that the initial state is in a non-trivial symmetry-protected topological phase with local symmetry group $\mathcal{G} = G \times H$, where $G$ is an Abelian subgroup. We show that the on-site measurements of the local $G$-charge on intervals of increasing lengths transform the initial SRE state into a family of states with increasingly long-range correlations. In…
 
-## 9. Review of Superconducting Qubit Devices and Their Large-Scale Integration
+## 5. Modeling integrated frequency shifters and beam splitters
 
-- arXiv: `2602.04831v1`
-- Published: 2026-02-04 18:19 UTC
-- Authors: Hiu Yung Wong
-- Categories: quant-ph, eess.SY
-- Links: [abs](https://arxiv.org/abs/2602.04831v1) | [pdf](https://arxiv.org/pdf/2602.04831v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['quantum computing', 'entanglement']
-
-The superconducting qubit quantum computer is one of the most promising quantum computing architectures for large-scale integration due to its maturity and close proximity to the well-established semiconductor manufacturing infrastructure. From an education perspective, it also bridges classical microwave electronics and quantum electrodynamics. In this paper, we will review the basics of quantum computers, superconductivity, and Josephson junctions. We then introduce important technologies and concepts related to DiVincenzo's criteria, which are the necessary conditions for the…
-
-## 10. Constructing Compact ADAPT Unitary Coupled-Cluster Ansatz with Parameter-Based Criterion
-
-- arXiv: `2602.04253v1`
-- Published: 2026-02-04 06:26 UTC
-- Authors: Runhong He, Xin Hong, Qiaozhen Chai, Ji Guan, Junyuan Zhou, Arapat Ablimit et al.
-- Categories: quant-ph, physics.chem-ph
-- Links: [abs](https://arxiv.org/abs/2602.04253v1) | [pdf](https://arxiv.org/pdf/2602.04253v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['variational quantum eigensolver', 'vqe']
-
-The adaptive derivative-assembled pseudo-trotter variational quantum eigensolver (ADAPT-VQE) is a promising hybrid quantum-classical algorithm for molecular ground state energy calculation, yet its practical scalability is hampered by redundant excitation operators and excessive measurement costs. To address these challenges, we propose Param-ADAPT-VQE, a novel improved algorithm that selects excitation operators based on a parameter-based criterion instead of the traditional gradient-based metric. This strategy effectively eludes redundant operators. We further develop a sub-Hamiltonian…
-
-## 11. Requirements for Teleportation in an Intercity Quantum Network
-
-- arXiv: `2602.04869v1`
-- Published: 2026-02-04 18:56 UTC
-- Authors: Soubhadra Maiti, Guus Avis, Sounak Kar, Stephanie Wehner
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.04869v1) | [pdf](https://arxiv.org/pdf/2602.04869v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-We investigate the hardware requirements for quantum teleportation in an intercity-scale network topology consisting of two metropolitan-scale networks connected via a long-distance backbone link. Specifically, we identify the minimal improvements required beyond the state-of-the-art to achieve an end-to-end expected teleportation fidelity of $2/3$, which represents the classical limit. To this end, we formulate the hardware requirements computation as optimisation problems, where the hardware parameters representing the underlying device capabilities serve as decision variables. Assuming a…
-
-## 12. SE-Bench: Benchmarking Self-Evolution with Knowledge Internalization
-
-- arXiv: `2602.04811v1`
-- Published: 2026-02-04 17:58 UTC
-- Authors: Jiarui Yuan, Tailin Jin, Weize Chen, Zeyuan Liu, Zhiyuan Liu, Maosong Sun
-- Categories: cs.CL, cs.AI, cs.LG
-- Links: [abs](https://arxiv.org/abs/2602.04811v1) | [pdf](https://arxiv.org/pdf/2602.04811v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-True self-evolution requires agents to act as lifelong learners that internalize novel experiences to solve future problems. However, rigorously measuring this foundational capability is hindered by two obstacles: the entanglement of prior knowledge, where ``new'' knowledge may appear in pre-training data, and the entanglement of reasoning complexity, where failures may stem from problem difficulty rather than an inability to recall learned knowledge. We introduce SE-Bench, a diagnostic environment that obfuscates the NumPy library and its API doc into a pseudo-novel package with randomized…
-
-## 13. Enabling large-scale digital quantum simulations with superconducting qubits
-
-- arXiv: `2602.04719v1`
-- Published: 2026-02-04 16:29 UTC
-- Authors: Laurin E. Fischer
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.04719v1) | [pdf](https://arxiv.org/pdf/2602.04719v1)
+- arXiv: `2602.06003v1`
+- Published: 2026-02-05 18:48 UTC
+- Authors: Manuel H. Muñoz-Arias, Kevin J. Randles, Nils T. Otterstrom, Paul S. Davids, Michael Gehl, Mohan Sarovar
+- Categories: quant-ph, physics.optics
+- Links: [abs](https://arxiv.org/abs/2602.06003v1) | [pdf](https://arxiv.org/pdf/2602.06003v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Quantum computing promises to revolutionize several scientific and technological domains through fundamentally new ways of processing information. Among its most compelling applications is digital quantum simulation, where quantum computers are used to replicate the behavior of other quantum systems. This could enable the study of problems that are otherwise intractable on classical computers, transforming fields such as quantum chemistry, condensed matter physics, and materials science. Despite this potential, realizations of practical quantum advantage for relevant problems are hindered by…
+Photonic quantum computing is a strong contender in the race to fault-tolerance. Recent proposals using qubits encoded in frequency modes promise a large reduction in hardware footprint, and have garnered much attention. In this encoding, linear optics, i.e., beam splitters and phase shifters, is necessarily not energy-conserving, and is costly to implement. In this work, we present designs of frequency-mode beam splitters based on modulated arrays of coupled resonators. We develop a methodology to construct their effective transfer matrices based on the SLH formalism for quantum input-output…
 
-## 14. Optimal Control Design Guided by Adam Algorithm and LSTM-Predicted Open Quantum System Dynamics
+## 6. Improved Rodeo Algorithm Performance for Spectral Functions and State Preparation
 
-- arXiv: `2602.04480v1`
-- Published: 2026-02-04 12:08 UTC
-- Authors: JunDong Zhong, ZhaoMing Wang
+- arXiv: `2602.05978v1`
+- Published: 2026-02-05 18:25 UTC
+- Authors: Matthew Patkowski, Onat Ayyildiz, Katherine Hunt, Nathan Jansen, Dean Lee
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.04480v1) | [pdf](https://arxiv.org/pdf/2602.04480v1)
+- Links: [abs](https://arxiv.org/abs/2602.05978v1) | [pdf](https://arxiv.org/pdf/2602.05978v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-The realization of high-fidelity quantum control is crucial for quantum information processing, particularly in noisy environments where control strategies must simultaneously achieve precise manipulation and effective noise suppression. Conventional optimal control designs typically requires numerical calculations of the system dynamics. Recent studies have demonstrated that long short-term memory neural networks (LSTM-NNs) can accurately predict the time evolution of open quantum systems. Based on LSTM-NN predicted dynamics, we propose an optimal control framework for rapid and efficient…
+The Rodeo Algorithm is a quantum computing method for computing the energy spectrum of a Hamiltonian and preparing its energy eigenstates. We discuss how to improve the performance of the rodeo algorithm for each of these two applications. In particular, we demonstrate that using a geometric series of time samples offers a near-optimal optimization space for a given total runtime by studying the Rodeo Algorithm performance on a model Hamiltonian representative of gapped many-body quantum systems. Analytics explain the performance of this time sampling and the conditions for it to maintain the…
 
-## 15. Influence of environment on quantum correlations in two-spin systems with dipole-dipole interactions
+## 7. Quantum Simulation of Bound and Resonant Doubly-Bottom Tetraquark
 
-- arXiv: `2602.04444v1`
-- Published: 2026-02-04 11:15 UTC
-- Authors: G. A. Bochkin, E. B. Fel'dman, E. I. Kuznetsova, E. I. Shipulya
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.04444v1) | [pdf](https://arxiv.org/pdf/2602.04444v1)
+- arXiv: `2602.05941v1`
+- Published: 2026-02-05 17:55 UTC
+- Authors: Ayanendu Dutta
+- Categories: hep-lat, hep-ph, quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.05941v1) | [pdf](https://arxiv.org/pdf/2602.05941v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['variational quantum eigensolver']
+
+We present the first quantum-simulation study of bound and resonant doubly-bottom tetraquark states within a QCD-inspired chiral quark model. An effective four-quark Hamiltonian is mapped onto a 16-qubit register, encoding color, spin, and spatial degrees of freedom, and incorporating both meson-meson and diquark-antidiquark configurations with complete color bases. Using a variational quantum eigensolver, we identify bound and resonance states in the low-lying $S$-wave sector. Deeply bound states are found exclusively in the isoscalar $I(J^{P})=0(1^{+})$ channel, dominated by color-singlet…
+
+## 8. Measurement-Induced Dynamics of Particles and Quasiparticles in a Bose-Einstein-condensate array
+
+- arXiv: `2602.05924v1`
+- Published: 2026-02-05 17:35 UTC
+- Authors: Huy Nguyen, Yu-Xin Wang, Jacob Taylor
+- Categories: cond-mat.quant-gas, quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.05924v1) | [pdf](https://arxiv.org/pdf/2602.05924v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-An influence of environment on quantum correlations (entanglement and quantum discord) is studied in a two-spin-1/2 system with dipole-dipole interactions on the basis of Lindblad equation. We consider the simplest case when the environment causes only dephasing of system spins. The dependencies of entanglement and the quantum discord on the relaxation rate are obtained. We compare the influence of the environment on entanglement and quantum discord.
+Measurement plays a crucial role in a quantum system beyond just learning about the system state: it changes the post-measurement state and hence influences the subsequent time evolution; further, measurement can even create entanglement in the post-measurement conditional state. In this work, we study how careful choice of parameters for a typical measurement process on cold atoms systems -- phase contrast imaging -- has a strong impact on both what the experimentalist observes but also on the backaction the measurement has on the system, including the creation and diffusion of…
 
-## 16. Vistas of Algebraic Probability: Quantum Computation and Information
+## 9. Numerical approaches to entangling dynamics from variational principles
 
-- arXiv: `2602.04351v1`
-- Published: 2026-02-04 09:19 UTC
-- Authors: Antonio Falcó, Hermann G. Matthies
-- Categories: quant-ph, math.PR
-- Links: [abs](https://arxiv.org/abs/2602.04351v1) | [pdf](https://arxiv.org/pdf/2602.04351v1)
+- arXiv: `2602.05726v1`
+- Published: 2026-02-05 14:50 UTC
+- Authors: Christian Offen, Boris Wembe, Laura Ares, Jan Sperling, Sina Ober-Blöbaum
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.05726v1) | [pdf](https://arxiv.org/pdf/2602.05726v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+In this work, we address the numerical identification of entanglement in dynamical scenarios. To this end, we consider different programs based on the restriction of the evolution to the set of separable (i.e., non-entangled) states, together with the discretization of the space of variables for numerical computations. As a first approach, we apply linear splitting methods to the restricted, continuous equations of motion derived from variational principles. We utilize an exchange interaction Hamiltonian to confirm that the numerical and analytical solutions coincide in the limit of small…
+
+## 10. Investigations on Quantum Correlations and Open Quantum System Dynamics Through Nuclear Spins
+
+- arXiv: `2602.05661v1`
+- Published: 2026-02-05 13:43 UTC
+- Authors: Arijit Chatterjee
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.05661v1) | [pdf](https://arxiv.org/pdf/2602.05661v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Nuclear spins provide an ideal platform for studying quantum correlations and open quantum system dynamics across diverse areas, including quantum information, quantum foundations, and many-body physics. This is enabled by their long longitudinal (T1) and transverse (T2) coherence times and precise control using radio frequency pulses. In this thesis, I present my work using nuclear spins to explore these themes. First, I study temporal quantum correlations quantified by the Leggett Garg inequality (LGI) for a qubit evolving under a superposition of unitary operators. Using a three qubit…
+
+## 11. Hamiltonian Benchmark of a Solid-State Spin-Photon Interface for Computation
+
+- arXiv: `2602.05637v1`
+- Published: 2026-02-05 13:18 UTC
+- Authors: Tejas Acharya, Loïc Lanco, Olivier Krebs, Hui Khoon Ng, Alexia Auffèves, Maria Maffei
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.05637v1) | [pdf](https://arxiv.org/pdf/2602.05637v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Light-matter interfaces are pivotal for quantum computation and communication. While typically analyzed using single-mode or open-quantum-system approximations, these models often neglect multi-mode field states and light-matter entanglement, hindering exact protocol modeling. Here, we solve the full Hamiltonian dynamics of a solid-state spin-photon interface for three key protocols: the generation of photon-number superpositions, a controlled photon-photon gate, and the production of photonic cluster states. By deriving exact fidelities, we identify fundamental performance limits. Our…
+
+## 12. Reducing the Complexity of Matrix Multiplication to $O(N^2log_2N)$ by an Asymptotically Optimal Quantum Algorithm
+
+- arXiv: `2602.05541v1`
+- Published: 2026-02-05 10:58 UTC
+- Authors: Jiaqi Yao, Ding Liu
+- Categories: quant-ph, cs.CC, cs.LG
+- Links: [abs](https://arxiv.org/abs/2602.05541v1) | [pdf](https://arxiv.org/pdf/2602.05541v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Kolmogorov's foundation of probability takes measure spaces, $σ$-algebras, and probability measures as basic objects. It is, however, widely recognized that this classical framework is inadequate for random phenomena involving quantum effects, and more generally for \emph{quantum-like} situations. A broader formulation is provided by an algebraic viewpoint: one starts from an algebra of random variables equipped with a distinguished linear functional -- the \emph{state} -- interpreted as expectation. In this sense, the approach can also be viewed as a modern reading of ideas already implicit…
+Matrix multiplication is a fundamental classical computing operation whose efficiency becomes a major challenge at scale, especially for machine learning applications. Quantum computing, with its inherent parallelism and exponential storage capacity, offers a potential solution to these limitations. This work presents a quantum kernel-based matrix multiplication algorithm (QKMM) that achieves an asymptotically optimal computational complexity of $ O(N^2 \log_2 N) $, outperforming the classical optimal complexity of $ O(N^{2.371552}) $, where $N$ denotes the matrix dimension. Through noiseless…
+
+## 13. Single shot distinguishability of noisy quantum channels
+
+- arXiv: `2602.05521v1`
+- Published: 2026-02-05 10:28 UTC
+- Authors: Satyaki Manna
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.05521v1) | [pdf](https://arxiv.org/pdf/2602.05521v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Among the intriguing features of quantum theory, the problem of distinguishing quantum channels is of fundamental interest. In this paper, we focus on the single-shot discrimination of two noisy quantum channels using two distinct classes of probes: single-system (product) probes and entangled probes. Our aim is to identify optimal probing state for specific discrimination tasks and to analyze the necessity and role of entanglement in enhancing channel distinguishability. We show that maximally entangled probes are optimal for discriminating two qubit depolarizing channels, with any nonzero…
