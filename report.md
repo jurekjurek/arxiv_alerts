@@ -1,161 +1,173 @@
 # arXiv alert report
 
-- Generated: 2026-02-10 06:41 UTC
-- Window: papers published since 2026-02-09 06:41 UTC
-- Matches: 13
+- Generated: 2026-02-11 06:38 UTC
+- Window: papers published since 2026-02-10 06:38 UTC
+- Matches: 14
 
-## 1. High-Probability Heralded Entanglement via Repeated Spin-Photon Phase Encoding with Moderate Cooperativity
+## 1. Quantum-Audit: Evaluating the Reasoning Limits of LLMs on Quantum Computing
 
-- arXiv: `2602.08834v1`
-- Published: 2026-02-09 16:04 UTC
-- Authors: Yu Liu, Martin B. Plenio
+- arXiv: `2602.10092v1`
+- Published: 2026-02-10 18:56 UTC
+- Authors: Mohamed Afane, Kayla Laufer, Wenqi Wei, Ying Mao, Junaid Farooq, Ying Wang et al.
+- Categories: cs.CL
+- Links: [abs](https://arxiv.org/abs/2602.10092v1) | [pdf](https://arxiv.org/pdf/2602.10092v1)
+- Score: 4
+- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
+
+Language models have become practical tools for quantum computing education and research, from summarizing technical papers to explaining theoretical concepts and answering questions about recent developments in the field. While existing benchmarks evaluate quantum code generation and circuit design, their understanding of quantum computing concepts has not been systematically measured. Quantum-Audit addresses this gap with 2,700 questions covering core quantum computing topics. We evaluate 26 models from leading organizations. Our benchmark comprises 1,000 expert-written questions, 1,000…
+
+## 2. Gravitationally-induced Conversion of Local Coherence to Entanglement
+
+- arXiv: `2602.09900v1`
+- Published: 2026-02-10 15:37 UTC
+- Authors: Hazhir Dolatkhah, Shahriar Salimi, Soroush Haseli
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.08834v1) | [pdf](https://arxiv.org/pdf/2602.08834v1)
-- Score: 5
-- Keyword hits: title=['entanglement'] abstract=['quantum computing', 'entanglement']
-
-We propose a heralded high-probability scheme to generate remote entanglement between moderate-cooperativity spin-cavity registers with high fidelity. In conventional single-shot interfaces, limited cooperativity restricts the spin-conditional optical response and thus strongly suppresses the success probability. Our proposal instead recycles a single incident photon for repeated interactions with the spin-cavity register, such that a small spin-conditional phase shift acquired on each round trip accumulates coherently to enable remote entanglement. Moreover, the repeated scheme enables…
-
-## 2. Prototype-Based Disentanglement for Controllable Dysarthric Speech Synthesis
-
-- arXiv: `2602.08696v1`
-- Published: 2026-02-09 14:14 UTC
-- Authors: Haoshen Wang, Xueli Zhong, Bingbing Lin, Jia Huang, Xingduo Pan, Shengxiang Liang et al.
-- Categories: cs.SD, cs.CL
-- Links: [abs](https://arxiv.org/abs/2602.08696v1) | [pdf](https://arxiv.org/pdf/2602.08696v1)
+- Links: [abs](https://arxiv.org/abs/2602.09900v1) | [pdf](https://arxiv.org/pdf/2602.09900v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Dysarthric speech exhibits high variability and limited labeled data, posing major challenges for both automatic speech recognition (ASR) and assistive speech technologies. Existing approaches rely on synthetic data augmentation or speech reconstruction, yet often entangle speaker identity with pathological articulation, limiting controllability and robustness. In this paper, we propose ProtoDisent-TTS, a prototype-based disentanglement TTS framework built on a pre-trained text-to-speech backbone that factorizes speaker timbre and dysarthric articulation within a unified latent space. A…
+In recent years, the quantum nature of gravity has attracted significant attention as one of the most important problems in modern physics. Here, we analyze the mechanism of gravitationally-induced entanglement from the perspective of quantum resource theory. Building on the framework of Bose et al. [Phys. Rev. Lett. 119, 240401 (2017)], we show that the gravitational interaction acts as a unitary channel, redistributing quantum resources between two spatially superposed masses. Specifically, we demonstrate that the resulting bipartite entanglement originates from the coherent conversion of…
 
-## 3. A building block of quantum repeaters for scalable quantum networks
+## 3. $k$-Positivity and high-dimensional bound entanglement under symplectic group symmetry
 
-- arXiv: `2602.08472v1`
-- Published: 2026-02-09 10:19 UTC
-- Authors: Wen-Zhao Liu, Ya-Bin Zhou, Jiu-Peng Chen, Bin Wang, Ao Teng, Xiao-Wen Han et al.
-- Categories: quant-ph, physics.atom-ph, physics.optics
-- Links: [abs](https://arxiv.org/abs/2602.08472v1) | [pdf](https://arxiv.org/pdf/2602.08472v1)
+- arXiv: `2602.09860v1`
+- Published: 2026-02-10 15:03 UTC
+- Authors: Sang-Jun Park
+- Categories: quant-ph, math-ph, math.OA
+- Links: [abs](https://arxiv.org/abs/2602.09860v1) | [pdf](https://arxiv.org/pdf/2602.09860v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+We investigate the structure of $k$-positivity and Schmidt numbers for classes of linear maps and bipartite quantum states exhibiting symplectic group symmetry. Specifically, we consider (1) linear maps on $M_d(\mathbb{C})$ which are covariant under conjugation by unitary symplectic matrices $S$, and (2) $d\otimes d$ bipartite states which are invariant under $S\otimes S$ or $S\otimes \overline{S}$ actions, each parametrized by two real variables. We provide a complete characterization of all $k$-positivity and decomposability conditions for these maps and explicitly compute the Schmidt…
+
+## 4. Entanglement suppression for $ΩΩ$ scattering
+
+- arXiv: `2602.09630v1`
+- Published: 2026-02-10 10:18 UTC
+- Authors: Katsuyoshi Sone, Tao-Ran Hu, Feng-Kun Guo, Tetsuo Hyodo, Ian Low
+- Categories: hep-ph, nucl-th, quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.09630v1) | [pdf](https://arxiv.org/pdf/2602.09630v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+We study entanglement suppression in $s$-wave $ΩΩ$ scattering, where each baryon has spin $3/2$. By treating the $S$-matrix as a quantum operator acting on the spin states, we quantify its ability to generate entanglement and identify the conditions on the phase shifts of the spin channels that minimize entanglement generation in the system. In $ΩΩ$ scattering, only antisymmetric spin channels are allowed due to Fermi-Dirac statistics. Applying the entanglement-suppression framework to $ΩΩ$ scattering, we find two solutions for the phase shifts: one leading to a spin SU(4) symmetry and the…
+
+## 5. Resources of the advantage in quantum Illumination: Discord and entanglement
+
+- arXiv: `2602.09468v1`
+- Published: 2026-02-10 07:04 UTC
+- Authors: Mojtaba Asadollahi, Mohammad Hossein Zarei
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.09468v1) | [pdf](https://arxiv.org/pdf/2602.09468v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+We investigate the quantum advantage in quantum illumination using two-qubit mixed states as the initial resource. We show that in quantum illumination, the achievable advantage is determined by an interplay between initial entanglement and discord. First, we rigorously show that the quantum advantage for a given state equals the amount of discord consumed for illumination. Subsequently, we find that states with identical initial discord can lead to varying advantages, indicating that the usable portion of discord for illumination depends on additional structural features of the state. Then,…
+
+## 6. Tucker iterative quantum state preparation
+
+- arXiv: `2602.09909v1`
+- Published: 2026-02-10 15:41 UTC
+- Authors: Carsten Blank, Israel F. Araujo
+- Categories: quant-ph, cs.ET
+- Links: [abs](https://arxiv.org/abs/2602.09909v1) | [pdf](https://arxiv.org/pdf/2602.09909v1)
 - Score: 2
-- Keyword hits: title=[] abstract=['quantum computing', 'entanglement']
+- Keyword hits: title=[] abstract=['quantum machine learning', 'entanglement']
 
-Quantum networks, integrating quantum communication, quantum metrology, and distributed quantum computing, could provide secure and efficient information transfer, high-resolution sensing, and an exponential speed-up in information processing. Deterministic entanglement distribution over long distances is a prerequisite for scalable quantum networks, enabling the utilization of device-independent quantum key distribution (DI-QKD) and quantum teleportation to achieve secure and efficient information transfer. However, the exponential photon loss in optical fibres prohibits efficient and…
+Quantum state preparation is a fundamental component of quantum algorithms, particularly in quantum machine learning and data processing, where classical data must be encoded efficiently into quantum states. Existing amplitude encoding techniques often rely on recursive bipartitions or tensor decompositions, which either lead to deep circuits or lack practical guidance for circuit construction. In this work, we introduce Tucker Iterative Quantum State Preparation (Q-Tucker), a novel method that adaptively constructs shallow, deterministic quantum circuits by exploiting the global entanglement…
 
-## 4. Cascaded Optomechanical Sensing for Small Signals
+## 7. SAQNN: Spectral Adaptive Quantum Neural Network as a Universal Approximator
 
-- arXiv: `2602.08981v1`
-- Published: 2026-02-09 18:28 UTC
-- Authors: Marta Maria Marchese, Daniel Braun, Stefan Nimmrichter, Dennis Rätzel
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.08981v1) | [pdf](https://arxiv.org/pdf/2602.08981v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-We propose a sensing scheme for detecting weak forces that achieves Heisenberg-limited sensitivity without relying on entanglement or other non-classical resources. Our scheme utilizes coherent averaging across a chain of N optomechanical cavities, unidirectionally coupled via a laser beam. As the beam passes through the cavities, it accumulates phase shifts induced by a common external force acting on the mechanical elements. Remarkably, this fully classical approach achieves the sensitivity scaling typically associated with quantum-enhanced protocols, providing a robust and experimentally…
-
-## 5. Long distance quantum illumination and ranging using polarization entangled photon pairs in a lossy environment
-
-- arXiv: `2602.08947v1`
-- Published: 2026-02-09 17:44 UTC
-- Authors: Sujai Matta, Soumya Asokan, Sanchari Chakraborti, Mayank Joshi, Rahul Dalal, C. M. Chandrashekar
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.08947v1) | [pdf](https://arxiv.org/pdf/2602.08947v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Using polarization entangled photon pairs, we demonstrate a robust scheme for quantum illumination and ranging in a lossy environment. Entangled photon pairs are generated in a Sagnac interferometer configuration, yielding high-visibility two-photon polarization entanglement with a measured CHSH parameter of $S =2.802\pm0.002$. One of the photons from the entangled pair is retained as idler and the other one is directed into either of the two paths, namely reference and probe, of which probe is sent toward a distant object through a lossy free-space channel, and the reflected photons are…
-
-## 6. High-brightness fiber-based Sagnac source of entangled photon pairs for multiplexed quantum networks
-
-- arXiv: `2602.08863v1`
-- Published: 2026-02-09 16:26 UTC
-- Authors: Tess Troisi, Yoann Pelet, Romain Dalidet, Gregory Sauder, Olivier Alibart, Sébastien Tanzilli et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.08863v1) | [pdf](https://arxiv.org/pdf/2602.08863v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-A fully fibered source of entangled photon pairs based on a nonlinear Sagnac interferometer is reported. Operating at telecom wavelengths, the source relies exclusively on standard fiber-optic components and periodically poled lithium niobate (PPLN) waveguides, resulting in a compact, robust, and field-deployable architecture. The generation stage supports both polarization and energy-time entanglement without modification, enabling versatile operation depending on the targeted application. Broadband spontaneous parametric down-conversion allows dense wavelength-division multiplexing over the…
-
-## 7. Non-Hermitian Renormalization Group from a Few-Body Perspective
-
-- arXiv: `2602.08705v1`
-- Published: 2026-02-09 14:19 UTC
-- Authors: Hiroyuki Tajima, Masaya Nakagawa, Haozhao Liang, Masahito Ueda
-- Categories: quant-ph, cond-mat.quant-gas, cond-mat.str-el, nucl-th
-- Links: [abs](https://arxiv.org/abs/2602.08705v1) | [pdf](https://arxiv.org/pdf/2602.08705v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['wilson']
-
-Non-Hermiticity plays a fundamental role in open quantum systems and describes a wide variety of effects of interactions with environments, including quantum measurement. However, understanding its consequences in strongly interacting systems is still elusive due to the interplay between non-perturbative strong correlations and non-Hermiticity. While the Wilsonian renormalization group (RG) method has been applied to tackle this problem, its foundation, based on the existence of the partition function, is ill-defined. In this paper, we establish a microscopic foundation of the non-Hermitian…
-
-## 8. Quantum Charging Advantage in Superconducting Solid-State Batteries
-
-- arXiv: `2602.08610v1`
-- Published: 2026-02-09 12:55 UTC
-- Authors: Chang-Kang Hu, Chilong Liu, Jingchao Zhao, Liuzhu Zhong, Yuxuan Zhou, Mingze Liu et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.08610v1) | [pdf](https://arxiv.org/pdf/2602.08610v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Quantum battery, as a novel energy storage device, offers the potential for unprecedented efficiency and performance beyond the capabilities of classical systems, with broad implications for future quantum technologies. Here, we experimentally \RefC{demonstrate quantum charging advantage (QCA)} in a scalable solid-state quantum battery. More specifically, we show how double-excitation Hamiltonians for two-level systems promote scalable QCA \RefB{with standard methods.} We effectively implement the collective evolution of quantum systems with 2 up to 12 battery cells in a superconducting…
-
-## 9. Intelligent Control of Collisional Architectures for Deterministic Multipartite State Engineering
-
-- arXiv: `2602.08526v1`
-- Published: 2026-02-09 11:15 UTC
-- Authors: Duc-Kha Vu, Minh Tam Nguyen, Özgür E. Müstecaplıoğlu, Fatih Ozaydin
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.08526v1) | [pdf](https://arxiv.org/pdf/2602.08526v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Designing scalable, noise-tolerant control protocols for multipartite entanglement is a central challenge for quantum technologies, and it naturally calls for \emph{algorithmic} synthesis of interaction parameters rather than handcrafted gate sequences. Here we introduce an intelligent, constraint-aware control framework for deterministic generation of symmetric Dicke states $|D_n^{(m)}\rangle$ in repeated-interaction (collision-model) architectures. The protocol employs excitation-preserving partial-SWAP collisions between two disjoint qubit registers, mediated by $m$ ancillary ``shuttle''…
-
-## 10. Empirical Study of Observable Sets in Multiclass Quantum Classification
-
-- arXiv: `2602.08485v1`
-- Published: 2026-02-09 10:36 UTC
-- Authors: Paul San Sebastian, Mikel Cañizo, Roman Orus
+- arXiv: `2602.09718v1`
+- Published: 2026-02-10 12:22 UTC
+- Authors: Jialiang Tang, Jialin Zhang, Xiaoming Sun
 - Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2602.08485v1) | [pdf](https://arxiv.org/pdf/2602.08485v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum machine learning']
+- Links: [abs](https://arxiv.org/abs/2602.09718v1) | [pdf](https://arxiv.org/pdf/2602.09718v1)
+- Score: 2
+- Keyword hits: title=[] abstract=['quantum machine learning', 'quantum computing']
 
-Variational quantum algorithms have gained attention as early applications of quantum computers for learning tasks. In the context of supervised learning, most of the works that tackle classification problems with parameterized quantum circuits constrain their scope to the setting of binary classification or perform multiclass classification via ensembles of binary classifiers (strategies such as one versus rest). Those few works that propose native multiclass models, however, do not justify the choice of observables that perform the classification. This work studies two main classification…
+Quantum machine learning (QML), as an interdisciplinary field bridging quantum computing and machine learning, has garnered significant attention in recent years. Currently, the field as a whole faces challenges due to incomplete theoretical foundations for the expressivity of quantum neural networks (QNNs). In this paper we propose a constructive QNN model and demonstrate that it possesses the universal approximation property (UAP), which means it can approximate any square-integrable function up to arbitrary accuracy. Furthermore, it supports switching function bases, thus adaptable to…
 
-## 11. Non-Markovianity induced by Pauli-twirling
+## 8. Decoupled Reasoning with Implicit Fact Tokens (DRIFT): A Dual-Model Framework for Efficient Long-Context Inference
 
-- arXiv: `2602.08464v1`
-- Published: 2026-02-09 10:13 UTC
-- Authors: Joris Kattemölle, Balázs Gulácsi, Guido Burkard
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.08464v1) | [pdf](https://arxiv.org/pdf/2602.08464v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum error mitigation']
-
-Noise forms a central obstacle to effective quantum information processing. Recent experimental advances have enabled the tailoring of noise properties through Pauli twirling, transforming arbitrary noise channels into Pauli channels. This underpins theoretical descriptions of fault-tolerant quantum computation and forms an essential tool in noise characterization and error mitigation. Pauli-Lindblad channels have been introduced to aptly parameterize quasi-local Pauli errors across a quantum register, excluding negative Pauli-Lindblad parameters relying on the Markovianity of the underlying…
-
-## 12. The Finite Geometry of Breaking Quantum Secrets
-
-- arXiv: `2602.08410v1`
-- Published: 2026-02-09 09:14 UTC
-- Authors: Péter Lévay, Metod Saniga
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.08410v1) | [pdf](https://arxiv.org/pdf/2602.08410v1)
+- arXiv: `2602.10021v1`
+- Published: 2026-02-10 17:42 UTC
+- Authors: Wenxuan Xie, Yujia Wang, Xin Tan, Chaochao Lu, Xia Hu, Xuhong Wang
+- Categories: cs.CL, cs.AI
+- Links: [abs](https://arxiv.org/abs/2602.10021v1) | [pdf](https://arxiv.org/pdf/2602.10021v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Using a finite geometric framework for studying the pentagon and heptagon codes we show that the concepts of quantum secret sharing and contextuality can be studied in a nice and unified manner. The basic idea is a careful study of the respective $2+3$ and $3+4$ tensorial factorizations of the elements of the stabilizer groups of these codes. It is demonstrated in detail how finite geometric structures entailing a specific three-qubit (resp. four-qubit) embedding of binary symplectic polar spaces of rank two (resp. three), corresponding to these factorizations, govern issues of contextuality…
+The integration of extensive, dynamic knowledge into Large Language Models (LLMs) remains a significant challenge due to the inherent entanglement of factual data and reasoning patterns. Existing solutions, ranging from non-parametric Retrieval-Augmented Generation (RAG) to parametric knowledge editing, are often constrained in practice by finite context windows, retriever noise, or the risk of catastrophic forgetting. In this paper, we propose DRIFT, a novel dual-model architecture designed to explicitly decouple knowledge extraction from the reasoning process. Unlike static prompt…
 
-## 13. The simplified quantum circuits for implementing quantum teleportation
+## 9. Sample- and Hardware-Efficient Fidelity Estimation by Stripping Phase-Dominated Magic
 
-- arXiv: `2602.08345v1`
-- Published: 2026-02-09 07:29 UTC
-- Authors: Wen-Xiu Zhang, Guo-Zhu Song, Hai-Rui Wei
+- arXiv: `2602.09710v1`
+- Published: 2026-02-10 12:13 UTC
+- Authors: Guedong Park, Jaekwon Chang, Yosep Kim, Yong Siah Teo, Hyunseok Jeong
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.08345v1) | [pdf](https://arxiv.org/pdf/2602.08345v1)
+- Links: [abs](https://arxiv.org/abs/2602.09710v1) | [pdf](https://arxiv.org/pdf/2602.09710v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-It is crucial to design quantum circuits as small as possible and as shallow as possible for quantum information processing tasks. We design quantum circuits with simplified gate-count, cost, and depth for implementing quantum teleportation among various entangled channels. Here the gate-count/cost/depth of the Greenberger-Horne-Zeilinger-based quantum teleportation is reduced from 10/6/8 to 9/4/6, the two-qubit-cluster-based quantum teleportation is reduced from 9/4/5 to 6/3/5, the three-qubit-cluster-based quantum teleportation is reduced from 12/6/7 to 8/4/5, the Brown-based quantum…
+Direct fidelity estimation (DFE) is a famous tool for estimating the fidelity with a target pure state. However, such a method generally requires exponentially many sampling copies due to the large magic of the target state. This work proposes a sample- and gate-efficient fidelity estimation algorithm that is affordable within feasible quantum devices. We show that the fidelity estimation with pure states close to the structure of phase states, for which sample-efficient DFE is limited by their strong entanglement and magic, can be done by using $\mathcal{O}(\mathrm{poly}(n))$ sampling…
+
+## 10. Quantum-accelerated conjugate gradient methods via spectral initialization
+
+- arXiv: `2602.09696v1`
+- Published: 2026-02-10 11:51 UTC
+- Authors: Shigetora Miyashita, Yoshi-aki Shimada
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.09696v1) | [pdf](https://arxiv.org/pdf/2602.09696v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Solving large-scale linear systems problems is a central task in scientific and industrial computing. Classical iterative solvers face increasing difficulty as the number of unknowns becomes large, while fully quantum linear solvers require fault-tolerant resources that remain far beyond near-term feasibility. Here we propose a quantum-accelerated conjugate gradient (QACG) framework in which a fault-tolerant quantum algorithm is used exclusively to construct a spectrally informed initial guess for a classical conjugate gradient (CG) solver. Rather than replacing classical kernels, the quantum…
+
+## 11. Tunable many-body burst in isolated quantum systems
+
+- arXiv: `2602.09665v1`
+- Published: 2026-02-10 11:20 UTC
+- Authors: Shozo Yamada, Akihiro Hokkyo, Masahito Ueda
+- Categories: quant-ph, cond-mat.stat-mech
+- Links: [abs](https://arxiv.org/abs/2602.09665v1) | [pdf](https://arxiv.org/pdf/2602.09665v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Thermalization in isolated quantum many-body systems can be nonmonotonic, with its process dependent on an initial state. We propose a numerical method to construct a low-entangled initial state that creates a ``burst''$\unicode{x2013}\unicode{x2013}$a transient deviation of an observable from its thermal equilibrium value$\unicode{x2013}\unicode{x2013}$at a designated time. We apply this method to demonstrate that a burst of magnetization can be realized for a nonintegrable mixed-field Ising chain on a timescale comparable to the onset of quantum scrambling. Contrary to the typical spreading…
+
+## 12. Device-independent quantum key distribution over 100 km with single atoms
+
+- arXiv: `2602.09596v1`
+- Published: 2026-02-10 09:48 UTC
+- Authors: Bo-Wei Lu, Chao-Wei Yang, Run-Qi Wang, Bo-Feng Gao, Yi-Zheng Zhen, Zhen-Gang Wang et al.
+- Categories: quant-ph, physics.optics
+- Links: [abs](https://arxiv.org/abs/2602.09596v1) | [pdf](https://arxiv.org/pdf/2602.09596v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Device-independent quantum key distribution (DI-QKD) is a key application of the quantum internet. We report the realization of DI-QKD between two single-atom nodes linked by 100-km fibers. To improve the entangling rate, single-photon interference is leveraged for entanglement heralding, and quantum frequency conversion is used to reduce fiber loss. A tailored Rydberg-based emission scheme suppresses the photon recoil effect on the atom without introducing noise. We achieved high-fidelity atom-atom entanglement and positive asymptotic key rates for fiber lengths up to 100 km. At 11 km, 1.2…
+
+## 13. Fidelity-Age-Aware Scheduling in Quantum Repeater Networks
+
+- arXiv: `2602.09562v1`
+- Published: 2026-02-10 09:14 UTC
+- Authors: Ozgur Ercetin, Zafer Gedik
+- Categories: quant-ph, cs.NI
+- Links: [abs](https://arxiv.org/abs/2602.09562v1) | [pdf](https://arxiv.org/pdf/2602.09562v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Quantum repeater networks distribute entanglement over long distances but must balance fidelity, delay, and resource contention. Prior work optimized throughput and end-to-end fidelity, yet little attention has been paid to the freshness of entanglement-the time since a usable Bell pair was last delivered. We introduce the Fidelity-Age (FA) metric, which measures this interval for states whose fidelity exceeds a threshold Fmin. A renewal formulation links slot-level success probability to long-run average FA, enabling a stochastic control problem that minimizes FA under budget and memory…
+
+## 14. UniARM: Towards a Unified Autoregressive Reward Model for Multi-Objective Test-Time Alignment
+
+- arXiv: `2602.09538v1`
+- Published: 2026-02-10 08:49 UTC
+- Authors: Hongyan Xie, Yikun Ban, Ruiyu Fang, Zixuan Huang, Deqing Wang, Jianxin Li et al.
+- Categories: cs.CL
+- Links: [abs](https://arxiv.org/abs/2602.09538v1) | [pdf](https://arxiv.org/pdf/2602.09538v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Multi-objective alignment aims to align LLM responses with multiple human preference objectives. Among existing methods, guiding the generation of frozen LLMs through autoregressive reward models (ARMs) to accomplish multi-objective test-time alignment is a low-cost solution. However, these methods typically rely on independent parameters for each preference objective, either by training ARMs independently across preference dimensions, which neglects interactions among preference features, or by training a single ARM with separate feature extraction modules for each preference, which can…
