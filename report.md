@@ -1,113 +1,149 @@
 # arXiv alert report
 
-- Generated: 2026-02-12 06:37 UTC
-- Window: papers published since 2026-02-11 06:37 UTC
-- Matches: 9
+- Generated: 2026-02-13 06:34 UTC
+- Window: papers published since 2026-02-12 06:34 UTC
+- Matches: 12
 
-## 1. MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning
+## 1. Charged moments and symmetry-resolved entanglement from Ballistic Fluctuation Theory
 
-- arXiv: `2602.11092v1`
-- Published: 2026-02-11 18:00 UTC
-- Authors: Cassandre Notton, Benjamin Stott, Philippe Schoeb, Anthony Walsh, Grégoire Leboucher, Vincent Espitalier et al.
-- Categories: cs.LG, cs.PL, quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.11092v1) | [pdf](https://arxiv.org/pdf/2602.11092v1)
-- Score: 4
-- Keyword hits: title=['quantum machine learning'] abstract=['quantum machine learning']
-
-Identifying where quantum models may offer practical benefits in near term quantum machine learning (QML) requires moving beyond isolated algorithmic proposals toward systematic and empirical exploration across models, datasets, and hardware constraints. We introduce MerLin, an open source framework designed as a discovery engine for photonic and hybrid quantum machine learning. MerLin integrates optimized strong simulation of linear optical circuits into standard PyTorch and scikit learn workflows, enabling end to end differentiable training of quantum layers. MerLin is designed around…
-
-## 2. Efficient Operator Selection and Warm-Start Strategy for Excitations in Variational Quantum Eigensolvers
-
-- arXiv: `2602.10776v1`
-- Published: 2026-02-11 12:07 UTC
-- Authors: Max Haas, Thierry N. Kaldenbach, Thomas Hammerschmidt, Daniel Barragan-Yani
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.10776v1) | [pdf](https://arxiv.org/pdf/2602.10776v1)
-- Score: 4
-- Keyword hits: title=['variational quantum eigensolver'] abstract=['variational quantum eigensolver']
-
-We present a novel approach for efficient preparation of electronic ground states, leveraging the optimizer ExcitationSolve [Jäger et al., Comm. Phys. (2025)] and established variational quantum eigensolver-based operator selection methods, such as Energy Sorting. By combining these tools, we demonstrate a computationally efficient protocol that enables the construction of an approximate ground state from a unitary coupled cluster ansatz via a single sweep over the operator pool. Utilizing efficient classical pre-processing to select the majority of relevant operators, this approach reduces…
-
-## 3. Maximum residual strong monogamy inequality for multiqubit entanglement
-
-- arXiv: `2602.10668v1`
-- Published: 2026-02-11 09:14 UTC
-- Authors: Dong-Dong Dong, Xue-Ke Song, Liu Ye, Dong Wang, Gerardo Adesso
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.10668v1) | [pdf](https://arxiv.org/pdf/2602.10668v1)
+- arXiv: `2602.12185v1`
+- Published: 2026-02-12 17:16 UTC
+- Authors: Giorgio Li, Léonce Dupays, Paola Ruggiero
+- Categories: cond-mat.stat-mech, hep-th, quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.12185v1) | [pdf](https://arxiv.org/pdf/2602.12185v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We establish two new inequalities, the weighted strong monogamy (WSM) and the maximum residual strong monogamy (MRSM), which sharpen the generalized Coffman-Kundu-Wootters inequity for multiqubit states. The WSM inequality distinguishes itself from the strong monogamy (SM) conjecture [Phys. Rev. Lett. 113, 110501 (2014)] by using coefficients rather than exponents to modulate the weight allocated to various m-partite contributions. In contrast, the MRSM inequality is formulated using only the maximum m-partite entanglement. We find that the residual entanglement of the MRSM inequality can…
+The charged moments of a reduced density matrix provide a natural starting point for deriving symmetry-resolved Rényi and entanglement entropies, which quantify how entanglement is distributed among symmetry sectors in the presence of a global internal symmetry in a quantum many-body system. In this work, we study charged moments within the framework of Ballistic Fluctuation Theory (BFT). This theory describes large-scale ballistic fluctuations of conserved charges and associated currents and, by exploiting the height-field formulation of twist fields, gives access to the asymptotic behaviour…
 
-## 4. Two-Level System Spectroscopy from Correlated Multilevel Relaxation in Superconducting Qubits
+## 2. Operational limits to entanglement-based satellite quantum key distribution
 
-- arXiv: `2602.11127v1`
-- Published: 2026-02-11 18:39 UTC
-- Authors: Tanay Roy, Xinyuan You, David van Zanten, Francesco Crisa, Sabrina Garattoni, Shaojiang Zhu et al.
+- arXiv: `2602.11833v1`
+- Published: 2026-02-12 11:22 UTC
+- Authors: Jasminder S. Sidhu, Sarah E. McCarthy, Cameron Paterson, Daniel K. L. Oi
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.11127v1) | [pdf](https://arxiv.org/pdf/2602.11127v1)
+- Links: [abs](https://arxiv.org/abs/2602.11833v1) | [pdf](https://arxiv.org/pdf/2602.11833v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+Space-based distribution of quantum entanglement will be essential for global quantum networking and secure communications. Modelling and analysis of the performance of satellite entanglement pair distribution is important for the architecture and design of constellations and space systems. Entanglement-based quantum key distribution, in the absence of quantum repeaters, is especially prone to finite key effects due to low coincident count rates compared to trusted node single-path links. Therefore, there is a need for a comprehensive study of finite-key effects in the context of direct dual…
+
+## 3. Learning functions of quantum states with distributed architectures
+
+- arXiv: `2602.11797v1`
+- Published: 2026-02-12 10:25 UTC
+- Authors: Marta Gili, Eliana Fiorelli, Ane Blázquez-García, Gian Luca Giorgi, Roberta Zambrini
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.11797v1) | [pdf](https://arxiv.org/pdf/2602.11797v1)
+- Score: 2
+- Keyword hits: title=[] abstract=['quantum machine learning', 'entanglement']
+
+Distributed architectures are gaining prominence in quantum machine learning as a means to overcome hardware limitations and enable scalable quantum information processing. In this context, we analyze the design and performance of distributed Quantum Extreme Learning Machine (QELM) architectures for learning functions of quantum states directly from data, restricting measurements to easily implementable projective measurements in the computational basis. The aim is to determine which schemes can effectively recover specific properties of input quantum states, including both linear and…
+
+## 4. Certification of linear optical quantum state preparation
+
+- arXiv: `2602.12269v1`
+- Published: 2026-02-12 18:55 UTC
+- Authors: Riko Schadow, Naomi Spier, Stefan N. van den Hoven, Malaquias Correa Anguita, Redlef B. G. Braamhaar, Sara Marzban et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.12269v1) | [pdf](https://arxiv.org/pdf/2602.12269v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Transmon qubits are a cornerstone of modern superconducting quantum computing platforms. Temporal fluctuations of energy relaxation in these qubits are widely attributed to microscopic two-level systems (TLSs) in device dielectrics and interfaces, yet isolating individual defects typically relies on tuning the qubit or the TLS into resonance. We demonstrate a novel spectroscopy method for fixed-frequency transmons based on multilevel relaxation: repeated preparation of the second excited state and simultaneous $T_1$ extraction of the first and second excited states reveals characteristic…
+Certification is important to guarantee the correct functioning of quantum devices. A key certification task is verifying that a device has produced a desired output state. In this work, we study this task in the context of photonic platforms, where single photons are propagated through linear optical interferometers to create large, entangled resource states for metrology, communication, quantum advantage demonstrations and for so-called linear optical quantum computing (LOQC). This setting derives its computational power from the indistinguishability of the photons, i.e., their relative…
 
-## 5. Improving Quantum Multi-Objective Optimization with Archiving and Substitution
+## 5. Spin networks of quantum channels
 
-- arXiv: `2602.10952v1`
-- Published: 2026-02-11 15:39 UTC
-- Authors: Linus Ekstrøm, Takafumi Hosogi, Xavier Bonet-Monroig, Hao Wang, Thomas Bäck, Sebastian Schmitt
+- arXiv: `2602.12145v1`
+- Published: 2026-02-12 16:30 UTC
+- Authors: Bartosz Grygielski, Jakub Mielczarek
+- Categories: gr-qc, hep-th, quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.12145v1) | [pdf](https://arxiv.org/pdf/2602.12145v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['wilson']
+
+Spin networks in Loop Quantum Gravity are traditionally described by unitary holonomies corresponding to noiseless transformations. In this work, we extend this framework to incorporate general quantum channels that model effects of environment, which can become significant at the Planck scale. Specifically, we demonstrate that the transformation properties of Kraus operators, which define completely positive trace-preserving (CPTP) maps, are consistent with the gauge invariance of spin networks. This enables the introduction of generalized spin network states that can be expressed in terms…
+
+## 6. Scalable Preparation of Matrix Product States with Sequential and Brick Wall Quantum Circuits
+
+- arXiv: `2602.12042v1`
+- Published: 2026-02-12 15:07 UTC
+- Authors: Tomasz Szołdra, Rick Mukherjee, Peter Schmelcher
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.10952v1) | [pdf](https://arxiv.org/pdf/2602.10952v1)
+- Links: [abs](https://arxiv.org/abs/2602.12042v1) | [pdf](https://arxiv.org/pdf/2602.12042v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Preparing arbitrary quantum states requires exponential resources. Matrix Product States (MPS) admit more efficient constructions, particularly when accuracy is traded for circuit complexity. Existing approaches to MPS preparation mostly rely on heuristic circuits that are deterministic but quickly saturate in accuracy, or on variational optimization methods that reach high fidelities but scale poorly. This work introduces an end-to-end MPS preparation framework that combines the strengths of both strategies within a single pipeline. Heuristic staircase-like and brick wall disentangler…
+
+## 7. A New Angle on Quantum Subspace Diagonalization for Quantum Chemistry
+
+- arXiv: `2602.11985v1`
+- Published: 2026-02-12 14:14 UTC
+- Authors: Xeno De Vriendt, Jacob Bringewatt, Nik O. Gjonbalaj, Stefan Ostermann, Davide Vodola, Johannes Borregaard et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.11985v1) | [pdf](https://arxiv.org/pdf/2602.11985v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['krylov']
+
+Quantum subspace diagonalization and quantum Krylov algorithms offer a feasible, pre- or early-fault tolerant alternative to quantum phase estimation for using quantum computers to estimate the low-lying spectra of quantum systems. However, despite promising proof-of-principle results, such methods suffer from high sensitivity to noise (including intrinsic sources such as sampling noise), making their utility for realistic industry-relevant problems an open question. To improve the potential applicability of such methods, we introduce a new variant of thresholding for noisy generalized…
+
+## 8. Benchmarking Classical and Quantum Optimization Approaches for Rider-Order Assignment
+
+- arXiv: `2602.11895v1`
+- Published: 2026-02-12 12:47 UTC
+- Authors: Tharrmashastha SAPV, Surya Prakash Palanivel, Jasjyot Singh Gulati, M Maruthu Pandi
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.11895v1) | [pdf](https://arxiv.org/pdf/2602.11895v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Finding optimal solutions of conflicting objectives is a daily matter in many industrial applications, with multi-objective optimization trying to find the best solutions to them. The advent of quantum computing has led to researchers wondering if the promised exponential advantage can be obtained for these problems by variational quantum multi-objective optimization (QMOO) algorithm. Here, we improve it by introducing a Pareto Archive and dominated solutions substitution, clearly improving in hyper-volume convergence at additional quantum and classical cost. We propose the use of…
+The logistics industry is widely regarded as a promising application domain for emerging optimization paradigms, including quantum computing. The Rider-Order Assignment problem is a practically motivated optimization problem arising in online food delivery and related logistics applications. While the problem is closely related to the classical matching problem, the inclusion of realistic operational constraints renders it computationally challenging. In this work, we formulate the Rider-Order Assignment problem as a constrained binary optimization problem and perform a comparative analysis…
 
-## 6. Quantum Optimization in Loc(Q)ation Science: QUBO Formulations, Benchmark Problems, and a Computational Study
+## 9. A$^{2}$V-SLP: Alignment-Aware Variational Modeling for Disentangled Sign Language Production
 
-- arXiv: `2602.10951v1`
-- Published: 2026-02-11 15:39 UTC
-- Authors: Felix P. Broesamle, Stefan Nickel
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.10951v1) | [pdf](https://arxiv.org/pdf/2602.10951v1)
+- arXiv: `2602.11861v1`
+- Published: 2026-02-12 12:07 UTC
+- Authors: Sümeyye Meryem Taşyürek, Enis Mücahid İskender, Hacer Yalim Keles
+- Categories: cs.LG, cs.CL
+- Links: [abs](https://arxiv.org/abs/2602.11861v1) | [pdf](https://arxiv.org/pdf/2602.11861v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Building upon recent structural disentanglement frameworks for sign language production, we propose A$^{2}$V-SLP, an alignment-aware variational framework that learns articulator-wise disentangled latent distributions rather than deterministic embeddings. A disentangled Variational Autoencoder (VAE) encodes ground-truth sign pose sequences and extracts articulator-specific mean and variance vectors, which are used as distributional supervision for training a non-autoregressive Transformer. Given text embeddings, the Transformer predicts both latent means and log-variances, while the VAE…
+
+## 10. Hi-SAM: A Hierarchical Structure-Aware Multi-modal Framework for Large-Scale Recommendation
+
+- arXiv: `2602.11799v1`
+- Published: 2026-02-12 10:26 UTC
+- Authors: Pingjun Pan, Tingting Zhou, Peiyao Lu, Tingting Fei, Hongxiang Chen, Chuanjiang Luo
+- Categories: cs.AI
+- Links: [abs](https://arxiv.org/abs/2602.11799v1) | [pdf](https://arxiv.org/pdf/2602.11799v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Multi-modal recommendation has gained traction as items possess rich attributes like text and images. Semantic ID-based approaches effectively discretize this information into compact tokens. However, two challenges persist: (1) Suboptimal Tokenization: existing methods (e.g., RQ-VAE) lack disentanglement between shared cross-modal semantics and modality-specific details, causing redundancy or collapse; (2) Architecture-Data Mismatch: vanilla Transformers treat semantic IDs as flat streams, ignoring the hierarchy of user interactions, items, and tokens. Expanding items into multiple tokens…
+
+## 11. Experimental setup for the combined study of spin ensembles and superconducting quantum circuits
+
+- arXiv: `2602.11739v1`
+- Published: 2026-02-12 09:05 UTC
+- Authors: Lukas Vogl, Gerhard B. P. Huber, Ana Strinić, Achim Marx, Stefan Filipp, Kirill G. Fedorov et al.
+- Categories: physics.app-ph, quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.11739v1) | [pdf](https://arxiv.org/pdf/2602.11739v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Recent advances in quantum computing and the increasing availability of quantum hardware have substantially enhanced the practical relevance of quantum approaches to discrete optimization. Among these, the Quadratic Unconstrained Binary Optimization (QUBO) formulation provides a unifying modeling framework for a broad class of $\mathbf{NP}$-hard problems and is naturally suited to quantum computing and quantum-inspired algorithms. Location science, network design, and logistics represent core application domains of discrete optimization, combining high practical impact with substantial…
+A hybrid quantum computing architecture combining quantum processors and quantum memory units allows for exploiting each component's unique properties to enhance the overall performance of the total system. However, superconducting qubits are highly sensitive to magnetic fields, while spin ensembles require finite fields for control, creating a major integration challenge. In this work, we demonstrate the first experimental setup that satisfies these constraints and provides verified qubit stability. Our cryogenic setup comprises two spatially and magnetically decoupled sample volumes inside…
 
-## 7. Experimental demonstration that qubits can be cloned at will, if encrypted with a single-use decryption key
+## 12. First-order phase transition in atom-molecule quantum degenerate mixtures with coherent three-body recombination
 
-- arXiv: `2602.10695v1`
-- Published: 2026-02-11 09:51 UTC
-- Authors: Koji Yamaguchi, Leon Rullkötter, Ibrahim Shehzad, Sean J. Wagner, Christian Tutschku, Achim Kempf
-- Categories: quant-ph, gr-qc
-- Links: [abs](https://arxiv.org/abs/2602.10695v1) | [pdf](https://arxiv.org/pdf/2602.10695v1)
+- arXiv: `2602.11637v1`
+- Published: 2026-02-12 06:41 UTC
+- Authors: G. A. Bougas, A. Vardi, H. R. Sadeghpour, C. Chin, S. I. Mistakidis
+- Categories: cond-mat.quant-gas, quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.11637v1) | [pdf](https://arxiv.org/pdf/2602.11637v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-The no-cloning theorem forbids the creation of identical copies of qubits, thereby imposing strong limitations on quantum technologies. A recently-proposed protocol, encrypted cloning, showed, however, that the creation of perfect clones is theoretically possible - if the clones are simultaneously encrypted with a single-use decryption key. It has remained an open question, however, whether encrypted cloning is stable under hardware noise and thus practical as a quantum primitive. This is nontrivial because spreading quantum information widely could dilute it until barely exceeding the noise…
-
-## 8. Mitigating Reward Hacking in RLHF via Bayesian Non-negative Reward Modeling
-
-- arXiv: `2602.10623v1`
-- Published: 2026-02-11 08:14 UTC
-- Authors: Zhibin Duan, Guowei Rong, Zhuo Li, Bo Chen, Mingyuan Zhou, Dandan Guo
-- Categories: cs.LG, cs.AI
-- Links: [abs](https://arxiv.org/abs/2602.10623v1) | [pdf](https://arxiv.org/pdf/2602.10623v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Reward models learned from human preferences are central to aligning large language models (LLMs) via reinforcement learning from human feedback, yet they are often vulnerable to reward hacking due to noisy annotations and systematic biases such as response length or style. We propose Bayesian Non-Negative Reward Model (BNRM), a principled reward modeling framework that integrates non-negative factor analysis into Bradley-Terry (BT) preference model. BNRM represents rewards through a sparse, non-negative latent factor generative process that operates at two complementary levels:…
-
-## 9. General Theory of Stable Microwave-Optical Quantum Resources in Hybrid-System Dynamics
-
-- arXiv: `2602.10581v1`
-- Published: 2026-02-11 07:10 UTC
-- Authors: Fan Li, Shi-fan Qi, Z. D. Wang, Yan-Kui Bai
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.10581v1) | [pdf](https://arxiv.org/pdf/2602.10581v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-We develop a general theoretical framework for characterizing stable quantum resources between microwave and optical modes in the dynamics of multipartite hybrid quantum systems with intermediary modes. The effective Hamiltonian for microwave-optical (MO) squeezing is formulated via strong interactions in the microwave-intermediary-optical hybrid system, and based on which rigorous solutions for the dynamics of MO entanglement and quantum steering are derived analytically. Remarkably, it is found that stable MO quantum resources can survive in the unsteady evolution beyond the steady one, and…
+We map the phase diagram of a two-mode atom-molecule Bose-Einstein condensate with Fano-Feshbach and coherent three-body recombination (cTBR) terms. The standard second order phase transition observed as the molecular energy is tuned through the Feshbach resonance, is replaced by a first order transition when cTBR becomes prominent, due to a double-well structure in the free energy landscape. This transition is associated with atom-molecule entanglement, bistability, and molecular metastability. Our results establish cTBR as a powerful knob for quantum state engineering and control of…
