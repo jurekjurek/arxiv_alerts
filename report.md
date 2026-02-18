@@ -1,77 +1,101 @@
 # arXiv alert report
 
-- Generated: 2026-02-17 06:32 UTC
-- Window: papers published since 2026-02-16 06:32 UTC
-- Matches: 6
+- Generated: 2026-02-18 06:37 UTC
+- Window: papers published since 2026-02-17 06:37 UTC
+- Matches: 8
 
-## 1. The road of quantum entanglement: from Einstein to 2022 Nobel Prize in Physics
+## 1. High-rate Scalable Entanglement Swapping Between Remote Entanglement Sources on Deployed New York City Fibers
 
-- arXiv: `2602.14601v1`
-- Published: 2026-02-16 10:02 UTC
-- Authors: Yu Shi
-- Categories: physics.hist-ph, hep-ph, quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.14601v1) | [pdf](https://arxiv.org/pdf/2602.14601v1)
+- arXiv: `2602.15653v1`
+- Published: 2026-02-17 15:27 UTC
+- Authors: Alexander N. Craddock, Tyler Cowan, Niccolò Bigagli, Suresh Yekasiri, Dylan Robinson, Gabriel Bello Portmann et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.15653v1) | [pdf](https://arxiv.org/pdf/2602.15653v1)
+- Score: 5
+- Keyword hits: title=['entanglement'] abstract=['quantum computing', 'entanglement']
+
+Entanglement swapping between photon pairs generated at physically separated nodes over telecommunication fiber infrastructure is an essential step towards the quantum internet, enabling applications such as quantum repeaters, blind quantum computing, distributed quantum computing, and distributed quantum sensing. However, successful networked entanglement swapping relies on generating indistinguishable pairs of photons and preserving them over deployed fibers. This has limited most previous demonstrations to laboratory settings or relied on sophisticated methods to maintain the necessary…
+
+## 2. Entanglement in the Dicke subspace
+
+- arXiv: `2602.15800v1`
+- Published: 2026-02-17 18:39 UTC
+- Authors: Aabhas Gulati, Ion Nechita, Clément Pellegrini
+- Categories: quant-ph, math-ph
+- Links: [abs](https://arxiv.org/abs/2602.15800v1) | [pdf](https://arxiv.org/pdf/2602.15800v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We explain the achievements that were awarded 2022 Nobel Prize in Physics, as well as the preceding and the later developments. The main notions and historic cornerstones of Bell inequalities, the related researches on quantum entanglement are reviewed, and the key physical ideas are emphasized. Among the early work, C. S. Wu's contributions using polarization-entangled photons from electron-positron annihilation are introduced.
+In this paper, we provide a complete mathematical theory for the entanglement of mixtures of Dicke states. These quantum states form an important subclass of bosonic states arising in the study of indistinguishable particles. We introduce a tensor-based parametrization where the diagonal entries of these states are encoded as a symmetric tensor, enabling a direct translation between entanglement properties and well-studied convex cones of tensors. Our results bridge multipartite entanglement theory with semialgebraic geometry and the theory of completely positive and copositive tensors. This…
 
-## 2. Variational preparation and characterization of chiral spin liquids in quantum circuits
+## 3. Optimal Classification of Three-Qubit Entanglement with Cascaded Support Vector Machine
 
-- arXiv: `2602.14769v1`
-- Published: 2026-02-16 14:20 UTC
-- Authors: Zi-Yang Zhang, Donghoon Kim, Ji-Yao Chen
-- Categories: cond-mat.str-el, quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.14769v1) | [pdf](https://arxiv.org/pdf/2602.14769v1)
+- arXiv: `2602.15545v1`
+- Published: 2026-02-17 12:49 UTC
+- Authors: Fatemeh Sadat Lajevardi, Azam Mani, Ali Fahim
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.15545v1) | [pdf](https://arxiv.org/pdf/2602.15545v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+We introduce a systematic framework for three-qubit entanglement classification using a cascaded architecture of Support Vector Machine (SVM) classifiers. Leveraging the well defined three-qubit structure with the four nested entanglement classes (S, B, W, and GHZ), we construct three distinct witness models ($\mathcal{M}_{B}$, $\mathcal{M}_{W}$, and $\mathcal{M}_{GHZ}$) that sequentially discriminate between these classes. The proposed Cascaded model achieves an overall classification accuracy of $95\%$ on a comprehensive dataset of mixed states. The framework's robustness and generalization…
+
+## 4. Universal entanglement-inspired correlations
+
+- arXiv: `2602.15520v1`
+- Published: 2026-02-17 11:48 UTC
+- Authors: Elizabeth Agudelo, Laura Ares, Jan Sperling
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.15520v1) | [pdf](https://arxiv.org/pdf/2602.15520v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+Quantum correlations, crucial for the advantage and advancement of quantum science and technology, arise from the impossibility of expressing a quantum state as a tensor product over a given set of parties. In this work, a generalized notion of correlations via arbitrary products is formulated. Remarkably, as a universal property, the connection between such general products and tensor products is established, allowing one to relate generic non-product states to the common notion of entangled states. We construct the set of free operations for general types of products by extending the…
+
+## 5. Nonlocality without entanglement in exclusion of quantum states
+
+- arXiv: `2602.15452v1`
+- Published: 2026-02-17 09:38 UTC
+- Authors: Satyaki Manna, Anandamay Das Bhowmik
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.15452v1) | [pdf](https://arxiv.org/pdf/2602.15452v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+We study the task of quantum state exclusion, focusing on antidistinguishability and its generalization to $x$-antidistinguishability, under global measurements and local operations with classical communication (LOCC). We also introduce weak and strong notions of antidistinguiahbaility ($x$-antidistinguishability) depending on whether all states or all $x$-tuples are exhaustively eliminated. Our results reveal striking differences between state exclusion and the more familiar task of state discrimination. In particular, we show that LOCC antidistinguishability of multipartite product states…
+
+## 6. Generating quantum entanglement from sunlight
+
+- arXiv: `2602.15655v1`
+- Published: 2026-02-17 15:30 UTC
+- Authors: Cheng Li, Jasvinder Brar, Michael Küblböck, Jeremy Upham, Hanieh Fattahi, Robert W. Boyd
+- Categories: quant-ph, physics.optics
+- Links: [abs](https://arxiv.org/abs/2602.15655v1) | [pdf](https://arxiv.org/pdf/2602.15655v1)
+- Score: 3
+- Keyword hits: title=['entanglement'] abstract=[]
+
+Energy consumption is becoming a serious bottleneck for integrating quantum technologies within the existing global information infrastructure. In photonic architectures, considerable energy overheads stem from using lasers, whose high coherence was long considered indispensable for quantum state preparation. Here, we demonstrate that natural, incoherent sunlight can successfully produce quantum-entangled states via spontaneous parametric down-conversion. We detect polarization-entangled photon pairs with a concurrence of $0.905\pm0.053$ and a Bell state fidelity of $0.939\pm0.027$.…
+
+## 7. Meta-Learning for GPU-Accelerated Quantum Many-Body Problems
+
+- arXiv: `2602.15706v1`
+- Published: 2026-02-17 16:40 UTC
+- Authors: Yun-Hsuan Chen, Jen-Yu Chang, Tsung-Wei Huang, En-Jui Kuo
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.15706v1) | [pdf](https://arxiv.org/pdf/2602.15706v1)
 - Score: 2
 - Keyword hits: title=[] abstract=['variational quantum eigensolver', 'vqe']
 
-Quantum circuits have been shown to be a fertile ground for realizing long-range entangled phases of matter. While various quantum double models with non-chiral topological order have been theoretically investigated and experimentally implemented, the realization and characterization of chiral topological phases have remained less explored. Here we show that chiral topological phases in spin systems, i.e., chiral spin liquids, can be prepared in quantum circuits using the variational quantum eigensolver (VQE) framework. On top of the VQE ground state, signatures of the chiral topological…
+We explore the industrial and scientific applicability of the VQE-LSTM framework by integrating meta-learning with GPU accelerated quantum simulation using NVIDIA's CUDA-Q (CUDAQ) platform. This work demonstrates how an LSTM-FC meta-initialization module can extend the practical reach of the Variational Quantum Eigensolver (VQE) in both chemistry and physics domains. In the chemical regime, the framework predicts ground-state energies of molecular Hamiltonians derived from PySCF, achieving near FCI accuracy while maintaining favorable O(N^2) scaling with molecular size. In the physical…
 
-## 3. Low Depth Unitary Coupled Cluster Algorithm for Large Chemical Systems
+## 8. Theory of temporal three-photon interference
 
-- arXiv: `2602.14999v1`
-- Published: 2026-02-16 18:28 UTC
-- Authors: Jeremy Canfield, Dominika Zgid, J K Freericks
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.14999v1) | [pdf](https://arxiv.org/pdf/2602.14999v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['variational quantum eigensolver']
-
-The unitary coupled cluster (UCC) algorithm is one of the most promising implementations of the variational quantum eigensolver for quantum computers. However, for large systems, the number of UCC factors leads to deep quantum circuits, which are prohibitive for execution on quantum hardware. To address this, circuit depth can be reduced at the cost of more measurements with a Taylor series expansion of UCC factors with small angles, while treating the large-angle factors exactly. We implement this approach to quadratic order (qUCC) for systems with strong correlations and systems where…
-
-## 4. Constrained Portfolio Optimization via Quantum Approximate Optimization Algorithm (QAOA) with XY-Mixers and Trotterized Initialization: A Hybrid Approach for Direct Indexing
-
-- arXiv: `2602.14827v1`
-- Published: 2026-02-16 15:19 UTC
-- Authors: Javier Mancilla, Theodoros D. Bouloumis, Frederic Goguikian
-- Categories: quant-ph, q-fin.CP, q-fin.PM
-- Links: [abs](https://arxiv.org/abs/2602.14827v1) | [pdf](https://arxiv.org/pdf/2602.14827v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Portfolio optimization under strict cardinality constraints is a combinatorial challenge that defies classical convex optimization techniques, particularly in the context of "Direct Indexing" and ESG-constrained mandates. In the Noisy Intermediate-Scale Quantum (NISQ) era, the Quantum Approximate Optimization Algorithm (QAOA) offers a promising hybrid approach. However, standard QAOA implementations utilizing transverse field mixers often fail to strictly enforce hard constraints, necessitating soft penalties that distort the energy landscape. This paper presents a comprehensive analysis of a…
-
-## 5. Probabilistic Cutoffs in Homogeneous Quantum Repeater Chains
-
-- arXiv: `2602.14738v1`
-- Published: 2026-02-16 13:34 UTC
-- Authors: Jeroen Grimbergen, Stav Haldar, Alvaro Gomez Inesta, Stephanie Wehner
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.14738v1) | [pdf](https://arxiv.org/pdf/2602.14738v1)
+- arXiv: `2602.15573v1`
+- Published: 2026-02-17 13:33 UTC
+- Authors: Nilakshi Senapati, Girish Kulkarni, Anand K. Jha
+- Categories: quant-ph, physics.optics
+- Links: [abs](https://arxiv.org/abs/2602.15573v1) | [pdf](https://arxiv.org/pdf/2602.15573v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We study quantum repeater chains in which entangled links between neighbouring nodes are created through heralded entanglement generation and adjacent links are swapped as soon as possible. Since heralded entanglement generation attempts succeed only probabilistically, some links will have to be stored in quantum memories at the nodes of the chain while waiting for adjacent links to be generated. The fidelity of these stored links decreases with time due to decoherence, and if they are stored for too long then this can lead to low end-to-end fidelity. Previous work has shown that the…
-
-## 6. Quantum-Assisted Trainable-Embedding Physics-Informed Neural Networks for Parabolic PDEs
-
-- arXiv: `2602.14596v1`
-- Published: 2026-02-16 09:59 UTC
-- Authors: Ban Q. Tran, Nahid Binandeh Dehaghani, Rafal Wisniewski, Susan Mengel, A. Pedro Aguiar
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.14596v1) | [pdf](https://arxiv.org/pdf/2602.14596v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum machine learning']
-
-Physics-informed neural networks (PINNs) have emerged as a powerful framework for solving partial differential equations (PDEs) by embedding governing physical laws directly into the training objective. Recent advances in quantum machine learning have motivated hybrid quantum-classical extensions aimed at enhancing representational capacity while remaining compatible with near-term quantum hardware. In this work, we investigate trainable embedding strategies within quantum-assisted PINNs for solving parabolic PDEs, using one- and two-dimensional heat equations as canonical benchmarks. We…
+The recent demonstrations of cascaded PDC (CPDC) and the hopeful prospects of realizing third-order PDC (TOPDC) for the generation of three-photon entangled states are paving the way for experimental studies on genuine three-photon interference. In this article, we formulate three-photon interference in terms of ``each three-photon interfering only with itself.'' We show that although a generalized two-alternative three-photon interference setup based on CPDC or TOPDC involves eight different length parameters, the interference can be fully characterized in terms of only three independent…
