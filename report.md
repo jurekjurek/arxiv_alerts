@@ -1,113 +1,149 @@
 # arXiv alert report
 
-- Generated: 2026-02-19 06:35 UTC
-- Window: papers published since 2026-02-18 06:35 UTC
-- Matches: 9
+- Generated: 2026-02-20 06:11 UTC
+- Window: papers published since 2026-02-19 06:11 UTC
+- Matches: 12
 
-## 1. The spatial Wilson loops, string breaking, and AdS/QCD
+## 1. A Study of Entanglement and Ansatz Expressivity for the Transverse-Field Ising Model using Variational Quantum Eigensolver
 
-- arXiv: `2602.16657v1`
-- Published: 2026-02-18 17:58 UTC
-- Authors: Oleg Andreev
-- Categories: hep-ph, hep-lat, hep-th, nucl-th
-- Links: [abs](https://arxiv.org/abs/2602.16657v1) | [pdf](https://arxiv.org/pdf/2602.16657v1)
-- Score: 4
-- Keyword hits: title=['wilson'] abstract=['wilson']
+- arXiv: `2602.17662v1`
+- Published: 2026-02-19 18:59 UTC
+- Authors: Ashutosh P. Tripathi, Nilmani Mathur, Vikram Tripathi
+- Categories: quant-ph, cond-mat.stat-mech
+- Links: [abs](https://arxiv.org/abs/2602.17662v1) | [pdf](https://arxiv.org/pdf/2602.17662v1)
+- Score: 9
+- Keyword hits: title=['variational quantum eigensolver', 'entanglement'] abstract=['variational quantum eigensolver', 'vqe', 'entanglement']
 
-We consider the phenomenon of string breaking in the context of the spatial Wilson loops using the gauge/string duality. In particular, we discuss the impact of light flavors on the pseudopotential. We also introduce the notion of the spatial string breaking distance and estimate it for $SU(3)$ gauge theory in the temperature range $0\,\text{-}\,3\,T_c$.
+The Variational Quantum Eigensolver (VQE) is a leading hybrid quantum-classical algorithm for simulating many-body systems in the NISQ era. Its effectiveness, however, depends on the faithful preparation of eigenstates, which becomes challenging in degenerate and strongly entangled regimes. We study this problem using the transverse-field Ising model (TFIM) with periodic boundary conditions in one, two, and three dimensions, considering systems of up to 27 qubits. We employ different ansatzes: the hardware-efficient EfficientSU2 from Qiskit, the physics-inspired Hamiltonian Variational Ansatz…
 
-## 2. Entanglement negativity in decohered topological states
+## 2. Scalable, self-verifying variational quantum eigensolver using adiabatic warm starts
 
-- arXiv: `2602.16597v1`
-- Published: 2026-02-18 16:52 UTC
-- Authors: Kang-Le Cai, Meng Cheng
-- Categories: cond-mat.str-el, hep-th, quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.16597v1) | [pdf](https://arxiv.org/pdf/2602.16597v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-We investigate universal entanglement signatures of mixed-state phases obtained by decohering pure-state topological order (TO), focusing on topological corrections to logarithmic entanglement negativity and mutual information: topological entanglement negativity (TEN) and topological mutual information (TMI). For Abelian TOs under decoherence, we develop a replica field-theory framework based on a doubled-state construction that relates TEN and TMI to the quantum dimensions of domain-wall defects between decoherence-induced topological boundary conditions, yielding general expressions in the…
-
-## 3. Illustration of Barren Plateaus in Quantum Computing
-
-- arXiv: `2602.16558v1`
-- Published: 2026-02-18 15:56 UTC
-- Authors: Gerhard Stenzel, Tobias Rohe, Michael Kölle, Leo Sünkel, Jonas Stein, Claudia Linnhoff-Popien
-- Categories: cs.LG, quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.16558v1) | [pdf](https://arxiv.org/pdf/2602.16558v1)
-- Score: 4
-- Keyword hits: title=['quantum computing'] abstract=['quantum machine learning']
-
-Variational Quantum Circuits (VQCs) have emerged as a promising paradigm for quantum machine learning in the NISQ era. While parameter sharing in VQCs can reduce the parameter space dimensionality and potentially mitigate the barren plateau phenomenon, it introduces a complex trade-off that has been largely overlooked. This paper investigates how parameter sharing, despite creating better global optima with fewer parameters, fundamentally alters the optimization landscape through deceptive gradients -- regions where gradient information exists but systematically misleads optimizers away from…
-
-## 4. Enhancing delocalization and entanglement in asymmetric discrete-time quantum walks
-
-- arXiv: `2602.16391v1`
-- Published: 2026-02-18 11:56 UTC
-- Authors: Hao Zhao, Qiyan He, Fengzhi Yang, Cui Kong, Huiyun Cao, Tianqi Yan et al.
+- arXiv: `2602.17612v1`
+- Published: 2026-02-19 18:38 UTC
+- Authors: Bojan Žunkovič, Marco Ballarin, Lewis Wright, Michael Lubasch
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.16391v1) | [pdf](https://arxiv.org/pdf/2602.16391v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
+- Links: [abs](https://arxiv.org/abs/2602.17612v1) | [pdf](https://arxiv.org/pdf/2602.17612v1)
+- Score: 5
+- Keyword hits: title=['variational quantum eigensolver'] abstract=['variational quantum eigensolver', 'vqe']
 
-In this paper, we investigate the enhancement of delocalization and coin-position entanglement in asymmetric discrete-time quantum walks (DTQWs). The asymmetry results from asymmetric coin operations, asymmetric initial states, and asymmetric polarization-dependent losses. By varying these asymmetry factors, the inverse participation ratio and entanglement entropy of the walker are numerically calculated for different coin and loss parameters, both for symmetric and asymmetric initial states. We then experimentally implement a 16-step asymmetric DTQW using a time-multiplexing fiber loop…
+We study an adiabatic variant of the variational quantum eigensolver (VQE) in which VQE is performed iteratively for a sequence of Hamiltonians along an adiabatic path. We derive the conditions under which gradient-based optimization successfully prepares the adiabatic ground states. These conditions show that the barren plateau problem and local optima can be avoided. Additionally, we propose using energy-standard-deviation measurements at runtime to certify eigenstate accuracy and verify convergence to the global optimum.
 
-## 5. Where Multipartite Entanglement Localizes: The Junction Law for Genuine Multi-Entropy
+## 3. A rigorous hybridization of variational quantum eigensolver and classical neural network
 
-- arXiv: `2602.16331v1`
-- Published: 2026-02-18 10:12 UTC
-- Authors: Norihiro Iizuka, Akihiro Miyata
-- Categories: hep-th, cond-mat.stat-mech, quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.16331v1) | [pdf](https://arxiv.org/pdf/2602.16331v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-We uncover a "junction law" for genuine multipartite entanglement, suggesting that in gapped local systems multipartite entanglement is controlled and effectively localized near junctions where subsystem boundaries meet. Using the Rényi-2 genuine multi-entropy $\mathrm{GM}^{(\mathtt{q})}_2$ as a diagnostic of genuine $\mathtt{q}$-partite entanglement, we establish this behavior in $(2+1)$-dimensional gapped free-fermion lattices with correlation length $ξ$. For partitions with a single junction, $\mathrm{GM}^{(\mathtt{q})}_2$ exhibits a universal scaling crossover in $L/ξ$, growing for…
-
-## 6. Tomographically-nonlocal entanglement
-
-- arXiv: `2602.16280v1`
-- Published: 2026-02-18 08:59 UTC
-- Authors: Roberto D. Baldijão, Marco Erba, David Schmid, John H. Selby, Ana Belén Sainz
+- arXiv: `2602.17295v1`
+- Published: 2026-02-19 11:58 UTC
+- Authors: Minwoo Kim, Kyoung Keun Park, Kyungmin Lee, Jeongho Bang, Taehyun Kim
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.16280v1) | [pdf](https://arxiv.org/pdf/2602.16280v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
+- Links: [abs](https://arxiv.org/abs/2602.17295v1) | [pdf](https://arxiv.org/pdf/2602.17295v1)
+- Score: 5
+- Keyword hits: title=['variational quantum eigensolver'] abstract=['variational quantum eigensolver', 'vqe']
 
-Entanglement is a central and subtle feature of quantum theory, whose structure and operational behavior can change dramatically when additional physical constraints, such as symmetries or superselection rules, are imposed. Such constraints can give rise to striking and counter-intuitive phenomena, including local broadcasting of entangled states and failures of entanglement monogamy. These effects naturally arise in tomographically nonlocal theories (like real quantum theory, twirled worlds, or fermionic quantum theory), where composite systems possess holistic degrees of freedom that are…
+Neural post-processing has been proposed as a lightweight route to enhance variational quantum eigensolvers by learning how to reweight measurement outcomes. In this work, we identify three general desiderata for such data-driven neural post-processing -- (i) self-contained training without prior knowledge, (ii) polynomial resources, and (iii) variational consistency -- and show that current approaches, such as diagonal non-unitary post-processing (DNP), cannot satisfy these requirements simultaneously. The obstruction is intrinsic: with finite sampling, normalization becomes a statistical…
 
-## 7. MerLean: An Agentic Framework for Autoformalization in Quantum Computation
+## 4. Superiority of Krylov shadow tomography in estimating quantum Fisher information: From bounds to exactness
 
-- arXiv: `2602.16554v1`
-- Published: 2026-02-18 15:54 UTC
-- Authors: Yuanjie Ren, Jinzheng Li, Yidi Qi
-- Categories: cs.LO, cs.AI, cs.ET, quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.16554v1) | [pdf](https://arxiv.org/pdf/2602.16554v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-We introduce MerLean, a fully automated agentic framework for autoformalization in quantum computation. MerLean extracts mathematical statements from \LaTeX{} source files, formalizes them into verified Lean~4 code built on Mathlib, and translates the result back into human-readable \LaTeX{} for semantic review. We evaluate MerLean on three theoretical quantum computing papers producing 2,050 Lean declarations from 114 statements in total. MerLean achieves end-to-end formalization on all three papers, reducing the verification burden to only the newly introduced definitions and axioms. Our…
-
-## 8. Port-based teleportation under pure-dephasing decoherence
-
-- arXiv: `2602.16513v1`
-- Published: 2026-02-18 15:01 UTC
-- Authors: Rajendra S. Bhati, Michał Studziński, Jarosław K. Korbicz
+- arXiv: `2602.17361v1`
+- Published: 2026-02-19 13:43 UTC
+- Authors: Yuan-Hao Wang, Da-Jian Zhang
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.16513v1) | [pdf](https://arxiv.org/pdf/2602.16513v1)
+- Links: [abs](https://arxiv.org/abs/2602.17361v1) | [pdf](https://arxiv.org/pdf/2602.17361v1)
+- Score: 4
+- Keyword hits: title=['krylov'] abstract=['krylov']
+
+Estimating the quantum Fisher information (QFI) is a crucial yet challenging task with widespread applications across quantum science and technologies. The recently proposed Krylov shadow tomography (KST) opens a new avenue for this task by introducing a series of Krylov bounds on the QFI. In this work, we address the practical applicability of the KST, unveiling that the Krylov bounds of low orders already enable efficient and accurate estimation of the QFI. We show that the Krylov bounds converge to the QFI exponentially fast with increasing order and can surpass the state-of-the-art…
+
+## 5. Dataless Weight Disentanglement in Task Arithmetic via Kronecker-Factored Approximate Curvature
+
+- arXiv: `2602.17385v1`
+- Published: 2026-02-19 14:10 UTC
+- Authors: Angelo Porrello, Pietro Buzzega, Felix Dangel, Thomas Sommariva, Riccardo Salami, Lorenzo Bonicelli et al.
+- Categories: cs.AI
+- Links: [abs](https://arxiv.org/abs/2602.17385v1) | [pdf](https://arxiv.org/pdf/2602.17385v1)
+- Score: 3
+- Keyword hits: title=['entanglement'] abstract=[]
+
+Task Arithmetic yields a modular, scalable way to adapt foundation models. Combining multiple task vectors, however, can lead to cross-task interference, causing representation drift and degraded performance. Representation drift regularization provides a natural remedy to disentangle task vectors; however, existing approaches typically require external task data, conflicting with modularity and data availability constraints (e.g., privacy requirements). We propose a dataless approach by framing regularization against representation drift as a curvature matrix approximation problem. This…
+
+## 6. Quantum Scrambling Born Machine
+
+- arXiv: `2602.17281v1`
+- Published: 2026-02-19 11:33 UTC
+- Authors: Marcin Płodzień
+- Categories: quant-ph, cs.LG
+- Links: [abs](https://arxiv.org/abs/2602.17281v1) | [pdf](https://arxiv.org/pdf/2602.17281v1)
+- Score: 2
+- Keyword hits: title=[] abstract=['quantum computing', 'entanglement']
+
+Quantum generative modeling, where the Born rule naturally defines probability distributions through measurement of parameterized quantum states, is a promising near-term application of quantum computing. We propose a Quantum Scrambling Born Machine in which a fixed entangling unitary -- acting as a scrambling reservoir -- provides multi-qubit entanglement, while only single-qubit rotations are optimized. We consider three entangling unitaries -- a Haar random unitary and two physically realizable approximations, a finite-depth brickwork random circuit and analog time evolution under…
+
+## 7. The Hidden Nature of Non-Markovianity
+
+- arXiv: `2602.17631v1`
+- Published: 2026-02-19 18:47 UTC
+- Authors: Jihong Cai, Advith Govindarajan, Marius Junge
+- Categories: quant-ph, math.DS, math.OC
+- Links: [abs](https://arxiv.org/abs/2602.17631v1) | [pdf](https://arxiv.org/pdf/2602.17631v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We study deterministic port based teleportation in the presence of noise affecting both the entangled resource state and the measurement process. We focus on a physically motivated model in which each Bell pair constituting the resource interacts with an identical local environment, corresponding to independently distributed entangled links. Two noisy scenarios are analyzed: one with decoherence acting solely on the resource state and ideal measurements, and another with noisy, noise adapted measurements optimised for the given noise model. In the first case, we derive an analytical lower…
+The theory of open quantum systems served as a tool to prepare entanglement at the beginning stage of quantum technology and more recently provides an important tool for state preparation. Dynamics given by time dependent Lindbladians are Markovian and lead to decoherence, decay of correlation and convergence to equilibrium. In contrast Non-Markovian evolutions can outperform their Markovian counterparts by enhancing memory. In this letter we compare the trajectories of Markovian and Non-Markovian evolutions starting from a fixed initial value. It turns out that under mild assumptions every…
 
-## 9. Structured Unitary Tensor Network Representations for Circuit-Efficient Quantum Data Encoding
+## 8. A Shadow Enhanced Greedy Quantum Eigensolver
 
-- arXiv: `2602.16266v1`
-- Published: 2026-02-18 08:36 UTC
-- Authors: Guang Lin, Toshihisa Tanaka, Qibin Zhao
-- Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2602.16266v1) | [pdf](https://arxiv.org/pdf/2602.16266v1)
+- arXiv: `2602.17615v1`
+- Published: 2026-02-19 18:40 UTC
+- Authors: Jona Erle, Balint Koczor
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.17615v1) | [pdf](https://arxiv.org/pdf/2602.17615v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum machine learning']
+- Keyword hits: title=[] abstract=['quantum computing']
 
-Encoding classical data into quantum states is a central bottleneck in quantum machine learning: many widely used encodings are circuit-inefficient, requiring deep circuits and substantial quantum resources, which limits scalability on quantum hardware. In this work, we propose TNQE, a circuit-efficient quantum data encoding framework built on structured unitary tensor network (TN) representations. TNQE first represents each classical input via a TN decomposition and then compiles the resulting tensor cores into an encoding circuit through two complementary core-to-circuit strategies. To make…
+While ground-state preparation is expected to be a primary application of quantum computers, it is also an essential subroutine for many fault-tolerant algorithms. In early fault-tolerant regimes, logical measurements remain costly, motivating adaptive, shot-frugal state-preparation strategies that efficiently utilize each measurement. We introduce the Shadow Enhanced Greedy Quantum Eigensolver (SEGQE) as a greedy, shadow-assisted framework for measurement-efficient ground-state preparation. SEGQE uses classical shadows to evaluate, in parallel and entirely in classical post-processing, the…
+
+## 9. Quantum Advantage for Sensing Properties of Classical Fields
+
+- arXiv: `2602.17591v1`
+- Published: 2026-02-19 18:15 UTC
+- Authors: Jordan Cotler, Daine L. Danielson, Ishaan Kannan
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.17591v1) | [pdf](https://arxiv.org/pdf/2602.17591v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Modern precision experiments often probe unknown classical fields with bosonic sensors in quantum-noise-limited regimes where vacuum fluctuations limit conventional readout. We introduce Quantum Signal Learning (QSL), a sensing framework that extends metrology to a broader property-learning setting, and propose a quantum-enhanced protocol that simultaneously estimates many properties of a classical signal with shot noise suppressed below the vacuum level. Our scheme requires only two-mode squeezing, passive optics, and static homodyne measurements, and enables post-hoc classical estimation of…
+
+## 10. Efficiency of classical simulations of a noisy Grover algorithm
+
+- arXiv: `2602.17569v1`
+- Published: 2026-02-19 17:24 UTC
+- Authors: Raphaël Menu, Johannes Schachenmayer
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.17569v1) | [pdf](https://arxiv.org/pdf/2602.17569v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+We analyze the modification of entanglement dynamics in the Grover algorithm when the qubits are subjected to single-qubit amplitude-damping or phase-flip noise. We compare quantum trajectories with full density-matrix simulations, analyzing the dynamics of averaged trajectory entanglement (TE) and operator entanglement (OE), in the respective state representation. Although not a genuine entanglement measure, both TE and OE are connected to the efficiency of matrix product state simulations and thus of fundamental interest. As in many quantum algorithms, at the end of the Grover circuit…
+
+## 11. Fault-tolerant preparation of arbitrary logical states in the cat code
+
+- arXiv: `2602.17438v1`
+- Published: 2026-02-19 15:07 UTC
+- Authors: Zi-Jie Chen, Weizhou Cai, Liang-Xu Xie, Qing-Xuan Jie, Xu-Bo Zou, Guang-Can Guo et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.17438v1) | [pdf](https://arxiv.org/pdf/2602.17438v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Preparing high-fidelity logical states is a central challenge in fault-tolerant quantum computing, yet existing approaches struggle to balance control complexity against resource overhead. Here, we present a complete framework for the fault-tolerant preparation of arbitrary logical states encoded in the four-legged cat code. This framework is engineered to suppress the dominant incoherent errors, including excitation decay and dephasing in both the bosonic mode and the ancilla via error detection. Numerical simulations with experimentally realistic parameters on a 3D superconducting cavity…
+
+## 12. Tight any-shot quantum decoupling
+
+- arXiv: `2602.17430v1`
+- Published: 2026-02-19 15:01 UTC
+- Authors: Mario Berta, Hao-Chung Cheng, Yongsheng Yao
+- Categories: quant-ph, cs.IT, math-ph
+- Links: [abs](https://arxiv.org/abs/2602.17430v1) | [pdf](https://arxiv.org/pdf/2602.17430v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Quantum information decoupling is a fundamental primitive in quantum information theory, underlying various applications in quantum physics. We prove a novel one-shot decoupling theorem formulated in terms of quantum relative entropy distance, with the decoupling error bounded by two sandwiched Rényi conditional entropies. In the asymptotic i.i.d. setting of standard information decoupling via partial trace, we show that this bound is ensemble-tight in quantum relative entropy distance and thereby yields a characterization of the associated decoupling error exponent in the low-cost-rate…
