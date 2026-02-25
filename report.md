@@ -1,185 +1,137 @@
 # arXiv alert report
 
-- Generated: 2026-02-24 06:34 UTC
-- Window: papers published since 2026-02-23 06:34 UTC
-- Matches: 15
+- Generated: 2026-02-25 06:38 UTC
+- Window: papers published since 2026-02-24 06:38 UTC
+- Matches: 11
 
-## 1. Entanglement formation in two-dimensional materials within microcavity
+## 1. $σ$-VQE: Excited-state preparation of quantum many-body scars with shallow circuits
 
-- arXiv: `2602.20077v1`
-- Published: 2026-02-23 17:42 UTC
-- Authors: Fabricio Danel Matias, Facundo Arreyes, Juan Sebastián Ardenghi
-- Categories: quant-ph, cond-mat.str-el
-- Links: [abs](https://arxiv.org/abs/2602.20077v1) | [pdf](https://arxiv.org/pdf/2602.20077v1)
+- arXiv: `2602.20881v1`
+- Published: 2026-02-24 13:21 UTC
+- Authors: Eoin Carolan, Nathan Keenan, Gabriele Cenedese, Giuliano Benenti
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.20881v1) | [pdf](https://arxiv.org/pdf/2602.20881v1)
+- Score: 6
+- Keyword hits: title=['vqe'] abstract=['variational quantum eigensolver', 'vqe', 'entanglement']
+
+We present and benchmark a type of variational quantum eigensolver (VQE), which we denote the $σ$-VQE. It is designed to target mid-spectrum eigenstates and prepare quantum many-body scar states. The approach leverages the fact that noisy intermediate-scale quantum devices are limited in their ability to generate generic highly-entangled states. This modified VQE pairs a low-depth circuit with an energy-selective objective that explicitly penalizes energy variance around a chosen target energy. The cost function exploits the limited expressibility of the shallow circuit as atypical…
+
+## 2. Entanglement-Induced Resilience of Quantum Dynamics
+
+- arXiv: `2602.20987v1`
+- Published: 2026-02-24 15:10 UTC
+- Authors: Tianfeng Feng, Yue Cao, Wenjun Yu, Junkai Zeng, Xiaopeng Li, Xiu-Hao Deng et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.20987v1) | [pdf](https://arxiv.org/pdf/2602.20987v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-In this work, the entanglement generation between two hexagonal-lattice layers embedded in a microcavity is studied, accounting for both electromagnetic coupling and intrinsic spin-orbit interaction (SOI). Utilizing a short-time dynamical approach, we perform a perturbative Taylor expansion of the reduced density matrix to characterize the bipartite quantum correlations between the hexagonal layers. We demonstrate that the system undergoes a rapid transition from a localized product state in the conduction bands at t = 0 to a coherent superposition of valence and conduction band states. Our…
+Quantum many-body devices suffer from imperfections that destabilize dynamics and limit scalability. We show that the dynamical growth of entanglement can intrinsically protect generic quantum dynamics against coherent and perturbative noise. Through rigorous theoretical analysis of general quantum dynamics and numerical simulations of spin chains and fermionic lattices, we prove that entanglement-entropy growth confines the influence of local Hamiltonian perturbations, thereby suppressing errors in dynamical errors. The degree of protection correlates quantitatively with the entanglement…
 
-## 2. Krylov Distribution and Universal Convergence of Quantum Fisher Information
+## 3. A note on entanglement detection via the generalized realignment moments
 
-- arXiv: `2602.19750v1`
-- Published: 2026-02-23 11:59 UTC
-- Authors: Mohsen Alishahiha, Fatemeh Tarighi Tabesh, Mohammad Javad Vasli
-- Categories: quant-ph, cond-mat.stat-mech, hep-th
-- Links: [abs](https://arxiv.org/abs/2602.19750v1) | [pdf](https://arxiv.org/pdf/2602.19750v1)
-- Score: 4
-- Keyword hits: title=['krylov'] abstract=['krylov']
-
-We develop a spectral-resolvent framework for computing the quantum Fisher information (QFI) using Krylov subspace methods, extending the notion of the Krylov distribution. By expressing the QFI as a resolvent moment of the superoperator $\mathcal{K}_ρ$ associated with a density matrix, the Krylov distribution quantifies how the QFI weight is distributed across Krylov levels in operator space and provides a natural measure for controlling the truncation error in Krylov approximations. Leveraging orthogonal polynomial theory, we identify two universal convergence regimes: exponential decay…
-
-## 3. Tri-Subspaces Disentanglement for Multimodal Sentiment Analysis
-
-- arXiv: `2602.19585v1`
-- Published: 2026-02-23 08:19 UTC
-- Authors: Chunlei Meng, Jiabin Luo, Zhenglin Yan, Zhenyu Yu, Rong Fu, Zhongxue Gan et al.
-- Categories: cs.MM, cs.AI
-- Links: [abs](https://arxiv.org/abs/2602.19585v1) | [pdf](https://arxiv.org/pdf/2602.19585v1)
+- arXiv: `2602.20763v1`
+- Published: 2026-02-24 10:44 UTC
+- Authors: Xiaofen Huang, Xishun Zhu, Bin Chen, Naihuan Jing, Shao-Ming Fei
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.20763v1) | [pdf](https://arxiv.org/pdf/2602.20763v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Multimodal Sentiment Analysis (MSA) integrates language, visual, and acoustic modalities to infer human sentiment. Most existing methods either focus on globally shared representations or modality-specific features, while overlooking signals that are shared only by certain modality pairs. This limits the expressiveness and discriminative power of multimodal representations. To address this limitation, we propose a Tri-Subspace Disentanglement (TSD) framework that explicitly factorizes features into three complementary subspaces: a common subspace capturing global consistency,…
+The experimental detection of quantum entanglement is of great importance in quantum information processing. We present two separability criteria based on the generalized realignment moments. By incorporating additional parameters, these criteria prove to be more flexible and stronger than some of existing ones. Detailed examples are given to demonstrate their availability and feasibility for entanglement detection.
 
-## 4. Improving Generalization and Trainability of Quantum Eigensolvers via Graph Neural Encoding
+## 4. Spatial Entanglement Sudden Death in Spin Chains at All Temperatures
 
-- arXiv: `2602.19752v1`
-- Published: 2026-02-23 12:01 UTC
-- Authors: Jungyun Lee, Daniel K. Park
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.19752v1) | [pdf](https://arxiv.org/pdf/2602.19752v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['variational quantum eigensolver', 'vqe']
+- arXiv: `2602.20694v1`
+- Published: 2026-02-24 08:54 UTC
+- Authors: Samuel O. Scalet
+- Categories: quant-ph, cond-mat.stat-mech, math-ph
+- Links: [abs](https://arxiv.org/abs/2602.20694v1) | [pdf](https://arxiv.org/pdf/2602.20694v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Determining the ground state of a many-body Hamiltonian is a central problem across physics, chemistry, and combinatorial optimization, yet it is often classically intractable due to the exponential growth of Hilbert space with system size. Even on fault-tolerant quantum computers, quantum algorithms with convergence guarantees -- such as quantum phase estimation and quantum subspace methods -- require an initial state with sufficiently large overlap with the true ground state to be effective. Variational quantum eigensolvers (VQEs) are natural candidates for preparing such states; however,…
+We prove a finite entanglement length for the Gibbs state of any local Hamiltonian on a spin chain at any finite temperature: After removing an interval of size at least equal to the entanglement length, the remaining left and right half-chains are in a separable state.
 
-## 5. Quantum simulation in the Heisenberg picture via vectorization
+## 5. Kondo breakdown as an entanglement transition driven by continuous measurement
 
-- arXiv: `2602.20154v1`
-- Published: 2026-02-23 18:59 UTC
-- Authors: Shao-Hen Chiew, Armando Angrisani, Zoë Holmes, Giuseppe Carleo
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.20154v1) | [pdf](https://arxiv.org/pdf/2602.20154v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
+- arXiv: `2602.20600v1`
+- Published: 2026-02-24 06:45 UTC
+- Authors: Debraj Debata, Abhirup Mukherjee, Siddhartha Lal
+- Categories: cond-mat.str-el, cond-mat.mes-hall, quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.20600v1) | [pdf](https://arxiv.org/pdf/2602.20600v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We present a general framework for simulating quantum systems in the Heisenberg picture on quantum hardware. Based on the vectorization map, our framework fully exploits the mapping between operators and quantum states, allowing any task defined on Heisenberg operators to be mapped to standard Schrödinger-picture tasks that are naturally accessible via quantum computers and simulators. This yields new or improved protocols for tasks such as operator sampling, the computation of OTOCs/superoperator expectation values and their higher order moments, two-point correlators, and operator…
+We study the breakdown of Kondo screening by a local magnetic field from the perspective of a measurement-driven entanglement transition in a monitored quantum system. Here, the Kondo coupling leads to the growth in entanglement of an impurity spin with it's fermionic environment, while the local field plays the role of a continuous observer. Using a non-perturbative Unitary Renormalization Group (URG) approach, we derive coupled renormalization-group flow equations for the Kondo exchange and the local field, and obtain a field-dependent RG phase diagram. The RG flows separate a low-energy…
 
-## 6. CQM: Cyclic Qubit Mappings
+## 6. Telemetry-Based Server Selection in the Quantum Internet via Cross-Layer Runtime Estimation
 
-- arXiv: `2602.20123v1`
-- Published: 2026-02-23 18:38 UTC
-- Authors: Maxwell Poster, Sayam Sethi, Jonathan Baker
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.20123v1) | [pdf](https://arxiv.org/pdf/2602.20123v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Quantum computers show promise to solve select problems otherwise intractable on classical computers. However, noisy intermediate-scale quantum (NISQ) era devices are currently prone to various sources of error. Quantum error correction (QEC) shows promise as a path towards fault tolerant quantum computing. Surface codes, in particular, have become ubiquitous throughout literature for their efficacy as a quantum error correcting code, and can execute quantum circuits via lattice surgery operations. Lattice surgery also allows for logical qubits to maneuver around the architecture, if there is…
-
-## 7. StyleStream: Real-Time Zero-Shot Voice Style Conversion
-
-- arXiv: `2602.20113v1`
-- Published: 2026-02-23 18:32 UTC
-- Authors: Yisi Liu, Nicholas Lee, Gopala Anumanchipalli
-- Categories: cs.SD, cs.AI
-- Links: [abs](https://arxiv.org/abs/2602.20113v1) | [pdf](https://arxiv.org/pdf/2602.20113v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Voice style conversion aims to transform an input utterance to match a target speaker's timbre, accent, and emotion, with a central challenge being the disentanglement of linguistic content from style. While prior work has explored this problem, conversion quality remains limited, and real-time voice style conversion has not been addressed. We propose StyleStream, the first streamable zero-shot voice style conversion system that achieves state-of-the-art performance. StyleStream consists of two components: a Destylizer, which removes style attributes while preserving linguistic content, and a…
-
-## 8. Quantum correlation and coherence in a mononuclear nickel-based molecular Magnet
-
-- arXiv: `2602.20013v1`
-- Published: 2026-02-23 16:19 UTC
-- Authors: S. Bhuvaneswari, R. Muthuganesan, R. Radha
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.20013v1) | [pdf](https://arxiv.org/pdf/2602.20013v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-We investigate the behaviors of thermal entanglement, quantum correlation beyond entanglement namely, measurement-induced nonlocality (MIN) and coherence in a nickel radical molecular magnet (Et3NH)[Ni(hfac)2L], whose spin-spin interactions are well described by the Heisenberg model. Using experimentally estimated coupling parameters, we compute the thermal state of the system and analyze the dependence of quantum resources on temperature and magnetic field. The results indicate that the quantum resources of the nickel-radical molecular magnet persist even at room temperature. We show that…
-
-## 9. A Quantum Internet Protocol Suite Beyond Layering
-
-- arXiv: `2602.19998v1`
-- Published: 2026-02-23 16:03 UTC
-- Authors: Angela Sara Cacciapuoti, Marcello Caleffi
+- arXiv: `2602.21007v1`
+- Published: 2026-02-24 15:25 UTC
+- Authors: Masaki Nagai, Hideaki Kawaguchi, Shin Nishio, Takahiko Satoh
 - Categories: quant-ph, cs.NI
-- Links: [abs](https://arxiv.org/abs/2602.19998v1) | [pdf](https://arxiv.org/pdf/2602.19998v1)
+- Links: [abs](https://arxiv.org/abs/2602.21007v1) | [pdf](https://arxiv.org/pdf/2602.21007v1)
+- Score: 2
+- Keyword hits: title=[] abstract=['vqe', 'entanglement']
+
+The Quantum Internet will allow clients to delegate quantum workloads to remote servers over heterogeneous networks, but choosing the server that minimizes end-to-end execution time is difficult because server processing, feedforward classical communication, and entanglement distribution can overlap in protocol-dependent ways and shift the runtime bottleneck. We propose $T_{\max}$, a lightweight runtime score that sums coarse telemetry from multiple layers to obtain a conservative ranking for online server selection without calibrating weights for each deployment. Using NetSquid…
+
+## 7. CG-DMER: Hybrid Contrastive-Generative Framework for Disentangled Multimodal ECG Representation Learning
+
+- arXiv: `2602.21154v1`
+- Published: 2026-02-24 17:59 UTC
+- Authors: Ziwei Niu, Hao Sun, Shujun Bian, Xihong Yang, Lanfen Lin, Yuxin Liu et al.
+- Categories: cs.AI
+- Links: [abs](https://arxiv.org/abs/2602.21154v1) | [pdf](https://arxiv.org/pdf/2602.21154v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Layering, the protocol organization principle underpinning the classical Internet, is ill-suited to the Quantum Internet, built around entanglement, which is non-local and stateful. This paper proposes a quantum-native organizational principle based on dynamic composition, which replaces static layering with a distributed orchestration fabric driven by the node local state and in-band control. Each node runs a Dynamic Kernel that i) constructs a local PoA of candidate steps to advance a service intent, and ii) executes the PoA by composing atomic micro-protocols into context-aware procedures…
+Accurate interpretation of electrocardiogram (ECG) signals is crucial for diagnosing cardiovascular diseases. Recent multimodal approaches that integrate ECGs with accompanying clinical reports show strong potential, but they still face two main concerns from a modality perspective: (1) intra-modality: existing models process ECGs in a lead-agnostic manner, overlooking spatial-temporal dependencies across leads, which restricts their effectiveness in modeling fine-grained diagnostic patterns; (2) inter-modality: existing methods directly align ECG signals with clinical reports, introducing…
 
-## 10. Rapid state-resolved single-atom imaging of alkaline-earth fermions
+## 8. Restriction-Based Certificate of Bipartite Schmidt Rank in Hypergraph States
 
-- arXiv: `2602.19876v1`
-- Published: 2026-02-23 14:21 UTC
-- Authors: Thies Plassmann, Leon Schaefer, Meny Menashes, Guillaume Salomon
-- Categories: quant-ph, cond-mat.quant-gas, physics.atom-ph
-- Links: [abs](https://arxiv.org/abs/2602.19876v1) | [pdf](https://arxiv.org/pdf/2602.19876v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Local Hilbert spaces with large dimension are of key interest for quantum information with applications in quantum computing and memories, quantum simulations and metrology. Thanks to its weak coupling to external perturbations, the large ground-state nuclear spin manifold of fermionic alkaline-earth atoms is an exciting resource to explore for quantum information. Simultaneous single atom and state-resolved detection however remains an outstanding challenge limiting the development of novel quantum computing and simulation schemes beyond qubits. Here, we report on a new imaging technique…
-
-## 11. Differentiable Maximum Likelihood Noise Estimation for Quantum Error Correction
-
-- arXiv: `2602.19722v1`
-- Published: 2026-02-23 11:20 UTC
-- Authors: Hanyan Cao, Dongyang Feng, Cheng Ye, Feng Pan
-- Categories: quant-ph, cond-mat.stat-mech
-- Links: [abs](https://arxiv.org/abs/2602.19722v1) | [pdf](https://arxiv.org/pdf/2602.19722v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Accurate noise estimation is essential for fault-tolerant quantum computing, as decoding performance depends critically on the fidelity of the circuit-level noise parameters. In this work, we introduce a differentiable Maximum Likelihood Estimation (dMLE) framework that enables exact, efficient, and fully differentiable computation of syndrome log-likelihoods, allowing circuit-level noise parameters to be optimized directly via gradient descent. Leveraging the exact Planar solver for repetition codes and a novel, simplified Tensor Network (TN) architecture combined with optimized contraction…
-
-## 12. Curiosity Over Hype: Modeling Motivation Language to Understand Early Outcomes in a Selective Quantum Track
-
-- arXiv: `2602.19659v1`
-- Published: 2026-02-23 10:09 UTC
-- Authors: Daniella Alexandra Crysti Vargas Saldana, Freddy Herrera Cueva
-- Categories: physics.ed-ph, quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.19659v1) | [pdf](https://arxiv.org/pdf/2602.19659v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-We study whether latent motivation signals in short Spanish admission responses predict engagement and performance in an early quantum computing pathway run by QuantumHub Peru. We analyze N=241 applicants' open responses and link them to outcomes from two selective modules: Module 1 (secondary; mathematics and computing foundations; n=23) and Module 2 (secondary + early undergraduate; quantum fundamentals; n=36, including M1 continuers). To ensure baseline comparability, the M2 university entrance exam matched the difficulty of the M1 final. Final grades followed the program's official…
-
-## 13. Spectral Phase Encoding for Quantum Kernel Methods
-
-- arXiv: `2602.19644v1`
-- Published: 2026-02-23 09:42 UTC
-- Authors: Pablo Herrero Gómez, Antonio Jimeno Morenilla, David Muñoz-Hernández, Higinio Mora Mora
-- Categories: cs.LG, quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.19644v1) | [pdf](https://arxiv.org/pdf/2602.19644v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum machine learning']
-
-Quantum kernel methods are promising for near-term quantum ma- chine learning, yet their behavior under data corruption remains insuf- ficiently understood. We analyze how quantum feature constructions degrade under controlled additive noise. We introduce Spectral Phase Encoding (SPE), a hybrid construc- tion combining a discrete Fourier transform (DFT) front-end with a diagonal phase-only embedding aligned with the geometry of diagonal quantum maps. Within a unified framework, we compare QK-DFT against alternative quantum variants (QK-PCA, QK-RP) and classi- cal SVM baselines under identical…
-
-## 14. Characterization and active cancellation of power-line-induced motional-mode frequency noise in a trapped-ion system
-
-- arXiv: `2602.19588v1`
-- Published: 2026-02-23 08:23 UTC
-- Authors: Jaehun You, Jiyong Kang, Kyunghye Kim, Wonhyeong Choi, Taehyun Kim
+- arXiv: `2602.21016v1`
+- Published: 2026-02-24 15:34 UTC
+- Authors: C. Fajardo, M. Paraschiv
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.19588v1) | [pdf](https://arxiv.org/pdf/2602.19588v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-The stability of motional-mode frequency is essential for realizing high-fidelity quantum gates in trapped-ion quantum computing. While broadband Gaussian noise has been extensively studied and mitigated using pulse shaping techniques, the impact of coherent periodic noise has remained largely unexplored. Here we report a systematic investigation of 60-Hz power-line noise and its effect on the secular frequencies of a single ${}^{171}\mathrm{Yb}^{+}$ ion. Using spin-echo Ramsey spectroscopy, we characterize the amplitude and phase of the resulting secular-frequency modulation and validate…
-
-## 15. From Quantum Chaos to a Reversed Quantum Disentangled Liquid in a Disorder-Free Spin Ladder
-
-- arXiv: `2602.19586v1`
-- Published: 2026-02-23 08:20 UTC
-- Authors: Hanieh Najafzadeh, Abdollah Langari
-- Categories: cond-mat.str-el, cond-mat.stat-mech, quant-ph
-- Links: [abs](https://arxiv.org/abs/2602.19586v1) | [pdf](https://arxiv.org/pdf/2602.19586v1)
+- Links: [abs](https://arxiv.org/abs/2602.21016v1) | [pdf](https://arxiv.org/pdf/2602.21016v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-The mechanisms by which isolated interacting quantum systems evade thermalization extend beyond disorder-induced many-body localization, encompassing a growing class of interaction-driven phenomena. We investigate a spin-1/2 ladder with asymmetric XY leg couplings and tunable Ising interactions on the rungs, and identify the microscopic origin of many-body localization (MBL) in this setting. Through a suite of diagnostics -including entanglement dynamics, fidelity susceptibility, adiabatic gauge potential norms, level-spacing statistics and entropy of eigenstates- we uncover a reentrant…
+We investigate bipartite entanglement in qubit hypergraph states across an arbitrary fixed bipartition. Using the real equally weighted (REW) representation, the Schmidt rank across the cut can be computed as the real rank of a phase-cleaned cross-cut sign matrix. Whereas graph states admit an exact cut-rank rule, because the cross-cut phase is purely bilinear, hypergraph states typically contain higher-degree cross-cut interactions, for which the cut-rank rule fails. Our approach certifies entanglement by fixing a single computational-basis assignment on a subset of qubits, thereby selecting…
+
+## 9. Importance of local tetraquark operators for $T_{cc}(3875)^+$
+
+- arXiv: `2602.20848v1`
+- Published: 2026-02-24 12:42 UTC
+- Authors: Andres Stump, Jeremy R. Green
+- Categories: hep-lat
+- Links: [abs](https://arxiv.org/abs/2602.20848v1) | [pdf](https://arxiv.org/pdf/2602.20848v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['wilson']
+
+The doubly charmed tetraquark $T_{cc}(3875)^+$ observed at LHCb has attracted considerable interest in recent years. To accurately determine its finite-volume spectrum, a variational analysis using a large basis of operators, including bilocal scattering operators, but also local tetraquark operators, should be employed. Using Wilson-clover fermions at the $SU(3)$-flavour-symmetric point, we investigated the importance of local tetraquark operators for the $T_{cc}$ spectrum by adding them to a large basis of bilocal $DD^*$ and $D^*D^*$ scattering operators. We performed this calculation using…
+
+## 10. Task Concurrency and Compatibility in Measurement-Based Quantum Networks
+
+- arXiv: `2602.20674v1`
+- Published: 2026-02-24 08:22 UTC
+- Authors: Jakob Kaltoft Søndergaard, René Bødker Christensen, Petar Popovski
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2602.20674v1) | [pdf](https://arxiv.org/pdf/2602.20674v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Measurement-Based Quantum Networks (MBQNs) rely on multipartite pre-shared entanglement resources to satisfy entanglement requests. Traditional designs optimize these resources for individual tasks, neglecting that multiple tasks may arrive concurrently and compete for the same entanglement. We introduce compatibility as a design-level metric, capturing whether concurrent tasks can be satisfied by the same entanglement resources. We define a worst-case notion of compatibility where nodes are prevented from coordinating after task arrival and illustrate why tasks may be incompatible.…
+
+## 11. Non-Clifford symmetry protected topological higher-order cluster states in multi-qubit measurement-based quantum computation
+
+- arXiv: `2602.20612v1`
+- Published: 2026-02-24 07:06 UTC
+- Authors: Motohiko Ezawa
+- Categories: quant-ph, cond-mat.str-el, hep-th
+- Links: [abs](https://arxiv.org/abs/2602.20612v1) | [pdf](https://arxiv.org/pdf/2602.20612v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+A cluster state is a strongly entangled state, which is a source of measurement-based quantum computation. It is generated by applying controlled-Z (CZ) gates to the state $\left\vert ++\cdots +\right\rangle $. It is protected by the $\mathbb{Z}_{2}^{\text{even}}\times \mathbb{Z}_{2}^{ \text{odd}}$ symmetry. By applying general quantum gates to the state $ \left\vert ++\cdots +\right\rangle $, we systematically obtain a general short-range entangled cluster state. If we use a non-Clifford gate such as the controlled phase-shift gate, we obtain a non-Clifford cluster state. Furthermore, if we…
