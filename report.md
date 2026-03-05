@@ -1,77 +1,149 @@
 # arXiv alert report
 
-- Generated: 2026-03-03 06:07 UTC
-- Window: papers published since 2026-03-02 06:07 UTC
-- Matches: 6
+- Generated: 2026-03-05 06:06 UTC
+- Window: papers published since 2026-03-04 06:06 UTC
+- Matches: 12
 
-## 1. Nature abhors macroscopic superpositions
+## 1. Quantum error mitigation by hierarchy-informed sampling: chiral dynamics in the Schwinger model
 
-- arXiv: `2603.01811v1`
-- Published: 2026-03-02 12:46 UTC
-- Authors: Filippus S. Roux
+- arXiv: `2603.04339v1`
+- Published: 2026-03-04 17:58 UTC
+- Authors: Theo Saporiti, Oleg Kaikov, Vasily Sazonov, Mohamed Tamaazousti
+- Categories: quant-ph, hep-lat
+- Links: [abs](https://arxiv.org/abs/2603.04339v1) | [pdf](https://arxiv.org/pdf/2603.04339v1)
+- Score: 8
+- Keyword hits: title=['quantum error mitigation', 'Schwinger model'] abstract=['quantum error mitigation', 'Schwinger model']
+
+Quantum simulations on current NISQ hardware are limited by its noisy nature, making efficient quantum error mitigation methods highly demanded. In this paper we introduce a novel mitigation scheme, applicable to arbitrary quantum simulations of time-dependent Hamiltonian dynamics on NISQ devices. The scheme uses a polynomial subset of extended qubit Bogoliubov-Born-Green-Kirkwood-Yvon (BBGKY) hierarchy equations as a sampling criterion of possible mitigated candidates for the quantum observables. We show that for favorable Hamiltonians the polynomial subset of BBGKY hierarchy equations leads…
+
+## 2. Enhancing Variational Quantum Eigensolvers for SU(2) Lattice Gauge Theory via Systematic State Preparation
+
+- arXiv: `2603.03799v1`
+- Published: 2026-03-04 07:22 UTC
+- Authors: Klaus Liegener, Dominik Mattern, Alexander Korobov, Lisa Krüger, Manuel Geiger, Malay Singh et al.
+- Categories: quant-ph, hep-lat
+- Links: [abs](https://arxiv.org/abs/2603.03799v1) | [pdf](https://arxiv.org/pdf/2603.03799v1)
+- Score: 5
+- Keyword hits: title=['variational quantum eigensolver'] abstract=['variational quantum eigensolver', 'quantum computing']
+
+Computing the vacuum and energy spectrum in non-Abelian, interacting lattice gauge theories remains an open challenge, in part because approximating the continuum limit requires large lattices and huge Hilbert spaces. To address this difficulty with near-term quantum computing devices, we adapt the variational quantum eigensolver to non-Abelian gauge theories. We outline scaling advantages when using a spin-network basis to simulate the gauge-invariant Hilbert space and develop a systematic state preparation ansatz that creates gauge-invariant excitations while alleviating the barren plateau…
+
+## 3. HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing
+
+- arXiv: `2603.04398v1`
+- Published: 2026-03-04 18:59 UTC
+- Authors: Shubdeep Mohapatra, Yuan Liu, Eddy Z. Zhang, Huiyang Zhou
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.01811v1) | [pdf](https://arxiv.org/pdf/2603.01811v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
+- Links: [abs](https://arxiv.org/abs/2603.04398v1) | [pdf](https://arxiv.org/pdf/2603.04398v1)
+- Score: 4
+- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
 
-Superpositions of mass distributions can potentially lead to entanglement with the geometry of spacetime. Here we show that there exists a natural reluctance for macroscopic mass distributions to form such superpositions. The macroscopic superposition is modeled as a Schr{ö}dinger cat state. The reluctance manifests as a dip in the total energy of the Schr{ö}dinger cat state as a function of the separation distance between the terms in the superposition. The dip in the energy provides an opposing force preventing the formation of the superposition. A generalization of this phenomenon…
+Hybrid continuous-variable (CV)-discrete-variable (DV) quantum systems present a promising direction for quantum computing by combining the high dimensional encoding capabilities of qumodes with the control offered by DV qubits on the coupled qumodes. There have been exciting recent progresses on hybrid CV-DV quantum computing, including variational algorithms, error correction, compiler-level optimizations for Hamiltonian simulation, etc. However, there is a lack of a standardized CV-DV benchmark suite for assessing various emerging hardware platforms and evaluating software optimizations on…
 
-## 2. ALTER: Asymmetric LoRA for Token-Entropy-Guided Unlearning of LLMs
+## 4. Efficient Time-Aware Partitioning of Quantum Circuits for Distributed Quantum Computing
 
-- arXiv: `2603.01792v1`
-- Published: 2026-03-02 12:21 UTC
-- Authors: Xunlei Chen, Jinyu Guo, Yuang Li, Zhaokun Wang, Yi Gong, Jie Zou et al.
-- Categories: cs.CL, cs.AI
-- Links: [abs](https://arxiv.org/abs/2603.01792v1) | [pdf](https://arxiv.org/pdf/2603.01792v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
+- arXiv: `2603.04126v1`
+- Published: 2026-03-04 14:43 UTC
+- Authors: Raymond P. H. Wu, Chathu Ranaweera, Sutharshan Rajasegarar, Ria Rushin Joseph, Jinho Choi, Seng W. Loke
+- Categories: quant-ph, cs.DC
+- Links: [abs](https://arxiv.org/abs/2603.04126v1) | [pdf](https://arxiv.org/pdf/2603.04126v1)
+- Score: 4
+- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
 
-Large language models (LLMs) have advanced to encompass extensive knowledge across diverse domains. Yet controlling what a LLMs should not know is important for ensuring alignment and thus safe use. However, effective unlearning in LLMs is difficult due to the fuzzy boundary between knowledge retention and forgetting. This challenge is exacerbated by entangled parameter spaces from continuous multi-domain training, often resulting in collateral damage, especially under aggressive unlearning strategies. Furthermore, the computational overhead required to optimize State-of-the-Art (SOTA) models…
+To overcome the physical limitations of scaling monolithic quantum computers, distributed quantum computing (DQC) interconnects multiple smaller-scale quantum processing units (QPUs) to form a quantum network. However, this approach introduces a critical challenge, namely the high cost of quantum communication between remote QPUs incurred by quantum state teleportation and quantum gate teleportation. To minimize this communication overhead, DQC compilers must strategically partition quantum circuits by mapping logical qubits to distributed physical QPUs. Static graph partitioning methods are…
 
-## 3. High-Performance Quantum Frequency Conversion from Ultraviolet to Telecom Band
+## 5. Entanglement between quantum dots transmitted via Majorana wire: Insights from the fermionic negativity, concurrence and quantum mutual information
 
-- arXiv: `2603.01745v1`
-- Published: 2026-03-02 11:15 UTC
-- Authors: Yi Yang, Bin Wang, Ji-Chao Lin, Yang Gao, Xin Li, Jiu-Peng Chen et al.
-- Categories: quant-ph, physics.optics
-- Links: [abs](https://arxiv.org/abs/2603.01745v1) | [pdf](https://arxiv.org/pdf/2603.01745v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Quantum frequency conversion (QFC) is essential for bridging the spectral gap between stationary qubits and low-loss optical communication channels. In this work, we demonstrate a short-wavelength-pumping QFC with the first-order quasi-phase matching period of 3.07 um on thin-film lithium niobate, converting ultraviolet photons to the telecom C-band. By constructing a theoretical model that correlates the normalized conversion efficiency with domain defects in the short-period phase-matched waveguide, we found the critical tolerance of domain defects along the waveguide should be $\le 2$…
-
-## 4. Shaping frequency-tunable single photons for quantum networking in waveguide QED
-
-- arXiv: `2603.01649v1`
-- Published: 2026-03-02 09:29 UTC
-- Authors: Álvaro Pernas, Álvaro Gómez-León, Ricardo Puebla
+- arXiv: `2603.04108v1`
+- Published: 2026-03-04 14:21 UTC
+- Authors: C. Jasiukiewicz, A. Sinner, I. Weymann, T. Domański, L. Chotorlishvili
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.01649v1) | [pdf](https://arxiv.org/pdf/2603.01649v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
+- Links: [abs](https://arxiv.org/abs/2603.04108v1) | [pdf](https://arxiv.org/pdf/2603.04108v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-The exchange of quantum information among nodes in a quantum network is one of the main challenges in modern technologies. Superconducting waveguide QED networks hold great potential for realizing distributed quantum computation, where distinct nodes communicate via itinerant single photons. Yet, different frequencies among the nodes restrict their applicability and limit scalability. Here we derive the controls required to shape single photons arbitrarily detuned with respect to their natural frequency, allowing thus for an on-demand and deterministic exchange of quantum information among…
+We study quantum entanglement in a system comprising two quantum dots interconnected through the short topological superconducting nanowire, which hosts overlapping boundary Majorana modes. Inspecting the fermionic negativity, we analyze the variation of entanglement against the position of the energy levels of quantum dots and their hybridization with the topological superconducting nanowire. In the absence of electron correlations, the optimal entanglement occurs when the energy levels coincide with the zero-energy Majorana modes, whereas upon increasing the hybridizations, the entanglement…
 
-## 5. QuMeld: A Modular Framework for Benchmarking Qubit Mapping Algorithms
+## 6. Lattice extraction of the Collins-Soper kernel using the auxiliary field representation of the Wilson line
 
-- arXiv: `2603.01578v1`
-- Published: 2026-03-02 08:06 UTC
-- Authors: Gabrielius Keibas, Linas Petkevičius
+- arXiv: `2603.03814v1`
+- Published: 2026-03-04 07:53 UTC
+- Authors: Anthony Francis, C. -J. David Lin, Wayne Morris, Yong Zhao
+- Categories: hep-lat, hep-ph, hep-th, nucl-th
+- Links: [abs](https://arxiv.org/abs/2603.03814v1) | [pdf](https://arxiv.org/pdf/2603.03814v1)
+- Score: 4
+- Keyword hits: title=['wilson'] abstract=['wilson']
+
+The Collins-Soper (CS) kernel may be obtained through the TMD soft function by formulating the Wilson line in terms of 1-dimensional auxiliary fermion fields on the lattice. Our computation takes place in the region of the lattice that corresponds to the "spacelike" region in Minkowski space, i.e., Collins' scheme. We explore two methods for obtaining the CS kernel. The "ratio method"; which would allow us to obtain the soft function as well as the CS kernel. And the "double ratio"; which allows us to achieve a high degree of statistical precision, but only produces the CS kernel. The…
+
+## 7. DisenReason: Behavior Disentanglement and Latent Reasoning for Shared-Account Sequential Recommendation
+
+- arXiv: `2603.03782v1`
+- Published: 2026-03-04 06:43 UTC
+- Authors: Jiawei Cheng, Min Gao, Zongwei Wang, Xiaofei Zhu, Zhiyi Liu, Wentao Li et al.
+- Categories: cs.IR, cs.AI
+- Links: [abs](https://arxiv.org/abs/2603.03782v1) | [pdf](https://arxiv.org/pdf/2603.03782v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+Shared-account usage is common on streaming and e-commerce platforms, where multiple users share one account. Existing shared-account sequential recommendation (SSR) methods often assume a fixed number of latent users per account, limiting their ability to adapt to diverse sharing patterns and reducing recommendation accuracy. Recent latent reasoning technique applied in sequential recommendation (SR) generate intermediate embeddings from the user embedding (e.g, last item embedding) to uncover users' potential interests, which inspires us to treat the problem of inferring the number of…
+
+## 8. Benchmarking Quantum Computers via Protocols, Comparing IBM's Heron vs IBM's Eagle
+
+- arXiv: `2603.04377v1`
+- Published: 2026-03-04 18:41 UTC
+- Authors: Nitay Mayo, Tal Mor, Yossi Weinstein
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.01578v1) | [pdf](https://arxiv.org/pdf/2603.01578v1)
+- Links: [abs](https://arxiv.org/abs/2603.04377v1) | [pdf](https://arxiv.org/pdf/2603.04377v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-The qubit mapping problem is a challenge in quantum computing that is related to mapping logical qubits to the physical ones on the quantum computer. Due to the diversity of quantum computer topologies and circuits, numerous approaches solving this problem exist. Finding the best solution for specific combination of topology and circuit remains difficult and no unified framework currently exists for systematically evaluating and comparing qubit mapping algorithms across different cases. We present QuMeld, an open-source framework that is designed for solving this issue. The framework…
+As quantum computing hardware rapidly advances, objectively evaluating the capabilities and error rates of new processors remains a critical challenge for the field. A clear and realistic understanding of current quantum performance is essential to guide research priorities and drive meaningful progress. In this work, we apply and extend a protocol-based benchmarking methodology (presented in arXiv:2505.12441) that utilizes well-defined quantumness thresholds. By evaluating performance at protocol level rather then the gate level, this approach provides a transparent and intuitive assessment…
 
-## 6. From strong interactions to Dark Matter: the non-perturbative QCD sphaleron rate
+## 9. Non-local nonstabiliserness in Gluon and Graviton Scattering
 
-- arXiv: `2603.01577v1`
-- Published: 2026-03-02 08:06 UTC
-- Authors: Claudio Bonanno
-- Categories: hep-lat, hep-ph, hep-th
-- Links: [abs](https://arxiv.org/abs/2603.01577v1) | [pdf](https://arxiv.org/pdf/2603.01577v1)
+- arXiv: `2603.04148v1`
+- Published: 2026-03-04 15:01 UTC
+- Authors: John Gargalionis, Nathan Moynihan, Michael L. Reichenberg Ashby, Ewan N. V. Wallace, Chris D. White, Martin J. White
+- Categories: hep-th, hep-ph, quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.04148v1) | [pdf](https://arxiv.org/pdf/2603.04148v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['wilson']
+- Keyword hits: title=[] abstract=['quantum computing']
 
-Acceptance plenary talk for the 2025 Kenneth G.~Wilson Award for Excellence in Lattice Field Theory: For significant contributions to the understanding of topology in QCD, QCD-like, and large-$N_c$ gauge theories, including algorithmic developments to reduce topological freezing, studies of Dirac spectral properties, and axion phenomenology.
+The property of non-stabiliserness, or ``magic'', is of interest in quantum computing due to its role in developing fault-tolerant quantum algorithms with genuine computational advantage over classical counterparts. There has been much interest in quantifying magic in various physical systems, in order to probe how to produce and enhance it. The production of magic has previously been quantified in gluon and graviton scattering, in the so-called helicity basis relating particle spins with momentum directions. For a basis-independent statement, one should instead use the recently developed…
+
+## 10. Deterministic Quantum Jump (DQJ) Method for Weakly Dissipative Systems
+
+- arXiv: `2603.04066v1`
+- Published: 2026-03-04 13:42 UTC
+- Authors: Marcus Meschede, Ludwig Mathey
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.04066v1) | [pdf](https://arxiv.org/pdf/2603.04066v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Physical quantum systems are generically coupled to an environment, resulting in open system dynamics. A typical approach to simulating this dynamics is to propagate the density matrix of the system via the Lindblad master equation. This approach is numerically challenging due to the size of the density matrix, which has led to the development of quantum jump methods, which unravel the density matrix into an ensemble of state vectors. These methods utilize a stochastic sampling of the quantum jump times, which becomes inefficent for weakly dissipative dynamics, in which jumps are rare events.…
+
+## 11. Resource State Distillation via Stabilizer Channels
+
+- arXiv: `2603.03925v1`
+- Published: 2026-03-04 10:34 UTC
+- Authors: Christopher Popp, Tobias C. Sutter, Beatrix C. Hiesmayr
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.03925v1) | [pdf](https://arxiv.org/pdf/2603.03925v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Quantum technologies rely on high-quality resource states, such as maximally entangled or private states, which are indispensable for quantum communication and cryptography. In practice, however, these states are inevitably degraded by noise. Distillation protocols aim to recover high-resource states from multiple imperfect copies, and while stabilizer-based methods have demonstrated high performance in entanglement purification, they have yet to be established for broader tasks such as secret-key distillation. This work introduces a unified framework for stabilizer-based resource…
+
+## 12. Kinematic budget of quantum correlations
+
+- arXiv: `2603.03887v1`
+- Published: 2026-03-04 09:40 UTC
+- Authors: Maaz Khan, Subhadip Mitra
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.03887v1) | [pdf](https://arxiv.org/pdf/2603.03887v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+The diversity of quantum correlations -- discord, entanglement, steering, and Bell nonlocality -- disappears at the observable second-moment kinematic level. By treating state purity as a finite resource, we introduce a local-unitary-invariant budget split of symmetrised second moments into local and nonlocal sectors that maps quantum systems onto compact, two-dimensional, hole-free manifolds. The topology of these manifolds is governed by state purity and time-reversal symmetry. This dimensional reduction reveals a deep structural link: exceeding classical capacity limits forces the…
