@@ -1,137 +1,125 @@
 # arXiv alert report
 
-- Generated: 2026-03-11 06:06 UTC
-- Window: papers published since 2026-03-10 06:06 UTC
-- Matches: 11
+- Generated: 2026-03-12 06:09 UTC
+- Window: papers published since 2026-03-11 06:09 UTC
+- Matches: 10
 
-## 1. Velocity Verlet-based optimization for variational quantum eigensolvers
+## 1. Entanglement distillation based on Hamiltonian dynamics
 
-- arXiv: `2603.09862v1`
-- Published: 2026-03-10 16:24 UTC
-- Authors: Rinka Miura
-- Categories: quant-ph, math.OC
-- Links: [abs](https://arxiv.org/abs/2603.09862v1) | [pdf](https://arxiv.org/pdf/2603.09862v1)
+- arXiv: `2603.10843v1`
+- Published: 2026-03-11 14:50 UTC
+- Authors: Zitai Xu, Guoding Liu
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.10843v1) | [pdf](https://arxiv.org/pdf/2603.10843v1)
 - Score: 5
-- Keyword hits: title=['variational quantum eigensolver'] abstract=['variational quantum eigensolver', 'vqe']
+- Keyword hits: title=['entanglement'] abstract=['trapped ions', 'entanglement']
 
-The Variational Quantum Eigensolver (VQE) is a key algorithm for near-term quantum computers, yet its performance is often limited by the classical optimization of circuit parameters. We propose using the velocity Verlet algorithm, inspired by classical molecular dynamics, to address this challenge. By introducing an inertial "velocity" term, our method efficiently explores complex energy landscapes. We compare its performance against standard optimizers on H$_2$ and LiH molecules. For H$_2$, our method achieves chemical accuracy with fewer quantum circuit evaluations than L-BFGS-B. For LiH,…
+Efficient entanglement distillation is a central task in quantum information science and future quantum networks. At the core of distillation protocols are the quantum error correction and detection schemes which enhance the fidelity of entangled pairs. Conventional protocols focus on digital systems, which typically require complicated compiled circuits, high-fidelity multi-qubit operations and delicate pulse-level control that impose high demands on near-term hardware. Crucially, the leading physical platforms for quantum networks, trapped ions and neutral atoms, are governed by native…
 
-## 2. Evolution of Photonic Quantum Machine Learning under Noise
+## 2. Quantum-to-classical correspondence in Krylov complexity
 
-- arXiv: `2603.09645v1`
-- Published: 2026-03-10 13:21 UTC
-- Authors: A. M. A. S. D. Alagiyawanna, Asoka Karunananda
-- Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2603.09645v1) | [pdf](https://arxiv.org/pdf/2603.09645v1)
-- Score: 5
-- Keyword hits: title=['quantum machine learning'] abstract=['quantum machine learning', 'quantum computing']
+- arXiv: `2603.11034v1`
+- Published: 2026-03-11 17:55 UTC
+- Authors: Gastón F. Scialchi, Augusto J. Roncaglia, Diego A. Wisniacki
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.11034v1) | [pdf](https://arxiv.org/pdf/2603.11034v1)
+- Score: 4
+- Keyword hits: title=['krylov'] abstract=['krylov']
 
-Photonic Quantum Machine Learning (PQML) is an emerging approach that integrates photonic quantum computing technologies with machine learning techniques to enable scalable and energy-efficient quantum information processing. Photonic systems offer advantages such as room-temperature operation, high-speed signal processing, and the ability to represent information in high-dimensional Hilbert spaces. However, noise remains a major challenge affecting the performance, reliability, and scalability of PQML implementations. This review provides a systematic analysis of noise sources in photonic…
+We study quantum-to-classical correspondence of the Krylov space for evolutions driven by unitary maps with a classical limit. This entails a proper definition of corresponding quantum and classical operators, inner products and initial states. We prove that with these definitions the purely classical Krylov space is indeed obtained as the asymptotic $\hbar\to 0$ expansion of the quantum Krylov space, and provide several examples of such correspondence. We use these examples to analyze some general aspects about the evolution of the Krylov complexity as they relate to the phase-space…
 
-## 3. Hysteretic squashed entanglement in many-body quantum systems
+## 3. Hybridlane: A Software Development Kit for Hybrid Continuous-Discrete Variable Quantum Computing
 
-- arXiv: `2603.09907v1`
-- Published: 2026-03-10 17:00 UTC
-- Authors: Siddhartha Das, Alexander Yosifov, Jinzhao Sun
-- Categories: quant-ph, math-ph
-- Links: [abs](https://arxiv.org/abs/2603.09907v1) | [pdf](https://arxiv.org/pdf/2603.09907v1)
+- arXiv: `2603.10919v1`
+- Published: 2026-03-11 16:04 UTC
+- Authors: Jim Furches, Timothy J. Stavenger, Carlos Ortiz Marrero
+- Categories: quant-ph, cs.ET
+- Links: [abs](https://arxiv.org/abs/2603.10919v1) | [pdf](https://arxiv.org/pdf/2603.10919v1)
+- Score: 4
+- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
+
+Hybrid quantum computing systems that combine discrete-variable qubits with continuous-variable qumodes offer promising advantages for quantum simulation, error correction, and sensing applications. However, existing quantum software frameworks lack native support for expressing and manipulating hybrid circuits, forcing developers to work with fragmented toolchains or rely on simulation-coupled representations that limit scalability. We present Hybridlane, an open-source software development kit providing a unified frontend for hybrid continuous-discrete variable quantum computing. Hybridlane…
+
+## 4. Topological robustness of orbital angular momentum entanglement in stochastic channels
+
+- arXiv: `2603.10618v1`
+- Published: 2026-03-11 10:24 UTC
+- Authors: Tatjana Kleine, Pedro Ornelas, Cade Peters, Zhenyu Guo, Bereneice Sephton, Isaac Nape et al.
+- Categories: quant-ph, physics.optics
+- Links: [abs](https://arxiv.org/abs/2603.10618v1) | [pdf](https://arxiv.org/pdf/2603.10618v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Entanglement in many-body quantum systems is distributed across spatial regions, where its structure often dictates the information-processing capabilities of the state. Yet, characterizing the entanglement structure, especially for mixed states, remains a challenge. In this work, we propose hysteretic squashed entanglement $T_{sq}$, a conditional entanglement monotone that measures the genuine quantum correlations between two subregions, conditioned on a third region, in a many-body quantum state. $T_{sq}$ is upper bounded by the convex-roof extension of quantum conditional mutual…
+Orbital angular momentum (OAM) entanglement gives access to multiple qubit and high dimensional Hilbert spaces, but is unfortunately susceptible to disturbance, decaying in real-world noisy channels. Here, we show there is an underlying topology arising from OAM entanglement that is robust to such channels, which we demonstrate using atmospheric turbulence -- exemplary of stochastic or chaotic media. Using a quantum channel with various turbulence strengths, we find the OAM topological observable preserved even though the OAM itself is shown to be highly sensitive to the turbulence. We show…
 
-## 4. Capacity of Entanglement and Replica Backreaction in RST Gravity
+## 5. Entanglement distribution among distinct mechanical nodes in a quantum network
 
-- arXiv: `2603.09763v1`
-- Published: 2026-03-10 15:01 UTC
-- Authors: Raúl Arias, Daniel Fondevila
-- Categories: hep-th, cond-mat.stat-mech, quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.09763v1) | [pdf](https://arxiv.org/pdf/2603.09763v1)
+- arXiv: `2603.10571v1`
+- Published: 2026-03-11 09:25 UTC
+- Authors: Zhi-Yuan Fan, Liu-Yong Cheng
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.10571v1) | [pdf](https://arxiv.org/pdf/2603.10571v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We compute the capacity of entanglement in two dimensional dilaton gravity in a setting where Hawking radiation, backreaction, and islands can be treated analytically. Our focus is the eternal black hole of the Russo Susskind Thorlacius model coupled to N conformal matter fields. Unlike previous gravitational computations, which were mostly carried out in JT gravity, the RST model forces one to deal with a genuinely dynamical conformal factor and with the global constraints of the replica construction. The main technical step is therefore to solve the replica deformation on the orbifold…
+We propose two schemes to achieve remote entanglement distribution between two mechanical nodes with a significant frequency mismatch, based on optomechanical systems. The first scheme utilizes the physical mechanism to redistribute the quantum entanglement initially established in a dispersively-coupled optomechanical system with a megahertz mechanical resonance to a distant optomechanical system which embodies the tripleresonant interaction induced by the scattering of gigahertz mechanical phonon. We also provide a fast optical pulse protocol to realize the long-distance entanglement…
 
-## 5. Fictitious Copy Quantum Error Mitigation
+## 6. Remote engineering of particle-like topologies to visualise entanglement dynamics
 
-- arXiv: `2603.09302v1`
-- Published: 2026-03-10 07:36 UTC
-- Authors: Akib Karim, Harish J. Vallury, Muhammad Usman
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.09302v1) | [pdf](https://arxiv.org/pdf/2603.09302v1)
+- arXiv: `2603.10491v1`
+- Published: 2026-03-11 07:37 UTC
+- Authors: Fazilah Nothlawala, Bereneice Sephton, Pedro Ornelas, Mwezi Koni, Bruno Piccirillo, Liang Feng et al.
+- Categories: quant-ph, physics.optics
+- Links: [abs](https://arxiv.org/abs/2603.10491v1) | [pdf](https://arxiv.org/pdf/2603.10491v1)
 - Score: 4
-- Keyword hits: title=['quantum error mitigation'] abstract=['quantum error mitigation']
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Errors are arguably the most pressing challenge impeding practical applications of quantum computers, which has instigated vigorous research on the development of quantum error mitigation (QEM) techniques. Existing QEM methods suppress errors with a varying degree of efficacy but importantly demand significant additional quantum and classical computational resources. In this work, we present Fictitious Copy Quantum Error Mitigation (FCQEM) method which corrects quantum errors without requiring any additional quantum resources and purely relies on using classical postprocessing of a joint…
+Skyrmions are a particle-like topology with a quantised skyrmion number, realised across condensed matter and photonic platforms alike. In quantum photonics, they constitute an emerging resource, promising robust quantum information encoding, so far realised as single photon and bi-photon entangled states. Here we report the first visualisation of tripartite entanglement dynamics through topological structure using spin-skyrmion entangled states, where the topology of a single photon is remotely controlled through the spin of its entangled partner. We visualise our tripartite state…
 
-## 6. Quantum control of the environment in open quantum systems enables rapid qubit reset
+## 7. Quantum Hypergraph States: A Review
 
-- arXiv: `2603.09913v1`
-- Published: 2026-03-10 17:09 UTC
-- Authors: Carlos Ortega-Taberner, Eoin O'Neill, Paul Eastham
-- Categories: quant-ph, cond-mat.stat-mech
-- Links: [abs](https://arxiv.org/abs/2603.09913v1) | [pdf](https://arxiv.org/pdf/2603.09913v1)
+- arXiv: `2603.10917v1`
+- Published: 2026-03-11 16:02 UTC
+- Authors: Davide Poderini, Dagmar Bruß, Chiara Macchiavello
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.10917v1) | [pdf](https://arxiv.org/pdf/2603.10917v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Qubit reset is crucial in quantum technology and is typically achieved by coupling the qubit to a dissipative environment. However, the achievable speed and fidelity are limited by qubit-environment entanglement. We use exact tensor-network simulations and a time-dependent variational approach to investigate these effects for transmon qubits with a time-dependent system-environment coupling. We show that they are due to the formation of a polaron state and how this can be reversed using a time-dependent coupling. Coupling protocols are identified which achieve reset with an excited-state…
+Quantum hypergraph states extend the well-studied class of graph states by taking into account multi-qubit interactions through hyperedges. They provide a powerful framework to represent a family of quantum states with genuine multipartite entanglement. In this review, we provide a compact overview of the formal structure, entanglement characteristics, and operational relevance of hypergraph states in quantum information theory. We begin by introducing their mathematical foundations and generalizations of the stabilizer formalism. A central focus is placed on their entanglement properties,…
 
-## 7. A Hybrid Quantum-Classical Framework for Financial Volatility Forecasting Based on Quantum Circuit Born Machines
+## 8. Quantum Telepathy: A Quantum Technology with Near-Term Applications
 
-- arXiv: `2603.09789v1`
-- Published: 2026-03-10 15:23 UTC
-- Authors: Yixiong Chen
-- Categories: cs.LG, cs.AI, quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.09789v1) | [pdf](https://arxiv.org/pdf/2603.09789v1)
+- arXiv: `2603.10883v1`
+- Published: 2026-03-11 15:28 UTC
+- Authors: Dawei Ding, Xinyu Xu
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.10883v1) | [pdf](https://arxiv.org/pdf/2603.10883v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Quantum telepathy is the concept of using quantum entanglement to solve real-world problems involving decision coordination between parties with restricted communication. One possible reason for this restriction is a latency constraint: some pairs of parties do not have enough time to communicate with each other before they have to produce their outputs. Example scenarios include high frequency trading and distributed systems. Another reason is isolation: for some pairs of parties, there is an obstacle to communication. Example scenarios include locating a stray traveler by a rescue team and…
+
+## 9. High fidelity photon-photon gates by scattering off a two-level quantum emitter
+
+- arXiv: `2603.10805v1`
+- Published: 2026-03-11 14:13 UTC
+- Authors: Love A. Pettersson, Victor R. Christiansen, Klaus Mølmer, Anders S. Sørensen
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.10805v1) | [pdf](https://arxiv.org/pdf/2603.10805v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Accurate forecasting of financial market volatility is crucial for risk management, option pricing, and portfolio optimization. Traditional econometric models and classical machine learning methods face challenges in handling the inherent non-linear and non-stationary characteristics of financial time series. In recent years, the rapid development of quantum computing has provided a new paradigm for solving complex optimization and sampling problems. This paper proposes a novel hybrid quantum-classical computing framework aimed at combining the powerful representation capabilities of…
+We present a scheme for implementing a high-fidelity non-linear phase shift on a photonic state. The scheme is based on repeated scattering off a two-level quantum emitter embedded in a chiral or one-sided waveguide. The waveguide is equipped with elements inducing second-order dispersion and temporal phase shifts, which effectively form a harmonic trap and confine the photon pulses to a Gaussian shape. The same quantum emitter can be used for each scattering, and thus, only one quantum emitter is needed in this scheme. To illustrate the application of our scheme for photonic quantum…
 
-## 8. Enhanced security in Quantum Token protocols using Hybrid Spin-Photon Interfaces
+## 10. Airfoil shape optimization via coherent Ising machine
 
-- arXiv: `2603.09479v1`
-- Published: 2026-03-10 10:31 UTC
-- Authors: Durga Bhaktavatsala Rao Dasari, Yang Wang, Jörg Wrachtrup
+- arXiv: `2603.10518v1`
+- Published: 2026-03-11 08:20 UTC
+- Authors: Hao Ni, Qi Gao, Zhen Lu, Yue Yang
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.09479v1) | [pdf](https://arxiv.org/pdf/2603.09479v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Quantum token protocols enable unforgeable quantum tokens promising unconditional security beyond classical cryptographic assumptions. We show here that the three stages of the Quantum token protocols involving the preparation, storage and verification can be made more secure when involving spin-photon interfaces that leverage high fidelity hybrid tripartite (spin-photon-spin) entanglement, Bell state measurements and highly coherent spin quantum memories. Further we describe the physical implementation of various stages of the protocol using the hybrid electron and nuclear spins in diamond…
-
-## 9. Chip-Integrated Broadband Multi-Photon Source for Wavelength-Multiplexed Quantum Networks
-
-- arXiv: `2603.09397v1`
-- Published: 2026-03-10 09:11 UTC
-- Authors: Xiao-Xu Fang, Ling-Xuan Kong, He Lu
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.09397v1) | [pdf](https://arxiv.org/pdf/2603.09397v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Quantum networks based on wavelength-multiplexed entanglement enable parallel distribution of quantum correlations, increasing channel capacity for secure communication and distributed quantum information processing. However, broadband integrated sources capable of generating multipartite entanglement beyond photon pairs remain scarce. Here we report on-chip generation of telecom-band four-photon entanglement in a periodically poled thin-film lithium niobate on insulator (LNOI) waveguide. Type-0 spontaneous parametric down-conversion provides a phase-matching bandwidth exceeding 200 nm,…
-
-## 10. How to formulate the $\mathbb{Z}_8$ topological invariant of Majorana fermion on the lattice
-
-- arXiv: `2603.09354v1`
-- Published: 2026-03-10 08:35 UTC
-- Authors: Sho Araki, Hidenori Fukaya, Tetsuya Onogi, Satoshi Yamaguchi
-- Categories: hep-lat, cond-mat.mes-hall
-- Links: [abs](https://arxiv.org/abs/2603.09354v1) | [pdf](https://arxiv.org/pdf/2603.09354v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['wilson']
-
-Topological invariants and their associated anomalies have played a crucial role in understanding low-energy phenomena in quantum field theories. In lattice gauge theory, the standard $\mathbb{Z}$-valued Atiyah-Singer index is formulated via the overlap Dirac operator through the Ginsparg-Wilson relation, but extensions to more general topological invariants have remained limited. In this work, we propose a lattice formulation of the Arf-Brown-Kervaire (ABK) invariant, which takes values in $\mathbb{Z}_8$. The ABK invariant arises in Majorana fermion partition functions with reflection…
-
-## 11. Cluster-Adaptive Sample-Based Quantum Diagonalization for Strongly Correlated Systems
-
-- arXiv: `2603.09346v1`
-- Published: 2026-03-10 08:24 UTC
-- Authors: Byeongyong Park, Sanha Kang, Jongseok Seo, Juhee Baek, Doyeol, Ahn et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.09346v1) | [pdf](https://arxiv.org/pdf/2603.09346v1)
+- Links: [abs](https://arxiv.org/abs/2603.10518v1) | [pdf](https://arxiv.org/pdf/2603.10518v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Strongly correlated electronic systems exhibit inherently multiconfigurational wave functions, making it difficult to construct compact variational subspaces that preserve the essential multireference character. Quantum computing has emerged as a promising route to alleviate these limitations, and sample-based quantum diagonalization (SQD) is a representative hybrid approach that uses quantum hardware as a determinant sampler followed by classical diagonalization in the projected subspace. To mitigate hardware noise, SQD employs a self-consistent particle-number recovery guided by a single…
+Airfoil shape optimization presents a challenge where classical solvers frequently struggle with computational efficiency and local minima. In the promising paradigm of quantum computing, the coherent Ising machine (CIM), a specialized physical solver, offers acceleration capabilities. However, its native discrete binary architecture restricts the application in aerodynamic design. To bridge this gap, we propose a comprehensive framework that translates airfoil shape optimization into hardware-compliant quadratic unconstrained binary optimization formulations. We integrate high-order response…
