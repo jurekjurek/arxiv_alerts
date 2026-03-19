@@ -1,137 +1,125 @@
 # arXiv alert report
 
-- Generated: 2026-03-18 06:38 UTC
-- Window: papers published since 2026-03-17 06:38 UTC
-- Matches: 11
+- Generated: 2026-03-19 06:33 UTC
+- Window: papers published since 2026-03-18 06:33 UTC
+- Matches: 10
 
-## 1. How compactness curbs entanglement growth in bosonic systems
+## 1. On the power of multipartite entanglement for pseudotelepathy
 
-- arXiv: `2603.16775v1`
-- Published: 2026-03-17 16:52 UTC
-- Authors: Stefan Aimet, Philipp Schmoll, Jens Eisert, Jörg Schmiedmayer, Spyros Sotiriadis
-- Categories: quant-ph, cond-mat.quant-gas
-- Links: [abs](https://arxiv.org/abs/2603.16775v1) | [pdf](https://arxiv.org/pdf/2603.16775v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-Zero modes, understood here as degrees of freedom with vanishing confining frequency, play a central role in the nonequilibrium dynamics of bosonic systems. In Gaussian models, however, they lead to an unbounded, logarithmic growth of entanglement entropy. We show that this divergence is not an intrinsic property of zero modes themselves, but arises specifically for non-compact zero modes. Their non-compact configuration space allows unbounded spreading in position space, while their continuous spectra enable indefinite dephasing in momentum space. By contrast, compact zero modes in compact…
-
-## 2. Achieving Sub-Zeptonewton Force Sensitivity and Spin-Motion Entanglement in Levitated Diamond via Pulsed Backaction Evasion
-
-- arXiv: `2603.16487v1`
-- Published: 2026-03-17 13:14 UTC
-- Authors: Gayathrini Premawardhana, Jonathan Beaumariage, M. V. Gurudev Dutt, David Pekker, Thomas Purdy, Jacob M. Taylor
+- arXiv: `2603.17956v1`
+- Published: 2026-03-18 17:29 UTC
+- Authors: Gilles Brassard, Xavier Coiteux-Roy, Rémi Ligez
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.16487v1) | [pdf](https://arxiv.org/pdf/2603.16487v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
+- Links: [abs](https://arxiv.org/abs/2603.17956v1) | [pdf](https://arxiv.org/pdf/2603.17956v1)
+- Score: 5
+- Keyword hits: title=['entanglement'] abstract=['quantum computing', 'entanglement']
 
-We propose a system to achieve sub-zeptonewton force sensing and robust spin-mechanical entanglement in a levitated diamond system. By coupling a Nitrogen-Vacancy (NV) center spin to the motion of its host diamond within a magnetic trap, we develop a platform designed to surpass the standard quantum limit. We develop and compare three distinct pulse sequences--Ramsey, Hahn echo, and Carr-Purcell-Meiboom-Gill (CPMG)--to create increasing amounts of backaction evasion while mitigating the effects of shot noise and thermal decoherence. Our results show that the CPMG sequences yield the most…
+As early as 1935, Schrödinger recognized entanglement as ``not one but rather the characteristic trait of quantum mechanics, the one that enforces its entire departure from classical lines of thought''. Indeed, most remarkable phenomena in quantum information science, such as quantum computing and quantum teleportation, spring from clever uses of entanglement. Among them, pseudotelepathy enables two or more players to win systematically at some cooperative games with no need for communication between them, a restriction that would make the task impossible in a classical world. We investigate…
 
-## 3. An Energetic Constraint for Qubit-Qubit Entanglement
+## 2. Beyond VQE and QPE: A Noise- and Sampling-Error-Tolerant Quantum Algorithm with Heisenberg-Limited Precision
 
-- arXiv: `2603.16225v1`
-- Published: 2026-03-17 08:05 UTC
-- Authors: Kiarn T. Laverick, Samyak P. Prasad, Pascale Senellart, Maria Maffei, Alexia Auffèves
+- arXiv: `2603.17953v1`
+- Published: 2026-03-18 17:27 UTC
+- Authors: Qing-Xing Xie, Zidong Lin, Yun-Long Liu, Yan Zhao
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.16225v1) | [pdf](https://arxiv.org/pdf/2603.16225v1)
+- Links: [abs](https://arxiv.org/abs/2603.17953v1) | [pdf](https://arxiv.org/pdf/2603.17953v1)
+- Score: 4
+- Keyword hits: title=['vqe'] abstract=['vqe']
+
+This paper introduces Witnessed Quantum Time Evolution (WQTE), a novel quantum algorithm for efficiently computing the eigen-energy spectra of arbitrary quantum systems without requiring eigenstate preparation-a key limitation of conventional approaches. By leveraging a single ancillary qubit to control real-time evolution operators and employing Fourier analysis, WQTE enables parallel resolution of multiple eigen-energies. Theoretical analysis demonstrates that the algorithm achieves Heisenberg-limited precision and operates with only a non-zero wavefunction overlap between the reference…
+
+## 3. The Convergence Frontier: Integrating Machine Learning and High Performance Quantum Computing for Next-Generation Drug Discovery
+
+- arXiv: `2603.17790v1`
+- Published: 2026-03-18 14:51 UTC
+- Authors: Narjes Ansari, César Feniou, Nicolaï Gouraud, Daniele Loco, Siwar Badreddine, Baptiste Claudon et al.
+- Categories: quant-ph, cs.LG, physics.chem-ph
+- Links: [abs](https://arxiv.org/abs/2603.17790v1) | [pdf](https://arxiv.org/pdf/2603.17790v1)
+- Score: 4
+- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
+
+Integrating quantum mechanics into drug discovery marks a decisive shift from empirical trial-and-error toward quantitative precision. However, the prohibitive cost of ab initio molecular dynamics has historically forced a compromise between chemical accuracy and computational scalability. This paper identifies the convergence of High-Performance Computing (HPC), Machine Learning (ML), and Quantum Computing (QC) as the definitive solution to this bottleneck. While ML foundation models, such as FeNNix-Bio1, enable quantum-accurate simulations, they remain tethered to the inherent limits of…
+
+## 4. Superactivation of genuine multipartite Bell nonlocality from two-party entanglement
+
+- arXiv: `2603.17783v1`
+- Published: 2026-03-18 14:46 UTC
+- Authors: Markus Miethlinger, Riccardo Castellano, Pavel Sekatski, Nicolas Brunner
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.17783v1) | [pdf](https://arxiv.org/pdf/2603.17783v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We analyze qubit-qubit entanglement from an energetic perspective and reveal an energetic trade-off between quantum coherence and entanglement. We decompose each qubit internal energy into a coherent and an incoherent component. The qubits' coherent energies are maximal if the qubit-qubit state is pure and separable. They decrease as qubit-qubit entanglement builds up under locally-energy-preserving processes. This yields a "coherent energy deficit" that we show is equal to a well-known measure of entanglement, the square negativity. In general, a qubit-qubit state can always be represented…
+Characterizing the relation between entanglement and Bell nonlocality is a long-standing open problem, notably challenging in the multipartite case. Here we investigate the effect of superactivation of genuine multipartite nonlocality. Specifically, we show that starting from multipartite states that feature only two-party entanglement (hence almost fully separable), it is possible to obtain GMNL in the many-copy regime. This represents the weakest possible resource for GMNL superactivation. On the technical side, we develop an efficient and practical criterion for certifying GMNL…
 
-## 4. How Quantum Circuits Actually Learn: A Causal Identification of Genuine Quantum Contributions
+## 5. General circuit compilation protocol into partially fault-tolerant quantum computing architecture
 
-- arXiv: `2603.16321v1`
-- Published: 2026-03-17 09:55 UTC
-- Authors: Cyrille Yetuyetu Kesiku, Begonya Garcia-Zapirain
-- Categories: quant-ph, math.QA
-- Links: [abs](https://arxiv.org/abs/2603.16321v1) | [pdf](https://arxiv.org/pdf/2603.16321v1)
+- arXiv: `2603.17428v1`
+- Published: 2026-03-18 07:08 UTC
+- Authors: Tomochika Kurita
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.17428v1) | [pdf](https://arxiv.org/pdf/2603.17428v1)
+- Score: 3
+- Keyword hits: title=['quantum computing'] abstract=[]
+
+As we are entering an early-FTQC era, circuit execution protocols with logical qubits and certain error-correcting codes are being discussed. Here, we propose a circuit execution protocol for the space-time efficient analog rotation (STAR) architecture. Gate operations within the STAR architecture is based on lattice surgery with surface codes, but it allows direct execution of continuous gates $Rz(θ)$ as non-Clifford gates instead of $T = Rz(π/4)$. $Rz(θ)$ operations involve creation of resource states $|m_θ\rangle = \frac{1}{\sqrt{2}} (|0 \rangle + e^{iθ} |1\rangle ) $ followed by ZZ joint…
+
+## 6. A Continuous-Variable Quantum Fourier Layer: Applications to Filtering and PDE Solving
+
+- arXiv: `2603.17847v1`
+- Published: 2026-03-18 15:35 UTC
+- Authors: Paolo Marcandelli, Stefano Mariani, Martina Siena, Stefano Markidis
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.17847v1) | [pdf](https://arxiv.org/pdf/2603.17847v1)
 - Score: 2
-- Keyword hits: title=[] abstract=['quantum machine learning', 'entanglement']
+- Keyword hits: title=[] abstract=['quantum machine learning', 'quantum computing']
 
-Attributing performance gains in quantum machine learning to genuine quantum resources rather than to classical architectural scaling remains an open methodological challenge. We address this by introducing a counterfactual causal mediation framework that decomposes inter-architectural performance differences into direct effects, attributable to circuit parameterization and expressivity, and indirect effects mediated by quantum information-theoretic observables: entanglement entropy, purity, linear entropy, and quantum mutual information. Applying this framework to five circuit topologies and…
+Fourier representations play a central role in operator learning methods for partial differential equations and are increasingly being explored in quantum machine learning architectures. The classical fast Fourier transform (FFT), particularly in its Cooley--Tukey decomposition, exhibits a structure that naturally matches continuous-variable quantum circuits. This correspondence establishes a direct structural isomorphism between the Cooley-Tukey butterfly network and Gaussian photonic gates, enabling the FFT to be realized as a native optical computation in continuous-variable quantum…
 
-## 5. Measurement-Based Estimation of Causal Conditional Variances and Its Application to Macroscopic quantum phenomenon
+## 7. Uncertainty equality for SU(N) observables enabling the experimentally friendly detection of k-inseparability via purity measurements
 
-- arXiv: `2603.16821v1`
-- Published: 2026-03-17 17:27 UTC
-- Authors: Kosei Hatakeyama, Ryotaro Fukuzumi, Akira Matsumura, Daisuke Miki, Kazuhiro Yamamoto
-- Categories: quant-ph, gr-qc
-- Links: [abs](https://arxiv.org/abs/2603.16821v1) | [pdf](https://arxiv.org/pdf/2603.16821v1)
+- arXiv: `2603.17844v1`
+- Published: 2026-03-18 15:33 UTC
+- Authors: G. Tartaglione, G. Zanfardino, F. Illuminati
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.17844v1) | [pdf](https://arxiv.org/pdf/2603.17844v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We analytically investigate a quantum estimation method for a mechanical oscillator in a detuned cavity system based solely on homodyne measurement records, building on the framework developed by C.Meng et al. (Science Advances 8, 7585 (2022)). Estimation based only on measurement records is important because it enables state verification without assuming knowledge of the true system state. We construct a relative estimate operator from causal and anti-causal quantum Wiener filters and calculate its variance. The deviation from the causal conditional variance is defined as a reconstruction…
+We derive an exact uncertainty relation for arbitrary quantum states of finite-dimensional Hilbert spaces. For any given $k$-partition of a $d$-dimensional multipartite system, we introduce the total uncertainty as the sum of the uncertainties associated with all possible tensor products of local $\mathrm{SU}(N)$ observables, where each observable acts on the corresponding subsystem. We show that the total uncertainty exactly equals the algebraic sum of the global state purity and the purities of all possible state reductions. For systems containing at least one single-qubit subsystem, this…
 
-## 6. Secure Quantum Communication: Simulation and Analysis of Quantum Key Distribution Protocols
+## 8. Reconfigurable circuit for mode tunable topological structured light
 
-- arXiv: `2603.16690v1`
-- Published: 2026-03-17 15:48 UTC
-- Authors: Mahendra Rasay, Emmanuel D. Sebastian, Subhash Prasad Sah, David Chinamerem Akah, Ajay Kumar Singh
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.16690v1) | [pdf](https://arxiv.org/pdf/2603.16690v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Quantum computing poses significant threats to conventional cryptographic techniques such as RSA and AES, motivating the need for quantum secure communication methods. Quantum Key Distribution (QKD) offers information theoretic security based on fundamental quantum principles. This paper presents a simulation-based analysis of well-known QKD protocols, namely BB84, B92, and E91, using the IBM Qiskit framework. Realistic quantum channel effects, including noise, decoherence, and eavesdropping, are modeled to evaluate protocol performance. Key metrics such as error rate, secret key generation,…
-
-## 7. Dark state role in time-reversal symmetry breaking
-
-- arXiv: `2603.16512v1`
-- Published: 2026-03-17 13:39 UTC
-- Authors: Dario Fasone, Rita Veilande, Luigi Giannelli, Giuseppe A. Falci, Teodora Kirova, Sandro Wimberger et al.
-- Categories: quant-ph, cond-mat.other
-- Links: [abs](https://arxiv.org/abs/2603.16512v1) | [pdf](https://arxiv.org/pdf/2603.16512v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-We investigate the role of the global driving phase $Φ$ in the dynamics of driven few-level quantum systems, a central setting in coherent control of atomic, molecular, and solid-state platforms. In particular, we focus on systems with closed-loop couplings, where external driving fields induce interference effects that strongly influence population transfer and symmetry properties of time-evolution. While full time-reversal symmetry requires $Φ=0,π$, leading to a real Hamiltonian, we focus on a less restrictive transformation, the phase inversion (or complex conjugation of the Hamiltonian),…
-
-## 8. High Fidelity Single-NV Qubit Quantum State Tomography by Photoelectric Readout
-
-- arXiv: `2603.16502v1`
-- Published: 2026-03-17 13:27 UTC
-- Authors: Boo Carmans, Michael Petrov, Milos Nesladek
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.16502v1) | [pdf](https://arxiv.org/pdf/2603.16502v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Quantum computing is a rapidly developing field. However, the most commonly used qubits require cryogenic conditions to operate, which increases the costs and puts constraints on the up-scaling. Ambient solid-state qubits provide an alternative with potential for large-scale application. The nitrogen-vacancy (NV) center in diamond is one of the main candidates for solid-state computing architectures at room temperature and has proven to be competitive in terms of gate fidelity, quantum error correction, couplings, etc. Each NV center has an associated electronic spin that is conventionally…
-
-## 9. Chipmunq: Fault-Tolerant Compiler for Chiplet Quantum Architectures
-
-- arXiv: `2603.16389v1`
-- Published: 2026-03-17 11:20 UTC
-- Authors: Peter Wegmann, Aleksandra Świerkowska, Emmanouil Giortamis, Pramod Bhatotia
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.16389v1) | [pdf](https://arxiv.org/pdf/2603.16389v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-As quantum computing advances toward fault-tolerance through quantum error correction, modular chiplet architectures have emerged to provide the massive qubit counts required while overcoming fabrication limits of monolithic chips. However, this transition introduces a critical compilation gap: existing frameworks cannot handle the scale of fault-tolerant quantum circuits while managing the noisy, sparse interconnects of chiplet backends. We present Chipmunq, the first hardware-aware compiler for mapping and routing fault-tolerant circuits onto modular architectures. Chipmunq employs a…
-
-## 10. Lattice QCD study of the $K^*(892)$ resonance at the physical point
-
-- arXiv: `2603.16266v1`
-- Published: 2026-03-17 08:55 UTC
-- Authors: Qu-Zhi Li, Chuan Liu, Liuming Liu, Peng Sun, Jia-Jun Wu, Zhiguang Xiao et al.
-- Categories: hep-lat, hep-ph
-- Links: [abs](https://arxiv.org/abs/2603.16266v1) | [pdf](https://arxiv.org/pdf/2603.16266v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['wilson']
-
-We present a lattice QCD study of the $K^*(892)$ resonance using a set of $N_f=2+1$ Wilson-Clover ensembles with three lattice spacings and six pion masses ranging from 135 to 320 MeV. For each ensemble, a large number of finite volume energy levels in the $P$-wave $Kπ$ channel are determined. The energy dependence of the scattering phase shift is then obtained from Lüscher's finite-volume method. To systematically assess parametrization dependence, the amplitude is described using three different models, which yield consistent results. The resulting phase shifts show a clear resonant…
-
-## 11. Grounding the Score: Explicit Visual Premise Verification for Reliable Vision-Language Process Reward Models
-
-- arXiv: `2603.16253v1`
-- Published: 2026-03-17 08:40 UTC
-- Authors: Junxin Wang, Dai Guan, Weijie Qiu, Zhihang Li, Yongbo Gai, Zhengyi Yang et al.
-- Categories: cs.CV, cs.AI
-- Links: [abs](https://arxiv.org/abs/2603.16253v1) | [pdf](https://arxiv.org/pdf/2603.16253v1)
+- arXiv: `2603.17716v1`
+- Published: 2026-03-18 13:34 UTC
+- Authors: Pedro Ornelas, Tatjana Kleine, André G. de Oliveira, Carmelo Rosales-Guzmán, Andrew Forbes, Isaac Nape
+- Categories: quant-ph, physics.optics
+- Links: [abs](https://arxiv.org/abs/2603.17716v1) | [pdf](https://arxiv.org/pdf/2603.17716v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Vision-language process reward models (VL-PRMs) are increasingly used to score intermediate reasoning steps and rerank candidates under test-time scaling. However, they often function as black-box judges: a low step score may reflect a genuine reasoning mistake or simply the verifier's misperception of the image. This entanglement between perception and reasoning leads to systematic false positives (rewarding hallucinated visual premises) and false negatives (penalizing correct grounded statements), undermining both reranking and error localization. We introduce Explicit Visual Premise…
+Structured light in the quantum regime has garnered considerable attention due to the opportunities it offers when mixing light's internal degrees of freedom, for high-dimensional and multi-dimensional quantum states of light. A popular example is to harness polarisation and spatial entangled photons with a shared topological invariant that is robust against numerous families of noisy quantum channels. Yet, producing such states with high purity and adaptability remains challenging. Here we introduce a compact, self-locking Mach-Zehnder interferometer that integrates digital spatial light…
+
+## 9. Design and implementation of a modular laser system for AMO experiments
+
+- arXiv: `2603.17697v1`
+- Published: 2026-03-18 13:15 UTC
+- Authors: Klara Theophilo, Scott J Thomas, Georgina Croft, Yashna N D Lekhai, Alexander Owens, Daisy R H Smith et al.
+- Categories: physics.atom-ph, quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.17697v1) | [pdf](https://arxiv.org/pdf/2603.17697v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Robust laser delivery and stabilization are key components in atom-based quantum technologies, such as quantum computing. Moving these technologies towards product-like deployment requires scalable, compact, cost-effective, and upgradable modules. Here we describe laser systems consisting of application-flexible modules, and demonstrate their performance by characterizing key metrics and by integration with ion trap systems. The laser system is confined to a single server rack and a compact locking station. Both are Class 1 laser products with fiber in-out and electronic control of the laser…
+
+## 10. Postselection induced localization and coherence in quantum walks on heterogeneous networks
+
+- arXiv: `2603.17629v1`
+- Published: 2026-03-18 11:47 UTC
+- Authors: Adithya L J, Suraj S Hegde, Chandrakala Meena
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.17629v1) | [pdf](https://arxiv.org/pdf/2603.17629v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Postselection of quantum trajectories is known effectively introduce nonlinearity into dynamics of open quantum systems. We study the effect of such non-linearity in continuous-time quantum walks (CTQWs) on networks with homogeneous and heterogeneous degree distributions. Using the recently proposed nonlinear Lindblad master equation (NLME), we investigate the dynamics under two decoherence mechanisms: Haken-Strobl and quantum stochastic walk (QSW). Our analysis reveals a striking dichotomy: under Haken-Strobl decoherence the nonlinear contributions precisely cancel, yielding a uniform steady…
