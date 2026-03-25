@@ -1,185 +1,125 @@
 # arXiv alert report
 
-- Generated: 2026-03-24 06:37 UTC
-- Window: papers published since 2026-03-23 06:37 UTC
-- Matches: 15
+- Generated: 2026-03-25 06:37 UTC
+- Window: papers published since 2026-03-24 06:37 UTC
+- Matches: 10
 
-## 1. Probing the Spacetime Structure of Entanglement in Monitored Quantum Circuits with Graph Neural Networks
+## 1. Single-letter one-way distillable entanglement for non-degradable states
 
-- arXiv: `2603.22244v1`
-- Published: 2026-03-23 17:41 UTC
-- Authors: Javad Vahedi, Stefan Kettemann
-- Categories: cond-mat.dis-nn, quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.22244v1) | [pdf](https://arxiv.org/pdf/2603.22244v1)
+- arXiv: `2603.23417v1`
+- Published: 2026-03-24 16:50 UTC
+- Authors: Rabsan Galib Ahmed, Graeme Smith, Peixue Wu
+- Categories: quant-ph, cs.IT, math-ph
+- Links: [abs](https://arxiv.org/abs/2603.23417v1) | [pdf](https://arxiv.org/pdf/2603.23417v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Global entanglement in quantum many-body systems is inherently nonlocal, raising the question of whether it can be inferred from local observations. We investigate this problem in monitored quantum circuits, where projective measurements generate classical records distributed across spacetime. Using graph neural networks (GNNs), we represent individual quantum trajectories as directed spacetime graphs and reconstruct the half-chain entanglement entropy from local measurement data alone. Because information propagates through the network via local message passing, the architecture directly…
+The one-way distillable entanglement is a central operational measure of bipartite entanglement, quantifying the optimal rate at which maximally entangled pairs can be extracted by one-way LOCC. Despite its importance, it is notoriously hard to compute, since it is defined by a regularized optimization over many copies and adaptive one-way protocols. At present, single-letter formulas are only known for (conjugate) degradable and PPT states. More generally, it has remained unclear when one-way distillable entanglement can still be additive beyond degradability and PPT settings, and how such…
 
-## 2. Non-Hermiticity induced thermal entanglement phase transition
+## 2. Encoding Numerical Data for Generative Quantum Machine Learning
 
-- arXiv: `2603.21968v1`
-- Published: 2026-03-23 13:32 UTC
-- Authors: Bikashkali Midya
-- Categories: quant-ph, cond-mat.str-el, math-ph
-- Links: [abs](https://arxiv.org/abs/2603.21968v1) | [pdf](https://arxiv.org/pdf/2603.21968v1)
+- arXiv: `2603.23407v1`
+- Published: 2026-03-24 16:39 UTC
+- Authors: Michael Krebsbach, Florentin Reiter, Thomas Wellens, Hagen-Henrik Kowalski, Ali Abedi
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.23407v1) | [pdf](https://arxiv.org/pdf/2603.23407v1)
 - Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
+- Keyword hits: title=['quantum machine learning'] abstract=['quantum machine learning']
 
-Theoretical analysis of a prototypical two-qubit effective non-Hermitian system characterized by asymmetric Heisenberg $XY$ interactions in the absence of external magnetic fields demonstrates that maximal bipartite entanglement and quantum phase transitions can be induced exclusively through non-Hermiticity. At thermal equilibrium as $T\rightarrow 0$, the system attains maximal entanglement ${C}=1$ for values of the non-Hermiticity parameter greater than a critical value $γ>γ_c=J\sqrt{(1-δ^2)}$, where $J$ denotes the exchange interaction and $δ$ represents the anisotropy of the system;…
+Generative quantum machine learning models are trained to deduce the probability distribution underlying a given dataset, and to produce new, synthetic samples from it. The majority of such models proposed in the literature, like the Quantum Circuit Born Machine (QCBM), fundamentally work on a binary level. Real-world data, however, is often numeric, requiring the models to translate between binary and continuous representations. We analyze how this transition influences the performance of quantum models and show that it requires the models to learn correlations that are solely an artifact of…
 
-## 3. Entanglement degradation in regular and singular spacetimes
+## 3. A multi-ion optical clock with $\mathbf{5 \times 10^{-19}}$ uncertainty
 
-- arXiv: `2603.21857v1`
-- Published: 2026-03-23 11:47 UTC
-- Authors: Orlando Luongo, Stefano Mancini, Sebastiano Tomasi
-- Categories: gr-qc, hep-th, quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.21857v1) | [pdf](https://arxiv.org/pdf/2603.21857v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
+- arXiv: `2603.23446v1`
+- Published: 2026-03-24 17:18 UTC
+- Authors: Melina Filzinger, Martin R. Steinel, Jian Jiang, Daniel Bennett, Tanja E. Mehlstäubler, Ekkehard Peik et al.
+- Categories: physics.atom-ph, quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.23446v1) | [pdf](https://arxiv.org/pdf/2603.23446v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['trapped ions']
 
-We study entanglement degradation near the horizons of regular, Reissner-Nordström, and Schwarzschild-de Sitter black holes, considering the Bardeen, Hayward, and generalized Hayward metrics as regular black holes. To this end, we compute the entanglement negativity, $\mathcal{N}$, for two Unruh-like modes of a scalar field shared by Alice, who is inertial, and Rob, who hovers at a fractional offset $ρ$ outside the horizon of the backgrounds under consideration. For each geometry, we locally approximate the metric by a Rindler patch characterized by Rob's proper acceleration $a_0$. Because…
+Today's most accurate clocks are based on laser spectroscopy of electronic transitions in single trapped ions and feature fractional frequency uncertainties below $1\times10^{-18}$. Scaling these systems to multiple, simultaneously interrogated ions reduces measurement times, driving recent advances in multi-ion clocks. However, maintaining state-of-the-art systematic uncertainties while increasing the number of ions remains a central challenge. Here, we report on a multi-ion optical atomic clock with a fractional frequency uncertainty of $5.3\times10^{-19}$ and up to 10 \Sr ions.…
 
-## 4. Dressed-state master equation for two strongly coupled two-level atoms with long-lived entanglement
+## 4. Quantum simulation of Motzkin spin chain with Rydberg atoms
 
-- arXiv: `2603.22238v1`
-- Published: 2026-03-23 17:36 UTC
-- Authors: Artemisa Villalobos-Ramirez, Juan Mauricio Torres
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.22238v1) | [pdf](https://arxiv.org/pdf/2603.22238v1)
-- Score: 3
-- Keyword hits: title=['entanglement'] abstract=[]
-
-We derive a dressed-state master equation in Lindblad form for two strongly coupled two-level atoms. The resulting decay dynamics are governed by Lindblad operators that couple different dressed states. We show that the eigenvalues and eigenvectors of the Liouvillian can be obtained in a compact form, since each off-diagonal element in the dressed-state basis constitutes an eigenvector. Depending on the interatomic distance and the atomic transition frequency, two distinct time scales emerge. On a short time scale, the system relaxes toward two states, one of which corresponds to a transient,…
-
-## 5. Precision's arrow of time
-
-- arXiv: `2603.22284v1`
-- Published: 2026-03-23 17:59 UTC
-- Authors: Luis E. F. Foa Torres, G. Pappas, V. Achilleos, D. Bautista Avilés
-- Categories: quant-ph, cond-mat.stat-mech
-- Links: [abs](https://arxiv.org/abs/2603.22284v1) | [pdf](https://arxiv.org/pdf/2603.22284v1)
+- arXiv: `2603.23422v1`
+- Published: 2026-03-24 16:54 UTC
+- Authors: Kaustav Mukherjee, Hatem Barghathi, Adrian Del Maestro, Rick Mukherjee
+- Categories: quant-ph, cond-mat.quant-gas
+- Links: [abs](https://arxiv.org/abs/2603.23422v1) | [pdf](https://arxiv.org/pdf/2603.23422v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-The arrow of time is usually attributed to two mechanisms: decoherence through environmental entanglement, and chaos through nonlinear dynamics. Here we demonstrate a third route, Precision-Induced Irreversibility (PIR), requiring neither. No entanglement. No nonlinearity. Just three ingredients: amplification, non-normality, and finite dynamic range, whose interplay yields an operational arrow of time; remove any one and reversibility can be restored. Non-Hermitian evolution remains mathematically invertible, yet beyond a sharp temporal predictability horizon scaling linearly with available…
+Motzkin spin chain is a well-known mathematical model with connections to symmetry-protected topological phases, such as the Haldane phase, as well as to concepts in the AdS/CFT correspondence. They exhibit highly entangled ground states that violate the area law and are exceptionally difficult to simulate with conventional numerical methods. Numerical simulations of the Motzkin ground state become further challenging at large system sizes due to their high-dimensional spin structure, rendering it a natural test bed for quantum simulation with ultra-cold systems. Here, we propose a…
 
-## 6. The color code, the surface code, and the transversal CNOT: NP-hardness of minimum-weight decoding
+## 5. Bell Experiments Revisited: A Numerical Approach Based on De Broglie--Bohm Theory
 
-- arXiv: `2603.22064v1`
-- Published: 2026-03-23 14:57 UTC
-- Authors: Shouzhen Gu, Lily Wang, Aleksander Kubica
-- Categories: quant-ph, cs.CC
-- Links: [abs](https://arxiv.org/abs/2603.22064v1) | [pdf](https://arxiv.org/pdf/2603.22064v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-The decoding problem is a ubiquitous algorithmic task in fault-tolerant quantum computing, and solving it efficiently is essential for scalable quantum computing. Here, we prove that minimum-weight decoding is NP-hard in three quintessential settings: (i) the color code with Pauli $Z$ errors, (ii) the surface code with Pauli $X$, $Y$ and $Z$ errors, and (iii) the surface code with a transversal CNOT gate, Pauli $Z$ and measurement bit-flip errors. Our results show that computational intractability already arises in basic and practically relevant decoding problems central to both quantum…
-
-## 7. Hyperloss from coherent spatial-mode mixing in quantum-correlated networks
-
-- arXiv: `2603.21982v1`
-- Published: 2026-03-23 13:45 UTC
-- Authors: Stephan Grebien, Julian Gurs, Roman Schnabel, Mikhail Korobko
-- Categories: quant-ph, physics.ins-det, physics.optics
-- Links: [abs](https://arxiv.org/abs/2603.21982v1) | [pdf](https://arxiv.org/pdf/2603.21982v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Quantum-correlated networks distribute quantum resources such as squeezed and entangled states. These states are central to modern quantum technology, including photonic quantum computing, quantum communications, non-destructive biological sensing and gravitational-wave detection. Even for squeezed states of light - the most robust quantum-correlated resource - loss-induced decoherence remains the dominant obstacle to strong quantum advantage in in large-scale interferometric and networked quantum systems. Common design assumption in these applications is treating mismatches between spatial…
-
-## 8. Disentangling Speaker Traits for Deepfake Source Verification via Chebyshev Polynomial and Riemannian Metric Learning
-
-- arXiv: `2603.21875v1`
-- Published: 2026-03-23 12:05 UTC
-- Authors: Xi Xuan, Wenxin Zhang, Zhiyu Li, Jennifer Williams, Ville Hautamäki, Tomi H. Kinnunen
-- Categories: eess.AS, cs.CL, cs.SD
-- Links: [abs](https://arxiv.org/abs/2603.21875v1) | [pdf](https://arxiv.org/pdf/2603.21875v1)
+- arXiv: `2603.23065v1`
+- Published: 2026-03-24 11:02 UTC
+- Authors: Tim Dartois, Signe Seidelin, Aurélien Drezet
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.23065v1) | [pdf](https://arxiv.org/pdf/2603.23065v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Speech deepfake source verification systems aims to determine whether two synthetic speech utterances originate from the same source generator, often assuming that the resulting source embeddings are independent of speaker traits. However, this assumption remains unverified. In this paper, we first investigate the impact of speaker factors on source verification. We propose a speaker-disentangled metric learning (SDML) framework incorporating two novel loss functions. The first leverages Chebyshev polynomial to mitigate gradient instability during disentanglement optimization. The second…
+We present a complete and rigorous model of an EPR--Bell-type experiment within the framework of the de Broglie--Bohm theory. The purpose of this work is to show explicitly how a deterministic hidden-variable theory can reproduce all quantum-mechanical predictions, including the violation of Bell inequalities. Combining analytical arguments with numerical simulations, our approach offers a unified and transparent illustration of the central ingredients of de Broglie--Bohm theory, including particle trajectories, spin dynamics, and quantum entanglement. The model is designed to be pedagogical…
 
-## 9. Fiber-optic quantum interface with an array of more than 100 individually addressable atoms on an optical nanofiber
+## 6. Zero-Uncertainty States Relative to Observable Algebras
 
-- arXiv: `2603.21812v1`
-- Published: 2026-03-23 10:56 UTC
-- Authors: Mitsuyoshi Takahata, Jameesh Keloth, Takashi Yamamoto, Ken-ichi Harada, Shigehito Miki, Takao Aoki
+- arXiv: `2603.23036v1`
+- Published: 2026-03-24 10:13 UTC
+- Authors: Jiayu Ran
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.21812v1) | [pdf](https://arxiv.org/pdf/2603.21812v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Integrating the scalability of individually addressable arrays of optical-tweezer-trapped single atoms with the efficient light-matter interface provided by nanophotonic waveguides has been a long-standing challenge in quantum technologies based on atoms and photons. Here we realize a quantum interface between photons guided in an optical nanofiber with a diameter of 310 nm and an array of on average 155 individually addressable atoms. Using a spatial light modulator and an objective lens with NA = 0.45, single cesium atoms are trapped in a one-dimensional array of 200 optical tweezer spots…
-
-## 10. Using spatiotemporal Born rule for testing macroscopic realism: some applications to the pseudo-density matrices and nonclassical temporal correlations
-
-- arXiv: `2603.21793v1`
-- Published: 2026-03-23 10:35 UTC
-- Authors: Naim Elias Comar, Lucas C. Céleri, Mia Stamatova, Vlatko Vedral, Aditya Varna Iyer, Rafael Chaves
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.21793v1) | [pdf](https://arxiv.org/pdf/2603.21793v1)
+- Links: [abs](https://arxiv.org/abs/2603.23036v1) | [pdf](https://arxiv.org/pdf/2603.23036v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We show that, given an evolving quantum system and the quasiprobability distribution generated by the spatiotemporal generalization of the Born rule in pseudo density-matrices (PDMs), this distribution deviates from the sequential measurements probability distribution, given by the Lüders von-Neumann distribution, if and only if the non-signaling in time (NSIT) is violated; equivalently, if and only if the macroscopic realism (MR) is violated. Furthermore, we propose a definition of temporal entanglement according to the structure of the PDMs that is analogous to the definition of spatial…
+We study zero-uncertainty states with quantum memory from an operator-algebraic perspective, which naturally accommodates degenerate projective-valued measurements. In the equal-dimension setting, we prove a rigidity theorem for purity and maximal entanglement. We then analyze two mechanisms by which this rigidity can fail: one arising from proper observable subalgebras, and the other from allowing larger memory dimensions. In these cases, we give corresponding algebraic decomposition and representation-theoretic descriptions, and compare their mathematical structure with their physical…
 
-## 11. Model selection in hybrid quantum neural networks with applications to quantum transformer architectures
+## 7. Dynamical Evolution of Quantum Correlations and Decoherence in Coupled Oscillators Interacting with a Thermal Reservoir
 
-- arXiv: `2603.21749v1`
-- Published: 2026-03-23 09:43 UTC
-- Authors: Harsh Wadhwa, Rahul Bhowmick, Naipunnya Raj, Rajiv Sangle, Ruchira V. Bhat, Krishnakumar Sabapathy
-- Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2603.21749v1) | [pdf](https://arxiv.org/pdf/2603.21749v1)
+- arXiv: `2603.22994v1`
+- Published: 2026-03-24 09:36 UTC
+- Authors: Somayeh Mehrabankar, Farkhondeh Abbasnezhad, Davood Afshar, Aurelian Isar
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.22994v1) | [pdf](https://arxiv.org/pdf/2603.22994v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+We investigate the dynamical evolution of quantum discord, entanglement and purity in an open quantum system of two coupled asymmetric harmonic oscillators interacting with a thermal environment. Using the Kossakowski-Lindblad master equation we analyze the time evolution starting with a squeezed vacuum state. In contrast to our previous study on entanglement evolution in asymmetric oscillators, the present work introduces XY-type position-position coupling together with a systematic joint analysis of quantum discord and purity alongside entanglement. We examine the combined effects of the…
+
+## 8. A PAC-Bayesian approach to generalization for quantum models
+
+- arXiv: `2603.22964v1`
+- Published: 2026-03-24 08:58 UTC
+- Authors: Pablo Rodriguez-Grasa, Matthias C. Caro, Jens Eisert, Elies Gil-Fuster, Franz J. Schreiber, Carlos Bravo-Prieto
+- Categories: quant-ph, cond-mat.quant-gas, cs.LG, stat.ML
+- Links: [abs](https://arxiv.org/abs/2603.22964v1) | [pdf](https://arxiv.org/pdf/2603.22964v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum machine learning']
 
-Quantum machine learning models generally lack principled design guidelines, often requiring full resource-intensive training across numerous choices of encodings, quantum circuit designs and initialization strategies to find effective configuration. To address this challenge, we develope the Quantum Bias-Expressivity Toolbox ($\texttt{QBET}$), a framework for evaluating quantum, classical, and hybrid transformer architectures. In this toolbox, we introduce lean metrics for Simplicity Bias ($\texttt{SB}$) and Expressivity ($\texttt{EXP}$), for comparing across various models, and extend the…
+Generalization is a central concept in machine learning theory, yet for quantum models, it is predominantly analyzed through uniform bounds that depend on a model's overall capacity rather than the specific function learned. These capacity-based uniform bounds are often too loose and entirely insensitive to the actual training and learning process. Previous theoretical guarantees have failed to provide non-uniform, data-dependent bounds that reflect the specific properties of the learned solution rather than the worst-case behavior of the entire hypothesis class. To address this limitation,…
 
-## 12. Neural Belief-Matching Decoding for Topological Quantum Error Correction Codes
+## 9. STAR-Magic Mutation: Even More Efficient Analog Rotation Gates for Early Fault-Tolerant Quantum Computer
 
-- arXiv: `2603.21730v1`
-- Published: 2026-03-23 09:15 UTC
-- Authors: Luca Menti, Francisco Lázaro
+- arXiv: `2603.22891v1`
+- Published: 2026-03-24 07:39 UTC
+- Authors: Riki Toshio, Shota Kanasugi, Jun Fujisaki, Hirotaka Oshima, Shintaro Sato, Keisuke Fujii
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.21730v1) | [pdf](https://arxiv.org/pdf/2603.21730v1)
+- Links: [abs](https://arxiv.org/abs/2603.22891v1) | [pdf](https://arxiv.org/pdf/2603.22891v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Quantum error correction (QEC) is critical for scalable fault-tolerant quantum computing. Topological codes, such as the toric code, offer hardware-efficient architectures but their Tanner graphs contain many girth-4 cycles that degrade the performance of belief-propagation (BP) decoding. For this reason, BP decoding is typically followed by a more complex second stage decoder such as minimum-weight perfect matching. These combined decoders achieve a remarkable performance, albeit at the cost of increased complexity. In this paper we propose two key improvements for the decoding of toric…
+We introduce STAR-magic mutation, an efficient protocol for implementing logical rotation gates on early fault-tolerant quantum computers. This protocol judiciously combines two of the latest state preparation protocols: transversal multi-rotation protocol and magic state cultivation. It achieves a logical rotation gate with a favorable error scaling of $\mathcal{O}(θ_L^{2(1-Θ(1/d))}p_{\text{ph}})$, while requiring only the ancillary space of a single surface code patch. Here, $θ_L$ is the logical rotation angle, $p_{\text{ph}}$ is the physical error rate, and $d$ is the code distance. This…
 
-## 13. All-optical quantum memory using bosonic quantum error correction codes
+## 10. The Coordinate System Problem in Persistent Structural Memory for Neural Architectures
 
-- arXiv: `2603.21721v1`
-- Published: 2026-03-23 09:07 UTC
-- Authors: Kaustav Chatterjee, Niklas Budinger, Kian Latifi Yaghin, Lucas Borg Clausen, Ulrik Lund Andersen
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.21721v1) | [pdf](https://arxiv.org/pdf/2603.21721v1)
+- arXiv: `2603.22858v1`
+- Published: 2026-03-24 06:51 UTC
+- Authors: Abhinaba Basu
+- Categories: cs.LG, cs.AI, cs.NE, q-bio.NC
+- Links: [abs](https://arxiv.org/abs/2603.22858v1) | [pdf](https://arxiv.org/pdf/2603.22858v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
+- Keyword hits: title=[] abstract=['entanglement']
 
-Reliable quantum memory is essential for scalable quantum networks and fault-tolerant photonic quantum computing. We present a quantitative analysis of an all-optical quantum memory architecture in which a Gottesman-Kitaev-Preskill (GKP) encoded qubit is stored in a fibre loop and periodically stabilized using teleportation-based error correction. By modelling fibre propagation as a pure-loss channel and representing each correction round as an effective logical map acting on the Bloch vector, we obtain a compact description of the full multi-round memory channel. We show that syndrome…
-
-## 14. Gate-based Readout and Cooling of Neutral Atoms
-
-- arXiv: `2603.21643v1`
-- Published: 2026-03-23 07:24 UTC
-- Authors: Richard Bing-Shiun Tsai, Lewis R. B. Picard, Xiangkai Sun, Yuan Le, Kon H. Leung, Manuel Endres
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.21643v1) | [pdf](https://arxiv.org/pdf/2603.21643v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Neutral atom arrays have seen tremendous progress in quantum simulation, quantum metrology, and fault-tolerant quantum computing. However, hardware constraints such as atom loss and heating remain significant challenges. In this work, we introduce a comprehensive ancilla-based toolbox for optical tweezer experiments that utilizes high-fidelity Rydberg entangling gates and ancilla atoms to mitigate these physical limitations. First, we demonstrate repeated ancilla-based atom readout, achieving improved detection fidelity over multiple rounds with minimal perturbation to data atoms. Second,…
-
-## 15. Neural network approach to mitigating intra-gate crosstalk in superconducting CZ gates
-
-- arXiv: `2603.21631v1`
-- Published: 2026-03-23 06:55 UTC
-- Authors: Yiming Yu, Yexiong Zeng, Ye-Hong Chen, Franco Nori, Yan Xia
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.21631v1) | [pdf](https://arxiv.org/pdf/2603.21631v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-The potential of quantum computing is fundamentally constrained by the inherent susceptibility of qubits to noise and crosstalk, particularly during multi-qubit gate operations. Existing strategies, such as hardware isolation and dynamical decoupling, face limitations in scalability, experimental feasibility, and robustness against complex noise sources. In this manuscript, we propose a physics-guided neural control (PGNC) framework to generate robust control pulses for superconducting transmon qubit systems, specifically targeting crosstalk mitigation. By combining a hardware aware…
+We introduce the Dual-View Pheromone Pathway Network (DPPN), an architecture that routes sparse attention through a persistent pheromone field over latent slot transitions, and use it to discover two independent requirements for persistent structural memory in neural networks. Through five progressively refined experiments using up to 10 seeds per condition across 5 model variants and 4 transfer targets, we identify a core principle: persistent memory requires a stable coordinate system, and any coordinate system learned jointly with the model is inherently unstable. We characterize three…
