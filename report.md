@@ -1,125 +1,89 @@
 # arXiv alert report
 
-- Generated: 2026-03-25 06:37 UTC
-- Window: papers published since 2026-03-24 06:37 UTC
-- Matches: 10
+- Generated: 2026-03-26 06:42 UTC
+- Window: papers published since 2026-03-25 06:42 UTC
+- Matches: 7
 
-## 1. Single-letter one-way distillable entanglement for non-degradable states
+## 1. Controlling entanglement by phase engineering in giant-atom waveguide
 
-- arXiv: `2603.23417v1`
-- Published: 2026-03-24 16:50 UTC
-- Authors: Rabsan Galib Ahmed, Graeme Smith, Peixue Wu
-- Categories: quant-ph, cs.IT, math-ph
-- Links: [abs](https://arxiv.org/abs/2603.23417v1) | [pdf](https://arxiv.org/pdf/2603.23417v1)
+- arXiv: `2603.24121v1`
+- Published: 2026-03-25 09:33 UTC
+- Authors: Peng-Fei Wang, Lei Huang, Miao-Miao Wei, Hong Yang, Dong Yan
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.24121v1) | [pdf](https://arxiv.org/pdf/2603.24121v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-The one-way distillable entanglement is a central operational measure of bipartite entanglement, quantifying the optimal rate at which maximally entangled pairs can be extracted by one-way LOCC. Despite its importance, it is notoriously hard to compute, since it is defined by a regularized optimization over many copies and adaptive one-way protocols. At present, single-letter formulas are only known for (conjugate) degradable and PPT states. More generally, it has remained unclear when one-way distillable entanglement can still be additive beyond degradability and PPT settings, and how such…
+We investigate the entanglement dynamics of two giant atoms coupled to a common waveguide. By introducing additional phase modulation at each coupling point, every photon propagation path is jointly controlled by two distinct coupling phases, enabling precise and flexible manipulation of the entanglement evolution. This phase engineering induces destructive interference among different paths, leading to entanglement dynamics in nested giant atoms that become equivalent to those of small atoms, as well as dynamical equivalence between separated and braided configurations. Furthermore, the…
 
-## 2. Encoding Numerical Data for Generative Quantum Machine Learning
+## 2. SpinGQE: A Generative Quantum Eigensolver for Spin Hamiltonians
 
-- arXiv: `2603.23407v1`
-- Published: 2026-03-24 16:39 UTC
-- Authors: Michael Krebsbach, Florentin Reiter, Thomas Wellens, Hagen-Henrik Kowalski, Ali Abedi
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.23407v1) | [pdf](https://arxiv.org/pdf/2603.23407v1)
-- Score: 4
-- Keyword hits: title=['quantum machine learning'] abstract=['quantum machine learning']
+- arXiv: `2603.24298v1`
+- Published: 2026-03-25 13:38 UTC
+- Authors: Alexander Holden, Moinul Hossain Rahat, Nii Osae Osae Dade
+- Categories: quant-ph, cs.CL
+- Links: [abs](https://arxiv.org/abs/2603.24298v1) | [pdf](https://arxiv.org/pdf/2603.24298v1)
+- Score: 3
+- Keyword hits: title=[] abstract=['variational quantum eigensolver', 'vqe', 'quantum computing']
 
-Generative quantum machine learning models are trained to deduce the probability distribution underlying a given dataset, and to produce new, synthetic samples from it. The majority of such models proposed in the literature, like the Quantum Circuit Born Machine (QCBM), fundamentally work on a binary level. Real-world data, however, is often numeric, requiring the models to translate between binary and continuous representations. We analyze how this transition influences the performance of quantum models and show that it requires the models to learn correlations that are solely an artifact of…
+The ground state search problem is central to quantum computing, with applications spanning quantum chemistry, condensed matter physics, and optimization. The Variational Quantum Eigensolver (VQE) has shown promise for small systems but faces significant limitations. These include barren plateaus, restricted ansatz expressivity, and reliance on domain-specific structure. We present SpinGQE, an extension of the Generative Quantum Eigensolver (GQE) framework to spin Hamiltonians. Our approach reframes circuit design as a generative modeling task. We employ a transformer-based decoder to learn…
 
-## 3. A multi-ion optical clock with $\mathbf{5 \times 10^{-19}}$ uncertainty
+## 3. Ground-State Extraction of Heavy-Light Meson Semileptonic Decay Form Factors
 
-- arXiv: `2603.23446v1`
-- Published: 2026-03-24 17:18 UTC
-- Authors: Melina Filzinger, Martin R. Steinel, Jian Jiang, Daniel Bennett, Tanja E. Mehlstäubler, Ekkehard Peik et al.
-- Categories: physics.atom-ph, quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.23446v1) | [pdf](https://arxiv.org/pdf/2603.23446v1)
+- arXiv: `2603.24491v1`
+- Published: 2026-03-25 16:35 UTC
+- Authors: Antonino D'Anna, Alessandro Conigli, Patrick Fritzsch, Antoine Gérardin, Jochen Heitger, Gregorio Herdoíza et al.
+- Categories: hep-lat
+- Links: [abs](https://arxiv.org/abs/2603.24491v1) | [pdf](https://arxiv.org/pdf/2603.24491v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['trapped ions']
+- Keyword hits: title=[] abstract=['wilson']
 
-Today's most accurate clocks are based on laser spectroscopy of electronic transitions in single trapped ions and feature fractional frequency uncertainties below $1\times10^{-18}$. Scaling these systems to multiple, simultaneously interrogated ions reduces measurement times, driving recent advances in multi-ion clocks. However, maintaining state-of-the-art systematic uncertainties while increasing the number of ions remains a central challenge. Here, we report on a multi-ion optical atomic clock with a fractional frequency uncertainty of $5.3\times10^{-19}$ and up to 10 \Sr ions.…
+We discuss the extraction of heavy-light pseudo-scalar to light pseudo-scalar decay form factors from finite time correlation functions. We place particular emphasis on the contamination from excited states employing summed ratios and input from chiral perturbation theory. The analysis is performed on four CLS ensembles with $N_f = 2+1$ flavours of $\mbox{O}(a)$-improved Wilson fermions (presently) at the $\mathrm{SU}(3)$-symmetric point with relativistic heavy-quark masses in the charm region and above. The study presented here is part of the analysis aimed at the computation of the $B \to…
 
-## 4. Quantum simulation of Motzkin spin chain with Rydberg atoms
+## 4. Nonequilibrium phases and quantum correlations in synthetic transport models
 
-- arXiv: `2603.23422v1`
-- Published: 2026-03-24 16:54 UTC
-- Authors: Kaustav Mukherjee, Hatem Barghathi, Adrian Del Maestro, Rick Mukherjee
-- Categories: quant-ph, cond-mat.quant-gas
-- Links: [abs](https://arxiv.org/abs/2603.23422v1) | [pdf](https://arxiv.org/pdf/2603.23422v1)
+- arXiv: `2603.24478v1`
+- Published: 2026-03-25 16:19 UTC
+- Authors: Uddhav Sen, Federico Carollo, Sascha Wald
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.24478v1) | [pdf](https://arxiv.org/pdf/2603.24478v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Motzkin spin chain is a well-known mathematical model with connections to symmetry-protected topological phases, such as the Haldane phase, as well as to concepts in the AdS/CFT correspondence. They exhibit highly entangled ground states that violate the area law and are exceptionally difficult to simulate with conventional numerical methods. Numerical simulations of the Motzkin ground state become further challenging at large system sizes due to their high-dimensional spin structure, rendering it a natural test bed for quantum simulation with ultra-cold systems. Here, we propose a…
+Quantum devices featuring mid-circuit measurement and reset capabilities, such as quantum computers and dual-species Rydberg quantum simulators, enable the realization of quantum cellular automata. These systems evolve in discrete time following local updates implemented by unitary gates, and allow for the realization of both closed and synthetic open dynamics. Here, we focus on quantum cellular automata that implement minimal models of classical and quantum transport. To illustrate our ideas, we focus on a discrete-time totally asymmetric simple exclusion process and investigate how coherent…
 
-## 5. Bell Experiments Revisited: A Numerical Approach Based on De Broglie--Bohm Theory
+## 5. Quantum walk with a local spin interaction
 
-- arXiv: `2603.23065v1`
-- Published: 2026-03-24 11:02 UTC
-- Authors: Tim Dartois, Signe Seidelin, Aurélien Drezet
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.23065v1) | [pdf](https://arxiv.org/pdf/2603.23065v1)
+- arXiv: `2603.24444v1`
+- Published: 2026-03-25 15:55 UTC
+- Authors: Manami Yamagishi, Naomichi Hatano, Kohei Kawabata, Chusei Kiumi, Akinori Nishino, Franco Nori et al.
+- Categories: quant-ph, cond-mat.other
+- Links: [abs](https://arxiv.org/abs/2603.24444v1) | [pdf](https://arxiv.org/pdf/2603.24444v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We present a complete and rigorous model of an EPR--Bell-type experiment within the framework of the de Broglie--Bohm theory. The purpose of this work is to show explicitly how a deterministic hidden-variable theory can reproduce all quantum-mechanical predictions, including the violation of Bell inequalities. Combining analytical arguments with numerical simulations, our approach offers a unified and transparent illustration of the central ingredients of de Broglie--Bohm theory, including particle trajectories, spin dynamics, and quantum entanglement. The model is designed to be pedagogical…
+We introduce a model of quantum walkers interacting with a magnetic impurity localized at the origin. First, we study a model of a single quantum walker interacting with a localized magnetic impurity. For a simple case of parameter values, we analytically obtain the eigenvalues and the eigenvectors of bound states, in which the quantum walker is bound to the magnetic impurity. Second, we study a model with two quantum walkers and one magnetic impurity, in which the two quantum walkers indirectly interact with each other via the magnetic impurity, as in the Kondo model. We numerically simulate…
 
-## 6. Zero-Uncertainty States Relative to Observable Algebras
+## 6. Kubernetes-Orchestrated Hybrid Quantum-Classical Workflows
 
-- arXiv: `2603.23036v1`
-- Published: 2026-03-24 10:13 UTC
-- Authors: Jiayu Ran
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.23036v1) | [pdf](https://arxiv.org/pdf/2603.23036v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-We study zero-uncertainty states with quantum memory from an operator-algebraic perspective, which naturally accommodates degenerate projective-valued measurements. In the equal-dimension setting, we prove a rigidity theorem for purity and maximal entanglement. We then analyze two mechanisms by which this rigidity can fail: one arising from proper observable subalgebras, and the other from allowing larger memory dimensions. In these cases, we give corresponding algebraic decomposition and representation-theoretic descriptions, and compare their mathematical structure with their physical…
-
-## 7. Dynamical Evolution of Quantum Correlations and Decoherence in Coupled Oscillators Interacting with a Thermal Reservoir
-
-- arXiv: `2603.22994v1`
-- Published: 2026-03-24 09:36 UTC
-- Authors: Somayeh Mehrabankar, Farkhondeh Abbasnezhad, Davood Afshar, Aurelian Isar
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.22994v1) | [pdf](https://arxiv.org/pdf/2603.22994v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-We investigate the dynamical evolution of quantum discord, entanglement and purity in an open quantum system of two coupled asymmetric harmonic oscillators interacting with a thermal environment. Using the Kossakowski-Lindblad master equation we analyze the time evolution starting with a squeezed vacuum state. In contrast to our previous study on entanglement evolution in asymmetric oscillators, the present work introduces XY-type position-position coupling together with a systematic joint analysis of quantum discord and purity alongside entanglement. We examine the combined effects of the…
-
-## 8. A PAC-Bayesian approach to generalization for quantum models
-
-- arXiv: `2603.22964v1`
-- Published: 2026-03-24 08:58 UTC
-- Authors: Pablo Rodriguez-Grasa, Matthias C. Caro, Jens Eisert, Elies Gil-Fuster, Franz J. Schreiber, Carlos Bravo-Prieto
-- Categories: quant-ph, cond-mat.quant-gas, cs.LG, stat.ML
-- Links: [abs](https://arxiv.org/abs/2603.22964v1) | [pdf](https://arxiv.org/pdf/2603.22964v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum machine learning']
-
-Generalization is a central concept in machine learning theory, yet for quantum models, it is predominantly analyzed through uniform bounds that depend on a model's overall capacity rather than the specific function learned. These capacity-based uniform bounds are often too loose and entirely insensitive to the actual training and learning process. Previous theoretical guarantees have failed to provide non-uniform, data-dependent bounds that reflect the specific properties of the learned solution rather than the worst-case behavior of the entire hypothesis class. To address this limitation,…
-
-## 9. STAR-Magic Mutation: Even More Efficient Analog Rotation Gates for Early Fault-Tolerant Quantum Computer
-
-- arXiv: `2603.22891v1`
-- Published: 2026-03-24 07:39 UTC
-- Authors: Riki Toshio, Shota Kanasugi, Jun Fujisaki, Hirotaka Oshima, Shintaro Sato, Keisuke Fujii
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.22891v1) | [pdf](https://arxiv.org/pdf/2603.22891v1)
+- arXiv: `2603.24206v1`
+- Published: 2026-03-25 11:31 UTC
+- Authors: Mar Tejedor, Michele Grossi, Cenk Tüysüz, Ricardo Rocha, Sofia Vallecorsa
+- Categories: quant-ph, cs.ET
+- Links: [abs](https://arxiv.org/abs/2603.24206v1) | [pdf](https://arxiv.org/pdf/2603.24206v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-We introduce STAR-magic mutation, an efficient protocol for implementing logical rotation gates on early fault-tolerant quantum computers. This protocol judiciously combines two of the latest state preparation protocols: transversal multi-rotation protocol and magic state cultivation. It achieves a logical rotation gate with a favorable error scaling of $\mathcal{O}(θ_L^{2(1-Θ(1/d))}p_{\text{ph}})$, while requiring only the ancillary space of a single surface code patch. Here, $θ_L$ is the logical rotation angle, $p_{\text{ph}}$ is the physical error rate, and $d$ is the code distance. This…
+Hybrid quantum-classical workflows combine quantum processing units (QPUs) with classical hardware to address computational tasks that are challenging or infeasible for conventional systems alone. Coordinating these heterogeneous resources at scale demands robust orchestration, reproducibility, and observability. Even in the presence of fault-tolerant quantum devices, quantum computing will continue to operate within a broader hybrid ecosystem, where classical infrastructure plays a central role in task scheduling, data movement, error mitigation, and large-scale workflow coordination. In…
 
-## 10. The Coordinate System Problem in Persistent Structural Memory for Neural Architectures
+## 7. Mitigating Dynamic Crosstalk with Optimal Control
 
-- arXiv: `2603.22858v1`
-- Published: 2026-03-24 06:51 UTC
-- Authors: Abhinaba Basu
-- Categories: cs.LG, cs.AI, cs.NE, q-bio.NC
-- Links: [abs](https://arxiv.org/abs/2603.22858v1) | [pdf](https://arxiv.org/pdf/2603.22858v1)
+- arXiv: `2603.24205v1`
+- Published: 2026-03-25 11:29 UTC
+- Authors: Matthias G. Krauss, Luise C. Butzke, Christiane P. Koch
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.24205v1) | [pdf](https://arxiv.org/pdf/2603.24205v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We introduce the Dual-View Pheromone Pathway Network (DPPN), an architecture that routes sparse attention through a persistent pheromone field over latent slot transitions, and use it to discover two independent requirements for persistent structural memory in neural networks. Through five progressively refined experiments using up to 10 seeds per condition across 5 model variants and 4 transfer targets, we identify a core principle: persistent memory requires a stable coordinate system, and any coordinate system learned jointly with the model is inherently unstable. We characterize three…
+The prevalence of quantum crosstalk is an important barrier to scaling frequency-addressable qubit architectures, with dynamic crosstalk being particularly difficult to detect and suppress. This form of crosstalk refers to unintended interactions driven by the gate control fields themselves. Here, we minimize dynamic crosstalk using quantum optimal control based on the perfect entangler spectrum, where spectral peaks signal unwanted entanglement with spectator qubits. Focusing on parametric gates in tunable coupler systems, we derive pulse shapes that eliminate dynamic crosstalk. Remarkably,…
