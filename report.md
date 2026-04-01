@@ -1,149 +1,149 @@
 # arXiv alert report
 
-- Generated: 2026-03-31 06:47 UTC
-- Window: papers published since 2026-03-30 06:47 UTC
+- Generated: 2026-04-01 06:57 UTC
+- Window: papers published since 2026-03-31 06:57 UTC
 - Matches: 12
 
-## 1. Entanglement of minimal dimension and a class of local state discrimination problems
+## 1. Dynamics of entanglement entropy for a locally monitored lattice gauge theory
 
-- arXiv: `2603.28284v1`
-- Published: 2026-03-30 11:04 UTC
-- Authors: Saronath Halder, Suchetana Goswami
+- arXiv: `2603.29900v1`
+- Published: 2026-03-31 15:46 UTC
+- Authors: Nisa Ara, Arpan Bhattacharyya, Nilachal Chakrabarti, Neha Nirbhan, Indrakshi Raychowdhury
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.28284v1) | [pdf](https://arxiv.org/pdf/2603.28284v1)
+- Links: [abs](https://arxiv.org/abs/2603.29900v1) | [pdf](https://arxiv.org/pdf/2603.29900v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-In this work, we construct small sets of bipartite orthogonal pure states that cannot be perfectly distinguished by local operations and classical communication (LOCC). We mention that not all the states within the constructed sets are necessarily entangled. However, such a set contains at least one entangled state which cannot be conclusively identified by LOCC (with nonzero probability). Then, we show that the states of any such set can be perfectly distinguished by LOCC using a minimal-dimensional entangled resource state. Clearly, here the entangled resource state provides an advantage…
+The $1+1$ dimensional $Z_2$ gauge theory is the simplest model that allows for quantum computation or quantum simulation to probe the fundamental aspects of a gauge theory coupled with dynamical fermions. To reliably benchmark such a system, it is crucial to understand the non-unitary quantum dynamics arising from the underlying non-Hermitian evolution and to model the effects of quantum measurements. This work focuses on monitoring ultra-local physical observables for a $\mathbb Z_2$ gauge theory. Tensor network calculations are performed to dynamically probe entanglement entropy at larger…
 
-## 2. Emergent-Coupling-Based Ansatz Evaluated on a Superconducting Quantum Processor
+## 2. Entanglement in prepare-and-measure scenarios without receiver inputs
 
-- arXiv: `2603.28486v1`
-- Published: 2026-03-30 14:21 UTC
-- Authors: Alina Joch, Kevin Lively, Benedikt Fauseweh
-- Categories: quant-ph, cond-mat.str-el
-- Links: [abs](https://arxiv.org/abs/2603.28486v1) | [pdf](https://arxiv.org/pdf/2603.28486v1)
+- arXiv: `2603.29625v1`
+- Published: 2026-03-31 11:46 UTC
+- Authors: Elna Svegborn, Armin Tavakoli
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.29625v1) | [pdf](https://arxiv.org/pdf/2603.29625v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+The most elementary prepare-and-measure scenarios have no independent measurement inputs. No inputs mean that quantum advantages require two indispensable ingredients: shared entanglement and measurements that can be adapted to the communicated messages. Understanding these scenarios is therefore conceptually natural, but also practically relevant, since they act as testbeds for black-box certification of adaptive one-way LOCC. Here, we study them systematically and reveal several of their basic features. For classical messages, we first identify the minimal scenario with a quantum advantage…
+
+## 3. Logical-to-Physical Compilation for Reducing Depth in Distributed Quantum Systems
+
+- arXiv: `2603.29536v1`
+- Published: 2026-03-31 10:19 UTC
+- Authors: Folkert de Ronde, Stephan Wong, Sebastian Feld
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.29536v1) | [pdf](https://arxiv.org/pdf/2603.29536v1)
 - Score: 2
-- Keyword hits: title=[] abstract=['variational quantum eigensolver', 'entanglement']
+- Keyword hits: title=[] abstract=['quantum computing', 'entanglement']
 
-The performance of the variational quantum eigensolver depends critically on the choice of ansatz. In this work, we experimentally evaluate the emergent-coupling-based ansatz (ECBA), a physically motivated variational ansatz for disordered systems. The ECBA is based on a renormalization (semi-)group approach to determine the dominant effective couplings, resulting in shallow circuits that capture the essential long-range entanglement structure while balancing local correlations. We implement the ECBA on superconducting quantum processors and benchmark it on disordered Heisenberg chain models.…
+Quantum computing is expected to become a foundational technology for solving problems that exceed the capabilities of classical systems. As quantum algorithms and hardware technologies continue to advance, the need for scalable architectures becomes increasingly clear. Distributed quantum computing offers a promising path forward by interconnecting multiple smaller processors into a larger, more powerful system. However, distributed quantum computing introduces significant circuit depth overhead, as logical operations are typically decomposed into sequential physical procedures that require…
 
-## 3. Towards Analyzing Formic Acid Using Classical and Quantum Methods
+## 4. High-fidelity entangled photon pairs from a quantum-dot-based single-photon source
 
-- arXiv: `2603.28343v1`
-- Published: 2026-03-30 12:13 UTC
-- Authors: Omer Gurevich, Tal Mor, Ido Ram
-- Categories: quant-ph, cs.CE
-- Links: [abs](https://arxiv.org/abs/2603.28343v1) | [pdf](https://arxiv.org/pdf/2603.28343v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['variational quantum eigensolver', 'vqe']
-
-Catalytic carbon fixation to formic acid is important for studying the reduction of carbon footprint and the emergence of life. Can discrete quantum exhaustive search merged with other methods help reduce the carbon footprint? We suggest merging quantum, quantum inspired, and classical tools for a better simulation of various relevant processes. Quantum tools are often used for analyzing the electronic structure of molecules, sometimes because this problem is not scalable (in the number of orbitals) on classical computers while it is potentially approximately scalable on (future) quantum…
-
-## 4. Modeling Quantum Optomechanical STIRAP
-
-- arXiv: `2603.28692v1`
-- Published: 2026-03-30 17:12 UTC
-- Authors: Ian Hedgepeth, Youqiu Zhan, Vitaly Fedoseev, Dirk Bouwmeester
+- arXiv: `2603.29971v1`
+- Published: 2026-03-31 16:34 UTC
+- Authors: Malwina A. Marczak, Spencer J. Johnson, Mark R. Hogg, Timon L. Baltisberger, Nathan Arnold, Benjamin E. Nussbaum et al.
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.28692v1) | [pdf](https://arxiv.org/pdf/2603.28692v1)
+- Links: [abs](https://arxiv.org/abs/2603.29971v1) | [pdf](https://arxiv.org/pdf/2603.29971v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Quantum optomechanical STIRAP (Stimulated Raman Adiabatic Passage) is investigated for a system of two mechanical modes coupled to an optical mode. We show analytically that in a system without loss, fractional STIRAP can generate a mechanical Bell state from a single phonon Fock state of one of the mechanical modes with the other mechanical mode in the vacuum state, and a product state from a coherent state. Relative phases between Fock basis components in the final state of STIRAP are determined by the phonon-number parity of the initial state. Furthermore, the system is numerically studied…
+Entangled photon pairs are a ubiquitous resource in quantum technologies, used in quantum key distribution and quantum networking as well as fundamental tests of non-locality. For scalable quantum networks, pairs that are indistinguishable in all unentangled degrees of freedom are essential, as they enable high-fidelity entanglement swapping across network nodes. To date the most-studied sources of "swappable" entangled photon pairs have been based on spontaneous parametric down-conversion (SPDC) in non-linear crystals. However, the probabilistic nature and unavoidable trade-off between…
 
-## 5. Hunting for quantum advantage in electronic structure calculations is a highly non-trivial task
+## 5. Four Generations of Quantum Biomedical Sensors
 
-- arXiv: `2603.28648v1`
-- Published: 2026-03-30 16:32 UTC
-- Authors: Örs Legeza, Andor Menczer, Miklós Antal Werner, Sotiris S. Xantheas, Frank Neese, Martin Ganahl et al.
-- Categories: physics.chem-ph, cond-mat.str-el, quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.28648v1) | [pdf](https://arxiv.org/pdf/2603.28648v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-In light of major developments over the past decades in both quantum computing and simulations on classical hardware, it is a serious challenge to identify a real-world problem where quantum advantage is expected to appear. In quantum chemistry, electronic structure calculations of strongly correlated, i.e. multi-reference problems, are often argued to fall into such category because of their intractability with standard methods based on mean-field theory. Therefore, providing state-of-the-art benchmark data by classical algorithms is necessary to make a decisive conclusion when such…
-
-## 6. Neural Quantum States in Non-Stabilizer Regimes: Benchmarks with Atomic Nuclei
-
-- arXiv: `2603.28646v1`
-- Published: 2026-03-30 16:29 UTC
-- Authors: James W. T. Keeble, Alessandro Lovato, Caroline E. P. Robin
-- Categories: nucl-th, quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.28646v1) | [pdf](https://arxiv.org/pdf/2603.28646v1)
+- arXiv: `2603.29944v1`
+- Published: 2026-03-31 16:16 UTC
+- Authors: Xin Jin, Priyam Srivastava, Ronghe Wang, Yuqing Li, Jonathan Beaumariage, Tom Purdy et al.
+- Categories: quant-ph, cs.AI
+- Links: [abs](https://arxiv.org/abs/2603.29944v1) | [pdf](https://arxiv.org/pdf/2603.29944v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-As neural networks are known to efficiently represent classes of tensor-network states as well as volume-law-entangled states, identifying which properties determine the representational capabilities of neural quantum states (NQS) remains an open question. We construct NQS representations of ground states of medium-mass atomic nuclei, which typically exhibit significant entanglement and non-stabilizerness, to study their performance in relation to the quantum complexity of the target state. Leveraging a second-quantized formulation of NQS tailored for nuclear-physics applications, we perform…
+Quantum sensing technologies offer transformative potential for ultra-sensitive biomedical sensing, yet their clinical translation remains constrained by classical noise limits and a reliance on macroscopic ensembles. We propose a unifying generational framework to organize the evolving landscape of quantum biosensors based on their utilization of quantum resources. First-generation devices utilize discrete energy levels for signal transduction but follow classical scaling laws. Second-generation sensors exploit quantum coherence to reach the standard quantum limit, while third-generation…
 
-## 7. Shor's algorithm is possible with as few as 10,000 reconfigurable atomic qubits
+## 6. Weak-Field Expansion: A Time-Closed Solution of Quantum Three-Wave Mixing
 
-- arXiv: `2603.28627v1`
-- Published: 2026-03-30 16:10 UTC
-- Authors: Madelyn Cain, Qian Xu, Robbie King, Lewis R. B. Picard, Harry Levine, Manuel Endres et al.
+- arXiv: `2603.29869v1`
+- Published: 2026-03-31 15:23 UTC
+- Authors: Hanzhong Zhang, Avi Pe'er
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.28627v1) | [pdf](https://arxiv.org/pdf/2603.28627v1)
+- Links: [abs](https://arxiv.org/abs/2603.29869v1) | [pdf](https://arxiv.org/pdf/2603.29869v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
+- Keyword hits: title=[] abstract=['entanglement']
 
-Quantum computers have the potential to perform computational tasks beyond the reach of classical machines. A prominent example is Shor's algorithm for integer factorization and discrete logarithms, which is of both fundamental importance and practical relevance to cryptography. However, due to the high overhead of quantum error correction, optimized resource estimates for cryptographically relevant instances of Shor's algorithm require millions of physical qubits. Here, by leveraging advances in high-rate quantum error-correcting codes, efficient logical instruction sets, and circuit design,…
+We present a systematic derivation of the Heisenberg evolution of a trilinear bosonic Hamiltonian system in presence of a strong drive beyond the standard approximation of a classical, undepleted driving field. We employ a perturbative expansion of the Hamiltonian propagator in orders of the input field amplitudes, as opposed to the standard Baker-Campbell-Hausdorff (BCH) expansion of the propagator in orders of time. Our method automatically provides time-closed expressions; and converges considerably faster than BCH, especially in the regime of high parametric gain because the small…
 
-## 8. Tunable Nonlocal ZZ Interaction for Remote Controlled-Z Gates Between Distributed Fixed-Frequency Qubits
+## 7. Topological sum rule for geometric phases of quantum gates
 
-- arXiv: `2603.28526v1`
-- Published: 2026-03-30 14:52 UTC
-- Authors: Benzheng Yuan, Chaojie Zhang, Haoran He, Yangyang Fei, Chuanbing Han, Shuya Wang et al.
+- arXiv: `2603.29795v1`
+- Published: 2026-03-31 14:28 UTC
+- Authors: Nadav Orion, Boris Rotstein, Nirron Miller, Eric Akkermans
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.28526v1) | [pdf](https://arxiv.org/pdf/2603.28526v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Fault-tolerant quantum computing requires large-scale superconducting processors, yet monolithic architectures face increasing constraints from wiring density, crosstalk, and fabrication yield. Modular superconducting platforms offer a scalable alternative, but achieving high-fidelity entangling gates between distant modules remains a central challenge, particularly for highly coherent fixed-frequency qubits. Here, we propose a distributed hardware architecture designed to overcome this bottleneck by employing a pair of double-transmon couplers (DTCs). By synchronously controlling the two…
-
-## 9. Membership Inference Attacks against Large Audio Language Models
-
-- arXiv: `2603.28378v1`
-- Published: 2026-03-30 12:45 UTC
-- Authors: Jia-Kai Dong, Yu-Xiang Lin, Hung-Yi Lee
-- Categories: cs.SD, cs.AI
-- Links: [abs](https://arxiv.org/abs/2603.28378v1) | [pdf](https://arxiv.org/pdf/2603.28378v1)
+- Links: [abs](https://arxiv.org/abs/2603.29795v1) | [pdf](https://arxiv.org/pdf/2603.29795v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We present the first systematic Membership Inference Attack (MIA) evaluation of Large Audio Language Models (LALMs). As audio encodes non-semantic information, it induces severe train and test distribution shifts and can lead to spurious MIA performance. Using a multi-modal blind baseline based on textual, spectral, and prosodic features, we demonstrate that common speech datasets exhibit near-perfect train/test separability (AUC approximately 1.0) even without model inference, and the standard MIA scores strongly correlate with these blind acoustic artifacts (correlation greater than 0.7).…
+We establish a topological sum rule, $ν_U = \frac{1}{2π}\sum_nγ_n = 2mν_H$, connecting the geometric phases accumulated by a two-qubit system over a complete basis of initial states to the winding number $ν_H$ classifying its Hamiltonian. Implementations of the same gate from different topological classes must distribute these phases differently, making their distinction measurable through the Wootters concurrence. As a corollary, nontrivial topology is a necessary condition for entanglement: only Hamiltonians with access to $ν_H \neq 0$ can generate it.
 
-## 10. Learning from imperfect quantum data via unsupervised domain adaptation with classical shadows
+## 8. Optimal Control of Spin Squeezing in 2D Finite-Range Interacting Systems
 
-- arXiv: `2603.28294v1`
-- Published: 2026-03-30 11:20 UTC
-- Authors: Kosuke Ito, Akira Tanji, Hiroshi Yano, Yudai Suzuki, Naoki Yamamoto
-- Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2603.28294v1) | [pdf](https://arxiv.org/pdf/2603.28294v1)
+- arXiv: `2603.29737v1`
+- Published: 2026-03-31 13:36 UTC
+- Authors: Ang Li, Ling-Na Wu, Li You
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.29737v1) | [pdf](https://arxiv.org/pdf/2603.29737v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Learning from quantum data using classical machine learning models has emerged as a promising paradigm toward realizing quantum advantages. Despite extensive analyses on their performance, clean and fully labeled quantum data from the target domain are often unavailable in practical scenarios, forcing models to be trained on data collected under conditions that differ from those encountered at deployment. This mismatch highlights the need for new approaches beyond the common assumptions of prior work. In this work, we address this issue by employing an unsupervised domain adaptation framework…
+Spin squeezing serves as both a fundamental witness of quantum entanglement and a critical resource for quantum-enhanced metrology. While generating substantial spin squeezing in finite-range interacting systems remains challenging, such capability is important for advancing quantum technologies. In this work, we develop an optimal control strategy for achieving enhanced spin squeezing in a two-dimensional XX model with dipolar interactions. Leveraging rotor-spin-wave theory for periodic boundary conditions, we circumvent computational bottlenecks to explore control strategies at…
 
-## 11. Quantum engineering with ultracold polar molecules using trap-induced resonances
+## 9. Thermal static Potential at Finite Density in (2+1)-flavor QCD
 
-- arXiv: `2603.28270v1`
-- Published: 2026-03-30 10:53 UTC
-- Authors: Sakthikumaran Ravichandran, Piotr Kulik, Krzysztof Jachymski
-- Categories: physics.atom-ph, cond-mat.quant-gas, quant-ph
-- Links: [abs](https://arxiv.org/abs/2603.28270v1) | [pdf](https://arxiv.org/pdf/2603.28270v1)
+- arXiv: `2603.29687v1`
+- Published: 2026-03-31 12:44 UTC
+- Authors: Jishnu Goswami, Dibyendu Bala, Olaf Kaczmarek
+- Categories: hep-lat, hep-ph
+- Links: [abs](https://arxiv.org/abs/2603.29687v1) | [pdf](https://arxiv.org/pdf/2603.29687v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
+- Keyword hits: title=[] abstract=['wilson']
 
-Polar molecules represent a promising platform for quantum simulation and computation protocols. Highly controllable arrays of optical tweezers are now accessible in experiments, allowing for unprecedented control of individual molecules. Motional dephasing is typically seen as an obstacle in quantum computing scenarios. Here, we instead consider using the trap structure as a resource for implementing efficient quantum gates. By numerically solving the two-body problem of dipoles trapped in separate tweezers, we identify trap-induced resonances that can serve as the mechanism for achieving…
+We study the thermal static potential for (2+1)-flavor QCD at nonzero density through a Taylor expansion around vanishing chemical potentials. From Taylor expanded Wilson line correlators, we extract the $\hatμ^2$ coefficient of the real and imaginary part of the potential in light and strange flavor channels and in the baryon number and electric charge channels. We observe an enhancement of in-medium screening at intermediate and large separations. The effect is visible in both the real and imaginary parts to the extracted $\hatμ^2$ contribution of the static potentials and provides a first…
 
-## 12. Beyond Cosine Similarity: Zero-Initialized Residual Complex Projection for Aspect-Based Sentiment Analysis
+## 10. Quantum connectivity of quantum networks
 
-- arXiv: `2603.28205v1`
-- Published: 2026-03-30 09:23 UTC
-- Authors: Yijin Wang, Fandi Sun
-- Categories: cs.CL
-- Links: [abs](https://arxiv.org/abs/2603.28205v1) | [pdf](https://arxiv.org/pdf/2603.28205v1)
+- arXiv: `2603.29601v1`
+- Published: 2026-03-31 11:18 UTC
+- Authors: Md Sohel Mondal, Shashank Shekhar, Siddhartha Santra
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.29601v1) | [pdf](https://arxiv.org/pdf/2603.29601v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Aspect-Based Sentiment Analysis (ABSA) is fundamentally challenged by representation entanglement, where aspect semantics and sentiment polarities are often conflated in real-valued embedding spaces. Furthermore, standard contrastive learning suffers from false-negative collisions, severely degrading performance on high-frequency aspects. In this paper, we propose a novel framework featuring a Zero-Initialized Residual Complex Projection (ZRCP) and an Anti-collision Masked Angle Loss,inspired by quantum projection and entanglement ideas. Our approach projects textual features into a complex…
+The practical utility of a quantum network depends on its ability to establish entanglement between arbitrary node pairs with quality sufficient to execute entanglement enabled tasks. This capability can be assessed globally, through aggregate performance over all node pairs, as well as locally, at the level of individual nodes. Since entanglement-based connections form a layer above the underlying physical topology, quantum connectivity is not adequately captured by classical topological connectivity metrics. To enable characterisation of the quantum connectivity at the level of the network…
+
+## 11. Adiabatic Ramsey Interferometry for Measuring Weak Nonlinearities with Super-Heisenberg Precision
+
+- arXiv: `2603.29574v1`
+- Published: 2026-03-31 10:54 UTC
+- Authors: Venelin P. Pavlov, Bogomila S. Nikolova, Peter A. Ivanov
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.29574v1) | [pdf](https://arxiv.org/pdf/2603.29574v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['trapped ions']
+
+We propose an adiabatic Ramsey interferometry technique for detecting weak nonlinearities with trapped ions. The method relies on using the quantum Rabi model as a probe, which is sensitive to nonlinear symmetry-breaking perturbations. We show that the couplings which arise either from anharmonic terms of the trapping potential or due to higher order terms in the Coulomb interaction expansion can be efficiently estimated by measuring the spin state probabilities alone. We show that the spin signal is amplified by the mean-phonon excitations, which results in the estimation precision reaching…
+
+## 12. Quantum Sensing with Triplet Pair States: A Theoretical Study
+
+- arXiv: `2603.29509v1`
+- Published: 2026-03-31 09:51 UTC
+- Authors: Maria Grazia Concilio, Yiwen Wang, Siyuan Wang, Xueqian Kong
+- Categories: physics.chem-ph, quant-ph
+- Links: [abs](https://arxiv.org/abs/2603.29509v1) | [pdf](https://arxiv.org/pdf/2603.29509v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Molecular quantum sensors represent a promising frontier for the detection of nuclear magnetic resonance signals and alternating current magnetic fields at the nanoscale, potentially reaching single-proton sensitivity. Although the triplet states of molecular pentacene provide a viable sensing architecture, the triplet pair states produced by singlet fission of pentacene dimers could enable more flexible quantum manipulations through entanglement. In this work, we model the quantum sensing efficacy of a spin-polarized quintet manifold in a photoexcited pentacene dimer generated via…
