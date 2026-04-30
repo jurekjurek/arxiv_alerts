@@ -1,149 +1,161 @@
 # arXiv alert report
 
-- Generated: 2026-04-29 07:37 UTC
-- Window: papers published since 2026-04-28 07:37 UTC
-- Matches: 12
+- Generated: 2026-04-30 07:40 UTC
+- Window: papers published since 2026-04-29 07:40 UTC
+- Matches: 13
 
-## 1. Ground-state energies of Ising models calculated using the samples from a quantum computer that simulates short-time evolution
+## 1. Chip-to-chip entanglement distribution over 80-km multicore fiber link
 
-- arXiv: `2604.25715v1`
-- Published: 2026-04-28 14:43 UTC
-- Authors: John P. T. Stenger, C. Stephen Hellberg, Daniel Gunlycke
+- arXiv: `2604.26791v1`
+- Published: 2026-04-29 15:24 UTC
+- Authors: Damien Roux, Giulia Guarda, Mujtaba Zahidy, Yunhong Ding, Siyan Zhou, Domenico Ribezzo et al.
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.25715v1) | [pdf](https://arxiv.org/pdf/2604.25715v1)
-- Score: 3
-- Keyword hits: title=[] abstract=['variational quantum eigensolver', 'vqe', 'quantum computing']
+- Links: [abs](https://arxiv.org/abs/2604.26791v1) | [pdf](https://arxiv.org/pdf/2604.26791v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We find the ground-state energy of the Ising model using the Cascaded Variational Quantum Eigensolver (CVQE) algorithm with the Guided-Sampling Ansatz (GSA) using up to 63 qubits on a quantum computer. We study a heavy-hex lattice to match the qubit architecture, allowing us to perform calculations in the quantum utility regime. We study both a homogeneous and random-coupling model. We locate the boundary of acceptable quantum errors as a function of the number of qubits and coupling strength. An entropic analysis is performed giving insights into the quantum computing performance. A subspace…
+Long-range quantum entanglement is essential for building large-scale quantum networks and unconditionally secure cryptographic systems based on quantum key distribution (QKD). While photonic integrated circuits offer a highly scalable platform, the fragility of phase coherence between spatial modes has prevented the distribution of path-encoded entanglement over long distances. Here, we report chip-to-chip distribution of path-encoded entangled states over 80 km between fully integrated silicon photonic transmitter and receiver chips. Telecom-band entangled photon pairs are generated via…
 
-## 2. Optimizing ground state preparation protocols with autoresearch
+## 2. Reservoir-mediated spin entanglement in the mean-force Gibbs state
 
-- arXiv: `2604.25610v1`
-- Published: 2026-04-28 13:18 UTC
-- Authors: Luis Mantilla Calderón, Jérôme F. Gonthier, Ignacio Gustin, Varinia Bernales, Alán Aspuru-Guzik
+- arXiv: `2604.26562v1`
+- Published: 2026-04-29 11:48 UTC
+- Authors: L. A. Williamson, W. McEniery, F. Cerisola, J. Anders
+- Categories: quant-ph, cond-mat.stat-mech
+- Links: [abs](https://arxiv.org/abs/2604.26562v1) | [pdf](https://arxiv.org/pdf/2604.26562v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+Two qubits strongly coupled to a common bosonic reservoir can become entangled with each other, despite having no direct interaction. In equilibrium, such coupling-induced coherences can be described by the mean-force Gibbs state. Here we derive approximate, analytic expressions for the two-qubit mean-force Gibbs state, and use these to characterize equilibrium qubit-qubit entanglement mediated by a thermal reservoir. Entanglement, which is highest at lowest temperatures, is a non-monotonic function of the system-reservoir coupling strength. Moreover, we find that broadening the reservoir…
+
+## 3. Genuine tripartite entanglement in Bhabha scattering with an entangled spectator particle
+
+- arXiv: `2604.26380v1`
+- Published: 2026-04-29 07:43 UTC
+- Authors: Zan Cao, Meng-Long Song, Xue-Ke Song, Liu Ye, Dong Wang
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.25610v1) | [pdf](https://arxiv.org/pdf/2604.25610v1)
-- Score: 3
-- Keyword hits: title=[] abstract=['variational quantum eigensolver', 'vqe', 'quantum computing']
+- Links: [abs](https://arxiv.org/abs/2604.26380v1) | [pdf](https://arxiv.org/pdf/2604.26380v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Artificial intelligent language-model based coding agents have significantly changed the way we interact with computers in our day-to-day, as it is common to use them to create, improve, and run programming scripts only using natural language. Agent code updates can be better guided when such programs can be executed and scored automatically rather than judged by human preference. In quantum computing and classical quantum simulation settings, ground-state preparation has a parallel structure: candidate protocols can be ranked by estimated energies and other proxies indicating proper…
+From the perspective of quantum information science, we investigate tree-level Bhabha scattering between an incident electron $A$ and a positron B, where $B$ is initially entangled with a spectator electron $C$, which does not participate in the scattering interaction.We find that the quantum electrodynamics (QED) scattering between $A$ and $B$ can drive the global $ABC$ system into a genuine tripartite entangled (GTE) state. Using four canonical tripartite entanglement metrics, we systematically characterize and quantify the GTE of the composite system, and demonstrate that the scattering…
 
-## 3. Testing a continuous-variable Bell-like inequality with a hybrid-encoded system
+## 4. Cavity-mediated coherence protection and one-axis twisting for spins in solids
 
-- arXiv: `2604.25901v1`
-- Published: 2026-04-28 17:44 UTC
-- Authors: Yu Meng, Ying Wang, Clara Henke, Nikolai Bart, Arne Ludwig, Peter Lodahl et al.
+- arXiv: `2604.26909v1`
+- Published: 2026-04-29 17:17 UTC
+- Authors: Rikuto Fukumori, Chengyi Luo, Alexey Tiranov, Karolina Waszkowska, Philippe Goldner, Andrei Faraon
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.25901v1) | [pdf](https://arxiv.org/pdf/2604.25901v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Continuous-variable quantum systems are promising candidates for quantum computing and quantum information processing. It is widely known that quadrature measurements on Gaussian continuous-variable systems can be described by a noncontextual hidden-variable model and cannot violate a Bell inequality. Here, we demonstrate that the observation fails when sequential measurements are involved. Our experiment is realized by mapping the spatial modes of a single photon, deterministically generated from an InAs/GaAs quantum emitter, to the logical operations in the Gottesman--Kitaev--Preskill code…
-
-## 4. QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding
-
-- arXiv: `2604.25884v1`
-- Published: 2026-04-28 17:28 UTC
-- Authors: Shuxiang Cao, Zijian Zhang, Abhishek Agarwal, Grace Bratrud, Niyaz R. Beysengulov, Daniel C. Cole et al.
-- Categories: quant-ph, cs.CV
-- Links: [abs](https://arxiv.org/abs/2604.25884v1) | [pdf](https://arxiv.org/pdf/2604.25884v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Quantum computing calibration depends on interpreting experimental data, and calibration plots provide the most universal human-readable representation for this task, yet no systematic evaluation exists of how well vision-language models (VLMs) interpret them. We introduce QCalEval, the first VLM benchmark for quantum calibration plots: 243 samples across 87 scenario types from 22 experiment families, spanning superconducting qubits and neutral atoms, evaluated on six question types in both zero-shot and in-context learning settings. The best general-purpose zero-shot model reaches a mean…
-
-## 5. Quantum limit cycles with continuous symmetries from coherent parametric driving: exact solutions and many-body extensions
-
-- arXiv: `2604.25864v1`
-- Published: 2026-04-28 17:03 UTC
-- Authors: Sihan Chen, Aashish A. Clerk
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.25864v1) | [pdf](https://arxiv.org/pdf/2604.25864v1)
+- Links: [abs](https://arxiv.org/abs/2604.26909v1) | [pdf](https://arxiv.org/pdf/2604.26909v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-There is widespread interest in many-body quantum systems that exhibit limit-cycle or time-crystalline behaviour. An ideal quantum limit cycle would be realized using fully coherent driving (to minimize noise) and also have a continuous internal symmetry (to ensure generation of monochromatic radiation). While these two requirements may seem incompatible, we introduce in this work a large class of multi-mode bosonic limit cycle models based on coherent parametric driving which possess an O(N) continuous symmetry. Surprisingly, the full quantum dissipative steady state of these models can be…
+Long-range interactions between emitters give rise to collective phenomena, including superradiance, spin squeezing, and coherence protection, that are important to both fundamental physics and quantum technologies. Despite progress in cold atoms, coherent cavity-mediated all-to-all interactions have not yet been realized in a solid-state ensemble. Here we demonstrate such interactions in a $^{171}$Yb$^{3+}$:CaWO$_4$ crystal coupled to a microwave resonator, observing superradiant emission on resonance and unitary one-axis twisting dynamics in the dispersive regime. The same interaction also…
 
-## 6. MCMit: Mid-Circuit Measurement Error Mitigation
+## 5. A Gaussian asymmetry measure
 
-- arXiv: `2604.25863v1`
-- Published: 2026-04-28 17:00 UTC
-- Authors: Emmanouil Giortamis, Felix Gust, Aleksandra Świerkowska, Sandra Stankovic, Innocenzo Fulginiti, Yanbin Chen et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.25863v1) | [pdf](https://arxiv.org/pdf/2604.25863v1)
+- arXiv: `2604.26878v1`
+- Published: 2026-04-29 16:45 UTC
+- Authors: Riccardo Travaglino, Pasquale Calabrese
+- Categories: quant-ph, cond-mat.stat-mech
+- Links: [abs](https://arxiv.org/abs/2604.26878v1) | [pdf](https://arxiv.org/pdf/2604.26878v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
+- Keyword hits: title=[] abstract=['entanglement']
 
-Distributed Quantum Computing (DQC) and Quantum Error Correction (QEC) rely on dynamic circuits that include Mid-Circuit Measurements (MCMs) and classical feedback. These operations present a major bottleneck: MCMs suffer from high error rates that lead to real-time branching errors, while MCM and classical feedback latencies amplify decoherence errors. Current hardware controllers, qubit-state discriminators, and software error mitigation techniques fail to address these challenges holistically. We propose MCMit, a hardware-software co-design to mitigate branching and latency-induced errors.…
+The study of Entanglement Asymmetry has emerged in recent years as a powerful tool to characterise the symmetry properties of quantum states in relation to a given charge operator through the lens of entanglement. While extremely powerful and general, the standard definition of asymmetry introduces significant non-Gaussian features in free-fermionic systems, leading to certain analytical limitations. In this work, we introduce an asymmetry measure that remains strictly within the Gaussian manifold and analyse its properties. In particular, we show that it quantifies the minimal distance…
 
-## 7. Minimum Toffoli depth for the multi-controlled Toffoli gate via teleportation
+## 6. Convex combinations of bosonic pure-loss channels
 
-- arXiv: `2604.25861v1`
-- Published: 2026-04-28 16:58 UTC
-- Authors: Spyros Tserkis, Muhammad Umer, Eleftherios Mastorakis, Dimitris G. Angelakis
+- arXiv: `2604.26874v1`
+- Published: 2026-04-29 16:42 UTC
+- Authors: Giuseppe Catalano, Marco Fanizza, Francesco Anna Mele, Giacomo De Palma, Vittorio Giovannetti
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.25861v1) | [pdf](https://arxiv.org/pdf/2604.25861v1)
+- Links: [abs](https://arxiv.org/abs/2604.26874v1) | [pdf](https://arxiv.org/pdf/2604.26874v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
+- Keyword hits: title=[] abstract=['entanglement']
 
-The decomposition of complex quantum operations into experimentally feasible gate sets has been a central challenge since the early development of quantum computing. The multi-controlled Toffoli (MCT) gate is a key example, with applications across a wide range of quantum algorithms, whose decomposition into smaller gates, however, typically leads to deep circuits. In this work, we introduce a teleportation-based decomposition that implements an arbitrary MCT gate with unit Toffoli depth, independent of the number of controls, while maintaining a relatively low Toffoli count compared to…
+The pure-loss channel is a fundamental model for describing noise in bosonic quantum platforms. It is characterised by a single parameter, the transmissivity, which quantifies the fraction of the input energy that reaches the output of the channel. In realistic scenarios, however, such as free-space quantum communication, the transmissivity is not fixed but fluctuates from one channel use to another. In this setting, the overall channel is effectively described as a convex combination of pure-loss channels, known as a fading channel. Despite its practical relevance, the quantum Shannon theory…
 
-## 8. A Quantum Spectral Framework for Solving PDEs
+## 7. MLMC-qDRIFT: Multilevel Variance Reduction for Randomized Quantum Hamiltonian Simulation
 
-- arXiv: `2604.25825v1`
-- Published: 2026-04-28 16:33 UTC
-- Authors: Chih-Kang Huang, Giacomo Antonioli, Frédéric Barbaresco
+- arXiv: `2604.26865v1`
+- Published: 2026-04-29 16:32 UTC
+- Authors: Pegah Mohammadipour, Xiantao Li
 - Categories: quant-ph, math.NA
-- Links: [abs](https://arxiv.org/abs/2604.25825v1) | [pdf](https://arxiv.org/pdf/2604.25825v1)
+- Links: [abs](https://arxiv.org/abs/2604.26865v1) | [pdf](https://arxiv.org/pdf/2604.26865v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Partial differential equations (PDEs) are fundamental across numerous scientific fields. As these problems scale to high dimensions, classical numerical schemes introduce severe computational bottlenecks, known as the curse of dimensionality. Attempts to solve this problem typically rely on either classical sparsity and low-rank decompositions, or neural network surrogate models. On the other hand, Quantum Computing offers a promising alternative, as it allows us to operate in significantly larger spaces while demanding far fewer resources. In this work, we present a quantum subroutine to…
+Simulating quantum dynamics is one of the central applications of quantum computing. For Hamiltonians written as a sum of many terms, deterministic Trotter--Suzuki product formulas can require applying a large number of term-wise evolutions at each time step, leading to high circuit costs for large or dense systems. Randomized methods such as qDRIFT offer an alternative: each step samples only one Hamiltonian term, giving a circuit depth with no explicit dependence on the number of terms. However, when qDRIFT is used for observable estimation, high precision requires many independent random…
 
-## 9. Determination of heavy meson light-cone distribution amplitudes: theoretical framework and lattice simulations
+## 8. Classical simulation of free-fermionic dynamics and quantum chemistry with magic input
 
-- arXiv: `2604.25802v1`
-- Published: 2026-04-28 16:11 UTC
-- Authors: Hao-Fei Gao, Xue-Ying Han, Jun Hua, Xiangdong Ji, Xiangyu Jiang, Cai-Dian Lü et al.
-- Categories: hep-lat
-- Links: [abs](https://arxiv.org/abs/2604.25802v1) | [pdf](https://arxiv.org/pdf/2604.25802v1)
+- arXiv: `2604.26813v1`
+- Published: 2026-04-29 15:42 UTC
+- Authors: Changhun Oh, Michał Oszmaniec, Oliver Reardon-Smith, Zoltán Zimborás
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2604.26813v1) | [pdf](https://arxiv.org/pdf/2604.26813v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['wilson']
 
-We present a first-principles determination of heavy meson light-cone distribution amplitudes (LCDAs) from lattice QCD in the continuum limit, improving substantially on our previous pioneering study. Within the heavy-quark large-momentum effective theory (HQLaMET) framework, supplemented by lattice QCD calculations of the OPE moments, we analyze six ensembles with lattice spacings ranging from $a=0.0519-0.1053$\,fm and pion masses from $m_π=135.5-317.2$\,MeV, thereby enabling controlled continuum, chiral, and infinite-momentum extrapolations to the physical point. Momentum-smeared sources,…
+Establishing the precise computational boundary between classically tractable fermionic systems and those capable of genuine quantum advantage is a central challenge in quantum simulation. While injecting non-Gaussian ``magic" inputs into free-fermion circuits is widely expected to generate intractable complexity, we identify a physically motivated intermediate regime. Supported by rigorous bounds and numerical evidence, we show that for a class of paired non-Gaussian fermionic states, essential quantum simulation primitives -- transition amplitudes, overlaps, and arbitrary-weight number…
 
-## 10. Continuous Reset-Induced Phase Transition in Measurement-Free Random Quantum Circuits
+## 9. Decoupling Knowledge and Task Subspaces for Composable Parametric Retrieval Augmented Generation
 
-- arXiv: `2604.25640v1`
-- Published: 2026-04-28 13:40 UTC
-- Authors: Hinata Yokoyama, Kengo Anzai, Dina Syverud-Lindland, Yoshihito Kuno, Hiroaki Matsueda
-- Categories: quant-ph, cond-mat.stat-mech
-- Links: [abs](https://arxiv.org/abs/2604.25640v1) | [pdf](https://arxiv.org/pdf/2604.25640v1)
+- arXiv: `2604.26768v1`
+- Published: 2026-04-29 15:00 UTC
+- Authors: Weihang Su, Hanwen Zhang, Qingyao Ai, Yiqun Liu
+- Categories: cs.CL
+- Links: [abs](https://arxiv.org/abs/2604.26768v1) | [pdf](https://arxiv.org/pdf/2604.26768v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We study a random unitary quantum circuit with only reset channels, which has high feasibility for real quantum devices. In particular, we investigate the many-body statistical physics properties, "reset-induced" entanglement phase transitions comparing the classical statistical picture in the large "$d$" limit of qudits. In the property of the reset-induced phase transition the parameter of qudit $d$ is essential. That is, the transition properties induced by the reset channel significantly depend on $d$. We numerically elucidate this statement employing efficient stabilizer circuit…
+Parametric Retrieval-Augmented Generation (PRAG) encodes external documents into lightweight parameter modules that can be retrieved and merged at inference time, offering a promising alternative to in-context retrieval augmentation. Despite its potential, many PRAG implementations train document adapters with task-supervised objectives, which may cause each adapter to encode both document-specific facts and reusable task-solving behavior. This entanglement may make adapter composition less reliable: when multiple adapters are merged at inference time, their overlapping task behaviors can…
 
-## 11. Local tensor-train surrogates for quantum learning models
+## 10. Nonclassical traits in multi-copy state discrimination
 
-- arXiv: `2604.25631v1`
-- Published: 2026-04-28 13:33 UTC
-- Authors: Sreeraj Rajindran Nair, Christopher Ferrie
+- arXiv: `2604.26647v1`
+- Published: 2026-04-29 13:13 UTC
+- Authors: Tim Achenbach, Leevi Leppäjärvi, Hanwool Lee, Teiko Heinosaari
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.25631v1) | [pdf](https://arxiv.org/pdf/2604.25631v1)
+- Links: [abs](https://arxiv.org/abs/2604.26647v1) | [pdf](https://arxiv.org/pdf/2604.26647v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum machine learning']
+- Keyword hits: title=[] abstract=['entanglement']
 
-A key bottleneck in quantum machine learning is the computational cost of repeated quantum circuit evaluations during the inference phase. To address this, we present a framework for constructing fast, cheap, provably accurate classical tensor-train surrogates of fully trained quantum machine learning models within local patches of their input data space. The approach combines Taylor polynomial approximation with a tensor-train (TT) representation and embeds it in a statistical learning paradigm via empirical risk minimization. In our analysis, the Taylor-TT construction serves as a…
+Quantum state discrimination is a fundamental information processing task that serves as a building block for numerous applications and provides implications at the foundational level. In this work, we consider minimum error discrimination of multi-copy states, where instead of preparing a single system we assume that multiple instances of the same state are prepared. Now the discrimination allows for measurements from multiple parties with different measurement strategies varying from global measurement strategy to ones restricted to different forms of local operations and classical…
 
-## 12. One Coordinate at a Time: Convergence Guarantees for Rotosolve in Variational Quantum Algorithms
+## 11. All pure entangled states can lead to fully nonlocal correlations
 
-- arXiv: `2604.25613v1`
-- Published: 2026-04-28 13:23 UTC
-- Authors: Sayantan Pramanik, M Girish Chandra
+- arXiv: `2604.26605v1`
+- Published: 2026-04-29 12:34 UTC
+- Authors: Martin J. Renner, Edwin Peter Lobo, Arturo Konderak, Remigiusz Augusiak, Antonio Acín
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.25613v1) | [pdf](https://arxiv.org/pdf/2604.25613v1)
+- Links: [abs](https://arxiv.org/abs/2604.26605v1) | [pdf](https://arxiv.org/pdf/2604.26605v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum machine learning']
+- Keyword hits: title=[] abstract=['entanglement']
 
-In this paper, we resolve an open question in the field of optimization algorithms for training parametrized quantum circuits: Does the popular Rotosolve algorithm converge? Until now, interpolation-based coordinate descent methods such as Rotosolve have mostly been treated as heuristics, lacking any formal convergence guarantees. We rigorously analyze Rotosolve, and show that it converges to $\varepsilon$-stationary points if the optimization landscape is non-convex and smooth; and to $\varepsilon$-suboptimal points if the objective function additionally obeys the Polyak-Lojasiewicz (PL)…
+It is a well-established fact that some quantum correlations can be nonlocal, meaning that they cannot be described by a local hidden variable model. Certain quantum correlations have a form of nonlocality so strong that they cannot be reproduced even by models having an arbitrarily small local hidden variable component. These correlations are called fully nonlocal and lead to Bell inequalities in which the maximum quantum value saturates the non-signaling bound. A well-known example of this effect, which is also referred to as quantum pseudo-telepathy or all-versus-nothing proofs of…
+
+## 12. Solve Crude Oil Scheduling Problems by Using Quantum-Classical Hybrid Algorithms
+
+- arXiv: `2604.26459v1`
+- Published: 2026-04-29 09:15 UTC
+- Authors: Jian Yang, Bohang Wang, Lina Wang, Jiacheng Chen, Gaoxiang Tang, Zihan Deng et al.
+- Categories: quant-ph, math.OC
+- Links: [abs](https://arxiv.org/abs/2604.26459v1) | [pdf](https://arxiv.org/pdf/2604.26459v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+The optimization of front-end crude oil scheduling is a critical determinant of refinery profitability and operational stability. However, the coupling of discrete logistics events (e.g., vessel berthing) with continuous material flows (e.g., pipeline transfers) renders this problem an NP-hard Mixed-Integer Linear Programming (MILP) challenge, often intractable for classical solvers at industrial scales. This study proposes a novel hybrid quantum-classical framework to address these computational bottlenecks. We employ Benders Decomposition to decouple the monolithic model into a discrete…
+
+## 13. Large-Scale Quantum Circuit Simulation on an Exascale System for QPU Benchmarking
+
+- arXiv: `2604.26423v1`
+- Published: 2026-04-29 08:32 UTC
+- Authors: J. A. Montanez-Barrera, Kristel Michielsen
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2604.26423v1) | [pdf](https://arxiv.org/pdf/2604.26423v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Recent advances in quantum computing have enabled the development of quantum processors with hundreds of qubits. However, noise continues to limit the amount of useful information that can be extracted from these systems, making it essential to identify the regime in which experimental outputs remain reliable. In this work, we benchmark Quantinuum Helios-1, a 98-qubit trapped-ion quantum processing unit, using the linear ramp quantum approximate optimization algorithm (LR-QAOA). To this end, we perform large-scale noiseless simulations on JUPITER, Europe's first exascale supercomputer, for…
