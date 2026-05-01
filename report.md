@@ -1,161 +1,161 @@
 # arXiv alert report
 
-- Generated: 2026-04-30 07:40 UTC
-- Window: papers published since 2026-04-29 07:40 UTC
+- Generated: 2026-05-01 07:39 UTC
+- Window: papers published since 2026-04-30 07:39 UTC
 - Matches: 13
 
-## 1. Chip-to-chip entanglement distribution over 80-km multicore fiber link
+## 1. Source-independent quantum key distribution without pre-sending entanglement
 
-- arXiv: `2604.26791v1`
-- Published: 2026-04-29 15:24 UTC
-- Authors: Damien Roux, Giulia Guarda, Mujtaba Zahidy, Yunhong Ding, Siyan Zhou, Domenico Ribezzo et al.
+- arXiv: `2604.28089v1`
+- Published: 2026-04-30 16:35 UTC
+- Authors: Rong-Zheng Liu, Hua-Lei Yin
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.26791v1) | [pdf](https://arxiv.org/pdf/2604.26791v1)
+- Links: [abs](https://arxiv.org/abs/2604.28089v1) | [pdf](https://arxiv.org/pdf/2604.28089v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Long-range quantum entanglement is essential for building large-scale quantum networks and unconditionally secure cryptographic systems based on quantum key distribution (QKD). While photonic integrated circuits offer a highly scalable platform, the fragility of phase coherence between spatial modes has prevented the distribution of path-encoded entanglement over long distances. Here, we report chip-to-chip distribution of path-encoded entangled states over 80 km between fully integrated silicon photonic transmitter and receiver chips. Telecom-band entangled photon pairs are generated via…
+Quantum key distribution (QKD) theoretically offers information-theoretic security. The prevailing approach is the prepare-and-measure BB84 protocol, which implements QKD using conventional laser rather than single-photon source via the decoy-state method. However, side-channel attacks targeting sources severely threaten system security. Despite extensive efforts, including fully passive scheme, this vulnerability persists even with perfect single-photon source. Here, we propose a source-independent (SI) QKD protocol that resolves all known and unknown source-side attacks without pre-sending…
 
-## 2. Reservoir-mediated spin entanglement in the mean-force Gibbs state
+## 2. Learning quantum disentanglement scheduling from reduced states via modular hybrid policies
 
-- arXiv: `2604.26562v1`
-- Published: 2026-04-29 11:48 UTC
-- Authors: L. A. Williamson, W. McEniery, F. Cerisola, J. Anders
-- Categories: quant-ph, cond-mat.stat-mech
-- Links: [abs](https://arxiv.org/abs/2604.26562v1) | [pdf](https://arxiv.org/pdf/2604.26562v1)
+- arXiv: `2604.28009v1`
+- Published: 2026-04-30 15:29 UTC
+- Authors: Y. -X. Xiao, J. -Z. Han, Z. Zheng, Z. -H. Zhang, M. Xue, J. Li et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2604.28009v1) | [pdf](https://arxiv.org/pdf/2604.28009v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Two qubits strongly coupled to a common bosonic reservoir can become entangled with each other, despite having no direct interaction. In equilibrium, such coupling-induced coherences can be described by the mean-force Gibbs state. Here we derive approximate, analytic expressions for the two-qubit mean-force Gibbs state, and use these to characterize equilibrium qubit-qubit entanglement mediated by a thermal reservoir. Entanglement, which is highest at lowest temperatures, is a non-monotonic function of the system-reservoir coupling strength. Moreover, we find that broadening the reservoir…
+Quantum control with restricted state access is central to near-term quantum devices, where full wave-function information is unavailable. We study this problem through multiqubit disentanglement scheduling from partial observations, where a controller receives only two-qubit reduced density matrices and selects which qubit pair to disentangle at each step. We introduce a modular hybrid quantum--classical policy framework consisting of classical preprocessing, a parameterized quantum circuit as a compact nonlinear latent block, and classical postprocessing for pair-selection probabilities.…
 
-## 3. Genuine tripartite entanglement in Bhabha scattering with an entangled spectator particle
+## 3. Unentangled stoquastic Merlin-Arthur proof systems: the power of unentanglement without destructive interference
 
-- arXiv: `2604.26380v1`
-- Published: 2026-04-29 07:43 UTC
-- Authors: Zan Cao, Meng-Long Song, Xue-Ke Song, Liu Ye, Dong Wang
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.26380v1) | [pdf](https://arxiv.org/pdf/2604.26380v1)
+- arXiv: `2604.27886v1`
+- Published: 2026-04-30 14:04 UTC
+- Authors: Yupan Liu, Pei Wu
+- Categories: quant-ph, cs.CC
+- Links: [abs](https://arxiv.org/abs/2604.27886v1) | [pdf](https://arxiv.org/pdf/2604.27886v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-From the perspective of quantum information science, we investigate tree-level Bhabha scattering between an incident electron $A$ and a positron B, where $B$ is initially entangled with a spectator electron $C$, which does not participate in the scattering interaction.We find that the quantum electrodynamics (QED) scattering between $A$ and $B$ can drive the global $ABC$ system into a genuine tripartite entangled (GTE) state. Using four canonical tripartite entanglement metrics, we systematically characterize and quantify the GTE of the composite system, and demonstrate that the scattering…
+Stoquasticity, originating in sign-problem-free physical systems, gives rise to $\sf StoqMA$, introduced by Bravyi, Bessen, and Terhal (2006), a quantum-inspired intermediate class between $\sf MA$ and $\sf AM$. Unentanglement similarly gives rise to ${\sf QMA}(2)$, introduced by Kobayashi, Matsumoto, and Yamakami (CJTCS 2009), which generalizes $\sf QMA$ to two unentangled proofs and still has only the trivial $\sf NEXP$ upper bound. In this work, we initiate a systematic study of the power of unentanglement without destructive interference via ${\sf StoqMA}(2)$, the class of unentangled…
 
-## 4. Cavity-mediated coherence protection and one-axis twisting for spins in solids
+## 4. Entanglement of multi-qubit quantum graph states and studies structural properties of tripartite graphs with quantum programming
 
-- arXiv: `2604.26909v1`
-- Published: 2026-04-29 17:17 UTC
-- Authors: Rikuto Fukumori, Chengyi Luo, Alexey Tiranov, Karolina Waszkowska, Philippe Goldner, Andrei Faraon
+- arXiv: `2604.27829v1`
+- Published: 2026-04-30 13:18 UTC
+- Authors: Kh. P. Gnatenko
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.26909v1) | [pdf](https://arxiv.org/pdf/2604.26909v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
+- Links: [abs](https://arxiv.org/abs/2604.27829v1) | [pdf](https://arxiv.org/pdf/2604.27829v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Long-range interactions between emitters give rise to collective phenomena, including superradiance, spin squeezing, and coherence protection, that are important to both fundamental physics and quantum technologies. Despite progress in cold atoms, coherent cavity-mediated all-to-all interactions have not yet been realized in a solid-state ensemble. Here we demonstrate such interactions in a $^{171}$Yb$^{3+}$:CaWO$_4$ crystal coupled to a microwave resonator, observing superradiant emission on resonance and unitary one-axis twisting dynamics in the dispersive regime. The same interaction also…
+We propose a method for constructing multi-qubit entangled quantum states representing weighted tripartite graphs. An expression for the entanglement distance for multi-qubit states corresponding to arbitrary tripartite graph structures is obtained. The entanglement of a qubit with the rest of the system in a quantum graph state is determined by the weights of the edges in the closed neighborhood of the corresponding vertex and by its degree with respect to other sets. We also calculate quantum correlators in the general case of tripartite quantum graph states. We establish a relationship…
 
-## 5. A Gaussian asymmetry measure
+## 5. Experimental detection of entanglement in multimode Gaussian states from high-order intensity correlation moments
 
-- arXiv: `2604.26878v1`
-- Published: 2026-04-29 16:45 UTC
-- Authors: Riccardo Travaglino, Pasquale Calabrese
-- Categories: quant-ph, cond-mat.stat-mech
-- Links: [abs](https://arxiv.org/abs/2604.26878v1) | [pdf](https://arxiv.org/pdf/2604.26878v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-The study of Entanglement Asymmetry has emerged in recent years as a powerful tool to characterise the symmetry properties of quantum states in relation to a given charge operator through the lens of entanglement. While extremely powerful and general, the standard definition of asymmetry introduces significant non-Gaussian features in free-fermionic systems, leading to certain analytical limitations. In this work, we introduce an asymmetry measure that remains strictly within the Gaussian manifold and analyse its properties. In particular, we show that it quantifies the minimal distance…
-
-## 6. Convex combinations of bosonic pure-loss channels
-
-- arXiv: `2604.26874v1`
-- Published: 2026-04-29 16:42 UTC
-- Authors: Giuseppe Catalano, Marco Fanizza, Francesco Anna Mele, Giacomo De Palma, Vittorio Giovannetti
+- arXiv: `2604.27567v1`
+- Published: 2026-04-30 08:21 UTC
+- Authors: Ze-Shan He, Yukuan Zhao, Hao-Shu Tian, Kai Sun, Xiao-Ye Xu, Chuan-Feng Li et al.
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.26874v1) | [pdf](https://arxiv.org/pdf/2604.26874v1)
+- Links: [abs](https://arxiv.org/abs/2604.27567v1) | [pdf](https://arxiv.org/pdf/2604.27567v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+Quantum universal invariants of a Gaussian state's covariance matrix, which can be derived from intensity correlation moments, have been adopted to characterize the entanglement properties of Gaussian states via the positive partial transpose criterion, also known as the Peres-Horodecki separability criterion. Such intensity correlation moments enable the extraction of information about the covariance matrix without the need for a coherent local oscillator. Here, we experimentally detect the entanglement properties of multimode Gaussian states using high-order\,(up to sixth-order) intensity…
+
+## 6. Towards High Performance Quantum Computing (HPQ): Parallelisation of the Hamiltonian Auto Decomposition Optimisation Framework (HADOF)
+
+- arXiv: `2604.27836v1`
+- Published: 2026-04-30 13:22 UTC
+- Authors: Namasi G Sankar, Georgios Miliotis, Simon Caton
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2604.27836v1) | [pdf](https://arxiv.org/pdf/2604.27836v1)
+- Score: 3
+- Keyword hits: title=['quantum computing'] abstract=[]
+
+Practical applicability of quantum optimisation on near term devices is constrained by limited qubit counts and hardware noise, which restricts the scalability of quantum optimisation algorithms for combinatorial problems. The simulation of large quantum circuits is also difficult and constrained by memory requirement. The Hamiltonian Auto Decomposition Optimisation Framework (HADOF) addresses this by decomposing large QUBOs into smaller subproblems that can be solved iteratively on quantum or classical backends. This allows the scalability of quantum QUBO algorithms beyond device limits, as…
+
+## 7. Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders
+
+- arXiv: `2604.28176v1`
+- Published: 2026-04-30 17:56 UTC
+- Authors: Emma Andrews, Sahan Sanjaya, Prabhat Mishra
+- Categories: quant-ph, cs.LG
+- Links: [abs](https://arxiv.org/abs/2604.28176v1) | [pdf](https://arxiv.org/pdf/2604.28176v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum machine learning']
+
+Machine learning models can learn from data samples to carry out various tasks efficiently. When data samples are adversarially manipulated, such as by insertion of carefully crafted noise, it can cause the model to make mistakes. Quantum machine learning models are also vulnerable to such adversarial attacks, especially in image classification using variational quantum classifiers. While there are promising defenses against these adversarial perturbations, such as training with adversarial samples, they face practical limitations. For example, they are not applicable in scenarios where…
+
+## 8. Domain-wall melting in all-to-all QSSEP from random-matrix theory
+
+- arXiv: `2604.28151v1`
+- Published: 2026-04-30 17:38 UTC
+- Authors: Denis Bernard, Lorenzo Piroli, Stefano Scopa
+- Categories: cond-mat.stat-mech, quant-ph
+- Links: [abs](https://arxiv.org/abs/2604.28151v1) | [pdf](https://arxiv.org/pdf/2604.28151v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-The pure-loss channel is a fundamental model for describing noise in bosonic quantum platforms. It is characterised by a single parameter, the transmissivity, which quantifies the fraction of the input energy that reaches the output of the channel. In realistic scenarios, however, such as free-space quantum communication, the transmissivity is not fixed but fluctuates from one channel use to another. In this setting, the overall channel is effectively described as a convex combination of pure-loss channels, known as a fading channel. Despite its practical relevance, the quantum Shannon theory…
+We study the melting of a domain wall in the quantum simple exclusion process with all-to-all hoppings (a.k.a. the charged SYK$_2$ model). We show that the real-time dynamics of physical quantities of interest can be obtained exploiting spectral results in random matrix theory. We first show that the eigenvalues of the correlation matrix corresponding to the initially charged subsystem evolve according to a Jacobi process, which is defined in terms of a closed system of stochastic differential equations. In turn, this observation allows us to obtain the real-time dynamics of all the…
 
-## 7. MLMC-qDRIFT: Multilevel Variance Reduction for Randomized Quantum Hamiltonian Simulation
+## 9. Quantum Lattice Boltzmann Solutions for Transport under 3D Spatially Varying Advection on Trapped Ion Hardware
 
-- arXiv: `2604.26865v1`
-- Published: 2026-04-29 16:32 UTC
-- Authors: Pegah Mohammadipour, Xiantao Li
-- Categories: quant-ph, math.NA
-- Links: [abs](https://arxiv.org/abs/2604.26865v1) | [pdf](https://arxiv.org/pdf/2604.26865v1)
+- arXiv: `2604.28121v1`
+- Published: 2026-04-30 17:11 UTC
+- Authors: Sayonee Ray, Jezer Jojo, Jason Iaconis, Abeynaya Gnanasekaran, Apurva Tiwari, Martin Roetteler et al.
+- Categories: quant-ph, physics.comp-ph
+- Links: [abs](https://arxiv.org/abs/2604.28121v1) | [pdf](https://arxiv.org/pdf/2604.28121v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Simulating quantum dynamics is one of the central applications of quantum computing. For Hamiltonians written as a sum of many terms, deterministic Trotter--Suzuki product formulas can require applying a large number of term-wise evolutions at each time step, leading to high circuit costs for large or dense systems. Randomized methods such as qDRIFT offer an alternative: each step samples only one Hamiltonian term, giving a circuit depth with no explicit dependence on the number of terms. However, when qDRIFT is used for observable estimation, high precision requires many independent random…
+The Quantum Lattice Boltzmann Method (QLBM) has emerged as one of the most promising quantum computing approaches for the numerical simulation of problems in computational fluid dynamics (CFD). The dynamics is formulated in terms of mesoscopic particle distribution functions governed by a discrete Boltzmann transport equation, comprising local streaming and collision operations. In this work, the resulting macroscopic behavior corresponds to the advection-diffusion equation, which we adopt as a canonical model problem for transport phenomena. Building upon recent progress in QLBM…
 
-## 8. Classical simulation of free-fermionic dynamics and quantum chemistry with magic input
+## 10. g-tensor Optimization in Ge/SiGe Quantum Dots
 
-- arXiv: `2604.26813v1`
-- Published: 2026-04-29 15:42 UTC
-- Authors: Changhun Oh, Michał Oszmaniec, Oliver Reardon-Smith, Zoltán Zimborás
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.26813v1) | [pdf](https://arxiv.org/pdf/2604.26813v1)
+- arXiv: `2604.28081v1`
+- Published: 2026-04-30 16:26 UTC
+- Authors: Aram Shojaei, Edmondo Valvo, Maximilian Rimbach-Russ, Eliska Greplova, Ana Silva
+- Categories: cond-mat.mes-hall, quant-ph
+- Links: [abs](https://arxiv.org/abs/2604.28081v1) | [pdf](https://arxiv.org/pdf/2604.28081v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Planar germanium heterostructures hosting hole-spin qubits are among the leading platforms for scalable semiconductor-based quantum computing. Yet, device performance is hindered by significant quantum dot variability, which leads to uncertainty in qubit energy levels and random orientations of the spin quantization axis. Tailored control of the g-tensor offers a strategy to overcome these limitations and achieve more reliable qubit operations. Here, we introduce a flexible optimization framework for engineering g-tensor properties. As a benchmark, we numerically obtain the optimal reshaping…
+
+## 11. A No-Cloning Trade-off Between Black Hole No-Hair and Horizon Smoothness
+
+- arXiv: `2604.28050v1`
+- Published: 2026-04-30 15:59 UTC
+- Authors: Sudhanva Joshi, Sunil Kumar Mishra
+- Categories: quant-ph, gr-qc, hep-th
+- Links: [abs](https://arxiv.org/abs/2604.28050v1) | [pdf](https://arxiv.org/pdf/2604.28050v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+The black hole no-hair theorem is traditionally derived from the uniqueness theorems of general relativity. We show that a quantitative form follows from unitarity together with the standard semiclassical assumptions of horizon causality and interior accessibility. For a semiclassical black hole, we prove that the trace distance between exterior states corresponding to two same-charge infalling states is bounded by $2\sqrt{2\varepsilon}$, where $\varepsilon$ quantifies the diamond norm departure of the interior channel from a perfect isometry which is a quantitative measure of…
+
+## 12. High-Girth Regular Quantum LDPC Codes from Square-Base Hypergraph Products via CPM Lifts
+
+- arXiv: `2604.27817v1`
+- Published: 2026-04-30 12:58 UTC
+- Authors: Koki Okada, Kenta Kasai
+- Categories: quant-ph, cs.IT
+- Links: [abs](https://arxiv.org/abs/2604.27817v1) | [pdf](https://arxiv.org/pdf/2604.27817v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['wilson']
 
-Establishing the precise computational boundary between classically tractable fermionic systems and those capable of genuine quantum advantage is a central challenge in quantum simulation. While injecting non-Gaussian ``magic" inputs into free-fermion circuits is widely expected to generate intractable complexity, we identify a physically motivated intermediate regime. Supported by rigorous bounds and numerical evidence, we show that for a class of paired non-Gaussian fermionic states, essential quantum simulation primitives -- transition amplitudes, overlaps, and arbitrary-weight number…
+We study square-base Calderbank--Shor--Steane (CSS) hypergraph-product codes as a finite-length class for regular high-girth quantum low-density parity-check (LDPC) design. For base matrices of small column weight, we give checkable conditions for regularity, rank deficiency, and short-cycle exclusion, and we present explicit column-weight-three and column-weight-four examples with Tanner girth 6 and 8. We also analyze circulant permutation matrix (CPM) lifts of this class. Using the standard voltage-sum criterion, we identify orthogonality-forced Tanner 8-cycles and show that CPM lifting…
 
-## 9. Decoupling Knowledge and Task Subspaces for Composable Parametric Retrieval Augmented Generation
+## 13. An Analytical Approach to Design Space Exploration for Cavity-Mediated Quantum State Transfer in Multi-core Architectures
 
-- arXiv: `2604.26768v1`
-- Published: 2026-04-29 15:00 UTC
-- Authors: Weihang Su, Hanwen Zhang, Qingyao Ai, Yiqun Liu
-- Categories: cs.CL
-- Links: [abs](https://arxiv.org/abs/2604.26768v1) | [pdf](https://arxiv.org/pdf/2604.26768v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Parametric Retrieval-Augmented Generation (PRAG) encodes external documents into lightweight parameter modules that can be retrieved and merged at inference time, offering a promising alternative to in-context retrieval augmentation. Despite its potential, many PRAG implementations train document adapters with task-supervised objectives, which may cause each adapter to encode both document-specific facts and reusable task-solving behavior. This entanglement may make adapter composition less reliable: when multiple adapters are merged at inference time, their overlapping task behaviors can…
-
-## 10. Nonclassical traits in multi-copy state discrimination
-
-- arXiv: `2604.26647v1`
-- Published: 2026-04-29 13:13 UTC
-- Authors: Tim Achenbach, Leevi Leppäjärvi, Hanwool Lee, Teiko Heinosaari
+- arXiv: `2604.27664v1`
+- Published: 2026-04-30 10:01 UTC
+- Authors: Biel Pons Zaragoza, Junaid Khan, Rohit Sarma Sarkar, Sahar Ben Rached, Carmen G. Almudever, Eduard Alarcon et al.
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.26647v1) | [pdf](https://arxiv.org/pdf/2604.26647v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Quantum state discrimination is a fundamental information processing task that serves as a building block for numerous applications and provides implications at the foundational level. In this work, we consider minimum error discrimination of multi-copy states, where instead of preparing a single system we assume that multiple instances of the same state are prepared. Now the discrimination allows for measurements from multiple parties with different measurement strategies varying from global measurement strategy to ones restricted to different forms of local operations and classical…
-
-## 11. All pure entangled states can lead to fully nonlocal correlations
-
-- arXiv: `2604.26605v1`
-- Published: 2026-04-29 12:34 UTC
-- Authors: Martin J. Renner, Edwin Peter Lobo, Arturo Konderak, Remigiusz Augusiak, Antonio Acín
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.26605v1) | [pdf](https://arxiv.org/pdf/2604.26605v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-It is a well-established fact that some quantum correlations can be nonlocal, meaning that they cannot be described by a local hidden variable model. Certain quantum correlations have a form of nonlocality so strong that they cannot be reproduced even by models having an arbitrarily small local hidden variable component. These correlations are called fully nonlocal and lead to Bell inequalities in which the maximum quantum value saturates the non-signaling bound. A well-known example of this effect, which is also referred to as quantum pseudo-telepathy or all-versus-nothing proofs of…
-
-## 12. Solve Crude Oil Scheduling Problems by Using Quantum-Classical Hybrid Algorithms
-
-- arXiv: `2604.26459v1`
-- Published: 2026-04-29 09:15 UTC
-- Authors: Jian Yang, Bohang Wang, Lina Wang, Jiacheng Chen, Gaoxiang Tang, Zihan Deng et al.
-- Categories: quant-ph, math.OC
-- Links: [abs](https://arxiv.org/abs/2604.26459v1) | [pdf](https://arxiv.org/pdf/2604.26459v1)
+- Links: [abs](https://arxiv.org/abs/2604.27664v1) | [pdf](https://arxiv.org/pdf/2604.27664v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-The optimization of front-end crude oil scheduling is a critical determinant of refinery profitability and operational stability. However, the coupling of discrete logistics events (e.g., vessel berthing) with continuous material flows (e.g., pipeline transfers) renders this problem an NP-hard Mixed-Integer Linear Programming (MILP) challenge, often intractable for classical solvers at industrial scales. This study proposes a novel hybrid quantum-classical framework to address these computational bottlenecks. We employ Benders Decomposition to decouple the monolithic model into a discrete…
-
-## 13. Large-Scale Quantum Circuit Simulation on an Exascale System for QPU Benchmarking
-
-- arXiv: `2604.26423v1`
-- Published: 2026-04-29 08:32 UTC
-- Authors: J. A. Montanez-Barrera, Kristel Michielsen
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2604.26423v1) | [pdf](https://arxiv.org/pdf/2604.26423v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Recent advances in quantum computing have enabled the development of quantum processors with hundreds of qubits. However, noise continues to limit the amount of useful information that can be extracted from these systems, making it essential to identify the regime in which experimental outputs remain reliable. In this work, we benchmark Quantinuum Helios-1, a 98-qubit trapped-ion quantum processing unit, using the linear ramp quantum approximate optimization algorithm (LR-QAOA). To this end, we perform large-scale noiseless simulations on JUPITER, Europe's first exascale supercomputer, for…
+In multi-core quantum computing architectures, waveguide-mediated interconnects are essential for facilitating fast, high-fidelity quantum state transfer between qubits located in different chips. However, optimizing these systems typically relies on computationally expensive numerical simulations that offer limited physical insight. In this work, we derive exact analytical expressions for the state transfer dynamics of a two-qubit system coupled via a waveguide, modeled through a Jaynes-Cummings Hamiltonian and the Lindblad master equation. We apply the Monte Carlo wave-function method and…
