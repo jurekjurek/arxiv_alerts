@@ -1,149 +1,137 @@
 # arXiv alert report
 
-- Generated: 2026-05-12 08:06 UTC
-- Window: papers published since 2026-05-11 08:06 UTC
-- Matches: 12
+- Generated: 2026-05-13 08:14 UTC
+- Window: papers published since 2026-05-12 08:14 UTC
+- Matches: 11
 
-## 1. Krylov state complexity for BMN matrix model
+## 1. Simultaneously Minimizing Storage and Bandwidth Under Exact Repair With Quantum Entanglement
 
-- arXiv: `2605.10786v1`
-- Published: 2026-05-11 16:20 UTC
-- Authors: Dibakar Roychowdhury
-- Categories: hep-th, physics.comp-ph, quant-ph
-- Links: [abs](https://arxiv.org/abs/2605.10786v1) | [pdf](https://arxiv.org/pdf/2605.10786v1)
-- Score: 4
-- Keyword hits: title=['krylov'] abstract=['krylov']
-
-We explore Krylov complexity in the BMN matrix model following a systematic reduction of it, known as the pulsating fuzzy sphere model. We present an analytical setup that allows us to calculate Lanczos coefficients in both large and small deformation limits of the matrix model.
-
-## 2. No measurement induced phase transition in the entanglement dynamics of monitored non-interacting one-dimensional fermions in a disordered or quasiperiodic potential
-
-- arXiv: `2605.10758v1`
-- Published: 2026-05-11 15:55 UTC
-- Authors: Can Yin, Fan Bo, Antonio M. García-García
-- Categories: quant-ph, cond-mat.dis-nn
-- Links: [abs](https://arxiv.org/abs/2605.10758v1) | [pdf](https://arxiv.org/pdf/2605.10758v1)
+- arXiv: `2605.12455v1`
+- Published: 2026-05-12 17:44 UTC
+- Authors: Lei Hu, Mohamed Nomeir, Alptug Aytekin, Sennur Ulukus
+- Categories: cs.IT, cs.NI, eess.SP, quant-ph
+- Links: [abs](https://arxiv.org/abs/2605.12455v1) | [pdf](https://arxiv.org/pdf/2605.12455v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We show that the entanglement entropy (EE) of one-dimensional (1d) non-interacting fermions with $U(1)$ symmetry in the presence of a quasi-periodic or disordered potential in which the occupation number is being monitored by homodyne or quantum jump protocols is always in an area-law phase so no measurement induced phase transition (MIPT) occurs. The reason for the previously claimed MIPT in these systems was a finite size effect related to the fact that the maximum lattice size $L \sim 500$ was of the order of the correlation length. By increasing the system size up to $L \leq 18000$,…
+We study exact-regenerating codes for entanglement-assisted distributed storage systems. Consider an $(n,k,d,α,β_{\mathsf{q}},B)$ distributed system that stores a file of $B$ classical symbols across $n$ nodes with each node storing $α$ symbols. A data collector can recover the file by accessing any $k$ nodes. When a node fails, any $d$ surviving nodes share an entangled state, and each of them transmits a quantum system of $β_{\mathsf{q}}$ qudits to a newcomer. The newcomer then performs a measurement on the received quantum systems to generate its storage. Recent work [1] showed that, under…
 
-## 3. Quantum and classical processing with photonic quantum machine learning
+## 2. GKnow: Measuring the Entanglement of Gender Bias and Factual Gender
 
-- arXiv: `2605.10471v1`
-- Published: 2026-05-11 12:34 UTC
-- Authors: J. C. López Carreño, S. Świerczewski, A. Opala, A. Salavrakos, B. Piętka, M. Matuszewski
-- Categories: quant-ph, cond-mat.dis-nn
-- Links: [abs](https://arxiv.org/abs/2605.10471v1) | [pdf](https://arxiv.org/pdf/2605.10471v1)
-- Score: 4
-- Keyword hits: title=['quantum machine learning'] abstract=['entanglement']
-
-Artificial intelligence and machine learning have been widely adopted both in the industry and in everyday life, but at the cost of high compute demands. Recent studies show that implementing machine learning in physical systems in the deep quantum regime could not only lead to faster information processing, but also to perform tasks that are out of reach for classical systems. Here, we report a quantum reservoir processing device capable of performing both quantum and classical machine learning tasks. The implementation is realized with a programmable silicon chip excited with single…
-
-## 4. Multipartite entanglement of random states of qubits
-
-- arXiv: `2605.10314v1`
-- Published: 2026-05-11 10:15 UTC
-- Authors: Giorgia Trotta, Paolo Scarafile, Paolo Facchi, Giuseppe Magnifico, Angelo Mariano, Giorgio Parisi et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2605.10314v1) | [pdf](https://arxiv.org/pdf/2605.10314v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-We investigate multipartite entanglement via the statistical properties of pure quantum states of n-qubits. By analyzing the distribution of purity among balanced bipartitions, we compare Haar-typical states, uniformly distributed on the unit sphere of states, with Hadamard states, being characterized by equal weights in the computational basis. We analyze different ensembles of Hadamard states characterized by their phase distributions. Through analytical and numerical calculations, we show that Hadamard states exhibit, on average, a higher degree of entanglement than Haar-typical states. In…
-
-## 5. Training continuously-coupled reconfigurable photonic chips with quantum machine learning
-
-- arXiv: `2605.10577v1`
-- Published: 2026-05-11 13:49 UTC
-- Authors: Denis Stanev, Nicolò Spagnolo, Fabio Sciarrino
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2605.10577v1) | [pdf](https://arxiv.org/pdf/2605.10577v1)
+- arXiv: `2605.12299v1`
+- Published: 2026-05-12 15:52 UTC
+- Authors: Leonor Veloso, Hinrich Schütze
+- Categories: cs.CL
+- Links: [abs](https://arxiv.org/abs/2605.12299v1) | [pdf](https://arxiv.org/pdf/2605.12299v1)
 - Score: 3
-- Keyword hits: title=['quantum machine learning'] abstract=[]
+- Keyword hits: title=['entanglement'] abstract=[]
 
-Integrated photonic technologies have recently shown significant advances, enabling the possibility to implement reconfigurable interferometers with increasing size. One of the main tasks to fully exploit the capabilities of reconfigurable integrated interferometers is the possibility to precisely program their operation to perform a desired target unitary. While recipes are known for circuit layouts based on a cascade of beam-splitter and phase-shifter operations, a methodology applicable for reconfigurable continuously-coupled waveguide arrays is currently missing. Here, we devise a machine…
+Recent works have analyzed the impact of individual components of neural networks on gendered predictions, often with a focus on mitigating gender bias. However, mechanistic interpretations of gender tend to (i) focus on a very specific gender-related task, such as gendered pronoun prediction, or (ii) fail to distinguish between the production of factually gendered outputs (the correct assumption of gender given a word that carries gender as a semantic property) and gender biased outputs (based on a stereotype). To address these issues, we curate \gknow, a benchmark to assess gender knowledge…
 
-## 6. Communication-Efficient Distributed Inverse Quantum Fourier Transform
+## 3. AgentDisCo: Towards Disentanglement and Collaboration in Open-ended Deep Research Agents
 
-- arXiv: `2605.10710v1`
-- Published: 2026-05-11 15:22 UTC
-- Authors: F. Javier Cardama, Jorge Vázquez-Pérez, Tomás F. Pena, Andrés Gómez
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2605.10710v1) | [pdf](https://arxiv.org/pdf/2605.10710v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['quantum computing', 'entanglement']
+- arXiv: `2605.11732v1`
+- Published: 2026-05-12 08:14 UTC
+- Authors: Jiarui Jin, Zexuan Yan, Shijian Wang, Wenxiang Jiao, Yuan Lu
+- Categories: cs.IR, cs.CL, cs.MA, cs.MM
+- Links: [abs](https://arxiv.org/abs/2605.11732v1) | [pdf](https://arxiv.org/pdf/2605.11732v1)
+- Score: 3
+- Keyword hits: title=['entanglement'] abstract=[]
 
-The scalability of quantum computing is currently limited by physical, technological, and architectural constraints that hinder the integration of a large number of qubits within a single quantum processor. Distributed quantum computing (DQC) has therefore emerged as a viable alternative, aiming to interconnect multiple smaller quantum processing units (QPUs) to jointly operate on a global quantum state. While this paradigm enables scalable architectures, it introduces significant communication overhead due to the cost of non-local quantum operations across distant nodes. In this work we…
+In this paper, we present AgentDisCo, a novel Disentangled and Collaborative agentic architecture that formulates deep research as an adversarial optimization problem between information exploration and exploitation. Unlike existing approaches that conflate these two processes into a single module, AgentDisCo employs a critic agent to evaluate generated outlines and refine search queries, and a generator agent to retrieve updated results and revise outlines accordingly. The iteratively refined outline is then passed to a downstream report writer that synthesizes a comprehensive research…
 
-## 7. Perspective on tailoring quantum coherence with electron beams
+## 4. Scalable Measurement-Based Quantum Simulation Patterns for Benchmarking
 
-- arXiv: `2605.10492v1`
-- Published: 2026-05-11 12:50 UTC
-- Authors: Nahid Talebi
-- Categories: quant-ph, cond-mat.mes-hall, physics.optics
-- Links: [abs](https://arxiv.org/abs/2605.10492v1) | [pdf](https://arxiv.org/pdf/2605.10492v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['quantum computing', 'entanglement']
-
-Examining and controlling the interaction between semiconductor quantum qubits and their environment can boost semiconductor quantum technologies, which have many applications in table-top quantum computing hardware. Electron beams in electron microscopes have opened up a new avenue for the quantum-coherent probing of semiconductor excitations and strong-coupling effects. Here, I provide a brief overview of recent advancements in electron-beam probes for investigating quantum coherence in semiconductors and two-dimensional materials, complemented by my perspective on using electron beams to…
-
-## 8. Multi-Qubit Stabilizer Readout on a Dual-Species Rydberg Array
-
-- arXiv: `2605.10924v1`
-- Published: 2026-05-11 17:55 UTC
-- Authors: Yu Wang, Ryan Cimmino, Kenneth Wang, Santiago Lopez, Jeffery Li, Jin Ming Koh et al.
-- Categories: quant-ph, physics.atom-ph
-- Links: [abs](https://arxiv.org/abs/2605.10924v1) | [pdf](https://arxiv.org/pdf/2605.10924v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-The ability to locally control and measure subsets of ancilla qubits in an efficient and crosstalk-free manner is a key ingredient in quantum error correction (QEC). Dual-species neutral atom arrays offer an ideal implementation of these capabilities, enabling independent state preparation, manipulation, and detection on each species. In this work, we realize such a dual-species Rydberg array of Na and Cs atoms trapped in co-localized 2D optical tweezer arrays, using Na as an ancilla to measure stabilizers of surrounding Cs data qubits. We identify the finite interspecies Rydberg-Rydberg…
-
-## 9. On the KAK Decomposition and Equivalence Classes
-
-- arXiv: `2605.10783v1`
-- Published: 2026-05-11 16:17 UTC
-- Authors: Dawei Ding, Yu Liu, Zi-Wen Liu
-- Categories: quant-ph, math-ph, math.GR
-- Links: [abs](https://arxiv.org/abs/2605.10783v1) | [pdf](https://arxiv.org/pdf/2605.10783v1)
+- arXiv: `2605.12502v1`
+- Published: 2026-05-12 17:59 UTC
+- Authors: V. W. Scarola
+- Categories: quant-ph, cond-mat.str-el
+- Links: [abs](https://arxiv.org/abs/2605.12502v1) | [pdf](https://arxiv.org/pdf/2605.12502v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-The KAK decomposition is a fundamental tool in Lie theory and quantum computing. Despite its widespread use, the mathematical foundations remain incomplete, particularly regarding the precise conditions for the decomposition and the characterization of equivalence classes under multiplication by elements of $K$. Here, we present a mathematical theory of the KAK decomposition for connected compact semisimple Lie groups and derive the decomposition for $\mathrm{SU}(4)$. In particular, we clarify the relationship between various definitions of a Cartan decomposition in the literature and give a…
+Measurement-based quantum computing uses measurement patterns on predefined quantum resource states to execute quantum logic. Quantum simulation offers an important use case on near-term devices. However, pattern optimization depends on the multivariable interplay between hardware and software constraints and is therefore use-dependent and highly non-trivial. Optimization of large-scale patterns under realistic assumptions remains a barrier. We announce the release of the quantum measurement pattern library QPatLib, a dataset that, in v1.0, presents patterns for use in measurement-based…
 
-## 10. Quantum Simulation of Magnetic Materials: from Ab-Initio to NISQ
+## 5. Large $N$ factorization of families of tensor trace-invariants
 
-- arXiv: `2605.10667v1`
-- Published: 2026-05-11 14:50 UTC
-- Authors: Pascal Stadler, Florian G. Eich, Benedikt M. Schoenauer, Peter Schmitteckert, Michael Marthaler, Gary Schmiedinghoff et al.
+- arXiv: `2605.12468v1`
+- Published: 2026-05-12 17:52 UTC
+- Authors: Sylvain Carrozza, Johann Chevrier, Luca Lionni
+- Categories: math-ph, hep-th, math.CO, quant-ph
+- Links: [abs](https://arxiv.org/abs/2605.12468v1) | [pdf](https://arxiv.org/pdf/2605.12468v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+It was recently proven that, in contrast to their matrix analogues, the moments of a real Gaussian tensor of size N do not in general factorize over their connected components in the asymptotic large N limit. While the original proof of this rather surprising result was not constructive, explicit examples of non-factorizing moments, which are expectation values of trace-invariants, have since then been discovered. We explore further aspects of this problem, with a focus on Haar-distributed (or Gaussian) complex random tensors, which are more directly relevant to quantum information. We start…
+
+## 6. Lower overhead fault-tolerant building blocks for noisy quantum computers
+
+- arXiv: `2605.12385v1`
+- Published: 2026-05-12 16:47 UTC
+- Authors: Prithviraj Prabhu
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2605.10667v1) | [pdf](https://arxiv.org/pdf/2605.10667v1)
+- Links: [abs](https://arxiv.org/abs/2605.12385v1) | [pdf](https://arxiv.org/pdf/2605.12385v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Quantum computers are increasingly accessible, yet demonstrations of physically meaningful simulations for real materials remain scarce. In our work we simulate low-energy magnetic excitations, specifically spin-wave spectra, of chromium tri-halide monolayers. Starting from ab-initio electronic structure calculations for these two-dimensional magnets, we derive an effective spin model and simulate low-energy spin excitations using a real-time propagation of the spin system on the commercial quantum computing cloud platform IQM Resonance. The results for systems with up to 48 qubits are…
+Quantum computation holds the promise of solving certain complex problems exponentially faster than classical computers. However, the high prevalent noise in current quantum devices impedes the accurate execution of even basic algorithms. This can be remedied by protecting quantum information with a quantum error-correcting code, where the logical information of an algorithmic qubit is spread across multiple physical qubits. Individual quantum errors are then located and corrected by the fault-tolerant measurement of multi-qubit stabilizer operators (parity checks). Unfortunately, error…
 
-## 11. Cavity-Enhanced Collective Quantum Processing with Polarization-Encoded Qubits
+## 7. Understanding oxide-thickness-dependent variability in dense Si-MOS quantum dot arrays
 
-- arXiv: `2605.10473v1`
-- Published: 2026-05-11 12:36 UTC
-- Authors: Kamil Wereszczyński, Józef Cyran, Adam Brzezowski, Dawid Załużny, Robert Potoniec, Kasper Wiśniowski et al.
-- Categories: quant-ph, cs.AI
-- Links: [abs](https://arxiv.org/abs/2605.10473v1) | [pdf](https://arxiv.org/pdf/2605.10473v1)
+- arXiv: `2605.12143v1`
+- Published: 2026-05-12 14:02 UTC
+- Authors: Arne Loenders, Jacques Van Damme, Clement Godfrin, Paola Favia, Jacopo Franco, Thomas Van Caekenberghe et al.
+- Categories: quant-ph, cond-mat.mtrl-sci
+- Links: [abs](https://arxiv.org/abs/2605.12143v1) | [pdf](https://arxiv.org/pdf/2605.12143v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Achieving uniform and scalable control of semiconductor spin qubits remains a key challenge for large scale quantum computing. In this work, we investigate how gate oxide thickness influences uniformity in dense two dimensional silicon quantum dot arrays. Using a 7 x 7 array fabricated in a 300 mm CMOS-process patterned by EUV lithography, we statistically characterize 392 quantum dots across four different oxide thicknesses. The threshold voltages, capacitances, lever arms, and charging energies are extracted using parallel row based measurements and we identify an optimal SiO2 thickness of…
+
+## 8. Quantum teleportation with coherent error in Bell-state measurement
+
+- arXiv: `2605.12130v1`
+- Published: 2026-05-12 13:53 UTC
+- Authors: Jeonghyeon Shin, Jaehak Lee, Soojoon Lee, Seung-Woo Lee
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2605.12130v1) | [pdf](https://arxiv.org/pdf/2605.12130v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We introduce a cavity-enhanced optical architecture for collective quantum processing in which logical qubits are encoded in the polarization subspace of recirculating intracavity modes. The physical carrier and computational degree of freedom are explicitly separated: harmonic cavity bundles provide a stable resonant substrate, while programmable polarization transformations implement single-qubit operations. A polarization-selective nonlinear interaction in the entanglement region generates tunable controlled-phase gates, enabling a universal gate set. A parameter-scaling analysis shows…
+Quantum teleportation is a fundamental protocol in quantum information science, whose performance is conventionally evaluated under the assumption of ideal Bell-state measurements. In realistic implementations, however, joint measurements are often imperfect and can deviate from maximally entangled bases due to coherent errors in entangling operations. In this work, we analytically show how the entanglement of joint measurements determines teleportation performance and propose a strategy to overcome the limitations imposed by partially entangled joint measurements to recover the unit…
 
-## 12. Quantum Correlations of Neutrinos in the Kerr-Newman Space-time
+## 9. AccLock: Unlocking Identity with Heartbeat Using In-Ear Accelerometers
 
-- arXiv: `2605.10424v1`
-- Published: 2026-05-11 11:59 UTC
-- Authors: Ze-Wen Li, Shu-Jun Rong
-- Categories: gr-qc, quant-ph
-- Links: [abs](https://arxiv.org/abs/2605.10424v1) | [pdf](https://arxiv.org/pdf/2605.10424v1)
+- arXiv: `2605.11901v1`
+- Published: 2026-05-12 10:15 UTC
+- Authors: Lei Wang, Jiangxuan Shen, Xi Zhang, Dalin Zhang, Jingyu Li, Haipeng Dai et al.
+- Categories: cs.CR, cs.AI
+- Links: [abs](https://arxiv.org/abs/2605.11901v1) | [pdf](https://arxiv.org/pdf/2605.11901v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Thanks to feeble interactions, neutrinos show special advantages in the field of quantum information (QM). The properties of quantum correlations (QCs) are fundamental for neutrino-based QM. In this paper, we investigate the influence of the Kerr--Newman metric on QCs by varying the metric parameters, namely the mass $M$, angular momentum per unit mass $a$, and charge $Q$. Both radial and non-radial neutrino propagation are considered under the weak-field approximation. The results show that, for inward propagation in the Kerr--Newman metric, the oscillation probabilities and QCs differ…
+The widespread use of earphones has enabled various sensing applications, including activity recognition, health monitoring, and context-aware computing. Among these, earphone-based user authentication has become a key technique by leveraging unique biometric features. However, existing earphone-based authentication systems face key limitations: they either require explicit user interaction or active speaker output, or suffer from poor accessibility and vulnerability to environmental noise, which hinders large-scale deployment. In this paper, we propose a passive authentication system, called…
+
+## 10. Pre-Asymptotic Trainability in Photonic Variational Circuits under Postselection
+
+- arXiv: `2605.11879v1`
+- Published: 2026-05-12 09:55 UTC
+- Authors: Yichen Xie, Cassandre Notton, Jean Senellart
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2605.11879v1) | [pdf](https://arxiv.org/pdf/2605.11879v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Barren plateaus in variational quantum circuits are commonly attributed to strong mixing dynamics that cause gradient variance to vanish exponentially with system size. Passive photonic circuits, central to linear optical quantum computing, challenge this picture: although their Hilbert space can be exponentially large, their dynamics are constrained to a Lie algebra whose dimension scales as the square of the number of modes. In photonic systems, postselection also plays a central role, with gradient concentration governed not by the Hilbert-space dimension but by how it reshapes the…
+
+## 11. The uncertainty geometry of finite-dimensional position and momentum
+
+- arXiv: `2605.11876v1`
+- Published: 2026-05-12 09:52 UTC
+- Authors: Dimpi Thakuria, Shuheng Liu, Giuseppe Vitagliano, Konrad Szymański
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2605.11876v1) | [pdf](https://arxiv.org/pdf/2605.11876v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Uncertainty relations are usually stated as bounds on selected combinations of variances, but the full covariance matrix contains substantially richer information about the geometry of quantum state space and about the operational capabilities of quantum systems. Here we characterize the covariance matrices attainable by a finite-dimensional canonical pair of observables related by the discrete Fourier transform, the natural analogue of position and momentum in a finite Hilbert space. We combine analytic arguments with convex-geometric and semidefinite-programming methods based on joint…
