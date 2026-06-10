@@ -1,113 +1,77 @@
 # arXiv alert report
 
-- Generated: 2026-06-09 08:44 UTC
-- Window: papers published since 2026-06-08 08:44 UTC
-- Matches: 9
+- Generated: 2026-06-10 09:03 UTC
+- Window: papers published since 2026-06-09 09:03 UTC
+- Matches: 6
 
-## 1. On the viability of Transatlantic Quantum Entanglement Distribution using Combined Satellite and Stratospheric Relay Nodes
+## 1. On pseudogap phase as precursor to a superconducting dome in high-Tc cuprates: Non-analytic T* as a function of doping
 
-- arXiv: `2606.09805v1`
-- Published: 2026-06-08 17:54 UTC
-- Authors: Kimia Mohammadi, Paul J. Godin, Thomas Jennewein
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.09805v1) | [pdf](https://arxiv.org/pdf/2606.09805v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-To explore the pathways toward establishing a global quantum network, we investigate several link architectures for transatlantic quantum entanglement distribution over a 6,500 km ground distance. We define free-space link configurations involving satellites and stratospheric high altitude platforms (HAPs), using today's technology and without relying on quantum memories and repeaters. Considering link budgets, space radiation, orbital characteristics, and system complexity we find that a hybrid architecture consisting of an entangled photon source located on a low Earth orbit (LEO) satellite…
-
-## 2. Entanglement Generation through Coherent and Non-Coherent Control
-
-- arXiv: `2606.09599v1`
-- Published: 2026-06-08 15:09 UTC
-- Authors: Marco Enriquez, Francisco Delgado
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.09599v1) | [pdf](https://arxiv.org/pdf/2606.09599v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-The controlled generation of quantum entanglement from separable states remains a central challenge in quantum information science. Here, we investigate entanglement generation using two related control paradigms: coherent path superposition of local unitary operations and stochastic implementations of Pauli channels under coherent control. We show that entangled states belonging to the Bell, GHZ and W classes, can be deterministically generated from fully separable inputs by coherently superposing alternative sets of local unitary transformations. Conditions on the local operators for…
-
-## 3. Entanglement-assisted continuous-variable concatenated codes for encoding qubits or oscillators
-
-- arXiv: `2606.09379v1`
-- Published: 2026-06-08 11:57 UTC
-- Authors: Nihar Ranjan Dash, Sanjoy Dutta, R. Srikanth, Subhashish Banerjee
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.09379v1) | [pdf](https://arxiv.org/pdf/2606.09379v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-Entanglement-assisted (EA) stabilizer codes enhance the rate of error correction in relation to codes with no pre-shared entanglement. Meanwhile, bosonic error-correcting codes, such as the Gottesman-Kitaev-Preskill (GKP) code, can be concatenated with qubit stabilizer codes to significantly reduce the logical failure probability of those stabilizer codes. First, we combine the above two concepts to propose an EA version of the qubit-into-oscillators concatenated code that chains an EA-stabilizer (outer) code with a GKP (inner) code. As an example we present a three-qubit EA-repetition…
-
-## 4. Range-controlled entanglement in Lindbladian skin states of monitored fermions
-
-- arXiv: `2606.09306v1`
-- Published: 2026-06-08 10:15 UTC
-- Authors: Gianluca Passarelli, Angelo Russomanno, Davide Rossini, Procolo Lucignano
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.09306v1) | [pdf](https://arxiv.org/pdf/2606.09306v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-Reservoir engineering can stabilize states inaccessible to unitary dynamics. Directed particle-conserving dissipation creates Lindbladian skin states, where Pauli exclusion turns edge accumulation into a many-body density imbalance. In a monitored fermion chain with tunable hopping range, we identify, within a Gaussian trajectory approximation, two finite-size scaling regimes: short-range hopping is consistent with complete skin accumulation and area-law entanglement, whereas sufficiently long-range hopping produces a finite bulk tail and effective algebraic sub-volume-law entanglement.…
-
-## 5. Satellite-Based Quantum Communication: Performance Evaluation of Discrete-Variable Quantum Key Distribution Protocols
-
-- arXiv: `2606.09217v1`
-- Published: 2026-06-08 08:51 UTC
-- Authors: Muskan
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.09217v1) | [pdf](https://arxiv.org/pdf/2606.09217v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['quantum computing', 'entanglement']
-
-Quantum Key Distribution (QKD) has emerged as a fundamentally secure approach to communication in the era of quantum computing, offering protection against threats posed to classical cryptographic schemes such as RSA and Diffie-Hellman. This thesis presents a comprehensive performance analysis of satellite-based QKD protocols, focusing on both prepare-and-measure and entanglement-based schemes under realistic atmospheric and operational conditions. The study begins by introducing the theoretical foundations of quantum communication, including qubits, entanglement, and quantum entropy, and…
-
-## 6. From Pauli Strings to Quantum Dynamics: A Unified Characterization
-
-- arXiv: `2606.09773v1`
-- Published: 2026-06-08 17:33 UTC
-- Authors: Roberto Gargiulo, Paul Herringer, Robert Zeier
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.09773v1) | [pdf](https://arxiv.org/pdf/2606.09773v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Understanding the dynamical properties of quantum systems is an essential task in quantum computing, quantum control, and many-body physics. Tools such as representation theory and Lie theory provide crucial information on reachability and computational power. However, this information can be difficult to access exactly or compute efficiently for arbitrary generating sets. Here we focus on the setting of Pauli strings, which satisfy numerous exceptional properties that simplify the problem. We find deep connections between Pauli Lie algebras and certain subgroups of the Clifford group…
-
-## 7. Adaptive directional gradients for parameterised quantum circuits
-
-- arXiv: `2606.09734v1`
-- Published: 2026-06-08 16:59 UTC
-- Authors: Brian Coyle, Snehal Raj, Virag Umathe, El Amine Cherrat, Elham Kashefi
-- Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2606.09734v1) | [pdf](https://arxiv.org/pdf/2606.09734v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['variational quantum eigensolver']
-
-Training parameterised quantum circuits (PQCs) on quantum hardware is bottlenecked by the measurement cost of gradient estimation, which under the parameter-shift rule scales linearly in the number of trainable parameters and dominates the total shot budget of training at scale. In this work, we propose a framework of forward gradient estimators for PQCs, based on the forward mode of automatic differentiation, that yields an unbiased estimator of the gradient by averaging a freely tunable number of random directional derivatives and recovers SPSA, random coordinate descent, and the…
-
-## 8. A Bell-State Extension of Loop-Back Quantum Key Distribution
-
-- arXiv: `2606.09723v1`
-- Published: 2026-06-08 16:46 UTC
-- Authors: Luis Adrián Lizama-Pérez
-- Categories: quant-ph, cs.CR
-- Links: [abs](https://arxiv.org/abs/2606.09723v1) | [pdf](https://arxiv.org/pdf/2606.09723v1)
+- arXiv: `2606.11056v1`
+- Published: 2026-06-09 16:20 UTC
+- Authors: Felix A. Buot
+- Categories: cond-mat.supr-con, quant-ph
+- Links: [abs](https://arxiv.org/abs/2606.11056v1) | [pdf](https://arxiv.org/pdf/2606.11056v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Bidirectional quantum key distribution (QKD) protocols face persistent challenges related to classical disclosure, confinement of the signal space to predictable subspaces, and limited detectability under substitution or entanglement-swapping attacks. In this work, we present a Bell-state extension of the Loop-Back QKD architecture that improves efficiency and detectability while preserving its defining feature of a simplified, measurement-free remote terminal. The protocol employs entangled Bell states together with deterministic local Pauli encoding at the remote node. A central element is…
+We generalize the condition under which a quantum material exhibiting a pseudogap phase is a precursor to a superconducting (SC) dome. The result reveals the non-analytic T* as a function of doping. A well-known example is the high-Tc cuprates. Essentially, the SC dome is generated under two conditions: (1) that the pseudogap T* is a decreasing function of doping, due to the decrease in size of extended pairing of doped holes with doping, and most importantly, (2) that the rate of configurational-ordering parameter is an increasing function of doping as a result of the decrease in extended…
 
-## 9. Analog quantum simulation of chiral magnetic dynamics using optical superlattices
+## 2. Analog Quantum Asynchronous Event-Based Graph Neural Network
 
-- arXiv: `2606.09708v1`
-- Published: 2026-06-08 16:29 UTC
-- Authors: Sabhyata Gupta, Luis Santos
-- Categories: cond-mat.quant-gas, hep-lat, quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.09708v1) | [pdf](https://arxiv.org/pdf/2606.09708v1)
+- arXiv: `2606.11000v1`
+- Published: 2026-06-09 15:34 UTC
+- Authors: Kristian Sotirov, Shaheen Acheche, Antonio A. Gentile, Osvaldo Simeone
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2606.11000v1) | [pdf](https://arxiv.org/pdf/2606.11000v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['Schwinger model']
+- Keyword hits: title=[] abstract=['quantum computing']
 
-We propose an analog quantum simulation of chiral magnetic dynamics using ultracold atoms in an optical superlattice. The massive Schwinger model in the zero gauge coupling limit maps onto the Rice-Mele model, with the fermion mass and topological angle encoded in the superlattice parameters. We study the real-time dynamics of the vector current following two quench protocols that drive continuous chirality injection and chirality relaxation. Simulations with realistic superlattice parameters and experimental noise demonstrates clear mass dependence of the current dynamics in both protocols,…
+Asynchronous, event-based graph neural networks (AEGNNs) have recently emerged as an efficient paradigm for processing the sparse and high-temporal-resolution data from event cameras. In this paper, we propose quantum analog AEGNNs (QA-AEGNNs), a novel framework to implement an AEGNN on a neutral-atom quantum computer. Neutral-atom quantum processors offer a programmable analog quantum computing platform based on controllable Rydberg-atom interactions. To this end, we map the streaming event data to an array of trapped neutral atoms, where each atom represents a graph node (event) and is…
+
+## 3. Schmidt Decomposition-Based Methods for Efficient Quantum Image Encoding
+
+- arXiv: `2606.10874v1`
+- Published: 2026-06-09 13:50 UTC
+- Authors: Ana-Maria Pangeva, Yassine Ferhi, Alexander Geng, Andreas Weinmann, Desislava Ivanova, Ali Moghiseh
+- Categories: cs.CV, math.QA, quant-ph
+- Links: [abs](https://arxiv.org/abs/2606.10874v1) | [pdf](https://arxiv.org/pdf/2606.10874v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+In quantum image processing, a fundamental step is encoding classical image data into quantum states. This can be achieved using methods such as Flexible Representation of Quantum Images (FRQI), Quantum Probability Image Encoding (QPIE), and Novel Enhanced Quantum Representation (NEQR). However, on real quantum hardware, these encodings can quickly lead to circuits with many gates, large circuit depth, and high qubit usage, which is a problem for Noisy Intermediate-Scale Quantum (NISQ) devices. In this work, we investigate whether low-rank state approximation, formulated via Schmidt…
+
+## 4. The fidelity of controlled quantum teleportation in a noisy environment
+
+- arXiv: `2606.10826v1`
+- Published: 2026-06-09 13:16 UTC
+- Authors: Wen-Jing Wei, Feng-Li Yan, Ting Gao
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2606.10826v1) | [pdf](https://arxiv.org/pdf/2606.10826v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+In this work, we investigate controlled quantum teleportation in the presence of noisy channels acting on the three-qubit resource state. We employ a series of generalized noisy channels that bridge the dephasing channels and amplitude damping channels while encompassing extensive intermediate scenarios. We provide an in-depth analysis of the degradation of the maximal average fidelity and the optimal average fidelity in controlled quantum teleportation induced by such noisy channels by deriving the analytical expression and examining several special cases. The analytical expression shows…
+
+## 5. Noise cancellation by superposition of channels and superactivation of quantum capacity: Experimental realization by NMR
+
+- arXiv: `2606.10744v1`
+- Published: 2026-06-09 11:54 UTC
+- Authors: Deepika Bhargava, Arijit Chatterjee, Vishal Varma, T. S. Mahesh
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2606.10744v1) | [pdf](https://arxiv.org/pdf/2606.10744v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Noisy quantum channels degrade quantum resources such as coherence and entanglement and hence pose challenges for realizing quantum technologies. Coherent control of noisy channels allows us to minimize their effects on the quantum system. Here we achieve the cancellation of two noisy quantum channels by superposing their corresponding Stinespring dilation unitaries. We first arrive at conditions under which superposition of channels results in a valid quantum channel. We then consider superposing two dephasing channels and observe their destructive interference, thereby effectively…
+
+## 6. Post-Quantum Secure Federated DeFi for Inclusive Banking
+
+- arXiv: `2606.10658v1`
+- Published: 2026-06-09 10:06 UTC
+- Authors: Swati Sachan, Dale Fickett, Richard Buchinger, Theo Miller
+- Categories: cs.CR, cs.AI, cs.CE, q-fin.CP
+- Links: [abs](https://arxiv.org/abs/2606.10658v1) | [pdf](https://arxiv.org/pdf/2606.10658v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Recent advances in error-corrected qubits have accelerated the timeline for practical quantum computing. It poses a threat to cryptographic primitives used to secure financial systems, government infrastructure, communication networks, and DeFi (Decentralized Finance) ecosystems. This paper introduces a post-quantum secure federated DeFi framework that enables inter-bank collaboration to improve the inclusivity of individuals underserved by local lenders due to limited financial histories. Multiple banks contribute encrypted information batches to a virtual server, where lattice-based Fully…
