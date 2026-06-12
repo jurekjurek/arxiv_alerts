@@ -1,137 +1,101 @@
 # arXiv alert report
 
-- Generated: 2026-06-11 09:48 UTC
-- Window: papers published since 2026-06-10 09:48 UTC
-- Matches: 11
+- Generated: 2026-06-12 09:40 UTC
+- Window: papers published since 2026-06-11 09:40 UTC
+- Matches: 8
 
-## 1. Clifford disentanglers for entanglement reduction in molecular electronic structure simulations
+## 1. Driven-dissipative entanglement of distant giant atoms
 
-- arXiv: `2606.12056v1`
-- Published: 2026-06-10 13:22 UTC
-- Authors: Longfei Chang, Zibo Wu, Yunzhi Li, Haiqi Liu, Jiajun Ren, Mingpu Qin et al.
+- arXiv: `2606.13375v1`
+- Published: 2026-06-11 14:00 UTC
+- Authors: Aziza Almanakly, Ariadna Soro, Alejandro Vivas-Viaña, Beatriz Yankelevich, Caspar Groiseau, David Pahl et al.
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.12056v1) | [pdf](https://arxiv.org/pdf/2606.12056v1)
+- Links: [abs](https://arxiv.org/abs/2606.13375v1) | [pdf](https://arxiv.org/pdf/2606.13375v1)
 - Score: 5
-- Keyword hits: title=['entanglement'] abstract=['variational quantum eigensolver', 'entanglement']
+- Keyword hits: title=['entanglement'] abstract=['quantum computing', 'entanglement']
 
-Entanglement is a key bottleneck limiting the efficiency of tensor-network and quantum simulations of molecular electronic structures. Here, we systematically assess and extend Clifford disentanglers as a structure-preserving approach to entanglement reduction: they can modify the entanglement structure of qubit wavefunctions while retaining the Pauli-string form of qubit Hamiltonians. To enable a practical search over Clifford transformations, we classify Clifford operators by their action on the Schmidt spectrum across a bipartition, reducing the two- and four-qubit search spaces to 20 and…
+Quantum interconnects distribute entanglement via controlled light-matter interactions for quantum computing and sensing applications. Many entanglement generation schemes use coherent, reversible interactions that require precisely calibrated pulses to execute. In contrast, driven-dissipative protocols use a continuous-wave drive in the presence of correlated dissipation to stabilize entanglement in protected (dark) states. However, the same dissipation that generates the entanglement also limits its utility once the stabilization protocol ends. Here, we engineer a superconducting system of…
 
-## 2. Entanglement generation between field modes mediated by a fluctuating conducting wall
+## 2. Hamiltonian-Aware ADAPT Variational Quantum Eigensolver for Molecular Ground-State Simulation
 
-- arXiv: `2606.12338v1`
-- Published: 2026-06-10 17:08 UTC
-- Authors: Luca Giovanni Cammarata, Tommaso Fazio, Roberto Passante, Lucia Rizzuto
-- Categories: hep-th, quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.12338v1) | [pdf](https://arxiv.org/pdf/2606.12338v1)
+- arXiv: `2606.13118v1`
+- Published: 2026-06-11 09:44 UTC
+- Authors: Runhong He, Chao Liu, Xin Hong, Qiaozhen Chai, Junyuan Zhou, Ji Guan et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2606.13118v1) | [pdf](https://arxiv.org/pdf/2606.13118v1)
+- Score: 5
+- Keyword hits: title=['variational quantum eigensolver'] abstract=['variational quantum eigensolver', 'vqe']
+
+Designing compact ansätze in Variational Quantum Eigensolver (VQE) is crucial for solving energetic problems of practical molecules on near-term quantum devices. However, existing Adaptive Derivative-Assembled Pseudo-Trotter (ADAPT) ansätze face two challenges: improper operator selection and accumulation of degraded operators. In this paper, we propose the Hamiltonian-Aware (HA) ADAPT-VQE algorithm to address these issues. First, we establish a novel excitation operator selection criterion. It breaks the local constraint of existing criteria by incorporating Hamiltonian information,…
+
+## 3. Semi-Device-Independent Certification for Nonlocality without Entanglement
+
+- arXiv: `2606.13667v1`
+- Published: 2026-06-11 17:58 UTC
+- Authors: Hanwool Lee, Joonwoo Bae
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2606.13667v1) | [pdf](https://arxiv.org/pdf/2606.13667v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We consider a movable conducting plate of finite mass, between two fixed ones, whose mechanical degrees of freedom are treated quantum-mechanically and bound to its equilibrium position by a harmonic potential. The movable wall is thus subjected to quantum fluctuations of its position. This creates a system of two sub-cavities separated by the movable fluctuating plate, and two massless one-dimensional scalar fields, one in each sub-cavity. This system is described by an appropriate generalization of the Law Hamiltonian. The presence of the movable wall yields an effective plate-fields…
+In this work, we investigate maximum-confidence discrimination, which encompasses minimum-error and unambiguous discrimination, for ensembles of separable states by considering global and separable measurements. We demonstrate that global measurements outperform separable ones, thereby establishing nonlocality without entanglement (NLWE) in terms of confidence in a detection event, a fine-grained state-identification strategy that maximizes the probability of a correct guess given a measurement outcome. Conversely, verifying achievable confidence in measurement outcomes can certify global…
 
-## 3. Quantum repeater segment with free-space coupled co-trapped ions using telecom photon interference
+## 4. Numerical Hints for Dyon Condensation at $θ=2π$ via Wilson-'t Hooft Loops in $SU(2)$ Yang-Mills Theory
 
-- arXiv: `2606.12313v1`
-- Published: 2026-06-10 16:46 UTC
-- Authors: Max Bergerhoff, Pascal Baumgart, Christian Haen, Jonas Meiers, Tobias Bauer, Jonas Haferkamp et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.12313v1) | [pdf](https://arxiv.org/pdf/2606.12313v1)
+- arXiv: `2606.13428v1`
+- Published: 2026-06-11 14:56 UTC
+- Authors: Hiromasa Watanabe, Issaku Kanamori, Okuto Morikawa, Yuki Nagai, Yuya Tanizaki, Akio Tomiya
+- Categories: hep-lat, cond-mat.str-el, hep-ph, hep-th
+- Links: [abs](https://arxiv.org/abs/2606.13428v1) | [pdf](https://arxiv.org/pdf/2606.13428v1)
 - Score: 4
-- Keyword hits: title=['trapped ions'] abstract=['entanglement']
+- Keyword hits: title=['wilson'] abstract=['wilson']
 
-A quantum repeater segment is a basic building block of a quantum repeater, generating buffered entanglement of quantum memories to connect quantum repeater cells. It also enables the connection between quantum computers. In the implementation we present here, photons emitted from two co-trapped free-space coupled $^{40}$Ca$^+$ ions are converted to the telecom-C band and interfered after transmission over 440$\,$m of optical fiber (220$\,$m per arm), where a photonic Bell measurement is performed to create entanglement between the memories. With this scheme we generate an entangled…
+Yang-Mills theories at $θ$ and $θ+2π$ are unitarily equivalent, but their $2π$ periodicity has a nontrivial realization. Recent developments in generalized global symmetries show that confinement vacua at $θ=0$ and $2π$ should belong to different symmetry-protected topological (SPT) states with the $1$-form center symmetry. For its examination, we measure the Wilson-'t Hooft loop operators at $θ=2π$ for the $SU(2)$ Wilson lattice gauge action and discuss their long-distance behaviors. This requires us to identify the gauge topological charge in the presence of defects, and we employ the…
 
-## 4. Collective neutrino oscillations: Many-body non-forward effects and non-classicality
+## 5. An LLM System for Autonomous Variational Quantum Circuit Design
 
-- arXiv: `2606.12404v1`
-- Published: 2026-06-10 17:59 UTC
-- Authors: Julien Froustey, Ermal Rrapaj, Yuhao Liu, Gushu Li, Costin Iancu, Vincenzo Cirigliano
-- Categories: hep-ph, astro-ph.HE, quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.12404v1) | [pdf](https://arxiv.org/pdf/2606.12404v1)
+- arXiv: `2606.13380v1`
+- Published: 2026-06-11 14:08 UTC
+- Authors: Kenya Sakka, Wataru Mizukami, Kosuke Mitarai
+- Categories: quant-ph, cs.AI
+- Links: [abs](https://arxiv.org/abs/2606.13380v1) | [pdf](https://arxiv.org/pdf/2606.13380v1)
 - Score: 2
-- Keyword hits: title=[] abstract=['quantum computing', 'entanglement']
+- Keyword hits: title=[] abstract=['quantum machine learning', 'variational quantum eigensolver']
 
-Neutrino evolution in dense astrophysical environments is typically described either within a quantum kinetic framework, which neglects the build-up of multi-body correlations, or through simplified many-body calculations that allow significant entanglement to develop. In this work, we compare these two approaches in a simple neutrino-gas configuration, with particular emphasis on the role of non-forward scattering processes. These effects are incorporated either through a collision term in the kinetic description, or by considering the full neutrino-neutrino many-body Hamiltonian. We…
+The design of high performing quantum circuits remains largely dependent on human expertise. We introduce an autonomous agentic framework that employs large language models (LLMs) to conduct iterative quantum circuit designs under explicit design constraints. Our system integrates seven components: Exploration, Generation, Discussion, Validation, Storage, Evaluation, and Review. These components form a closed-loop workflow that combines web-based knowledge acquisition, literature-grounded critique, executable code generation, and experimental feedback. We evaluate the framework on two tasks:…
 
-## 5. Scaling-optimal purification of noisy qubit unitary channels
+## 6. Diffusive Dynamics of Nonstabilizerness
 
-- arXiv: `2606.12394v1`
-- Published: 2026-06-10 17:55 UTC
-- Authors: Ryotaro Niwa, Satoshi Yoshida, Koki Ono, Takeru Utsumi, Zhaoyi Li, Yuxiang Yang et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.12394v1) | [pdf](https://arxiv.org/pdf/2606.12394v1)
+- arXiv: `2606.13606v1`
+- Published: 2026-06-11 17:22 UTC
+- Authors: Zhenyu Xiao, Shinsei Ryu
+- Categories: quant-ph, cond-mat.mes-hall, cond-mat.stat-mech
+- Links: [abs](https://arxiv.org/abs/2606.13606v1) | [pdf](https://arxiv.org/pdf/2606.13606v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We consider the problem of purifying noisy qubit unitary channels. Given the ability to apply an unknown qubit unitary channel followed by depolarizing noise, we aim to construct a superchannel that purifies the noisy unitary back to the original unknown unitary. We first provide numerical evidence that sequential strategies can strictly outperform parallel strategies when the number of channel uses is finite, highlighting the fundamental distinction from state purification. We then provide a concrete $\mathrm{U}(2)$-covariant parallel protocol based on a novel entanglement-assisted quantum…
+Symmetries shape the quantum-information dynamics of many-body systems, but their effect on nonstabilizerness, the resource complementary to entanglement, is less understood. We compute the stabilizer Rényi entropy, a measure of nonstabilizerness, in $\mathrm{U}(1)$-symmetric one-dimensional random circuits. The disorder-averaged dynamics is captured by a four-replica tensor network, which we evaluate by $S_4$-adapted infinite time-evolving block decimation (iTEBD) directly in the thermodynamic limit. Together with a hydrodynamic argument, our results identify a diffusive universality class…
 
-## 6. Fermions are fundamentally more nonlocal than Bosons
+## 7. Reduced basis algorithm for solving nonlinear differential equations on quantum computers
 
-- arXiv: `2606.12363v1`
-- Published: 2026-06-10 17:33 UTC
-- Authors: Fatemeh Moradi Kalarde, Sadra Boreiri, Xiangling Xu, Lucas Tendick, Salman Beigi, Paolo Perinotti et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.12363v1) | [pdf](https://arxiv.org/pdf/2606.12363v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Bell's theorem shows that entangled quantum particles can exhibit correlations that classical particles cannot reproduce without an additional nonlocal resource, such as communication. In this sense, quantum particles are fundamentally more nonlocal than classical ones, and entanglement becomes unavoidable in physics. Here we prove the analogous result within quantum theory itself: indistinguishable fermions transmitted through a quantum network can generate correlations that distinguishable particles or indistinguishable bosons cannot reproduce without additional communication. In the same…
-
-## 7. Partitioned Iterative Quantum Scheduling of Satellites for Urgent Disaster Response: Case study of Wildfire
-
-- arXiv: `2606.12310v1`
-- Published: 2026-06-10 16:44 UTC
-- Authors: Lucas T. Braydwood, Taejin Park, Hirofumi Hashimoto, Zoe Gonzalez Izquierdo, Andrew Michaelis, Eleanor Rieffel et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.12310v1) | [pdf](https://arxiv.org/pdf/2606.12310v1)
+- arXiv: `2606.13457v1`
+- Published: 2026-06-11 15:13 UTC
+- Authors: Monica Lăcătuş, Matthias Möller, Sauro Succi
+- Categories: math.NA, quant-ph
+- Links: [abs](https://arxiv.org/abs/2606.13457v1) | [pdf](https://arxiv.org/pdf/2606.13457v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-The standard in Earth-observation tasks today is having near real-time access to surface images in response to changing conditions. For instance, as urban environments interface more with wildlands and wildfires become less predictable, their tracking with satellite resources becomes essential. This requires the coordination of increasingly large constellations of satellites, giving rise to challenging computational problems. With wildfire detection and tracking as a backdrop, we investigate the power of special purpose and novel computing paradigms to tackle the ensuing satellite scheduling…
+As quantum computing moves toward scientific computing applications, nonlinear differential equations remain a central challenge since quantum evolution is intrinsically linear. In this work, we introduce a reduced basis algorithm (RBA) for polynomial nonlinear ordinary differential equations (ODEs) and spatially discretized partial differential equations (PDEs). After time discretization, the method composes the resulting polynomial update map over $m$ timesteps, identifies the reduced monomial basis appearing in this composed map, and constructs a linear RBA operator whose action recovers…
 
-## 8. Super-Link Fragility in Asymmetric W-Class States under Quantum Noise
+## 8. Foundations of Practical Quantum Advantage in Quantum-Informed Machine Learning for Predicting Chaos
 
-- arXiv: `2606.12307v1`
-- Published: 2026-06-10 16:42 UTC
-- Authors: Sougata Bhattacharyya, Fatih Ozaydin, Sovik Roy
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.12307v1) | [pdf](https://arxiv.org/pdf/2606.12307v1)
+- arXiv: `2606.13422v1`
+- Published: 2026-06-11 14:52 UTC
+- Authors: Maida Wang, Xiao Xue, Minh Chung, Peter V. Coveney
+- Categories: quant-ph, cs.LG, physics.flu-dyn
+- Links: [abs](https://arxiv.org/abs/2606.13422v1) | [pdf](https://arxiv.org/pdf/2606.13422v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-The asymmetric three-qubit W-class state $|\overline{W_3^L}\rangle$ defines an isosceles entanglement-network geometry, (a) two vertex-base (VB) links form stronger bipartite connections, (b) while the base-base (BB) link is weaker. This suggests that concentrating entanglement into a super-link may be advantageous for quantum-network tasks. Here, we show that this intuition is incomplete. We analytically compare the bipartite concurrence dynamics of the symmetric |W> state and the asymmetric $|\overline{W_3^L}\rangle$ state, which differ both in entanglement-network geometry and excitation…
-
-## 9. Quantum Occam Learning: Sample-Supported Expressibility for Circuit-Based Quantum Learning
-
-- arXiv: `2606.12211v1`
-- Published: 2026-06-10 15:28 UTC
-- Authors: Jeongho Bang, Kyoungho Cho, Jeongwoo Jae
-- Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2606.12211v1) | [pdf](https://arxiv.org/pdf/2606.12211v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum machine learning']
-
-A central principle in quantum machine learning is that an ansatz should be expressive enough to represent the quantum data of interest. Yet, the expressibility is statistically meaningful only insofar as it can be learned from finitely many copies of an unknown quantum state. In this work, we develop an information-theoretic Occam theory for quantum data generated by finite-size quantum circuits. For the class $S_{n,G}$ of $n$-qubit pure states preparable with at most $G$ two-qubit gates, a metric-entropy argument gives the realizable sample law $\widetildeΘ(G/ε^2)$ in the circuit-limited…
-
-## 10. A semi-definite programming formulation of the device-dependent guessing probability
-
-- arXiv: `2606.12079v1`
-- Published: 2026-06-10 13:44 UTC
-- Authors: Raffaele D'Avino, Aurora Mugnai, Miguel Navascués, Antonio Acín, Gabriel Senno
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.12079v1) | [pdf](https://arxiv.org/pdf/2606.12079v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-In quantum mechanics, a measurement applied to a state in general produces some amount of intrinsic randomness. This is not only a fundamental feature of the theory, but is also at the basis of any quantum process to generate random numbers. The simplest of such processes consists of a single, fully charaterized, measurement acting on a single, fully characterized, state. Unfortunately, no general method to estimate the intrinsic randomness produced in such setups is known. In this work, we address this issue by presenting a semidefinite programming formulation of the maximum probability with…
-
-## 11. Tensor-Network Algorithm for Many-Body Trace Norms
-
-- arXiv: `2606.11882v1`
-- Published: 2026-06-10 10:07 UTC
-- Authors: Seunghun Lee, Eun-Gook Moon
-- Categories: quant-ph, cond-mat.stat-mech, cond-mat.str-el
-- Links: [abs](https://arxiv.org/abs/2606.11882v1) | [pdf](https://arxiv.org/pdf/2606.11882v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Trace norms are fundamental to quantum information theory, yet in many-body systems their evaluation remains a major computational bottleneck, as it generally requires diagonalizing exponentially large operators. Here, we overcome this bottleneck by introducing a controlled tensor-network algorithm for estimating the trace norm of matrix product operators without full diagonalization. The key idea is to combine Zolotarev's rational approximation to the sign function with a variational formulation solved using a density-matrix-renormalization-group-like algorithm. The resulting approximation…
+We develop theoretical foundations for a practical quantum-advantage mechanism in quantum-informed machine learning for chaotic dynamical systems. A family of k-indexed higher-order quantum statistical priors (Q-Priors) hosts the k-point marginal of the invariant measure on n_q = kq qubits, extending the single-site construction of prior work. We prove a two-stage advantage. In the representation stage, superposition and entanglement compactly store non-factorisable spatial correlations of the invariant measure on n_q qubits. In the extraction stage, joint Bell measurements on two copies…
