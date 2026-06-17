@@ -1,125 +1,149 @@
 # arXiv alert report
 
-- Generated: 2026-06-16 10:23 UTC
-- Window: papers published since 2026-06-15 10:23 UTC
-- Matches: 10
+- Generated: 2026-06-17 10:11 UTC
+- Window: papers published since 2026-06-16 10:11 UTC
+- Matches: 12
 
-## 1. Quantifying Coherence-to-Entanglement Conversion Efficiency under Noisy Operations
+## 1. Engineering entanglement and transport in interacting quantum walks with tailored potentials
 
-- arXiv: `2606.16916v1`
-- Published: 2026-06-15 16:23 UTC
-- Authors: Asad Ali, H. Kuniyil, M. I. Hussain, M. T. Rahim, Abdallah Slaoui, Saif Al-Kuwari
+- arXiv: `2606.17825v1`
+- Published: 2026-06-16 11:52 UTC
+- Authors: Gaia Forghieri, Matteo G. A. Paris
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.16916v1) | [pdf](https://arxiv.org/pdf/2606.16916v1)
+- Links: [abs](https://arxiv.org/abs/2606.17825v1) | [pdf](https://arxiv.org/pdf/2606.17825v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We investigate the noise-limited conversion of local quantum coherence into bipartite entanglement in a minimal two-qubit protocol comprising a coherent single-qubit input, an incoherent ancilla, an ideal CNOT operation, and subsequent environmental noise. Employing the $l_1$-norm of coherence and the entanglement negativity as resource quantifiers, we establish an exact closed-form correspondence between local single-qubit input coherence and the two-qubit entanglement generated in the noiseless limit, showing that the output negativity is precisely one half of the initial $l_1$-coherence.…
+Controlling the interplay between particle propagation and quantum correlation generation is a central challenge in quantum transport. Here, we investigate two distinguishable continuous-time quantum walkers evolving on parallel one-dimensional lattices, interacting via distance-dependent potentials. While on-site interactions reproduce the typical bosonic behaviour, extending the interaction to a linear potential over multiple neighbors introduces controlled Bloch-like oscillations and shifts the bound-pair regime to stronger couplings. More generally, we explore a Coulomb-like interaction…
 
-## 2. Complete entanglement detection using polynomial invariants
+## 2. Einstein-Podolsky-Rosen correlations between mechanical oscillators revealed through SU(1,1) interferometry
 
-- arXiv: `2606.16712v1`
-- Published: 2026-06-15 13:40 UTC
-- Authors: Thomas C. Fraser, Vjosa Blakaj, Roberto Rubboli, Felix Huber, Marco Fanizza
+- arXiv: `2606.18202v1`
+- Published: 2026-06-16 17:32 UTC
+- Authors: Max-Emanuel Kern, Stefano Marti, Raquel Garcia-Belles, Andraz Omahen, Igor Kladaric, Arianne Brooks et al.
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.16712v1) | [pdf](https://arxiv.org/pdf/2606.16712v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-Existing methods for deciding whether a bipartite quantum state is separable or entangled typically fall into one of two categories: they are either complete but require access to an explicit density matrix followed by numerical optimization, or they can be evaluated directly by measuring the quantum system but are incomplete, in the sense that they cannot detect all forms of entanglement. In this work, we overcome both limitations in a unified framework. First, we bypass numerical optimization by deriving separability criteria in the form of universal bounds on tensor powers of separable…
-
-## 3. High-dimensional coherence to entanglement transduction under canonical noise
-
-- arXiv: `2606.16695v1`
-- Published: 2026-06-15 13:31 UTC
-- Authors: Asad Ali, Aiham M. Rostom, Saif Al-Kuwari, H. Kuniyil, M. T. Rahim, Saeed Haddadi
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.16695v1) | [pdf](https://arxiv.org/pdf/2606.16695v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-We develop an analytical framework for coherence-to-entanglement conversion in bipartite high-dimensional quantum systems, so-called qunits. An arbitrary coherent input qunit is coupled to an incoherent ancilla through a generalized controlled-shift operation, producing a maximally correlated bipartite state. By analyzing the partial transpose of the output state, we establish an exact dimension-independent connection between the input coherence and the generated entanglement. We then study how this conversion is affected by three standard noise processes applied after the conversion step:…
-
-## 4. Dual-Granularity Orthogonal Disentanglement for Generalizable Audio Deepfake Detection
-
-- arXiv: `2606.16532v1`
-- Published: 2026-06-15 10:36 UTC
-- Authors: Zhuodong Liu, Hugen Lv, Xiangyu Li, Chunhong Yuan
-- Categories: cs.SD, cs.AI
-- Links: [abs](https://arxiv.org/abs/2606.16532v1) | [pdf](https://arxiv.org/pdf/2606.16532v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-Audio deepfake detectors often fail to generalize across speakers, as they learn speaker-identity features rather than synthesis artifacts, known as implicit identity leakage. Existing methods address this but incur architectural complexity or training instability. This paper proposes a dual-granularity orthogonal disentanglement framework enforcing feature independence at two levels: sample-level cosine orthogonality captures directional decorrelation, while batch-level cross-covariance regularization eliminates linear correlations across embedding dimensions. A curriculum disentanglement…
-
-## 5. Hadronic tensor in lattice gauge theories by quantum computing
-
-- arXiv: `2606.17003v1`
-- Published: 2026-06-15 17:37 UTC
-- Authors: Dairui Zou, Tianyin Li, Jian Liang, Enke Wang, Hongxi Xing
-- Categories: hep-ph, hep-lat, nucl-th
-- Links: [abs](https://arxiv.org/abs/2606.17003v1) | [pdf](https://arxiv.org/pdf/2606.17003v1)
-- Score: 3
-- Keyword hits: title=['quantum computing'] abstract=[]
-
-The hadronic tensor encodes crucial information regarding the internal structure of hadrons, reflecting the non-perturbative features of quantum chromodynamics (QCD). In this work, we directly compute the hadronic tensor within (1+1)-dimensional $\rm U(1)$ and $\rm SU(2)$ gauge theories by evaluating real-time current-current correlation functions. Utilizing quantum algorithms executed on classical hardware, we demonstrate that the hadron form factors for both meson and baryon states can be reliably extracted from the hadronic tensor. Our methodology is validated by strong agreement with both…
-
-## 6. 3D Ising criticality with Platonic lattice superconducting qubits
-
-- arXiv: `2606.16854v1`
-- Published: 2026-06-15 15:28 UTC
-- Authors: Liyang Sui, Hong-Hao Song, Sainan Huai, Yufan Li, Zhiwen Zong, Kunliang Bu et al.
-- Categories: quant-ph, cond-mat.stat-mech
-- Links: [abs](https://arxiv.org/abs/2606.16854v1) | [pdf](https://arxiv.org/pdf/2606.16854v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['variational quantum eigensolver']
-
-The three-dimensional (3D) Ising model is a foundational model in statistical physics and critical phenomena, yet its analytical intractability has long impeded the precise determination of universal critical exponents. While high-precision estimates have been obtained through classical numerical methods and conformal bootstrap techniques, a direct quantum simulation of the 3D Ising criticality remains challenging, requiring nontrivial connectivity, sufficient system size, and high spectral resolution. In this work, assisted by the state-operator correspondence of conformal field theory, we…
-
-## 7. Quantum Nonlocal Games on Graph Ensembles
-
-- arXiv: `2606.16784v1`
-- Published: 2026-06-15 14:29 UTC
-- Authors: Joshua Tucker, Chris Weeks, Peter Drmota, Ellis M. Ainley, Ayush Agrawal, Adam R. Martinez et al.
-- Categories: quant-ph, physics.atom-ph
-- Links: [abs](https://arxiv.org/abs/2606.16784v1) | [pdf](https://arxiv.org/pdf/2606.16784v1)
+- Links: [abs](https://arxiv.org/abs/2606.18202v1) | [pdf](https://arxiv.org/pdf/2606.18202v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Quantum entanglement is one of the most striking discoveries in all of science. This effect allows, for instance, two spatially separated agents to coordinate their actions, without communication, to an extent that is both counter-intuitive, and provably impossible by any other physical means. A recently discovered example is that of mobile agents (players) performing spatial coordination tasks such as rendezvous, where the agents aim to meet on a network without communication. Until now, demonstrations of this advantage have relied on highly idealized conditions: agents are assumed to have…
+Quantum correlations are essential for achieving quantum advantage in computing, communication and sensing. Moreover, their observation challenges and constrains our fundamental understanding of nature. Mechanical oscillators in the quantum regime provide an appealing platform for preparing and investigating quantum correlations at macroscopic scales. Despite substantial progress, however, continuous-variable quantum correlations stronger than entanglement have not yet been observed in this macroscopic regime. Here, we report the experimental observation of continuous-variable…
 
-## 8. Quantum enhancement and Doppler suppression of Kasevich-Chu atom interferometer with motional squeezing states
+## 3. Optimal Calibration of Quantum Network Links
 
-- arXiv: `2606.16632v1`
-- Published: 2026-06-15 12:23 UTC
-- Authors: Dongyang Yu, Yubin Wang, Fong En Oon, Qiang Lin
-- Categories: quant-ph, physics.atom-ph
-- Links: [abs](https://arxiv.org/abs/2606.16632v1) | [pdf](https://arxiv.org/pdf/2606.16632v1)
+- arXiv: `2606.18167v1`
+- Published: 2026-06-16 17:06 UTC
+- Authors: Vinay Kumar, Claudio Cicconetti, Marco Conti, Andrea Passarella
+- Categories: quant-ph, cs.PF
+- Links: [abs](https://arxiv.org/abs/2606.18167v1) | [pdf](https://arxiv.org/pdf/2606.18167v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Hybridization of internal and external atomic degrees of freedom in a Kasevich-Chu interferometer enables the possibility to enhance the sensitivity significantly even under quantum-standard limit. By introducing motional squeezing state as an input, we systematically derive the computational framework of quantum and classical Fisher information of two measurement protocols for arbitrary strength of Doppler effects. Through maximizing the corresponding classical Fisher information, we obtain the optimal control parameters and the corresponding quantum Fisher information. For population…
+The reliable distribution of entanglement is essential for the effective operation of quantum networks. Due to fundamental differences between quantum and classical communication systems, it is necessary to develop specialised algorithms and protocols that also account for quantum-specific constraints. In this work, we focus on the issue of recalibration. As suggested by recent experimental studies, the process of local entanglement generation in a quantum link degrades over time due to environmental changes that have to be estimated and compensated via a calibration operation, during which…
 
-## 9. Electronic Band Structure of Silicon Determined via a Variational Adiabatic Eigensolver: Theory and Experiment
+## 4. Stochastic signal sensing with finite energy and dead time at the fundamental quantum limit
 
-- arXiv: `2606.16604v1`
-- Published: 2026-06-15 11:51 UTC
-- Authors: Xingrui Liu, Liyang Sui, Tianqi Cai, Zhiwen Zong, Kunliang Bu, Wenyan Jin et al.
+- arXiv: `2606.18133v1`
+- Published: 2026-06-16 16:33 UTC
+- Authors: James W. Gardner, Tuvia Gefen, Matteo Fadel
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.16604v1) | [pdf](https://arxiv.org/pdf/2606.16604v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['variational quantum eigensolver']
-
-This work addresses the critical challenge of excited-state preparation for semiconductor band structure calculations. We introduce a variational adiabatic eigensolver (VAE) protocol that combines adiabatic evolution with variational optimization to prepare high-fidelity eigenstates on noisy intermediate-scale quantum (NISQ) devices. Applying a momentum-space truncation, we accurately compute the electronic band structure of silicon -- an idealized infinite periodic system -- using only a modest number of qubits. Our approach employs multi-qubit parameterized circuits and a phase-based loss…
-
-## 10. What does measuring one qubit reveal about another? $K$-networks as a directed diagnostic for quantum circuits
-
-- arXiv: `2606.16549v1`
-- Published: 2026-06-15 10:51 UTC
-- Authors: Kostas Blekos, Paulo Vitor Itaboraí
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2606.16549v1) | [pdf](https://arxiv.org/pdf/2606.16549v1)
+- Links: [abs](https://arxiv.org/abs/2606.18133v1) | [pdf](https://arxiv.org/pdf/2606.18133v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Many-qubit circuit states are hard to inspect directly, so they are often summarized by pairwise graph weights. Common pairwise weights report symmetric correlations, while many circuit questions are directed and basis-specific: if qubit $i$ is measured in a given basis, how strongly does the outcome reshape the conditional state of qubit $j$? We define $K_{i\to j}$, a directed, basis-conditioned edge weight for this question. It is large when the two measurement outcomes occur with comparable probability and leave qubit $j$ in clearly different conditional states; it is zero when the source…
+State preparation, measurement, and reset operations take finite time and use finite energy in realistic experiments, yet the impact of this on optimal quantum metrological protocols is not properly understood. We study the effect on sensing a stochastic signal, relevant for the detection of ultralight dark matter and other searches for fundamental physics. We prove that two-mode squeezed vacuum is the optimal probe state given a finite mean-energy constraint for a family of incoherent sensing problems, including noise sensing and quantum illumination. For estimating a gain independent of a…
+
+## 5. Emergent de Sitter Space and Non-Unitary Tensor Networks from Non-Hermitian Quantum Criticality
+
+- arXiv: `2606.17983v1`
+- Published: 2026-06-16 14:34 UTC
+- Authors: Kuang-Hung Chou, Po-Yao Chang
+- Categories: quant-ph, cond-mat.stat-mech, hep-th
+- Links: [abs](https://arxiv.org/abs/2606.17983v1) | [pdf](https://arxiv.org/pdf/2606.17983v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Extending the holographic principle to de Sitter (dS) spacetimes remains one of the most vital open frontiers in quantum gravity, where a microscopic, bottom-up tensor-network framework that relates boundary quantum data to emergent de Sitter spacetime is still lacking. In this work, we first show the emergence of de Sitter spacetime from boundary entanglement by formulating a non-unitary continuous multi-scale entanglement renormalization ansatz (cMERA) for a concrete non-Hermitian critical fermion chain. Within this emergent spacetime, we analyze the associated geodesics and show that they…
+
+## 6. Average entropy of Bogoliubov-Kubo-Mori random state ensemble
+
+- arXiv: `2606.17960v1`
+- Published: 2026-06-16 14:11 UTC
+- Authors: Sohail, Lu Wei
+- Categories: math-ph, cs.IT, quant-ph
+- Links: [abs](https://arxiv.org/abs/2606.17960v1) | [pdf](https://arxiv.org/pdf/2606.17960v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Random states play a foundational role in different branches of modern quantum science. In this work, we study a recently proposed random state ensemble induced from von Neumann entropy through the Bogoliubov-Kubo-Mori (BKM) metric. In particular, we derive an exact yet explicit formula of average entanglement entropy over BKM ensemble. In obtaining the formula, we only make use of properties of normalization constant of the ensemble in the absence of its correlation kernel, contrary to average entropy computation of other ensembles. This new framework paves the way for calculating…
+
+## 7. Fabless Quantum Chip Design and Commercial Production
+
+- arXiv: `2606.17956v1`
+- Published: 2026-06-16 14:08 UTC
+- Authors: Cai, Ling Qiao, Bin Yang, Fumin Luo, WeiGui Guo, GuoRong Zhang et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2606.17956v1) | [pdf](https://arxiv.org/pdf/2606.17956v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+This paper proposes a fabless quantum-chip design and production architecture for superconducting quantum computing, centered on the SPICE-Q multiphysics simulation framework. The proposed ecosystem connects process-certified quantum PDKs, parameterized device cells, traceable model cards, SPICE-Q physical modeling languages, unified Q-EDA flows, foundry sign-off rules, cryogenic test feedback, and reusable quantum IP. In this model, design firms do not merely outsource fabrication; they prepare verified tape-outs under standardized process constraints and calibrated physical models. Its…
+
+## 8. Twin-beam advantage in quantum LiDAR under correlated noise
+
+- arXiv: `2606.17908v1`
+- Published: 2026-06-16 13:32 UTC
+- Authors: Valeria Cimini
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2606.17908v1) | [pdf](https://arxiv.org/pdf/2606.17908v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Quantum light promises improved precision in optical remote sensing, but its practical advantage depends critically on whether nonclassical resources remain useful under realistic noise and experimentally accessible detection. This question becomes especially relevant for LiDAR systems, where a quantum advantage has been demonstrated for target detection and joint range-velocity estimation, but mostly under idealized conditions or simple noise models, such as optical loss and thermal background. A key open point is whether entanglement provides an operational advantage when the dominant…
+
+## 9. Quantum Chip Paradigm Framework
+
+- arXiv: `2606.17899v1`
+- Published: 2026-06-16 13:23 UTC
+- Authors: Cai, Ling Qiao, Bin Yang, Fumin Luo, WeiGui Guo, GuoRong Zhang et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2606.17899v1) | [pdf](https://arxiv.org/pdf/2606.17899v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Quantum Electronic Design Automation (Q-EDA) is emerging as quantum chips move from laboratory prototypes to scalable engineering systems. This paper argues that superconducting quantum chip design is approaching a "SPICE moment" similar to early classical EDA, where growing qubit scale, control complexity, frequency planning, packaging, process variation, and cryogenic measurement feedback require a shift from experience-based design to model-driven engineering. We propose a Quantum Chip Paradigm Framework that treats Q-EDA not only as software, but as part of the quantum chip development…
+
+## 10. StepGuard: Guarding Web Navigation via Single-Step Calibration
+
+- arXiv: `2606.17871v1`
+- Published: 2026-06-16 12:42 UTC
+- Authors: Zhihao Cui, Yuchen Zhang, Xiyang Sun, Yaxiong Wang, Li Zhu, Jinpeng Hu et al.
+- Categories: cs.AI
+- Links: [abs](https://arxiv.org/abs/2606.17871v1) | [pdf](https://arxiv.org/pdf/2606.17871v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Web navigation requires agents to follow natural language goals, interact with web pages, and produce accurate answers. While recent advances leverage vision-language models and reinforcement learning, existing methods still suffer from single-step fragility due to reward misalignment and error propagation. To tackle the reward entanglement, we design Dynamic Dual-Policy Optimization (DDPO), which dynamically switches between a navigation-first mode for exploration and an answer-first mode for question-answering to mitigate reward conflict. To calibrate the single-step error, we propose…
+
+## 11. Creating squeezed and non-classical collective motional many-body states through stroboscopic Rydberg dressing
+
+- arXiv: `2606.17849v1`
+- Published: 2026-06-16 12:16 UTC
+- Authors: Roman Wußler, Chris Nill, Sylvain de Léséleuc, Christian Groß, Igor Lesanovsky
+- Categories: physics.atom-ph, cond-mat.quant-gas, quant-ph
+- Links: [abs](https://arxiv.org/abs/2606.17849v1) | [pdf](https://arxiv.org/pdf/2606.17849v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Realizing conditional quantum operations, e.g., quantum gates, for quantum computing and simulation requires controlled interactions between particles. Often, these interactions depend on the interparticle distance, and accordingly, an uncertainty of the relative particle position may translate into gate infidelities. We consider here a quantum computing platform based on an array of neutral atoms and present a method that allows to reduce the uncertainty of all interatomic distances. Our approach exploits the coupling between atomic motion and stroboscopically excited atomic Rydberg states.…
+
+## 12. Quantum Routers: A Switching-Fabric Framework for Quantum-Native Forwarding
+
+- arXiv: `2606.17773v1`
+- Published: 2026-06-16 10:46 UTC
+- Authors: Jessica Illiano, Caterina De Risi, Angela Sara Cacciapuoti, Marcello Caleffi
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2606.17773v1) | [pdf](https://arxiv.org/pdf/2606.17773v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Forwarding in quantum networks cannot be realized by directly transposing classical switching fabrics, since the no-cloning theorem and the quantum measurement postulate constrain the direct relay of quantum information while ruling out copy-based buffering and inspection. In this paper, we propose a switching-fabric framework for quantum routers based on multipartite entanglement. Specifically, we formalize the notion of an entanglement-based switching fabric, in which a graph state acts as the forwarding resource and entanglement forwarding is realized through local Pauli measurements. We…
