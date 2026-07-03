@@ -1,161 +1,161 @@
 # arXiv alert report
 
-- Generated: 2026-07-02 08:27 UTC
-- Window: papers published since 2026-07-01 08:27 UTC
+- Generated: 2026-07-03 08:32 UTC
+- Window: papers published since 2026-07-02 08:32 UTC
 - Matches: 13
 
-## 1. Entanglement-spectrum fingerprint of a non-invertible symmetry: the Kramers--Wannier duality defect on the lattice
+## 1. Correlation and entanglement dynamics of free fermions in disguise
 
-- arXiv: `2607.01137v1`
-- Published: 2026-07-01 16:21 UTC
-- Authors: Yi Liang
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.01137v1) | [pdf](https://arxiv.org/pdf/2607.01137v1)
+- arXiv: `2607.02359v1`
+- Published: 2026-07-02 16:01 UTC
+- Authors: Dávid Szász-Schagrin, Pablo Bayona-Pena, Lorenzo Piroli, Eric Vernier
+- Categories: cond-mat.stat-mech, quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.02359v1) | [pdf](https://arxiv.org/pdf/2607.02359v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Non-invertible symmetries are characterized by topological defects of irrational quantum dimension, but their imprint on the entanglement of a quantum many-body state has not been resolved at the level of the spectrum. We show that the categorical data of the canonical example -- the Kramers--Wannier (KW) duality defect of the critical Ising chain, with quantum dimension d_sigma=sqrt(2) -- is encoded in the single-particle entanglement spectrum of its ground state: a maximally mixed Majorana zero mode is the spectral origin of the boundary entropy log g=(1/2)log 2, hence of d_sigma itself.…
+We study the nonequilibrium dynamics following a quantum quench in spin chains that can be solved via a mapping to free fermions in disguise. These models feature an exponential degeneracy of all energy eigenvalues, raising the question of the validity of the established framework describing the properties of integrable systems out of equilibrium. We present two main results. First, we develop an analytic method to compute the quasi-momentum distribution function characterizing the generalized Gibbs ensemble, and derive an analytic formula to compute the corresponding expectation values for…
 
-## 2. Bridging Quantum Computing Paradigms toward Semiconductor Yield: A Controlled CV-versus-DV Comparison on Wafer-Map Defect Classification
+## 2. Generalized Extended Codes with Applications in Entanglement-Assisted Qubit and Qutrit Codes
 
-- arXiv: `2607.00961v1`
-- Published: 2026-07-01 13:58 UTC
-- Authors: Yeonhong Kim, Jonghyeok Im, Monu Nath Baitha, Kyoungsik Kim
-- Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2607.00961v1) | [pdf](https://arxiv.org/pdf/2607.00961v1)
-- Score: 4
-- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
-
-Realizing quantum neural networks (QNNs) in industry requires knowing which quantum computing paradigm suits which task. Motivated by AI accelerators and high-bandwidth memory, where die stacking makes wafer-level defect screening central to yield, we study WM-811K wafer-map defect classification (eight classes), comparing the dominant paradigms, continuous-variable (CV) and discrete-variable (DV), under controlled conditions. To isolate the quantum circuit as the sole variable, a shared convolutional backbone (~4.3M parameters) feeds interchangeable heads (classical dense, CV-QNN, or DV-QNN)…
-
-## 3. Twisted Gaussian Schell States in Quantum Optics: Twist-Assisted Nonclassicality and Entanglement
-
-- arXiv: `2607.00837v1`
-- Published: 2026-07-01 11:57 UTC
-- Authors: Fabricio Toscano, G. Cañas, A. Z. Khoury, P. H. Souto Ribeiro, S. P. Walborn
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.00837v1) | [pdf](https://arxiv.org/pdf/2607.00837v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-We introduce the Twisted Gaussian Schell (TGS) state, a two-mode mixed Gaussian state defined as the quantum-optical analog of the Twisted Gaussian Schell-model beam of classical paraxial optics, characterized by the so-called twist phase. In the TGS state, the twist parameter arises when an asymmetric two-mode thermal state is subject to local squeezing after the action of phase shifters and a beam splitter. Its defining quantum feature is nonclassicality: although the state is separable in its natural bipartition, when the twist parameter is nonzero there are global quadratures that can be…
-
-## 4. Quantum machine learning models for graphs
-
-- arXiv: `2607.00698v1`
-- Published: 2026-07-01 09:45 UTC
-- Authors: Frédéric Sauvage, Pranav Kalidindi, Frederic Rapp, Martın Larocca
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.00698v1) | [pdf](https://arxiv.org/pdf/2607.00698v1)
-- Score: 4
-- Keyword hits: title=['quantum machine learning'] abstract=['quantum machine learning']
-
-Geometric Machine Learning (GML) successes have been achieved through the thorough study and design of new equivariant neural networks. In comparison, geometric quantum machine learning (GQML) models lack such a detailed understanding and, despite already several proposals, a unifying perspective on their design remains elusive. In this work, we focus on GQML models for graph problems that showcase a lot of structure and still remain frontier in machine learning. For the case when n-node graphs are encoded in n-qubit states, we provide a comprehensive characterization of their constituents.…
-
-## 5. Entanglement fingerprint of a non-invertible symmetry: exact Fibonacci cut charges on the lattice
-
-- arXiv: `2607.01151v1`
-- Published: 2026-07-01 16:30 UTC
-- Authors: Yi Liang
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.01151v1) | [pdf](https://arxiv.org/pdf/2607.01151v1)
+- arXiv: `2607.02170v1`
+- Published: 2026-07-02 13:41 UTC
+- Authors: Yang Li, Martianus Frederic Ezerman, Shitao Li, San Ling, Zhonghua Sun
+- Categories: cs.IT, quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.02170v1) | [pdf](https://arxiv.org/pdf/2607.02170v1)
 - Score: 3
 - Keyword hits: title=['entanglement'] abstract=[]
 
-Non-invertible defects are usually diagnosed through scaling spectra or infrared CFT data. We show that the Fibonacci duality defect of the critical golden chain already carries an exact categorical fingerprint at finite lattice size. The even-length antiferromagnetic ground state has fixed cut-charge weights, giving P_tau/P_1=phi^2 and log g=log phi without finite-size extrapolation. The proof is a finite-dimensional operator identity for the sandwiched cut projectors, combined with a Perron-Frobenius sector theorem for the even-length ground state. This gives a sharp lattice-level boundary…
+We prove that any generalized extended code is monomially equivalent to the Hermitian dual of a code which is closely related to a second kind of extended code of $\C^{\perp_{\rm H}}$. Every $[n+1,k+1]_{q^2}$ linear code $\D$ with $d(\D^{\perp_{\rm H}})>1$ is monomially equivalent to the generalized extended code $\C({\bf u},a)$ of an $[n,k]_{q^2}$ linear code $\C$ for a fixed $a\in\F_{q^2}^{*}$ and some ${\bf u}\in\F_{q^2}^{n}$. We then characterize the Hermitian hull and Hermitian dual distance of $\C({\bf u},a)$ in terms of the position of ${\bf u}$ relative to $\C+\C^{\perp_{\rm H}}$ and…
 
-## 6. Polynomial equivalence of the global transverse-field Ising model and the gate model of quantum computation
+## 3. Topological Control of Quantum Chaos Diagnostics: OTOCs, Spectral Statistics, and Information Scrambling in Ising Model
 
-- arXiv: `2607.01227v1`
-- Published: 2026-07-01 17:58 UTC
-- Authors: Matthias Werner
-- Categories: quant-ph, cond-mat.quant-gas
-- Links: [abs](https://arxiv.org/abs/2607.01227v1) | [pdf](https://arxiv.org/pdf/2607.01227v1)
+- arXiv: `2607.02463v1`
+- Published: 2026-07-02 17:29 UTC
+- Authors: Reza Pirmoradian, Soheir Rouhani, M. Reza Tanhayi
+- Categories: quant-ph, hep-th
+- Links: [abs](https://arxiv.org/abs/2607.02463v1) | [pdf](https://arxiv.org/pdf/2607.02463v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
+- Keyword hits: title=[] abstract=['krylov']
 
-The transverse-field Ising model has attracted a lot of attention in recent years, especially in the quantum simulation and quantum computation literature. This interest is driven by many platforms for analog quantum computation, which implement the transverse-field Ising model for solving optimization problems, such as quantum annealing. However, it has remained an open question whether the Ising model with a global transverse field is equivalent to the gate model of quantum computation. Here we answer this question affirmatively for the case of a non-monotonic time-dependent transverse…
+We investigate the integrability-to-chaos transition and information scrambling in Ising spin networks via a graph-theoretic formulation. Modeling spins as vertices and interactions via adjacency matrices across path, Erdős--Rényi, and Watts--Strogatz topologies, we demonstrate that long-range couplings and heterogeneous degree distributions drastically accelerate quantum information propagation. The Hamiltonian comprises local and normalized non-local interactions; tuning the non-local coupling and field heterogeneity drives integrability breaking. To quantify scrambling, we employ bipartite…
 
-## 7. Theoria: Rewrite-Acceptability Verification over Informal Reasoning States
+## 4. Quantum mutual information as a robust probe of integrability in open quantum systems
 
-- arXiv: `2607.01223v1`
-- Published: 2026-07-01 17:56 UTC
-- Authors: Ben Slivinski, Michael Saldivar
-- Categories: cs.AI, cs.CL, cs.LG, cs.LO, cs.SE
-- Links: [abs](https://arxiv.org/abs/2607.01223v1) | [pdf](https://arxiv.org/pdf/2607.01223v1)
+- arXiv: `2607.02462v1`
+- Published: 2026-07-02 17:28 UTC
+- Authors: Nirupam Sen, Keshav Das Agarwal, Aditi Sen De
+- Categories: quant-ph, cond-mat.stat-mech, cond-mat.str-el
+- Links: [abs](https://arxiv.org/abs/2607.02462v1) | [pdf](https://arxiv.org/pdf/2607.02462v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+The dynamics of a quantum system encode signatures of whether the underlying Hamiltonian is integrable or chaotic, giving rise to the concept of quantum information scrambling through the properties of the resulting dynamical states or operators. We introduce an information-theoretic framework based on the Haar-averaged sum of total correlations (aSTC), together with average genuine multipartite entanglement generated dynamically from initially fully separable states, as robust probes of quantum information scrambling. Using the long-range quantum XYZ spin model in transverse and longitudinal…
+
+## 5. QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition
+
+- arXiv: `2607.02426v1`
+- Published: 2026-07-02 16:54 UTC
+- Authors: Quoc Bao Phan, Tuy Tan Nguyen
+- Categories: cs.LG, cs.AI
+- Links: [abs](https://arxiv.org/abs/2607.02426v1) | [pdf](https://arxiv.org/pdf/2607.02426v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Federated learning (FL) enables collaborative model training across distributed devices without sharing raw data, making it suitable for privacy-sensitive robotic sensing applications. However, multi-agent systems generate heterogeneous and non-independent and identically distributed (non-IID) multimodal sensor streams that degrade conventional FL algorithms, while classical fusion modules introduce substantial parameter overhead and communication cost. This paper proposes QFedAgent, a hybrid quantum-classical personalized FL framework for multi-agent activity recognition. The approach…
+
+## 6. Temporal nonlocality of a qudit resides in the input state, not the channel, and certifies temporal teleportation up to a fundamental limit
+
+- arXiv: `2607.02331v1`
+- Published: 2026-07-02 15:37 UTC
+- Authors: Karol Bartkiewicz, Patrycja Tulewicz
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.02331v1) | [pdf](https://arxiv.org/pdf/2607.02331v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Correlations between two moments in time can be too strong for any classical explanation -- and, remarkably, this can happen for a single quantum system measured twice, with no second particle involved. We show that when one qudit is sent through a noisy channel, the strength of this "nonlocality in time" -- the temporal nonlocality robustness $\mathrm{TNR}$ -- is carried entirely by the starting state: it vanishes precisely when the input is maximally mixed (completely random), $\mathrm{TNR}(ρ_A,\mathcal{E})=0\Leftrightarrowρ_A=\mathbb{1}/d$, for the standard noise families. The resource is…
+
+## 7. Time-Reversal and Reversible Dynamics in Cavity QED for Quantum Metrology
+
+- arXiv: `2607.02320v1`
+- Published: 2026-07-02 15:29 UTC
+- Authors: Simone Colombo, Edwin Pedrozo-Peñafiel
+- Categories: quant-ph, physics.atom-ph
+- Links: [abs](https://arxiv.org/abs/2607.02320v1) | [pdf](https://arxiv.org/pdf/2607.02320v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Quantum-enhanced metrology relies on entanglement to achieve sensitivities beyond the standard quantum limit. While remarkable progress has been made in generating highly entangled many-body states, extracting their metrological advantage remains a central challenge because the encoded information is often inaccessible to realistic measurements. A key development of the past decade has been the realization that many-body interactions can play a dual role: they can be used not only to generate entanglement, but also to decode it. This idea underlies interaction-based readout and time-reversal…
+
+## 8. A Comprehensive Analysis of $B_s \to D_s^{**}\ellν_\ell$ Decays Within and Beyond the Standard Model
+
+- arXiv: `2607.02276v1`
+- Published: 2026-07-02 14:57 UTC
+- Authors: Karthik Jain, Tarun Kumar, Barilang Mawlong, Shantanu Sahoo
+- Categories: hep-ph, hep-ex, hep-lat
+- Links: [abs](https://arxiv.org/abs/2607.02276v1) | [pdf](https://arxiv.org/pdf/2607.02276v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['wilson']
 
-When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that cannot be audited after the fact and are subject to the same coherence issues as any LLM. We present Theoria, a verification architecture that closes this gap. A candidate solution is rewritten into a sequence of typed state transitions, each licensed by an explicit justification, whether that be a citation, computation, or problem-given fact, and every transition is independently auditable. The…
+We examine the exclusive semileptonic decays $B_s \to D_s^{**} \ell ν_\ell$, with $D_s^{**} =$ $\bigl\{D_{s0}^*,D_{s1}^*,D_{s1},D_{s2}^*\bigr\}$, within the Standard Model and beyond, using form factors evaluated in the Heavy Quark Effective Theory, including corrections up to $\mathcal{O}(α_s, Λ/{m_Q})$. A data-driven approach is employed to extract Heavy Quark Effective Theory parameters, and the resulting synthetic data are used to parameterize the form factors via the $z$-expansion. With the resulting form factor information across the full kinematic region, we compute various observables…
 
-## 8. Non-signaling assistance in prepare-and-measure scenarios with classical communication
+## 9. Quantum Convolutional Autoencoders for Reconstruction-Based Anomaly Detection
 
-- arXiv: `2607.01193v1`
-- Published: 2026-07-01 17:25 UTC
-- Authors: José Nogueira, Carlos Vieira, Lucas E. A. Porto, Lucas Pollyceno, Rafael Rabelo, Otfried Gühne
+- arXiv: `2607.02135v1`
+- Published: 2026-07-02 13:11 UTC
+- Authors: Donovan Slabbert, Francesco Petruccione
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.01193v1) | [pdf](https://arxiv.org/pdf/2607.01193v1)
+- Links: [abs](https://arxiv.org/abs/2607.02135v1) | [pdf](https://arxiv.org/pdf/2607.02135v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum machine learning']
+
+Quantum convolutional neural networks (QCNNs) have become increasingly popular in quantum machine learning (QML) due to their efficient parameterization and hierarchical representation of quantum information. Anomaly detection is an important machine learning task with applications across a wide range of domains, including scientific data analysis. In this work, we adapt a QCNN architecture into a quantum autoencoder (QAE) framework for reconstruction-based anomaly detection. The models are trained in a semi-supervised manner on normal samples to reconstruct feature-extracted and…
+
+## 10. Partially-Blind Single-Qubit Classification over a Prototype Hybrid Quantum Network
+
+- arXiv: `2607.01998v1`
+- Published: 2026-07-02 10:32 UTC
+- Authors: Matteo Pasini, Tzula Benjamin Propp, Janice van Dam, Garazi Muguruza Lasa, Alexandre Wanick, Hugues de Riedmatten et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.01998v1) | [pdf](https://arxiv.org/pdf/2607.01998v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Extracting the full power of non-local correlations in prepare-and-measure (PM) scenarios requires precise control over the timing and structure of the receiver's measurements. Indeed, recent developments in entanglement-assisted classical communication scenarios have shown that adaptive strategies-where the receiver uses the transmitted message to guide their measurement choice-can outperform standard non-adaptive protocols. Moving beyond quantum theory, however, the ultimate limits of such advantages remain largely unexplored. In this work, we thoroughly study adaptive and non-adaptive…
+In the NISQ era, there is a need for resource-efficient proof-of-principle experiments that can be built up to genuine utility. Single-qubit classifiers (SQCs) are small-scale hybrid quantum-classical machines capable of performing a basic machine learning task: classifying data. In principle, these can be scaled up to many-qubit quantum classifiers capable of quantum computational advantage. Another type of quantum advantage is enabled by blind quantum computation (BQC), wherein a client may run delegated quantum computations on an untrusted server with information-theoretic security. In…
 
-## 9. Limitations of Error Model Approximations in Quantum Network Simulation
+## 11. Hybrid quantum-classical neural network for sentiment analysis
 
-- arXiv: `2607.00998v1`
-- Published: 2026-07-01 14:35 UTC
-- Authors: Julia Freund, Jorge Miguel-Ramiro, Julius Wallnöfer, Wolfgang Dür
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.00998v1) | [pdf](https://arxiv.org/pdf/2607.00998v1)
+- arXiv: `2607.01943v1`
+- Published: 2026-07-02 09:34 UTC
+- Authors: Giacomo Cappiello, Filippo Caruso, Xing Liang, Dimitrios Makris
+- Categories: cs.LG, quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.01943v1) | [pdf](https://arxiv.org/pdf/2607.01943v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
+- Keyword hits: title=[] abstract=['quantum machine learning']
 
-Efficient classical simulation of large-scale quantum networks frequently relies on noise approximations, which consider a restricted set of operators to describe noisy channels and operations. In this work, we demonstrate how such simplified error models, such as Pauli twirling or reset channels, can lead to severe quantitative and qualitative discrepancies in protocol performance predictions. We analyze, in particular, how small differences can accumulate in iterative and sequential protocols such as entanglement purification, entanglement swapping, and repeater chains. Our results reveal…
+Quantum machine learning has recently emerged as a promising paradigm that leverages the expressive power of quantum circuits to address complex learning tasks. In this work, we investigate the applicability of hybrid quantum-classical neural networks to sentiment analysis, a central problem in natural language processing. We focus on a dataset of tweets related to COVID-19, where the textual content is vectorized using TF-IDF and fed into both classical feedforward networks and hybrid architectures incorporating parameterized quantum circuits. Our results show that hybrid models can achieve…
 
-## 10. Leveraging LLM-Based Agentic Systems to Generate Quantum Applications for Test Optimization
+## 12. Tuning quantum magic of pure quantum chaotic states with a gravity dual
 
-- arXiv: `2607.00939v1`
-- Published: 2026-07-01 13:40 UTC
-- Authors: Ming Tao, Yuechen Li, Tao Yue, Man Zhang, Aitor Arrieta Marcos
-- Categories: cs.SE, quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.00939v1) | [pdf](https://arxiv.org/pdf/2607.00939v1)
+- arXiv: `2607.01930v1`
+- Published: 2026-07-02 09:25 UTC
+- Authors: Antonio M. García-García, Xianlong Liu, Jie-ping Zheng
+- Categories: hep-th, quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.01930v1) | [pdf](https://arxiv.org/pdf/2607.01930v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['krylov']
+
+Quantum magic is a fundamental resource that quantifies to what extent quantum states can be efficiently simulated on a classical computer. We study it for states constructed from the Sachdev-Ye-Kitaev (SYK) Hamiltonian with $N$ Majoranas by the fermionic anti-flatness (FAF). We show analytically that, in the large $N$ limit, the quantum magic of pure Kourkoulou-Maldacena (KM) states, dual to a quantum black hole with an end-of-world particle behind the horizon, is linear in $N$ with a slope, depending on the black hole temperature, that can be tuned between zero and $1/2$. By contrast, the…
+
+## 13. LUCI on IBM Hardware: Error Suppression with Almost Half Syndrome Density
+
+- arXiv: `2607.01887v1`
+- Published: 2026-07-02 08:38 UTC
+- Authors: Younghun Kim, Spiro Gicev, Martin Sevior, Muhammad Usman
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.01887v1) | [pdf](https://arxiv.org/pdf/2607.01887v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Quantum computing is increasingly explored for software engineering (SE) optimization, but translating natural-language (NL) task-level requirements into executable quantum applications still demands substantial quantum and programming expertise. We present QPipe, a large language model (LLM)-based multi-agent architecture that autonomously turns NL requirements into traceable quantum-application workflows through specialized agents for requirement parsing, formulation, code generation, review, execution, and verification. We evaluate QPipe on 20 NL requirements, each associated with a…
-
-## 11. GsOQDC: A GUI-Driven Interactive Framework for End-to-End Simulation of Optical Quantum Data Centers
-
-- arXiv: `2607.00715v1`
-- Published: 2026-07-01 10:02 UTC
-- Authors: Seyed Navid Elyasi, Sima Bahrani, Rui Wang, Dimitra Simeonidou, Paolo Monti, Rui Lin
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.00715v1) | [pdf](https://arxiv.org/pdf/2607.00715v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-We present GsOQDC, an open-source graphical framework integrating optical-network design, distributed quantum-circuit compilation, scheduling, and DES-based remote-gate simulation, enabling end-to-end cross-layer evaluation of entanglement-resource dynamics and system-level performance in Optical Quantum Data Centers.
-
-## 12. Leakage Mobility and Passive Leakage Removal in Transmons with Tunable Couplers
-
-- arXiv: `2607.00688v1`
-- Published: 2026-07-01 09:37 UTC
-- Authors: Taneli Tolppanen, Gonzalo Martín-Vázquez, Sasu Tuohino, Matti Silveri
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.00688v1) | [pdf](https://arxiv.org/pdf/2607.00688v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Qubit leakage is a noticeable source of errors for quantum computing. In quantum processors, leakage excitations traveling between qubits generate correlated errors and perturb gate implementations. Leakage mobility can also be utilized for creating dedicated leakage removal pathways and removal units. To quantitatively characterize leakage mobility and to guide better design of processor architectures, we study here leakage dynamics in transmons with tunable couplers through numerical and analytical methods. Even if the couplers are tuned to cancel the single-excitation exchange or the ZZ…
-
-## 13. Robustness of Quantum Discord in Nonequilibrium Electronic Transport through Tunnel-Coupled Quantum Dots
-
-- arXiv: `2607.00602v1`
-- Published: 2026-07-01 08:29 UTC
-- Authors: Thingujam Yaiphalemba Meitei, Saikumar Krithivasan, Md. Manirul Ali, Arijit Sen
-- Categories: cond-mat.mes-hall, quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.00602v1) | [pdf](https://arxiv.org/pdf/2607.00602v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Quantum discord captures quantum correlations beyond entanglement and can remain finite even when the entanglement vanishes. We investigate the transient nonequilibrium dynamics and steady-state behavior of quantum discord and classical correlations in a double quantum dot (DQD) system coupled to fermionic reservoirs. By employing a quantum Langevin equation formalism, we obtain the exact reduced density matrix of the system, enabling a comprehensive analysis of its quantum and classical correlations under nonequilibrium conditions. The influence of system-reservoir coupling strength,…
+Long-lived logical qubits are essential for fault-tolerant quantum computation. However, the practical performance of traditional error correction protocols relies on performing specific syndrome circuits, causing vulnerability to hardware defects and imposing rigid connectivity constraints. Recent theoretical findings have proposed that flexible subroutine circuits within the LUCI framework can maintain space-time distance in the presence of isolated or broken components, albeit at the expense of temporal distance. However, these approaches have solely targeted defect avoidance and have not…
