@@ -1,149 +1,137 @@
 # arXiv alert report
 
-- Generated: 2026-07-07 08:47 UTC
-- Window: papers published since 2026-07-06 08:47 UTC
-- Matches: 12
+- Generated: 2026-07-08 07:52 UTC
+- Window: papers published since 2026-07-07 07:52 UTC
+- Matches: 11
 
-## 1. Polynomial Initial-State Jumps and Christoffel Transforms in Krylov Complexity
+## 1. Typical Entanglement of Superpositions
 
-- arXiv: `2607.05294v1`
-- Published: 2026-07-06 16:37 UTC
-- Authors: Abhishek Chowdhury, Ajit Prasad Mahapatra
-- Categories: hep-th, quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.05294v1) | [pdf](https://arxiv.org/pdf/2607.05294v1)
+- arXiv: `2607.06474v1`
+- Published: 2026-07-07 16:30 UTC
+- Authors: Damien Quinn, Joshuah T. Heath, Graham Kells
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.06474v1) | [pdf](https://arxiv.org/pdf/2607.06474v1)
 - Score: 4
-- Keyword hits: title=['krylov'] abstract=['krylov']
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-State Krylov, or spread, complexity is a property of a pair $(H,\ket{K_0})$ rather than of the Hamiltonian alone. Thus, changing the initial state at fixed $H$ generally changes the Lanczos coefficients and the ordered Krylov basis. We solve this relative initial-state problem for normalized polynomial filters, $\ket{ψ_Q}=Q(H)\ket{K_0}/\sqrt{N_Q}$ with $N_Q=\langle K_0|Q(H)^\dagger Q(H)|K_0\rangle$. The filtered spectral measure is the positive polynomial modification $|Q(E)|^2\mathrm dμ(E)/N_Q$, and orthogonality turns this measure change into a finite-band transfer from reference…
+We investigate universal entanglement properties inherent to superpositions of randomized states. We find that an $m$-fold superposition of typical states may be classified into two distinct entanglement classes via the 2nd Rényi entropy density $s_2$. The maximally entangled regime is defined by $s_2 \sim \ln (2)$, for which superposition adds no additional entanglement. The sub-maximally entangled regime, $s_2<\ln 2$, instead constrains the reduced density matrices of independent components to be orthogonal in the thermodynamic limit, which fixes the entanglement of the superposition to a…
 
-## 2. Quantum Computational Resources and Conformal Field Theory: Unifying Spins, Bosons, and Fermions
+## 2. Determination of thermodynamics from entanglement entropy in the finite-density O(N) model
 
-- arXiv: `2607.05343v1`
-- Published: 2026-07-06 17:24 UTC
-- Authors: Ryota Matsuda, Masahiro Hoshino, Yuto Ashida
-- Categories: quant-ph, cond-mat.stat-mech, cond-mat.str-el
-- Links: [abs](https://arxiv.org/abs/2607.05343v1) | [pdf](https://arxiv.org/pdf/2607.05343v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
+- arXiv: `2607.06286v1`
+- Published: 2026-07-07 13:52 UTC
+- Authors: Niko Jokela, Aatu Rajala, Tobias Rindlisbacher
+- Categories: hep-th, cond-mat.stat-mech, hep-lat, hep-ph, quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.06286v1) | [pdf](https://arxiv.org/pdf/2607.06286v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Characterizing a quantum state through the lens of quantum resources provides an information-theoretic perspective on many-body systems. While quantum entanglement serves as the paradigmatic example of a quantum resource, recent studies have shown that quantum magic, a resource for universal quantum computation, can capture aspects of many-body states complementary to those described by entanglement. For instance, in spin systems, conformal field theory (CFT) analysis of the stabilizer Rényi entropy has revealed universal features of nonstabilizerness that are qualitatively distinct from…
+We nonperturbatively compute Rényi entropies for strip-shaped subregions in the three-dimensional O(4) model at finite density on the lattice. By using a dual variable representation and a tailored worm algorithm, we circumvent the sign problem when sampling the grand canonical ensemble. In the limit of large subregions, we also establish a direct, quantitative relationship between the derivative of entanglement entropy with respect to the size of the entangling region and the thermal entropy density for general quantum field theories, providing a new way to study their thermodynamics. We…
 
-## 3. Steering Optimisation Trajectories in Diffusion Representation Learning
+## 3. Entanglement as a Structural Complexity Axis: A PAC-Bayesian View of Generalization in Quantum Policies and Value Functions
 
-- arXiv: `2607.05319v1`
-- Published: 2026-07-06 16:58 UTC
-- Authors: Rajat Rasal, Avinash Kori, Tian Xia, Ben Glocker
-- Categories: cs.CV, cs.AI
-- Links: [abs](https://arxiv.org/abs/2607.05319v1) | [pdf](https://arxiv.org/pdf/2607.05319v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-We study why diffusion autoencoders can achieve similar image quality while learning substantially different latent structures. We trace this behaviour to optimisation dynamics; we analyse curves of image reconstruction against latent representation quality, revealing trajectories that organise around two distinct regimes early in training. Models in the reconstruction regime prioritise image fidelity early, whereas those in the disentanglement regime improve reconstruction and disentanglement more gradually. We hypothesise that this behaviour can be influenced by targeting shortcut pathways…
-
-## 4. Routing Anonymity and Identifiability of Noisy Quantum Hardware
-
-- arXiv: `2607.05281v1`
-- Published: 2026-07-06 16:25 UTC
-- Authors: Ben Priestley, Mina Doosti
+- arXiv: `2607.06230v1`
+- Published: 2026-07-07 12:57 UTC
+- Authors: Jian Xu, Delu Zeng, John Paisley, Qibin Zhao
 - Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2607.05281v1) | [pdf](https://arxiv.org/pdf/2607.05281v1)
+- Links: [abs](https://arxiv.org/abs/2607.06230v1) | [pdf](https://arxiv.org/pdf/2607.06230v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+Parameterized quantum circuits (PQCs) are increasingly used as policies and value functions in quantum reinforcement learning, yet it remains unclear when and why quantum policies generalize. We give a PAC-Bayesian account in which generalization is governed not by the raw number of circuit parameters, but by the effective dimension of the Fisher geometry induced by the circuit. This quantity is inflated by entanglement, making entangling connectivity an independent axis of complexity.In controlled experiments that fix the number of trainable rotations and vary only entanglement, we find that…
+
+## 4. Quantum Probabilistic Local Differential Privacy: Structural Properties and Sample Complexity Bounds
+
+- arXiv: `2607.06307v1`
+- Published: 2026-07-07 14:11 UTC
+- Authors: Xian Shi
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.06307v1) | [pdf](https://arxiv.org/pdf/2607.06307v1)
+- Score: 2
+- Keyword hits: title=[] abstract=['quantum machine learning', 'quantum computing']
+
+Differential privacy provides a rigorous framework for quantifying privacy leakage in data analysis, while its quantum extensions have become increasingly relevant with the development of quantum computing and quantum machine learning. In this work, we introduce and study quantum probabilistic local differential privacy, a relaxation of quantum local differential privacy in which the privacy constraint is allowed to fail on a spectral violation event with low probability. This quantity can be interpreted as the probability under the quantum superoperation of a quantum privacy-loss violation,…
+
+## 5. Quantum Channel Polynomial Processing
+
+- arXiv: `2607.06557v1`
+- Published: 2026-07-07 17:57 UTC
+- Authors: Tianhan Liu, Fedor Simkovic, Martin Leib
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.06557v1) | [pdf](https://arxiv.org/pdf/2607.06557v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Present-day quantum computing is cloud-based, where a user submits a circuit to a service provider's proprietary backend hardware. While providers may wish to hide implementation details, scheduling choices, or even which physical device was used, noisy finite-shot outputs can carry backend-specific fingerprints: information imprinted in the classical output distribution that can reveal the backend identity. So far, such fingerprints have mostly been studied from a benchmarking perspective, with limited attention to privacy considerations for users and providers. This work develops the first…
+We introduce a quantum algorithmic framework based on probabilistic mixtures of unitary channels that, similar to the framework of quantum singular value transformations, enables the application of arbitrary polynomials of hermitian operators onto arbitrary initial states. We show that our framework supports a flexible tradeoff between sample- and query complexity ranging from optimal query complexity, meaning logarithmic in the error, and exponentially scaling sample complexity to sub-polynomial query complexity in the error and polynomial sample complexity. Combined with the considerably…
 
-## 5. Spectral-topology-induced criticality in non-Hermitian fermionic metals
+## 6. Industry Classification of GitHub Repositories Using the North American Industry Classification System (NAICS)
 
-- arXiv: `2607.05190v1`
-- Published: 2026-07-06 15:09 UTC
-- Authors: Ayan Banerjee, Julius T. Gohsrich, Flore K. Kunst
-- Categories: cond-mat.mes-hall, quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.05190v1) | [pdf](https://arxiv.org/pdf/2607.05190v1)
+- arXiv: `2607.06505v1`
+- Published: 2026-07-07 17:06 UTC
+- Authors: Kevin Xu, Alexander Quispe
+- Categories: cs.SE, cs.AI, cs.DB
+- Links: [abs](https://arxiv.org/abs/2607.06505v1) | [pdf](https://arxiv.org/pdf/2607.06505v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
+- Keyword hits: title=[] abstract=['wilson']
 
-Quantum matter emerges from the interplay of fluctuations, topology, and entanglement, which - in equilibrium - governs quantized transport, universal criticality, and topological classification. Non-Hermitian systems, widely explored in platforms ranging from electric circuits to photonics, are intrinsically out-of-equilibrium, and display fundamentally new phenomena, including complex spectra, spectral winding, exceptional topology, and non-unitary dynamics. A central challenge is understanding how the complex single-particle spectrum governs universal many-body behavior. We introduce a…
+GitHub hosts hundreds of millions of public repositories, but the platform exposes no native mapping from repositories to standardized industry sectors. This gap limits empirical work on the geography of innovation, the industrial composition of open-source production, and the diffusion of new technologies across economic sectors. We present NAICS-GH, a publicly released corpus of 6,588 GitHub repositories drawn from source pools covering the United States, the European Union, and Australia, each labeled with a 2-digit sector from the North American Industry Classification System (NAICS…
 
-## 6. Complementary 3D color codes for transversal quantum logic
+## 7. Provable learning separation for predicting time-evolution of quantum many-body systems
 
-- arXiv: `2607.05107v1`
-- Published: 2026-07-06 14:01 UTC
-- Authors: Friederike Butt, Luis Colmenarez, Erik Weilandt, Tom Peham, Robert Wille, Markus Müller
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.05107v1) | [pdf](https://arxiv.org/pdf/2607.05107v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Transversal logical gates provide a direct route to fault-tolerant quantum computation, but the Eastin-Knill theorem forbids a universal transversal gate set within a single quantum error-correcting code. We propose a hybrid architecture based on the tetrahedral three-dimensional color code and its Hadamard-transformed counterpart, which we call the H-tetrahedral code. The two encodings support complementary transversal non-Clifford operations. Combined with bitwise Hadamard transformations that switch between the two encodings and a one-way transversal logical CNOT from the tetrahedral code…
-
-## 7. Canonical quantization of neurons
-
-- arXiv: `2607.05000v1`
-- Published: 2026-07-06 12:39 UTC
-- Authors: Alexander He, Nana Liu, Mark M. Wilde
-- Categories: quant-ph, cond-mat.stat-mech, cs.LG
-- Links: [abs](https://arxiv.org/abs/2607.05000v1) | [pdf](https://arxiv.org/pdf/2607.05000v1)
+- arXiv: `2607.06472v1`
+- Published: 2026-07-07 16:30 UTC
+- Authors: Rahul Bandyopadhyay, Riccardo Molteni, Jens Eisert, Vedran Dunjko, Sofiene Jerbi
+- Categories: quant-ph, cs.AI, cs.LG
+- Links: [abs](https://arxiv.org/abs/2607.06472v1) | [pdf](https://arxiv.org/pdf/2607.06472v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum machine learning']
 
-Canonical quantization provides a systematic procedure for constructing quantum models from classical Hamiltonians. Here, we apply this principle to a fundamental computational primitive of machine learning: the neuron. Specifically, by viewing a neuron as a composition of an energy function and an activation function, we quantize this model by replacing the energy function with a quantum Hamiltonian and applying the activation function to it through matrix functional calculus. This results in an activation observable that can be measured on an input quantum state. We investigate the use of…
+Given that quantum computers are naturally suited to simulate the behavior of quantum many-body systems, an immediate question arises: can one formulate physically motivated quantum machine learning (QML) tasks that exhibit learning separations? We address this problem by studying the learnability of quantum many-body dynamics from the perspective of probably approximately correct (PAC)-learning. Concretely, we devise a supervised learning problem where the training set consists of specifications of randomized stabilizer probe states, evolution times sampled uniformly from a polynomially…
 
-## 8. Extending the Bloch sphere model to an N-qubit system
+## 8. Unbiased Estimation of Conditional Covariance for Quantum Optomechanics
 
-- arXiv: `2607.04979v1`
-- Published: 2026-07-06 12:14 UTC
-- Authors: Francisco Piñero, Cristian Franco, Hernán I. de la Cruz, Fernando L. Pelayo, Vicente Pascual, Mauro Mezzini et al.
+- arXiv: `2607.06431v1`
+- Published: 2026-07-07 15:59 UTC
+- Authors: Katsuta Sakai, Nobuyuki Matsumoto
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.04979v1) | [pdf](https://arxiv.org/pdf/2607.04979v1)
+- Links: [abs](https://arxiv.org/abs/2607.06431v1) | [pdf](https://arxiv.org/pdf/2607.06431v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-The Bloch sphere is an elegant tool for representing single-qubit states. However, a widely accepted generalization for multi-qubit systems with entanglement remains absent. We propose a novel geometric model extending the Bloch sphere representation to arbitrary $N$-qubit systems using $2^N-1$ spheres. We demonstrate that any pure 2-qubit state is uniquely described by three spheres: two for individual qubits and a third encapsulating bipartite entanglement. Generalizing this, we establish an $N$-qubit parameterization through the hierarchical application of controlled rotation gates along…
+Continuous measurements can prepare macroscopic mechanical oscillators in conditional quantum states, but their covariance is difficult to verify. The conventional retrodictive estimator assumes a forward--backward covariance symmetry and can be biased, because physical dynamics such as feedback damping reduces the observability of the state from future records. Here, we derive an exact linear-Gaussian estimator from causal, retrodictive, and smoothed trajectories. For a milligram-scale mirror, it agrees with a Riccati prediction based on parameters fixed independently, while the conventional…
 
-## 9. How Hard Is Quantum Advantage? A Cloud Microphysics Stress Test for Variational Quantum Models
+## 9. What Images Cannot Say: Language-Guided Olfactory Representation Learning
 
-- arXiv: `2607.04915v1`
-- Published: 2026-07-06 10:43 UTC
-- Authors: Felix Herbort, Ellen Sarauer, Daniel Ohl de Mello, Paul Christiansen, Steffen Hien, Cedric Brügmann et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.04915v1) | [pdf](https://arxiv.org/pdf/2607.04915v1)
+- arXiv: `2607.06402v1`
+- Published: 2026-07-07 15:31 UTC
+- Authors: Eleftherios Tsonis, Xi Wang, Vicky Kalogeiton
+- Categories: cs.CV, cs.AI, cs.LG
+- Links: [abs](https://arxiv.org/abs/2607.06402v1) | [pdf](https://arxiv.org/pdf/2607.06402v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum machine learning']
+- Keyword hits: title=[] abstract=['entanglement']
 
-Quantum machine learning (QML) could have the potential to leverage advantages of quantum over classical computing but still lacks strong evidence of actual improvements and scalability, partly due to phenomena such as barren plateaus. In this paper, we employ a hybrid quantum neural network (QNN) on a dataset on cloud microphysics, containing processes for phase transitions of water in the atmosphere and its related temperature changes, which are highly relevant for accurate climate predictions and projections. To reach optimal performance of our QNNs, we employ a rich and trainable…
+Images tell us what a scene looks like, but rarely what it would feel like to be there. While recent datasets pair visual scenes with electronic-nose measurements, aligning smell signals with images remains challenging because many olfactory cues arise from contextual environmental factors that are not directly visible in pixels. We introduce SCENT, a multimodal framework that uses language guidance as a semantic bridge between vision and olfaction. Our approach leverages Vision-Language Models (VLMs) to generate scene descriptors capturing objects, environmental context, and plausible…
 
-## 10. Error Mitigation in Bosonic Systems via Virtual Distillation
+## 10. Epitaxial single T centres in silicon-on-insulator
 
-- arXiv: `2607.04914v1`
-- Published: 2026-07-06 10:42 UTC
-- Authors: Leonardo Finocchiaro, Marco Robbio, Diogo Gomes, David Gunn, Adithi Udupa, Axel M. Eriksson et al.
+- arXiv: `2607.06272v1`
+- Published: 2026-07-07 13:37 UTC
+- Authors: Christian H. Christiansen, Kasper H. Nielsen, Alisha Nanwani, Sebastiano Guaraldo, E. Laurits Piehorsch, Arnulf J. Snedker-Nielsen et al.
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.04914v1) | [pdf](https://arxiv.org/pdf/2607.04914v1)
+- Links: [abs](https://arxiv.org/abs/2607.06272v1) | [pdf](https://arxiv.org/pdf/2607.06272v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Virtual distillation is a promising error-mitigation technique that exploits multiple copies of a noisy quantum state to estimate observables as if measured on a purified state. Although originally introduced in the context of bosonic many-body systems under the name of virtual cooling, its development and applications have largely focused on qubit-based quantum computation. Here, we establish a framework for virtual distillation in bosonic quantum information processing and continuous-variable quantum computing. Building on a diagonalization of cyclic shift operators implemented with passive…
+Spin-photon interfaces based on silicon quantum emitters offer a scalable platform for quantum computing and networking. However, achieving coherent photon emission remains a primary challenge due to stringent material quality requirements. To overcome this, we utilise high-purity molecular-beam epitaxy (MBE) to epitaxially incorporate single T centres in silicon-on-insulator (SOI) wafers. We demonstrate single T-centre emission coupled to a nanophotonic waveguide and observe significant suppression of homogeneous broadening, yielding optical linewidths as narrow as 30 MHz using natural…
 
-## 11. Photonic Cluster State Generation from a Quantum Dot Emitting in the Telecom C-band
+## 11. Genuine Multi-Entropy in the Toric Code
 
-- arXiv: `2607.04896v1`
-- Published: 2026-07-06 10:25 UTC
-- Authors: Giora Peniakov, Reza Hekmati, Johannes Michl, Mohamed Helal, Moritz Meinecke, Jochen Kaupp et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.04896v1) | [pdf](https://arxiv.org/pdf/2607.04896v1)
+- arXiv: `2607.06050v1`
+- Published: 2026-07-07 09:26 UTC
+- Authors: Sriram Akella, Norihiro Iizuka, Akihiro Miyata
+- Categories: hep-th, cond-mat.str-el, quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.06050v1) | [pdf](https://arxiv.org/pdf/2607.06050v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Photonic cluster states are a key resource for photonic quantum information processing. So far, deterministic generation of these states has been limited to the near-infrared wavelength range. To achieve quantum advantage in communication while maintaining compatibility with silicon photonics, operation in the telecom wavelength range is required. In this work, we demonstrate deterministic cluster state generation directly in the telecom C-band. This is achieved through repetitive excitation of a hole spin confined in an indium-arsenide quantum dot subjected to an external magnetic field. We…
-
-## 12. HamQASBench: A Hamiltonian-Informed Diagnostic Benchmark for Evaluating Quantum Architecture Search
-
-- arXiv: `2607.04845v1`
-- Published: 2026-07-06 09:15 UTC
-- Authors: Jiayang Niu, Akib Karim, Yan Wang, Jie Li, Ke Deng, Azadeh Alavi et al.
-- Categories: quant-ph, cs.AI
-- Links: [abs](https://arxiv.org/abs/2607.04845v1) | [pdf](https://arxiv.org/pdf/2607.04845v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Quantum Architecture Search (QAS) automates the design of parameterized quantum circuits for variational quantum algorithms, yet existing benchmarks organize instances by molecular identity or qubit count -- criteria agnostic to Hamiltonian structure -- and rely solely on energy accuracy, which cannot detect structural failures such as over-parameterization on near-product ground states. We introduce HamQASBench, a Hamiltonian-informed diagnostic benchmark organizing 11 molecules into five structural tiers via fingerprints derived from the Pauli operator basis, computational basis…
+We study genuine multi-entropy as a diagnostic of multipartite entanglement in the toric code, which provides a controlled setting for probing multipartite structures in topologically ordered states. Our main question is whether genuine multi-entropy captures information that is not reducible to conventional lower-party entropic data, such as topological entanglement entropy. We first analyze toric-code ground states that admit a stabilizer-state description, where the relevant quantities can be evaluated exactly. In this sector, genuine multi-entropy reflects the topological structure and…
