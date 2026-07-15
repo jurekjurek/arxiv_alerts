@@ -1,245 +1,197 @@
 # arXiv alert report
 
-- Generated: 2026-07-14 07:23 UTC
-- Window: papers published since 2026-07-13 07:23 UTC
-- Matches: 20
+- Generated: 2026-07-15 07:26 UTC
+- Window: papers published since 2026-07-14 07:26 UTC
+- Matches: 16
 
-## 1. Optimal operating temperature for industry-compatible silicon spin quantum computing: colder is not necessarily better
+## 1. High-fidelity entanglement of polar molecules by dynamic geometric control
 
-- arXiv: `2607.11846v1`
-- Published: 2026-07-13 17:35 UTC
-- Authors: Paul Steinacker, Amanda E. Seedhouse, Nard Dumoulin Stuyck, Tuomo Tanttu, MengKe Feng, Santiago Serrano et al.
-- Categories: quant-ph, cond-mat.mes-hall
-- Links: [abs](https://arxiv.org/abs/2607.11846v1) | [pdf](https://arxiv.org/pdf/2607.11846v1)
-- Score: 4
-- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
-
-Silicon spin qubits are a leading candidate for large-scale quantum computing owing to their compatibility with semiconductor manufacturing. However, scaling to useful fault-tolerant processors will likely generate thermal loads that exceed the cooling power available at millikelvin temperatures. Raising the operating temperature eases cooling requirements but reduces gate fidelity, increasing the overhead of quantum error correction. Identifying the operating temperature that minimizes total power consumption is therefore a key challenge for commercially viable quantum computers. Here, we…
-
-## 2. Holographic Timelike Entanglement and Subregion Complexity in Localized AdS3*S3*T4 Black Holes
-
-- arXiv: `2607.11641v1`
-- Published: 2026-07-13 14:57 UTC
-- Authors: Jitendra Pal, Yu Shi
-- Categories: hep-th, gr-qc, quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.11641v1) | [pdf](https://arxiv.org/pdf/2607.11641v1)
+- arXiv: `2607.13008v1`
+- Published: 2026-07-14 17:51 UTC
+- Authors: Scarlett S. Yu, Avikar Periwal, Jiaqi You, Zirui Liu, Qinshu Lyu, Youngju Cho et al.
+- Categories: physics.atom-ph, cond-mat.quant-gas, quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.13008v1) | [pdf](https://arxiv.org/pdf/2607.13008v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We study timelike entanglement entropy and timelike subregion complexity in localized black holes with asymptotic AdS3*S3*T4 geometry, focusing on the black-pole solution. Unlike the BTZ solution, the black pole exhibits a nontrivial dependence on the internal sphere through the functions $K_y(r,θ)$ and $G(r,θ)$. Both observables are constructed from spacelike and timelike Lorentzian branches, but they probe the geometry in different ways: timelike entanglement yields a complex lifted area, while timelike complexity gives a real, finite renormalized volume. We employ a localized timelike…
+In quantum information systems made of optical tweezer arrays of ultracold molecules, thermal motion of molecules degrades the coherence of their interactions, which limits entanglement fidelity and the concomitant scientific applicability of these systems. We show that by controlling the geometry of the dipolar interaction, even when a molecule occupies many motional states in the tweezer, coherence can be preserved. We characterize several geometries that suppress sensitivity to thermal fluctuations. We further use programmable, coherence-preserving motion of the molecules during…
 
-## 3. Deployment of Entanglement-Based QKD in Financial Infrastructure
+## 2. Detecting Phishing in Ethereum Networks using Quantum Machine Learning
 
-- arXiv: `2607.11252v1`
-- Published: 2026-07-13 08:34 UTC
-- Authors: Mirela Selimović, Roman Solar, Jonathan Gruner, Sebastian Mair, Mario Wenzl, Thomas Heine et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.11252v1) | [pdf](https://arxiv.org/pdf/2607.11252v1)
+- arXiv: `2607.12828v1`
+- Published: 2026-07-14 14:46 UTC
+- Authors: Sai Sakunthala Guddanti, Anupama Ray, Mrunal Arun Kumavat, Anil Prabhakar
+- Categories: quant-ph, cs.ET
+- Links: [abs](https://arxiv.org/abs/2607.12828v1) | [pdf](https://arxiv.org/pdf/2607.12828v1)
+- Score: 4
+- Keyword hits: title=['quantum machine learning'] abstract=['quantum machine learning']
+
+This article explores the potential of Quantum Machine Learning (QML), specifically assessing a Quantum Support Vector Machine (QSVM) and a Variational Quantum Classifier (VQC) for detecting anomalies in real-world financial transaction data. While these QML methods outperform statistical methods, they fall short of cutting-edge deep learning techniques. To bridge this gap, we propose a hybrid quantum-classical ensemble framework that leverages the strengths of both domains. We demonstrate its effectiveness in detecting phishing in Ethereum transaction networks by combining complementary…
+
+## 3. Thermally Activated Long-Range Entanglement from Non-Abelian Conservation Laws
+
+- arXiv: `2607.12710v1`
+- Published: 2026-07-14 12:35 UTC
+- Authors: Shuai Zeng
+- Categories: quant-ph, cond-mat.stat-mech
+- Links: [abs](https://arxiv.org/abs/2607.12710v1) | [pdf](https://arxiv.org/pdf/2607.12710v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We demonstrate the feasibility of entanglement-based quantum key distribution (eQKD) in high-security financial infrastructure over a 22 km fiber link with 8 dB loss between two data centers using polarization entanglement. The fully automated system continuously generated secure keys for four months at an average rate of 63.8 kb/s, which were stored into a key management system and consumed to establish a VPN tunnel. The setup achieved 93.7% total up-time, with no downtime caused by the quantum optical components. Active polarization control kept the quantum bit error rate below 2% for 97.4%…
+Thermal noise ordinarily suppresses quantum entanglement. We show that a strong non-Abelian conservation law can convert local thermal fluctuations into an unbounded operational resource. For a broad class of finite-range $SU(2)$-invariant spin chains restricted to the global-singlet sector, an explicit representation-space protocol yields $Y_N=\frac12\log_2 N+O_β(1)$, and hence $E_{\mathrm{D}}\geq Y_N$, throughout a finite high-temperature interval. Local thermal fluctuations produce subsystem spins $j\sim\sqrt N$, whose globally locked irreducible representations contain…
 
-## 4. Distributed Semantics for Distributed Quantum Computing
+## 4. Entanglement and Optical Nonreciprocity in spontaneous Raman Scattering
 
-- arXiv: `2607.11216v1`
-- Published: 2026-07-13 08:09 UTC
-- Authors: Jun Inoue
-- Categories: quant-ph, cs.PL
-- Links: [abs](https://arxiv.org/abs/2607.11216v1) | [pdf](https://arxiv.org/pdf/2607.11216v1)
+- arXiv: `2607.12676v1`
+- Published: 2026-07-14 12:05 UTC
+- Authors: Frank Schlawin
+- Categories: quant-ph, physics.chem-ph
+- Links: [abs](https://arxiv.org/abs/2607.12676v1) | [pdf](https://arxiv.org/pdf/2607.12676v1)
 - Score: 4
-- Keyword hits: title=['quantum computing'] abstract=['entanglement']
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We present a quantum process calculus that can split the system state along process boundaries and follow the evolution of each process in isolation, without losing information about the joint state-a property we call spatial compositionality. Compositionality is the key to reasoning about any complex system, yet quantum process calculi have struggled to provide its spatial kind, which would enable analyzing a system one process at a time. Many a quantum process calculi have been proposed, but they invariably rely on a global state representation based on state vectors or density matrices,…
+Inelastic light scattering is a central tool for sample characterization and label-free imaging across the physical and life sciences. Recent work has suggested that scattered light can also exhibit nonclassical correlations. Here, we develop a microscopic theory of Raman scattering that connects naturally to established descriptions of entangled-photon generation in three- and four-wave mixing, while capturing essential differences arising from the resonant, dissipative character of Raman scattering. Using a cumulant-expansion approach, we analyze the entanglement structure of the scattered…
 
-## 5. Asymmetry-aided measurement-based quantum repeaters and distributed quantum computing with a decoder-free client
+## 5. From phase space to Krylov space, one shell at a time
 
-- arXiv: `2607.11238v1`
-- Published: 2026-07-13 08:24 UTC
-- Authors: Wooyeong Song, Sungyeon Kook, Wonhyuk Lee, IlKwon Sohn
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.11238v1) | [pdf](https://arxiv.org/pdf/2607.11238v1)
+- arXiv: `2607.12585v1`
+- Published: 2026-07-14 09:54 UTC
+- Authors: Nicolas De Ro, Adrián Sánchez-Garrido, Julian Sonner
+- Categories: cond-mat.stat-mech, cond-mat.str-el, hep-th, nlin.CD, quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.12585v1) | [pdf](https://arxiv.org/pdf/2607.12585v1)
+- Score: 4
+- Keyword hits: title=['krylov'] abstract=['krylov']
+
+In this work, we develop and study the classical Lanczos algorithm allowing us to define Krylov complexity using the symplectic structure of phase space: Poisson brackets take on the role of the quantum commutators and phase-space integrals furnish the inner product needed to define the Lanczos recursion. We show, using general methods of quantum mechanics in phase space, that the $\hbar \to 0$ limit of the usual quantum mechanical Krylov framework smoothly goes over into the classical one. In theories with well-defined semiclassical limits, we show that classical Krylov complexity accurately…
+
+## 6. Sparse anisotropic positive maps for qutrit entanglement: exact indecomposability and PPT geometry
+
+- arXiv: `2607.12470v1`
+- Published: 2026-07-14 07:55 UTC
+- Authors: Massimiliano F. Sacchi
+- Categories: quant-ph, math-ph
+- Links: [abs](https://arxiv.org/abs/2607.12470v1) | [pdf](https://arxiv.org/pdf/2607.12470v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+Positive but not completely positive maps provide one of the most direct ways to detect entanglement beyond the positive-partial-transpose (PPT) criterion. We introduce and analyze an exactly solvable two-parameter family of sparse bistochastic positive maps on qutrits, in which two coherence channels are independently tuned by parameters $w$ and $z$. The sparse structure makes the full phase diagram analytic: positivity holds exactly on the square $0\le w,z\le2/3$, complete positivity on the smaller square $0\le w,z\le1/3$, and decomposability is lost precisely outside a quarter circle in…
+
+## 7. A Quantum Computing Approach to Track Reconstruction in Strip-Type Detectors
+
+- arXiv: `2607.12821v1`
+- Published: 2026-07-14 14:34 UTC
+- Authors: Seungyeob Jwa, Hyunyong Kim, Jangho Kim, Minseok Oh
+- Categories: quant-ph, hep-ex, physics.comp-ph
+- Links: [abs](https://arxiv.org/abs/2607.12821v1) | [pdf](https://arxiv.org/pdf/2607.12821v1)
 - Score: 3
 - Keyword hits: title=['quantum computing'] abstract=[]
 
-Distributed quantum computation needs to move logical qubits across lossy optical links, yet this transmission layer is usually designed separately from the computation it serves. We treat the two together by recognizing that a measurement-based quantum repeater is a two-dimensional code foliated along the transmission axis, so that the dominant channel loss is concentrated on the transmitted sector while the locally measured qubits are largely spared. Matching a code's distance to this structural asymmetry, we show that a rectangular Bacon-Shor subsystem code transmits a logical qubit…
+This study investigates the use of quantum annealing for particle track reconstruction in strip-type gaseous detectors. In such detectors, ghost hits and multiple hit combinations can turn pattern recognition into a combinatorial optimization problem. We formulate two reconstruction subproblems as quadratic unconstrained binary optimization problems. The first subproblem selects detector hits associated with a single photon track inside a localized candidate region. The second subproblem selects cluster triplets from different detector layers so that multiple track candidates can be handled…
 
-## 6. Toward Quantum Utility in Correlated Topological Matter: Variational Preparation of Fractional Quantum Hall Manifolds
+## 8. Expressibility and trainability of a two-dimensional pairwise quantum-circuit ansatz
 
-- arXiv: `2607.11380v1`
-- Published: 2026-07-13 10:42 UTC
-- Authors: Sergio F. Expósito, Unai Aseginolaza, Raúl Guerrero-Avilés, Joaquim Jornet-Somoza, Francisco Guinea, Juan Borge
-- Categories: quant-ph, cond-mat.str-el
-- Links: [abs](https://arxiv.org/abs/2607.11380v1) | [pdf](https://arxiv.org/pdf/2607.11380v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['variational quantum eigensolver', 'vqe']
-
-We investigate the use of variational quantum algorithms to prepare and characterize fractional quantum Hall states on near-term quantum processors. Focusing on the $ν=1/3$ Laughlin phase described by the $V_1$ Haldane pseudopotential, we formulate the lowest-Landau-level problem in second quantization, and implement particle-number-preserving variational circuits combined with the variational quantum eigensolver (VQE) and variational quantum deflation (VQD). We benchmark the approach in two complementary geometries: Haldane sphere and torus shape. On the Haldane sphere, the target state is a…
-
-## 7. An efficient algorithm for approximate shadow Hamiltonian simulation
-
-- arXiv: `2607.11882v1`
-- Published: 2026-07-13 17:58 UTC
-- Authors: Abhijit Chakraborty, Bharath Sambasivam, Karunya Shirali, Hunter Nelson, Mafalda Ramôa, Sophia E. Economou et al.
+- arXiv: `2607.12996v1`
+- Published: 2026-07-14 17:47 UTC
+- Authors: Shuai Zhang, Wei Liu, Ji-Chong Yang
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.11882v1) | [pdf](https://arxiv.org/pdf/2607.11882v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['krylov']
+- Links: [abs](https://arxiv.org/abs/2607.12996v1) | [pdf](https://arxiv.org/pdf/2607.12996v1)
+- Score: 2
+- Keyword hits: title=[] abstract=['quantum machine learning', 'entanglement']
 
-We propose an efficient algorithm based on shadow Hamiltonian simulation to approximately simulate the real-time dynamics of observables under time-independent Hamiltonians. Shadow Hamiltonian simulation works at the level of the operator algebra generated by the observables through commutators with the Hamiltonian. Exactly encoding the quantum state in this picture is generally inefficient for interacting systems due to the exponential growth of the operator algebra. Our algorithm overcomes this bottleneck by systematically identifying the elements of the algebra most relevant to the target…
+Parameterized quantum circuits~(PQCs) constitute a central building block of variational quantum algorithms~(VQAs) and quantum machine learning~(QML) methods. Existing ansatz designs often adopt hardware-agnostic or simplified 1D chain/ring entanglement patterns. However, as quantum hardware continues to develop, native 2D connectivity patterns, such as planar superconducting-qubit architectures, are becoming increasingly important. Inspired by this hardware structure, we construct a native 2D pairwise ansatz and compare its expressibility and trainability with representative 1D ansatze at…
 
-## 8. Optimal tomography of bosonic and fermionic Gaussian states
+## 9. A cryogenic neutral-atom platform with full optical access and 2-hour trap lifetime
 
-- arXiv: `2607.11847v1`
-- Published: 2026-07-13 17:37 UTC
-- Authors: Senrui Chen, Marco Fanizza, Filippo Girardi, Ludovico Lami, Francesco Anna Mele, Michael Walter et al.
-- Categories: quant-ph, cond-mat.other, math-ph
-- Links: [abs](https://arxiv.org/abs/2607.11847v1) | [pdf](https://arxiv.org/pdf/2607.11847v1)
+- arXiv: `2607.12988v1`
+- Published: 2026-07-14 17:35 UTC
+- Authors: Akhil Kumar, Lorenzo Festa, Avishay Grinberg, Eran Reches, Dimitrios Tsevas, Kevin P. Mours et al.
+- Categories: physics.atom-ph, cond-mat.quant-gas, quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.12988v1) | [pdf](https://arxiv.org/pdf/2607.12988v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-The sample complexity is the minimum number of copies required to learn an accurate classical description of a quantum state. Bosonic and fermionic Gaussian quantum states are families of quantum states that play a key role in quantum science and technology, from quantum optics and many-body physics to quantum chemistry, quantum computing, and quantum information theory. Despite their importance, their sample complexity had not been fully determined. We settle this open problem and show that both bosonic and fermionic Gaussian states can be learned using a number of copies that scales…
+Neutral-atom quantum processors are rapidly scaling toward system sizes of more than ten thousand qubits, allowing for the realization of a new class of quantum computing algorithms and quantum simulation experiments. However, current neutral-atom platforms generally have to find a compromise between the optical accessibility and the storage time of atoms in optical potentials, limiting the available qubit numbers. Here we report on the operation of a novel, cryogenically enhanced, neutral-atom apparatus that overcomes these apparently conflicting requirements. We demonstrate vacuum-limited…
 
-## 9. Input-Aware Dynamic Backdoor Attack Against Quantum Neural Networks
+## 10. Resist and Update: Counterfactual Report Coordinates for Incentive-Compatible LLMs
 
-- arXiv: `2607.11843v1`
-- Published: 2026-07-13 17:34 UTC
-- Authors: Junrui Zhang, Zemin Chen, Lusi Li, Mohammad Ghasemigol, Daniel Takabi, Rui Ning
-- Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2607.11843v1) | [pdf](https://arxiv.org/pdf/2607.11843v1)
+- arXiv: `2607.12985v1`
+- Published: 2026-07-14 17:28 UTC
+- Authors: Sen Yang, Yuen-Hei Yeung
+- Categories: cs.AI
+- Links: [abs](https://arxiv.org/abs/2607.12985v1) | [pdf](https://arxiv.org/pdf/2607.12985v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['wilson']
+
+Aligned language models routinely misreport under non-evidential incentive pressure: they agree with a confident user or overstate certainty even when their internal belief is unchanged. We cast this as a failure of internal incentive-compatibility (IC) and present a method for learning and certifying counterfactual report mediators that hold a model's reports to a causal contract: invariant to forbidden influences (pressure, prestige, restyling) and responsive to licensed ones (genuine evidence). These two demands, resist and update, pull in opposite directions. We study them on a…
+
+## 11. The log log jam in Gaussian state tomography
+
+- arXiv: `2607.12983v1`
+- Published: 2026-07-14 17:25 UTC
+- Authors: Sitan Chen, Weiyuan Gong, Qi Ye, Zhihan Zhang
+- Categories: quant-ph, cs.DS, math-ph
+- Links: [abs](https://arxiv.org/abs/2607.12983v1) | [pdf](https://arxiv.org/pdf/2607.12983v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Unlike in finite dimensions, quantum information in continuous-variable systems has the peculiar feature that without imposing physical constraints, the sample complexity of state tomography can be unbounded. Remarkably, this is even the case for state-of-the-art protocols for learning Gaussian states, which have finite-dimensional descriptions: the best known rates scale with $\log \log E$, where $E$ is the energy of the system. We prove this is not an artifact of existing analyses, but a fundamental limitation of the measurements used. We show: (1) Any protocol that uses Gaussian…
+
+## 12. An Agentic Formalization for Certified Quantum Neural Network Design
+
+- arXiv: `2607.12981v1`
+- Published: 2026-07-14 17:23 UTC
+- Authors: Mingrui Jing, Lei Zhang, Yusheng Zhao, Hongshun Yao, Xin Wang
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.12981v1) | [pdf](https://arxiv.org/pdf/2607.12981v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum machine learning']
 
-Quantum Neural Networks (QNNs) are a promising framework for quantum machine learning on near-term quantum devices, but their security risks remain insufficiently understood. Studies have shown that QNNs are vulnerable to backdoor attacks, yet existing quantum backdoors mostly rely on a fixed trigger shared by all poisoned inputs. This fixed-trigger design is a major weakness because many defenses detect or weaken the repeated patterns such triggers leave in data representations. Although input-aware dynamic backdoors have been studied in classical neural networks, transferring them to QNNs…
+A central model in quantum machine learning is the quantum neural network (QNN), whose design requires balancing expressivity and trainability. Technically, expressivity is studied through circuit-function analysis, such as quantum signal processing, while trainability is analyzed using dynamical-Lie-algebra (DLA) methods. To support certified QNN design, we formalize these major components of QNN theory in a connected lean 4 development checked by a proof kernel, where every analytic input is either proved or exposed as a named hypothesis. On the expressivity side, we prove exact…
 
-## 10. Quantum probe advantage in learning many-body systems
+## 13. Quantum metrology with undetected mid-infrared photons for applied non-destructive testing
 
-- arXiv: `2607.11829v1`
-- Published: 2026-07-13 17:19 UTC
-- Authors: Wenzheng Dong, Andrew G. Green, Vlatko Vedral, Jinzhao Sun
-- Categories: quant-ph, cond-mat.str-el, physics.atom-ph
-- Links: [abs](https://arxiv.org/abs/2607.11829v1) | [pdf](https://arxiv.org/pdf/2607.11829v1)
+- arXiv: `2607.12653v1`
+- Published: 2026-07-14 11:37 UTC
+- Authors: Paul Gattinger, Andreas W. Schell, Maja Buchegger, Markus Brandstetter, Ivan Zorin
+- Categories: quant-ph, physics.ins-det, physics.optics
+- Links: [abs](https://arxiv.org/abs/2607.12653v1) | [pdf](https://arxiv.org/pdf/2607.12653v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Which properties of a quantum many-body system are operationally accessible is a central question underlying spectroscopy, thermodynamics, and quantum information science. Conventional response theory answers this question within a system-only paradigm: one perturbs and measures the matter itself, obtaining susceptibility built from causally ordered nested commutators. Here we show that coherently controlled quantum probes, when measured at the end, define a strictly larger operational learning framework beyond that accessible from response theory. We establish this through a quantum-circuit…
+Metrology with undetected photons is an emerging technique that leverages quantum effects and photon correlations (entanglement) to retrieve valuable information in a target spectral range (e.g., mid-infrared, mid-IR) using measurements in an easily accessible domain (e.g., visible, near-IR). The underlying quantum process of spontaneous parametric down-conversion (SPDC) is utilized to generate non-degenerate correlated signal and idler photons to serve as detection and probing photons, respectively. Sensing with undetected photons enables important advantages, such as ultra-low probe powers,…
 
-## 11. Quantum Arithmetic Circuits in Public-Key Cryptography
+## 14. Constructing mode-resolved quantum optical models for emitters in photonic crystals
 
-- arXiv: `2607.11713v1`
-- Published: 2026-07-13 15:40 UTC
-- Authors: Siyi Wang, Kyungbae Jang, Hyunji Kim, Anik Basu Bhaumik, Anubhab Baksi, Hwajeong Seo et al.
-- Categories: quant-ph, cs.ET
-- Links: [abs](https://arxiv.org/abs/2607.11713v1) | [pdf](https://arxiv.org/pdf/2607.11713v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Quantum computing has advanced rapidly in recent decades, driven by developments across the technology stack, including quantum error-correcting codes and efficient quantum algorithms. Among these, quantum arithmetic circuits serve as fundamental building blocks for various promising algorithms. Despite their crucial role, the design of quantum arithmetic circuits faces challenges arising from the no-cloning theorem, qubit limitations, and circuit depth constraints, which significantly impact the efficiency of large-scale quantum computing. We provide an overview of quantum arithmetic…
-
-## 12. $\mathtt{Q^2SAR}$: overcoming classical bottlenecks in drug discovery via quantum multiple kernel learning
-
-- arXiv: `2607.11701v1`
-- Published: 2026-07-13 15:33 UTC
-- Authors: Mariano Caruso, Daniel Ruiz, Alejandro Giraldo, Guido Bellomo
-- Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2607.11701v1) | [pdf](https://arxiv.org/pdf/2607.11701v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Quantitative Structure-Activity Relationship ($\mathtt{QSAR}$) modeling is a foundational computational methodology in early-stage drug discovery, heavily relied upon for predicting compound toxicity, bioavailability, and therapeutic potential. However, classical methods often struggle to effectively map the highly complex, non-linear, and high-dimensional interactions inherent in molecular data, leading to reduced predictive accuracy and costly late-stage clinical failures. In this paper, we present a Quantum Multiple Kernel Learning ($\mathtt{QMKL}$) framework, dubbed Next-Gen…
-
-## 13. Multi-Stage Mamba-Based Architecture for Fast and Scalable Superconducting Qubit Readout
-
-- arXiv: `2607.11668v1`
-- Published: 2026-07-13 15:12 UTC
-- Authors: Luca Otting, Xiaorang Guo, Emmanouil Giortamis, Benjamin Lienhard, Pramod Bhatotia, Martin Schulz
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.11668v1) | [pdf](https://arxiv.org/pdf/2607.11668v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Reliable qubit readout is a critical bottleneck toward fault-tolerant quantum computing (FTQC). In superconducting quantum processors, readout operations are both error-prone and high-latency. These challenges become more severe in frequency-multiplexed architectures, where signal crosstalk among neighboring qubits significantly degrades readout fidelity. Existing machine learning (ML)-based approaches rely on feed-forward neural networks (FNNs) that suffer from large parameter sizes and lack an end-to-end network that jointly addresses relaxation errors and discriminates qubit states. In…
-
-## 14. From Circuits to Hardware: Benchmarking Standard and Qubit-Efficient Quantum Optimization on Real Hardware
-
-- arXiv: `2607.11637v1`
-- Published: 2026-07-13 14:53 UTC
-- Authors: Monit Sharma, Hoong Chuin Lau
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.11637v1) | [pdf](https://arxiv.org/pdf/2607.11637v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['vqe']
-
-Despite rapid progress in quantum optimization, broad real-hardware benchmarks comparing multiple algorithmic families across diverse combinatorial problems under a common protocol remain limited. We benchmark gate-based quantum optimization on four NP-hard problems: multi-dimensional knapsack (MDKP), maximum independent set (MIS), quadratic assignment (QAP), and market-share (MSP). We study VQE, CVaR-VQE, standard, multi-angle, and warm-start QAOA, together with qubit-efficient PCE and QRAO, on IBM Heron r1/r2 processors using resilience-level-2 mitigation. To our knowledge, this includes…
-
-## 15. AtomFlow: An End-to-End FPGA-Based Control Architecture for Neutral Atom Quantum Computers
-
-- arXiv: `2607.11490v1`
-- Published: 2026-07-13 12:46 UTC
-- Authors: Xiaorang Guo, Jonas Winklmann, Vengkeat Chea, Martin Schulz
-- Categories: quant-ph, cs.AR
-- Links: [abs](https://arxiv.org/abs/2607.11490v1) | [pdf](https://arxiv.org/pdf/2607.11490v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Neutral Atom Quantum Computing (NAQC) is an emerging modality for scalable quantum computation, valued for its long coherence times and the naturally identical atomic qubits. However, one of the main drawbacks is its slow execution rate, dominated by lengthy classical processing tasks, such as fluorescence imaging, cooling, and atom rearrangement. We address this bottleneck with AtomFlow, a field-programmable gate array (FPGA)-based control architecture that consolidates fluorescence-image analysis and a newly developed atom-rearrangement algorithm onto a single Zynq UltraScale+ device. By…
-
-## 16. Moment-based PPT criteria for random bipartite states
-
-- arXiv: `2607.11369v1`
-- Published: 2026-07-13 10:32 UTC
-- Authors: Cécilia Lancien, Kieran McShane
-- Categories: quant-ph, math-ph, math.CO, math.FA, math.PR
-- Links: [abs](https://arxiv.org/abs/2607.11369v1) | [pdf](https://arxiv.org/pdf/2607.11369v1)
+- arXiv: `2607.12603v1`
+- Published: 2026-07-14 10:26 UTC
+- Authors: Antonio Morales-Pérez, Iñaki García-Elcano, Chiara Devescovi, Maia G. Vergniory, Aitzol García-Etxarri, Alejandro González-Tudela
+- Categories: quant-ph, physics.optics
+- Links: [abs](https://arxiv.org/abs/2607.12603v1) | [pdf](https://arxiv.org/pdf/2607.12603v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Moment-based relaxations of the positive partial transpose (PPT) criterion have been recently introduced, as a hierarchy of entanglement criteria involving only experimentally accessible quantities of a given bipartite state. The goal of this work is to study their typical detection performance on high-dimensional bipartite systems. Concretely, we investigate whether random bipartite mixed states on $\mathbb C^d\otimes\mathbb C^d$, obtained as the marginal over an environment $\mathbb C^s$ of a uniformly distributed pure state, generically satisfy or violate them. For each fixed level…
+Recent advances are enabling quantum emitters to interact with photonic crystals, whose electromagnetic modes exhibit complex dispersion relations, spatial mode structure, and polarization textures. However, modeling light-matter behavior in these systems faces a persistent trade-off: electromagnetic approaches based on Maxwell-equation solvers provide realistic vectorial descriptions but are difficult to integrate with quantum many-body and non-perturbative methods, whereas simplified quantum-optical lattice models are tractable but typically rely on scalar and spatially independent…
 
-## 17. Information geometric quantification of effective privacy in quantum metrology
+## 15. Forked Physics-Informed Neural Networks for Non-Markovian Open Quantum Dynamics and Control
 
-- arXiv: `2607.11302v1`
-- Published: 2026-07-13 09:18 UTC
-- Authors: Luca Bianchi, Shimpei Yamaguchi, Wojciech Roga, Davide Bacco, Masahiro Takeoka
+- arXiv: `2607.12567v1`
+- Published: 2026-07-14 09:38 UTC
+- Authors: Zhao-Wei Wang, Kai-Yu Yuan, Feng-Hua Ren, Zhao-Ming Wang
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.11302v1) | [pdf](https://arxiv.org/pdf/2607.11302v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Privacy of a quantum metrological protocol concerns the extent to which single parameters can be kept inaccessible to an observer or to other users of the network. In this work, an information geometric framework is developed to quantify privacy and accessibility of functions of parameters effectively, that is, up to a finite accuracy in state discrimination. Both quantities are defined by measuring volumes in the parameter space induced by the underlying quantum states. This construction subsumes previous definitions of privacy based on the degeneracy of quantum Fisher information, naturally…
-
-## 18. Experimental Observation of Anomalous Complementary Weak Values from Correlated Pairwise Two-State Vectors
-
-- arXiv: `2607.11284v1`
-- Published: 2026-07-13 09:06 UTC
-- Authors: Qian Xie, Liang Xu, Lijian Zhang
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.11284v1) | [pdf](https://arxiv.org/pdf/2607.11284v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Weak values (WVs) arise from weak measurements performed within a time-symmetric formulation of quantum mechanics, where a system is both pre- and post-selected. Anomalous WVs that lie far outside the eigenvalue spectrum of the observable hold both fundamental and practical significance. However, their generation typically relies on near-orthogonal pre- and post-selection, which confines them to a single post-selection outcome with extremely low success probability. This constraint limits experimental accessibility and hinders the full exploitation of time symmetry. To overcome these…
-
-## 19. Barium-based Rydberg atom quantum technologies with long Rydberg coherence
-
-- arXiv: `2607.11282v1`
-- Published: 2026-07-13 09:03 UTC
-- Authors: Xiao-Feng Shi
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2607.11282v1) | [pdf](https://arxiv.org/pdf/2607.11282v1)
+- Links: [abs](https://arxiv.org/abs/2607.12567v1) | [pdf](https://arxiv.org/pdf/2607.12567v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-The short Doppler-limited coherence time of the laser-excited Rydberg state, usually orders of magnitude shorter than the lifetime of the Rydberg state, hinders the Rydberg-mediated quantum technologies. Here, we show that a 649~nm~$-$~658~nm two-photon excitation of the $6sng~^1G_4$ Rydberg state from a long-lived d-orbital clock state of barium can be achieved with a two-photon wavevector that is tiny, which effectively removes the Doppler-limited decoherence. Moreover, the $6sng~^1G_4$ Rydberg state has strong dipole-dipole interaction due to small Förster defect with nearby Rydberg states…
+Physics-informed neural networks (PINNs) provide a pathway to reunify the simulation and control of quantum systems, in which these two tasks are typically decoupled in traditional strategies. However, most work remains confined to Markovian environments. When applied to non-Markovian systems, standard PINN architectures fail to converge reliably due to multi-objective optimization conflicts arising from the coupled differential equations. To address this fundamental limitation, we extend our previously proposed forked PINN (FPINN) by incorporating a dedicated control branch. By decoupling…
 
-## 20. Unique temporal scaling dimension for quantum criticality in open systems weakly coupled to environment
+## 16. Benchmarking loss functions for trainable quantum feature maps
 
-- arXiv: `2607.11206v1`
-- Published: 2026-07-13 07:56 UTC
-- Authors: Fan Zhong
-- Categories: quant-ph, cond-mat.stat-mech
-- Links: [abs](https://arxiv.org/abs/2607.11206v1) | [pdf](https://arxiv.org/pdf/2607.11206v1)
+- arXiv: `2607.12487v1`
+- Published: 2026-07-14 08:20 UTC
+- Authors: Nguyen Dinh Quyen, Vu Tuan Hai, Quoc Chuong Nguyen, Le Bin Ho, Lan Nguyen Tran
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2607.12487v1) | [pdf](https://arxiv.org/pdf/2607.12487v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
+- Keyword hits: title=[] abstract=['quantum machine learning']
 
-Probing, understanding, predicting, and controlling the real-time dynamics of quantum phase transitions in open systems are of pivotal importance to modern condensed matter physics, statistical physics, and quantum computing, among others. Here it is argued that a distinct temporal renormalization-group eigenvalue is needed for quantum criticality in open systems weakly coupled to their finite-temperature environment. This new physics enables the formulation of a general scaling theory that can accurately account for the critical properties including the specific Kibble-Zurek scaling in such…
+Many quantum machine learning models employ quantum feature maps to encode classical data into quantum states. While fixed feature maps often lack sufficient expressivity for complex nonlinear classification tasks, trainable quantum feature maps (TQFMs) enable adaptive quantum kernels with enhanced learning capability. Different loss functions can induce distinct optimization dynamics, yet their effects remain poorly understood. In this work, we apply the Log-Likelihood Loss function for TQFMs and provide a systematic comparison with Distance Loss and Measurement Loss. Through extensive…
