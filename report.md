@@ -1,149 +1,161 @@
 # arXiv alert report
 
-- Generated: 2026-08-04 07:58 UTC
-- Window: papers published since 2026-08-03 07:58 UTC
-- Matches: 12
+- Generated: 2026-08-05 07:59 UTC
+- Window: papers published since 2026-08-04 07:59 UTC
+- Matches: 13
 
-## 1. Entanglement of flower states
+## 1. Entanglement Distillation of some Rank-Five Symmetric NPT States in Two-Qutrit Systems
 
-- arXiv: `2608.02587v1`
-- Published: 2026-08-03 17:56 UTC
-- Authors: Samrat Sen, Ludovico Lami
+- arXiv: `2608.03710v1`
+- Published: 2026-08-04 14:15 UTC
+- Authors: Yuwei Lei, Zihua Song, Lin Chen, Mingju Liu
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.02587v1) | [pdf](https://arxiv.org/pdf/2608.02587v1)
+- Links: [abs](https://arxiv.org/abs/2608.03710v1) | [pdf](https://arxiv.org/pdf/2608.03710v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-The mysterious nature of entanglement, one of the most prominent exquisitely quantum phenomena, is reflected in its intricate operational structure, with a hierarchy of classes of free operations that enable its manipulation at different levels of effectiveness. Here we use the class of 'flower states', parametrised by their (even) local dimension $2k$, to shine light on some aspects of this varied landscape. We compute all the main entanglement measures for flower states, uncovering a large gap between all forms of distillable entanglement, equal to 1 ebit independently of the local…
+Entanglement distillation is a fundamental task in quantum information processing. In this work, we investigate the distillability properties of a class of two-qutrit symmetric NPT states of rank five. We resolve the 1-distillability problem for this class by proving that the previously open interval of the eigenvalue parameter is 1-undistillable. For the 2-distillability, we uncover a structural obstruction showing that no Schmidt-rank-two vector has a negative expectation in the relevant subspace. We also perform numerical investigations to explore the 2-distillability beyond this…
 
-## 2. Nanohertz Pendulum toward Macroscopic Entanglement under Structural Damping
+## 2. TNASS: Tensor Network Active Space Selection with the Entanglement Feature
 
-- arXiv: `2608.02462v1`
-- Published: 2026-08-03 16:32 UTC
-- Authors: Azusa Sawada, Hina Nakano, Kanta Watanabe, Gaku Ohashi, Shota Okumura, Nobuyuki Matsumoto
-- Categories: quant-ph, physics.ins-det
-- Links: [abs](https://arxiv.org/abs/2608.02462v1) | [pdf](https://arxiv.org/pdf/2608.02462v1)
+- arXiv: `2608.03645v1`
+- Published: 2026-08-04 13:29 UTC
+- Authors: Angus Mingare, Isabelle Heuzé, Peter V. Coveney
+- Categories: physics.chem-ph, quant-ph
+- Links: [abs](https://arxiv.org/abs/2608.03645v1) | [pdf](https://arxiv.org/pdf/2608.03645v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Pendulums are attractive for macroscopic quantum control because gravity dilution reduces mechanical loss, while the $1/f$ force-noise spectrum associated with structural damping allows nearly lossless trapping to suppress the thermal noise sampled at an upward-shifted resonance. The same $1/f$ spectrum, however, produces a low-frequency tail that penalizes entanglement. With $10\%$ detection loss, we find that this tail raises the required back-action-to-thermal force-noise ratio by about $50\%$, corresponding to a required suspension gain $G_{\rm req}=1.49$. To overcome this…
+The quality of multi-scale modelling techniques in molecular electronic structure calculations, such as embedding and subspace methods, relies upon the chosen active space. The automation of active space selection is vital for ensuring the accuracy, reproducibility, and scalability in such calculations. In this work, we introduce Tensor Network Active Space Selection using the Entanglement Feature. Through the isolation of strongly correlated electrons, this method provides a scalable foundation for embedding methods in multi-scale modelling. By representing the purities of all possible…
 
-## 3. Detecting high-dimensional entanglement with simple measurements
+## 3. Generation and Enhancement of Bipartite and Tripartite Entanglement in an Electro-Optomechanical Ring Cavity
 
-- arXiv: `2608.02439v1`
-- Published: 2026-08-03 16:18 UTC
-- Authors: Suraj Goel, Alexander Bernal, Gabriele Cobucci, Will McCutcheon, Mehul Malik, Armin Tavakoli
+- arXiv: `2608.03578v1`
+- Published: 2026-08-04 12:33 UTC
+- Authors: Fouad Essaadi, Yassine Oussarhan, Mohamed Ouhammou, Said Mouslih, Mohamed Jakha, Bouzid Manaut et al.
 - Categories: quant-ph, physics.optics
-- Links: [abs](https://arxiv.org/abs/2608.02439v1) | [pdf](https://arxiv.org/pdf/2608.02439v1)
+- Links: [abs](https://arxiv.org/abs/2608.03578v1) | [pdf](https://arxiv.org/pdf/2608.03578v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-The standard benchmark for high-dimensional entanglement is the number of dimensions in which entanglement must be present in order to generate the state. This is called the Schmidt number and its detection is usually based on implementing an appropriate set of local basis measurements. However, as quantum technology brings increasingly large physical dimensions within reach, the implementation of such measurements typically becomes more costly. Here, we develop a scheme for detecting Schmidt numbers based only on sequences of single-qubit observables. These measurements are simpler to…
+This study investigates the generation and enhancement of quantum entanglement in an electro-optomechanical ring cavity system. The setup integrates two Coulomb-coupled mechanical resonators, which serve as the fundamental mechanism for the generation of bipartite and tripartite entanglement via charge mediated coupling. We then demonstrate the significant enhancement of this entanglement via a nonlinear parametric drive (an optical parametric amplifier, OPA), which injects a controllable nonlinearity into the cavity. We derive the system's Hamiltonian and the corresponding quantum Langevin…
 
-## 4. Entanglement Generation Beyond Quantum Theory: From Product States to Popescu-Rohrlich Boxes
+## 4. A first look at Structured-Multiscale Algebraic Multigrid for Lattice Field Theory
 
-- arXiv: `2608.02403v1`
-- Published: 2026-08-03 15:47 UTC
-- Authors: Shun Umekawa, Akihiro Hokkyo, Hayato Arai, Kazuaki Takasan
+- arXiv: `2608.03515v1`
+- Published: 2026-08-04 11:58 UTC
+- Authors: Pauline Schauerte, Jaime Fabián Nieto Castellanos, Arnold Krechel, Marc Alexander Schweitzer, Stefan Krieg
+- Categories: hep-lat
+- Links: [abs](https://arxiv.org/abs/2608.03515v1) | [pdf](https://arxiv.org/pdf/2608.03515v1)
+- Score: 2
+- Keyword hits: title=[] abstract=['wilson', 'Schwinger model']
+
+State-of-the-art solvers for the Dirac equation in Lattice QCD are based on adaptive multigrid methods. These require fine-tuning of many algorithmic parameters to achieve optimal performance. We apply a new multigrid approach to Lattice Field Theory adapted from oil-reservoir simulations: Structured-Multiscale Algebraic Multigrid (SM-AMG). This method builds compact aggregates with overlapping borders to coarsen the grid and yields accurate interpolation. A key advantage is that aggregate size is the primary tunable parameter. For our results, we used SM-AMG in an algebraic approach, called…
+
+## 5. Realified tensor networks: quantum circuit simulation on real-valued matrix accelerators
+
+- arXiv: `2608.03987v1`
+- Published: 2026-08-04 17:51 UTC
+- Authors: Yusheng Zhao, Xiwei Pan, Enji Xiong, Chengkai Zhu, Jinguo Liu
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.02403v1) | [pdf](https://arxiv.org/pdf/2608.02403v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-Entanglement generation is a fundamental dynamical capability in quantum information science and underpins many quantum advantages. While quantum theory enables it through unitary dynamics, boxworld, a generalized probabilistic theory admitting Popescu--Rohrlich boxes with supraquantum correlations, has no reversible transformation capable of generating entanglement. We show that this no-go picture changes fundamentally once reversibility is relaxed to pure-state preservation. We construct a pure-state-preserving transformation that maps every uncorrelated pure state to a Popescu--Rohrlich…
-
-## 5. Optimality of Gaussian Entanglement of Formation
-
-- arXiv: `2608.01909v1`
-- Published: 2026-08-03 08:42 UTC
-- Authors: Gerardo Adesso
-- Categories: quant-ph, cond-mat.stat-mech, math-ph
-- Links: [abs](https://arxiv.org/abs/2608.01909v1) | [pdf](https://arxiv.org/pdf/2608.01909v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-We prove that the entanglement of formation of every two-mode Gaussian state coincides with its Gaussian restriction, solving a longstanding open problem in continuous variable quantum information theory. The key result is a sharp affine relation between entanglement and a generalized Einstein-Podolsky-Rosen observable, valid for arbitrary pure two-mode states, including non-Gaussian ones. Our result extends to bisymmetric multimode Gaussian states, and also provides a measurable lower bound on the entanglement of formation of arbitrary non-Gaussian states.
-
-## 6. Spread complexity as a probe in generalized and long-range Aubry-Andre-Harper models
-
-- arXiv: `2608.02451v1`
-- Published: 2026-08-03 16:26 UTC
-- Authors: Triyas Sapui, Tanoy Kanti Konar, Subinay Dasgupta, Aditi Sen De
-- Categories: quant-ph, cond-mat.dis-nn, cond-mat.stat-mech
-- Links: [abs](https://arxiv.org/abs/2608.02451v1) | [pdf](https://arxiv.org/pdf/2608.02451v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['krylov']
-
-We investigate the spread complexity of quantum quenches in generalized and long-range Aubry-Andre-Harper (AAH) models, encompassing regimes with and without mobility edges. In particular, in the generalized AAH models supporting energy-dependent mobility edges, we demonstrate that the long-time averaged spread complexity exhibits nonanalytic behavior when the post-quench quasiperiodic potential crosses the mobility edge associated with the energy of the initial eigenstate, thereby accurately identifying the mobility-edge transition. Such a behavior is supported by the spreading of local…
-
-## 7. Quantum computer-based simulation of Stark many-body localization in a 1D Fermi-Hubbard model
-
-- arXiv: `2608.02245v1`
-- Published: 2026-08-03 13:56 UTC
-- Authors: Abdul Kalam, Prasenjit Deb, Akitada Sakurai, Tapan Mishra, V. S. Prasannaa, B. P. Das
-- Categories: quant-ph, cond-mat.other
-- Links: [abs](https://arxiv.org/abs/2608.02245v1) | [pdf](https://arxiv.org/pdf/2608.02245v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Many-body localization (MBL) is a dynamical phenomenon that describes the non-ergodicity of isolated quantum many-body systems. In contrast to thermalization, this phenomenon leads to a long-lived memory of initial states of local systems and slow growth of entanglement. In this work, we study Stark MBL in a 12-qubit correlated fermionic system described by the one-dimensional Fermi-Hubbard model using Hamiltonian simulation on an IBM superconducting qubit quantum computer. To enable such a computation on current-day noisy hardware, we combine a series of compilation steps, including the use…
-
-## 8. Disentangled Contrastive Learning for Zero-Shot Multilingual Dense Retrieval
-
-- arXiv: `2608.02189v1`
-- Published: 2026-08-03 13:13 UTC
-- Authors: Chao Huang, Yufeng Chen, Changhao Guan, Guang Yang, Dongze Chen, Kaiyu Huang
-- Categories: cs.IR, cs.CL
-- Links: [abs](https://arxiv.org/abs/2608.02189v1) | [pdf](https://arxiv.org/pdf/2608.02189v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Multilingual dense retrieval aims to handle queries and documents across different languages based on a unified retriever model. The challenge lies in enabling robust retrieval transfer to low-resource languages where annotated retrieval data is often scarce. Although previous studies transfer high-resource supervision to low-resource languages in multilingual semantic representation learning, the shared representation often entangles semantic and linguistic features, which may interfere with optimizing semantic relevance for retrieval. Different from existing methods that focus on learning…
-
-## 9. Better accuracy with fewer qubits: Single-particle basis set optimization for quantum chemistry on quantum computers
-
-- arXiv: `2608.02119v1`
-- Published: 2026-08-03 12:13 UTC
-- Authors: Subimal Deb, V. S. Prasannaa
-- Categories: quant-ph, physics.atom-ph, physics.chem-ph
-- Links: [abs](https://arxiv.org/abs/2608.02119v1) | [pdf](https://arxiv.org/pdf/2608.02119v1)
+- Links: [abs](https://arxiv.org/abs/2608.03987v1) | [pdf](https://arxiv.org/pdf/2608.03987v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['vqe']
 
-In spite of recent advances, quantum computers are expected to be sufficiently noisy in the coming few years to the extent of limiting quantum chemical calculations to relatively small number of orbitals. However, even with reasonable quality single particle basis sets, small active spaces with limited orbitals can result in a significant fraction of correlation energy being lost, motivating the design of moderate quality qubit-efficient basis sets for quantum algorithms. We begin by reoptimizing the existing minimal basis sets using a genetic algorithm-inspired approach in conjunction with…
+Tensor-network contraction simulates quantum circuits, but modern matrix accelerators (NPUs, TPUs) expose only real GEMM pipelines, so the complex networks of quantum simulation must be reconstructed in software. We resolve the mismatch by a realification rewrite that maps any complex tensor network to a real one. At each merge of two complex tensors, a rank-3 structure tensor realizes Gauss's three-multiplication (3M) formula; contractions with one or no complex operand need only two or one real products. We prove a tight cost law: overhead $1 + 2m + r$ in real multiplications, where $m$ and…
 
-## 10. Zero-G: A Pre-Decoder-Aware Decoder for Quantum Error Correction
+## 6. A quantum game of telephone
 
-- arXiv: `2608.02030v1`
-- Published: 2026-08-03 10:25 UTC
-- Authors: Peter Wegmann, Theofilos Augoustis, Aleksandra Świerkowska, Emmanouil Giortamis, Pramod Bhatotia
+- arXiv: `2608.03963v1`
+- Published: 2026-08-04 17:28 UTC
+- Authors: Arefur Rahman, Matthew L. Stevens, Cory M. Nunn, Daniel E. Jones, Brian T. Kirby, Joseph M. Lukens
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.02030v1) | [pdf](https://arxiv.org/pdf/2608.02030v1)
+- Links: [abs](https://arxiv.org/abs/2608.03963v1) | [pdf](https://arxiv.org/pdf/2608.03963v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Characterizing multinode quantum networks without ubiquitous local entanglement sources presents significant experimental challenges. We introduce ``quantum telephone,'' an iterative ancilla-assisted process tomography protocol that leverages intermediate detection events, effectively treating previously probed links as ancillae for subsequent links. Implemented on a deployed multinode fiber network, we observe noisy intermediate channels create fundamental parameter degeneracies that compound inference errors under sequential estimation. Counterintuitively, the inclusion of downstream…
+
+## 7. Joint spectral characterization of SPDC photon pairs near 2 $μ$m in (Al)GaAs-on-insulator waveguides
+
+- arXiv: `2608.03950v1`
+- Published: 2026-08-04 17:14 UTC
+- Authors: Alexandre Z. Leger, Emil Z. Ulsig, Samuel E. Fontaine, Dileep V. Reddy, Eric J. Stanton, Lynden K. Shalm et al.
+- Categories: physics.optics, quant-ph
+- Links: [abs](https://arxiv.org/abs/2608.03950v1) | [pdf](https://arxiv.org/pdf/2608.03950v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Fault-tolerant quantum computing requires classical decoders that keep pace with the underlying hardware, translating syndrome measurements into corrections fast enough to avoid an exponential backlog. To meet this real-time constraint, pre-decoders have emerged as part of a hierarchical decoding approach to resolve simple, local errors before passing a sparser residual syndrome to a strong decoder. While pre-decoding should, in theory, speed up the strong decoder, in practice, the speedup is only marginal, since existing strong decoders are designed to decode dense syndromes and cannot…
+Integrated photon-pair sources are a core component of chip-based quantum computing, communication, and metrology. Although such sources have been demonstrated at conventional telecom wavelengths, the 2 $μ$m band remains comparatively less explored, despite offering advantages for free-space quantum communication, low-loss transmission in emerging fiber networks, and integration with silicon photonic platforms. In this paper, we demonstrate spontaneous parametric down-conversion (SPDC) in straight GaAs- and AlGaAs-on-insulator waveguides. This platform offers strong second-order nonlinearity…
 
-## 11. Oraqle: An Empirical Analysis of Qubit Readout and Discriminators in Quantum Error Correction
+## 8. Real-time decoding of quantum error correction codes using high-performance computing
 
-- arXiv: `2608.01939v1`
-- Published: 2026-08-03 09:13 UTC
-- Authors: Emmanouil Giortamis, Aleksandra Świerkowska, Sandra Stankovic, Felix Gust, Benjamin Lienhard, Pramod Bhatotia
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.01939v1) | [pdf](https://arxiv.org/pdf/2608.01939v1)
+- arXiv: `2608.03948v1`
+- Published: 2026-08-04 17:12 UTC
+- Authors: Lingling Lao, Qiang Wang, Yuanqi Liu, Yantong Liu, Haowen Wang, Yitao Chen et al.
+- Categories: quant-ph, cs.DC
+- Links: [abs](https://arxiv.org/abs/2608.03948v1) | [pdf](https://arxiv.org/pdf/2608.03948v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Quantum error correction (QEC) is the most promising route toward fault-tolerant quantum computing and, thus, useful quantum computers. QEC operates as a continuous measure-decode-correct cycle: ancilla qubits are read out, a decoder infers errors from the resulting syndromes, and corrections are applied before the next round begins. Within this loop, readout occupies a uniquely critical role, as it is the sole source of ground truth available to the decoder. Yet readout is also the slowest and most error-prone operation in the stack, with characteristics that vary across qubits and drift…
+Quantum error correction (QEC) is indispensable for building scalable fault-tolerant quantum computers. Effective QEC demands stringent real-time decoding: the decoder must process syndrome measurements and determine corrections within a time scale--typically on the order of microseconds, to avoid data backlog. Scaling to large number of logical qubits further necessitates significant computational resources. In this work, we propose an architecture, called \emph{THQLink}, for real-time decoding of quantum error correction codes using high-performance computing (HPC) resources. The network…
 
-## 12. The Pangaea Architecture: Fault-Tolerant Heterogeneous Topological Codes via a Quantum Bus
+## 9. Interplay between teleportation fidelity and basis-independent coherence in maximally sliced states under decoherence
 
-- arXiv: `2608.01887v1`
-- Published: 2026-08-03 08:28 UTC
-- Authors: Sheir Yarkoni, Chen Scheim, Daniel Hakshuri, Nadav Katz
+- arXiv: `2608.03865v1`
+- Published: 2026-08-04 16:06 UTC
+- Authors: Anushree Pandey, Sovik Roy
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.01887v1) | [pdf](https://arxiv.org/pdf/2608.01887v1)
+- Links: [abs](https://arxiv.org/abs/2608.03865v1) | [pdf](https://arxiv.org/pdf/2608.03865v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+The influence of environmental decoherence on quantum teleportation is investigated by considering the three-qubit Maximally Sliced (MS) state as the shared entangled resource. Using the Kraus operator formalism, analytical expressions are derived for the teleportation fidelity under amplitude damping and phase damping channels. The corresponding basis-independent coherence is obtained, establishing explicit analytical relations between coherence and teleportation fidelity under both decoherence mechanisms. The results are further expressed in terms of the Coffman-Kundu-Wootters (CKW)…
+
+## 10. Separable States Violate the Complementary-Quantum Correlation Conjecture
+
+- arXiv: `2608.03828v1`
+- Published: 2026-08-04 15:36 UTC
+- Authors: Jinbo Wang, Qihang Wang, Kun Chen
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2608.03828v1) | [pdf](https://arxiv.org/pdf/2608.03828v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Correlations measured in complementary local bases provide an experimentally accessible probe of the total correlations in a bipartite quantum state. The complementary-quantum correlation conjecture asserts that the sum of two such classical mutual informations never exceeds the premeasurement quantum mutual information. We disprove this conjecture in every local dimension $d\geq3$ with an explicit rank-two separable state. One of the two complementary measurements recovers the complete one-bit branch label, while the other retains additional classical correlation. For qutrits the excess is…
+
+## 11. Matrix Product Evolution: A Method for Simulating Quantum Circuits Using Tensor Networks
+
+- arXiv: `2608.03472v1`
+- Published: 2026-08-04 11:07 UTC
+- Authors: Haruyuki Kawabe, Minoru Nagai, Tsuyoshi Okubo, Synge Todo
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2608.03472v1) | [pdf](https://arxiv.org/pdf/2608.03472v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Classical simulation of quantum circuits is an essential tool in quantum information science, but its applicability is constrained by the exponential growth of the Hilbert space and the entanglement structure of quantum states. In this work, we introduce Matrix Product Evolution (MPE), a tensor-train representation of quantum circuits constructed along the circuit depth rather than along the qubit index. Within this formulation, the simulation of a quantum circuit is modeled as the contraction of multiple MPE tensors. We develop an efficient contraction strategy based on a zip-up procedure to…
+
+## 12. On-chip Quantum Measurement of Squeezing Generated from a Silicon Nitride Micro-ring Resonator
+
+- arXiv: `2608.03402v1`
+- Published: 2026-08-04 09:56 UTC
+- Authors: Yuhang Lei, Chenfei Cui, Yue Li, Hon Ki Tsang, Z. Y. Ou
+- Categories: quant-ph, physics.optics
+- Links: [abs](https://arxiv.org/abs/2608.03402v1) | [pdf](https://arxiv.org/pdf/2608.03402v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-We introduce Pangaea, a fault-tolerant quantum architecture that uses a quantum bus to mediate logical operations between remote patches of two-dimensional topological codes. The bus is an auxiliary gauge-code strip whose measurements reconstruct joint logical operators while preserving nearest-neighbor physical connectivity. Enabling native heterogeneous topological codes and multi-qubit Pauli operations, the quantum bus can be interpreted as a three-dimensional generalization of lattice surgery. We require only $O(dN_L)$ physical qubits to implement multi-qubit interactions for $N_L$…
+Integration of quantum optical technique on-chip is crucial for large scale applications of quantum technology, which were proven in a free space environment to be superior to the corresponding classical technology. Squeezed states of light can be used for enhancing the sensitivity of quantum sensors and for fault-tolerant quantum computing. Although chip-based squeezed light generation has advanced significantly, practical impact remains limited because coupling losses between the chip and off-chip detectors destroy delicate quantum correlations, restricting the amount of observed squeezing.…
+
+## 13. Protected measurements for protected superconducting qubits
+
+- arXiv: `2608.03325v1`
+- Published: 2026-08-04 08:35 UTC
+- Authors: Xanda C Kolesnikow, Thomas B Smith, Andrew C Doherty
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2608.03325v1) | [pdf](https://arxiv.org/pdf/2608.03325v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Protected superconducting qubits such as the $0$-$π$ qubit promise to substantially suppress error rates, facilitating fault-tolerant quantum computing with fewer qubits. Measuring these qubits is challenging due to their protected nature, and thus far no concrete proposal exists for how to measure them without breaking their protection. Here we show how to perform protected measurements of the $0$-$π$ qubit in two orthogonal bases. The protection of these measurements is facilitated by their quantum non-demolition nature, allowing faults on ancillary measurement qubits to be tolerated. As…
