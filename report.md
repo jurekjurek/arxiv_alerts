@@ -1,113 +1,113 @@
 # arXiv alert report
 
-- Generated: 2026-08-12 06:51 UTC
-- Window: papers published since 2026-08-11 06:51 UTC
+- Generated: 2026-08-13 06:54 UTC
+- Window: papers published since 2026-08-12 06:54 UTC
 - Matches: 9
 
-## 1. Entanglement depth and ancilla efficiency in quantum channel estimation
+## 1. Probing Impurity Quantum Criticality with Entanglement Witnesses
 
-- arXiv: `2608.11042v1`
-- Published: 2026-08-11 15:15 UTC
-- Authors: Javid Naikoo
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.11042v1) | [pdf](https://arxiv.org/pdf/2608.11042v1)
+- arXiv: `2608.12317v1`
+- Published: 2026-08-12 17:59 UTC
+- Authors: Mateo Cárdenes Wuttig, Andrew J. Millis
+- Categories: cond-mat.str-el, cond-mat.mes-hall, quant-ph
+- Links: [abs](https://arxiv.org/abs/2608.12317v1) | [pdf](https://arxiv.org/pdf/2608.12317v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We study the role of ancillary entanglement in quantum channel parameter estimation and investigate the minimal ancilla dimension required to achieve the maximum Fisher information. We introduce the $k$-ancilla Fisher information, which quantifies the optimal estimation precision achievable with input states of rank at most $k$, and derive a variational characterization in terms of a rank-constrained optimization problem. This formulation leads to a simple characterization of the minimum ancilla dimension $k^*$ required for optimal estimation, given by the minimum rank among the maximizers of…
+Entanglement is a defining feature of quantum mechanics, and its relation to quantum criticality is of considerable current interest. Here we show that measurable spin and charge fluctuations provide an entanglement witness of quantum criticality in the two-impurity Kondo model, which has experimental realizations in terms of coupled quantum dots and magnetic impurities added to surfaces. We use density-matrix renormalization group and numerical renormalization group calculations to resolve the non-Fermi-liquid critical point separating two independently Kondo-screened impurities from an…
 
-## 2. The entanglement-assisted transmission capacity is a strong converse bound for identification
+## 2. A sharp bound on spacetime distance from quantum entanglement
 
-- arXiv: `2608.11000v1`
-- Published: 2026-08-11 14:48 UTC
-- Authors: Satvik Singh
-- Categories: quant-ph, cs.IT, math.MG
-- Links: [abs](https://arxiv.org/abs/2608.11000v1) | [pdf](https://arxiv.org/pdf/2608.11000v1)
+- arXiv: `2608.12245v1`
+- Published: 2026-08-12 16:45 UTC
+- Authors: Zhi-Wei Wang, Arshid Shabir, Mir Faizal, Samuel L. Braunstein
+- Categories: hep-th, gr-qc, quant-ph
+- Links: [abs](https://arxiv.org/abs/2608.12245v1) | [pdf](https://arxiv.org/pdf/2608.12245v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Classical identification via a noisy channel is a communication task in which the receiver is not required to reconstruct the full transmitted message, but only to decide whether it coincides with a message of interest. This relaxation allows the number of identifiable messages to grow doubly exponentially with the blocklength. For quantum channels, the resulting (doubly exponential) identification capacity $C_{\mathrm{ID}}$ can strictly exceed the ordinary (exponential) transmission capacity $C$. In this paper, we prove that the entanglement-assisted transmission capacity $C_E$ is a strong…
+Ryu-Takayanagi established how boundary entanglement encodes bulk area. We provide the metric counterpart: boundary mutual information imposes a rigorous lower bound on bulk geodesic separation that diverges logarithmically as correlations vanish. A multiscale iteration promotes this local inequality to a global obstruction to bulk connectivity. For parallel strips in AdS$_5$/CFT$_4$, the bound necessitates a quantum resolution of the classical mutual-information transition and fixes the asymptotic growth of geodesic distance.
 
-## 3. Quantum Computing for Industrial Electromagnetics: Applicability and Case Studies in Solving Maxwell's Equations
+## 3. Floquet-Resolved Dissipation Selects Entanglement Beyond Population Spectroscopy
 
-- arXiv: `2608.10671v1`
-- Published: 2026-08-11 08:52 UTC
-- Authors: Francesco Turro, Marco Maronese, Daniele Dragoni
+- arXiv: `2608.12178v1`
+- Published: 2026-08-12 15:33 UTC
+- Authors: Gianluigi Pacino, Rosario Nicosia, Alessandro Ridolfo
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.10671v1) | [pdf](https://arxiv.org/pdf/2608.10671v1)
+- Links: [abs](https://arxiv.org/abs/2608.12178v1) | [pdf](https://arxiv.org/pdf/2608.12178v1)
 - Score: 4
-- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Computational electromagnetics plays a central role in many industrial applications but often requires substantial computational resources, particularly when fine spatial discretizations are needed. While classical approaches remain the standard, quantum computing offers the potential to accelerate large-scale simulations by encoding them with a limited number of qubits. Here, we investigate the performance and resource scaling of the Harrow-Hassidim-Lloyd (HHL) and Quantum Singular Value Transformation (QSVT) algorithms for solving linear systems generated by the finite-difference…
+Reliable quantum-state engineering in periodically driven devices requires more than reproducing their excitation spectrum: the environment must resolve the transitions of the driven system. We show that two dissipative descriptions of the same parametrically coupled qubits can yield closely similar period-averaged populations yet qualitatively different asymptotic entanglement. Both retain the complete periodically driven Hamiltonian, the same microscopic bath couplings, and the same physical observables; they differ in the dynamical representation used to resolve the dissipative channels…
 
-## 4. Projection measurement of the comb basis through free-electron-photon interactions
+## 4. The Min-Rains Relative Entropy Is Not Tight for Exact PPT Entanglement Distillation
 
-- arXiv: `2608.10831v1`
-- Published: 2026-08-11 11:59 UTC
-- Authors: Zihang Zou, Feng-Xiao Sun, Yunquan Liu, Qiongyi He
+- arXiv: `2608.12135v1`
+- Published: 2026-08-12 14:54 UTC
+- Authors: Chengkai Zhu, Xin Wang
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.10831v1) | [pdf](https://arxiv.org/pdf/2608.10831v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['quantum error mitigation', 'quantum computing']
+- Links: [abs](https://arxiv.org/abs/2608.12135v1) | [pdf](https://arxiv.org/pdf/2608.12135v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Free electrons, driven by rapid advances in photon-induced near-field electron microscopy, have emerged as a promising platform for quantum information processing, including quantum computing and quantum sensing. However, conventional measurements that rely on the electron energy loss spectrum (EELS) are inherently destructive to electron qubits, thereby constraining their applicability. In this Letter, we propose a scheme that performs projection measurement on the electron comb basis, where high measurement precision can be achieved with bright squeezed vacuum states and strong PINEM…
+Exact entanglement distillation converts a noisy bipartite state into a maximally entangled state with zero error. Under completely PPT-preserving operations, the additive min-Rains relative entropy provides a single-letter upper bound on the regularized distillation rate. An interesting problem in entanglement theory dating back to 2016 has been whether this bound is always tight. Here we resolve this question in the negative. The key is a tensor-stable rigidity absent from the min-Rains relaxation: every feasible exact-distillation effect must act as the identity on the support of the input…
 
-## 5. Universal scaling of spatially extended zero modes in inhomogeneous SSH chains
+## 5. Conditional dependence and Scrooge ensembles in shallow random quantum circuits
 
-- arXiv: `2608.11021v1`
-- Published: 2026-08-11 15:01 UTC
-- Authors: Gilles Parez, Nicolas Crampé, Quentin Labriet, Lucia Morey, Luc Vinet
-- Categories: cond-mat.str-el, cond-mat.stat-mech, quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.11021v1) | [pdf](https://arxiv.org/pdf/2608.11021v1)
+- arXiv: `2608.12255v1`
+- Published: 2026-08-12 16:56 UTC
+- Authors: Yinchen Liu, Max McGinley, Thomas Schuster, David Gosset
+- Categories: quant-ph, cond-mat.stat-mech
+- Links: [abs](https://arxiv.org/abs/2608.12255v1) | [pdf](https://arxiv.org/pdf/2608.12255v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Protected zero modes are a hallmark of topological phases of matter and are exponentially localized at sharp interfaces between distinct gapped phases. We investigate how this picture changes for smooth interfaces in a broad class of inhomogeneous Su-Schrieffer-Heeger (SSH) models. Combining an exact lattice solution with an inhomogeneous Dirac description, we show that the associated Jackiw-Rebbi zero mode becomes spatially extended. For arbitrary smooth hopping profiles, its lattice extension universally scales as the square root of the system size, independently of the microscopic details…
+The output state of a 2D geometrically local shallow random quantum circuit does not have long range correlations due to its lightcone structure. But this changes if one measures a subset of the qubits: long-range entanglement can be induced by the measurement process, leading to conditional correlations between distant qubits. In this paper we investigate the structure of conditional dependence in these circuits and its consequences for quantum advantage. For a tripartition $ABC$ of the qubits, we consider the ensemble of post-measurement states on $A$ that is conditioned on a specific…
 
-## 6. Quantum steering is equivalent to state-preserving conditional expectations
+## 6. Real-time topological rate at non-zero momentum in quenched QCD
 
-- arXiv: `2608.10783v1`
-- Published: 2026-08-11 10:43 UTC
-- Authors: Lauritz van Luijk, Amine Marrakchi, Tobias Osborne, Alexander Stottmeister, Henrik Wilming
-- Categories: quant-ph, math-ph, math.OA
-- Links: [abs](https://arxiv.org/abs/2608.10783v1) | [pdf](https://arxiv.org/pdf/2608.10783v1)
+- arXiv: `2608.12066v1`
+- Published: 2026-08-12 13:50 UTC
+- Authors: Claudio Bonanno, Massimo D'Elia, Roberto Dionisio, Giuseppe Gagliardi, Andrea Giorgieri, Francesco Sanfilippo et al.
+- Categories: hep-lat, hep-ph, hep-th
+- Links: [abs](https://arxiv.org/abs/2608.12066v1) | [pdf](https://arxiv.org/pdf/2608.12066v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['wilson']
+
+We present a proof-of-concept numerical study of the real-time topological rate at non-zero momentum in quenched lattice QCD at a temperature $T\simeq 1.24 \, T_c \simeq 360$ MeV, as an important step toward the determination of this quantity in full QCD. Our strategy, already applied to compute the sphaleron rate in pure Yang--Mills and in full QCD, extracts the rate from the resolution of an appropriate inverse problem, solved applying the Hansen--Lupo--Tantalo (HLT) method to the thermal Euclidean time-correlator of the topological charge density. This method requires to control three…
+
+## 7. Quantum Inequalities from the Second Law
+
+- arXiv: `2608.11817v1`
+- Published: 2026-08-12 08:58 UTC
+- Authors: Andrea Palessandro
+- Categories: quant-ph, math-ph
+- Links: [abs](https://arxiv.org/abs/2608.11817v1) | [pdf](https://arxiv.org/pdf/2608.11817v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-In systems with infinitely many degrees of freedom, fundamental results from quantum information theory can fail. An important example is the uniqueness of purifications: Even when two subsystems, described by commuting von Neumann algebras $A$ and $B$, are tomographically complete, purifications of a state on $A$ need not be related by unitaries in $B$. It was recently shown that this occurs precisely when Haag duality fails, i.e., when the commutant $B'$ is strictly larger than $A$. This raises the question of which fundamental entanglement properties survive in such a setting. We show…
+Quantum field theory allows local violations of the classical energy conditions, such as regions of negative energy density. The Ford-Roman quantum inequalities quantify how negative these regions can be and for how long. We present a derivation of these inequalities from the second law of thermodynamics, in an operational framework that couples the field to a small thermal detector. The detector acts as a physical probe of the field's energy density and, by the non-negativity of the entanglement entropy between the two systems, one can show that its heat loss is bounded from below by a…
 
-## 7. ProTAGAD: A Foundation Model for TAG Anomaly Detection with Decoupled Topological and Textual Prototypes
+## 8. Continuous-variable state moments from randomized homodyne and heterodyne measurements
 
-- arXiv: `2608.10699v1`
-- Published: 2026-08-11 09:20 UTC
-- Authors: Ziyan Wang, Liwen Wu, Cheng Xie, Song Gao, Zhenli He, Xin Jin
-- Categories: cs.LG, cs.AI
-- Links: [abs](https://arxiv.org/abs/2608.10699v1) | [pdf](https://arxiv.org/pdf/2608.10699v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Text-Attributed Graphs (TAGs), endowed with abundant textual content along with topological structures, have emerged as a versatile backbone for real-world anomaly detection spanning large language model security, social network moderation, and cyber threat identification. Unlike conventional Graph Anomaly Detection (GAD), which relies primarily on structural irregularities, TAG anomaly detection must jointly leverage both topological patterns and fine-grained textual semantics to capture nuanced anomalous behaviors. The current GNN-based anomaly detectors adopt holistic message-passing…
-
-## 8. Photonic realization of a subgraph extraction in a quantum random network
-
-- arXiv: `2608.10663v1`
-- Published: 2026-08-11 08:46 UTC
-- Authors: Lijun Xia, Xuemei Gu, Kai Wang, Leizhen Chen, Mario Krenn, Yan-Qing Lu et al.
+- arXiv: `2608.11811v1`
+- Published: 2026-08-12 08:53 UTC
+- Authors: Michael Tsesmelis, Moritz Straeter, Leong-Chuan Kwek
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.10663v1) | [pdf](https://arxiv.org/pdf/2608.10663v1)
+- Links: [abs](https://arxiv.org/abs/2608.11811v1) | [pdf](https://arxiv.org/pdf/2608.11811v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Understanding how complex connectivity emerges in networks is a fundamental challenge in classical and quantum science. In classical random networks, complex subgraphs typically require relatively high connection probabilities, whereas quantum random network theory predicts that such structures can arise at a single, lower threshold through entanglement and local operations. Here, using an integrated silicon photonic chip, we experimentally realize a quantum subgraph predicted by quantum random network theory in a four-node quantum random network. Our integrated platform exploits…
+Continuous-variable (CV) quantum states are naturally characterized by their moments, defined as expectation values of products of single- or multimode ladder operators. Many CV Hamiltonians and quantum algorithms are formulated directly in terms of these moments, and therefore an efficient procedure to estimate moments with limited state measurements is necessary. In this paper, we present a protocol for shadow tomography of moment-generating functions (MGFs) of CV states based on randomized homodyne and heterodyne measurements. The resulting shadows enable an efficient and concurrent…
 
-## 9. Stream Decoding with Confidence Scores at Room and Cryogenic Temperatures
+## 9. A 12-CNOT Double Qubit Excitation Gate
 
-- arXiv: `2608.10576v1`
-- Published: 2026-08-11 07:01 UTC
-- Authors: Maries Tahaab, Tim Chan, James Kirkman, Simon C. Benjamin
-- Categories: quant-ph, cs.DC
-- Links: [abs](https://arxiv.org/abs/2608.10576v1) | [pdf](https://arxiv.org/pdf/2608.10576v1)
+- arXiv: `2608.11733v1`
+- Published: 2026-08-12 07:12 UTC
+- Authors: Irfansha Shaik
+- Categories: quant-ph, cs.AI
+- Links: [abs](https://arxiv.org/abs/2608.11733v1) | [pdf](https://arxiv.org/pdf/2608.11733v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-In fault-tolerant quantum computing, fast and accurate decoding is crucial. Snowflake is a decoder for the surface code that runs in a streaming fashion. In this paper, we implement Snowflake on commercial FPGAs and validate them at room and cryogenic temperatures. Our results demonstrate high decoding throughput for small code distances that, when extrapolated, remains within acceptable limits for larger distances. Further, we incorporate the calculation of certain decoder confidence scores with negligible overhead both in terms of latency and physical resource utilisation. We note that…
+Effective implementation of high-level quantum gates is essential for practical quantum computing. To the best of our knowledge, we present the first reported 12-CNOT decomposition of the double qubit excitation operator, improving upon state-of-the-art (SOTA) implementations with 13 CNOTs. Our new circuit has the lowest CNOT count (12), lowest CNOT depth (10), and lowest total circuit depth (16) among all the previous SOTA circuits. Further, we only added 2 extra one-qubit gates compared to the lowest one-qubit gate count (11) among the previous SOTA circuits.
