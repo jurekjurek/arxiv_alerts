@@ -1,149 +1,125 @@
 # arXiv alert report
 
-- Generated: 2026-08-18 05:52 UTC
-- Window: papers published since 2026-08-17 05:52 UTC
-- Matches: 12
+- Generated: 2026-08-19 05:53 UTC
+- Window: papers published since 2026-08-18 05:53 UTC
+- Matches: 10
 
-## 1. Krylov complexity of anyons
+## 1. Three-qubit entanglement in the Bethe-Heitler process
 
-- arXiv: `2608.16595v1`
-- Published: 2026-08-17 13:52 UTC
-- Authors: Ya-Nan Wang, Qing-Min Hu, Wen-Long You, Gaoyong Sun
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.16595v1) | [pdf](https://arxiv.org/pdf/2608.16595v1)
-- Score: 4
-- Keyword hits: title=['krylov'] abstract=['krylov']
-
-Anyons obey fractional statistics that lie between bosonic and fermionic statistics, giving rise to a broad range of intriguing phenomena. However, how anyonic statistics govern quantum-state complexity is still largely unexplored. In this work, we investigate the interplay between the statistical phase and on-site interactions in the anyon-Hubbard model, identifying exact quantum many-body scar eigenstates and novel quench dynamics. The Krylov complexity exhibits perfect periodic revivals independent of the statistical phase in the scarred dynamics, whereas after a quench it depends on both…
-
-## 2. Scientific applications of quantum computing: challenges and opportunities
-
-- arXiv: `2608.16568v1`
-- Published: 2026-08-17 13:35 UTC
-- Authors: Bruno Camino, C. Richard A. Catlow, John Buckeridge, Alin M. Elena, Vladimir V. Gusev, Sarah Harris et al.
-- Categories: quant-ph, cond-mat.mtrl-sci, physics.bio-ph, physics.chem-ph
-- Links: [abs](https://arxiv.org/abs/2608.16568v1) | [pdf](https://arxiv.org/pdf/2608.16568v1)
-- Score: 4
-- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
-
-The predictive simulation of molecules and materials has had a broad and significant impact. It nevertheless remains constrained by the cost of accurately treating electronic correlation, excited states, and complex energy landscapes. Quantum computing offers a fundamentally different computational paradigm in which quantum states are encoded and manipulated directly rather than approximated on classical hardware. Here we discuss where this approach may provide a genuine scientific advantage in chemistry, materials science, and biochemistry. Promising directions include the high-accuracy…
-
-## 3. Dynamical spectral functions from bitstring-sampled quantum subspaces: entanglement, not one-body magic, tracks the sampling cost
-
-- arXiv: `2608.16436v1`
-- Published: 2026-08-17 11:35 UTC
-- Authors: Nicolás Bonilla Vargas
-- Categories: quant-ph, cond-mat.str-el
-- Links: [abs](https://arxiv.org/abs/2608.16436v1) | [pdf](https://arxiv.org/pdf/2608.16436v1)
+- arXiv: `2608.18030v1`
+- Published: 2026-08-18 17:24 UTC
+- Authors: Haotian Cao, Yuxun Guo, Yoshitaka Hatta, Jakob Schoenleber
+- Categories: quant-ph, hep-ph, nucl-th
+- Links: [abs](https://arxiv.org/abs/2608.18030v1) | [pdf](https://arxiv.org/pdf/2608.18030v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Sample-based quantum diagonalization (SQD) and quantum-selected configuration interaction (QSCI) are the electronic-structure methods with most hardware traction, yet their canonical target -- the ground-state energy -- is where classical methods have caught up. We move the target to dynamics and the resource question. From one bitstring-sampling primitive -- computational-basis measurements of a shallow real-time circuit, with no Hadamard or controlled unitaries -- we reconstruct, from sampled subspaces, the single-particle spectral functions $A(ω)$ and $A(k,ω)$ and the neutral-sector…
+The familiar Bethe-Heitler process on the proton target $e+p\to e+p+γ$ is transformed into a laboratory for studying multiparticle entanglement. We discuss how bipartite and genuine tripartite entanglement between the final state electron, proton and photon are built up by successive $1\to 2$ and $2\to 2$ elementary interactions. We validate our argument by simulating events. Below 5 GeV center-of-mass energy, we identify more than 900 Greenberger-Horne-Zeilinger (GHZ) states and 1200 W states, each with a fidelty exceeding 99%.
 
-## 4. Quantum Wave-Particle Duality in Free-Electron--Free-Electron Entanglement
+## 2. Dressed magnon dynamics in a Bose-Hubbard bath: retardation, pairing, entanglement and two-magnon scattering
 
-- arXiv: `2608.16292v1`
-- Published: 2026-08-17 09:03 UTC
-- Authors: Du Ran, Jing-Yi Liu, Dan Jin, Peng-Yu Su, Reuven Ianconescu, Shuai Liu et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.16292v1) | [pdf](https://arxiv.org/pdf/2608.16292v1)
+- arXiv: `2608.17980v1`
+- Published: 2026-08-18 16:30 UTC
+- Authors: Andrés N. Cáliz, Arnau Riera, Enrique Rico, João Barata, Marcin Płodzień
+- Categories: quant-ph, cond-mat.quant-gas
+- Links: [abs](https://arxiv.org/abs/2608.17980v1) | [pdf](https://arxiv.org/pdf/2608.17980v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Point-particle descriptions of electron-electron interaction omit the coherent longitudinal extent of a free-electron quantum wave packet (QEW). A relativistic two-electron wave-packet theory identifies the longitudinal QEW size as a direct control parameter for entanglement generated by mutual electromagnetic coupling. For two electrons in spatially separated paths, the quadratic interaction phase gives a dimensionless entangling parameter $\Gee$ and the logarithmic negativity $\EN=\operatorname{arsinh}(\Gee)/\ln2$. Full time-dependent Schrödinger equation calculations confirm the scaling…
+We study one- and two-magnon dynamics in a spin-$1/2$ XX chain coupled to a tunable Bose-Hubbard bath. The XX Hamiltonian transports the magnons, while the bath dresses their motion and mediates an effective attraction. A single magnon forms a mobile polaron whose retarded bosonic cloud reduces its velocity below the static Lang-Firsov prediction and generates magnon-boson entanglement. In the weak-dressing, off-resonant mobile regime, the residual velocity deficit and entanglement are governed by the excitation weight of the cloud, as captured by perturbation theory and tensor network-based…
 
-## 5. Scalable nuclear shell model calculations on noisy quantum computers
+## 3. Characterizing Entanglement in Combinations of Bell States through Superposition and Mixing: An Increase in Entanglement on Introducing Depolarizing, Phase Damping, and Amplitude Damping Noise
 
-- arXiv: `2608.16371v1`
-- Published: 2026-08-17 10:23 UTC
-- Authors: Durgesh Pandey, Ankit Kumar Das, P. Arumugam
-- Categories: nucl-th, quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.16371v1) | [pdf](https://arxiv.org/pdf/2608.16371v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['variational quantum eigensolver', 'vqe']
-
-The exact diagonalization of the nuclear shell model scales exponentially, leading to severe memory bottlenecks in classical high-performance computing (HPC). While hybrid quantum algorithms like the Variational Quantum Eigensolver (VQE) aim to overcome these limits, their deep quantum circuits and iterative feedback loops are susceptible to substantial noise inherent in the current Noisy Intermediate-Scale Quantum (NISQ) hardware. This noise renders several algorithms, such as the VQE, impractical for large-scale calculations despite sophisticated noise-mitigation techniques. As a pragmatic…
-
-## 6. Optimizing Subspace Expansion in Quantum Chemistry through Operator Selection and Reference State Choice
-
-- arXiv: `2608.16362v1`
-- Published: 2026-08-17 10:14 UTC
-- Authors: Konstantin Lamp, Alejandro D. Somoza, Elias Walter, Marina Walt, Michael Marthaler, Maria Fernanda Juarez et al.
-- Categories: quant-ph, physics.chem-ph
-- Links: [abs](https://arxiv.org/abs/2608.16362v1) | [pdf](https://arxiv.org/pdf/2608.16362v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['variational quantum eigensolver', 'vqe']
-
-The Virtual Quantum Subspace Expansion (VQSE) extends the Variational Quantum Eigensolver (VQE) by leveraging additional measurements on the reference state to capture the influence of excluded virtual orbitals. This makes VQSE attractive for chemical applications where accurate energy differences along potential energy surfaces are crucial for modeling reaction rates and kinetics. In this work, we analyze VQSE performance on H$_2$ dissociation including references that use Hartree--Fock molecular orbitals with broken spin symmetry. We identify two mechanisms which affect accuracy: overlap of…
-
-## 7. TRACE-Bench: Decomposing and Diagnosing Multi-Reference Image Generation
-
-- arXiv: `2608.16765v1`
-- Published: 2026-08-17 16:15 UTC
-- Authors: Haoran Wang, Chaofan Ma, Ran Yi, Lizhuang Ma
-- Categories: cs.CV, cs.AI
-- Links: [abs](https://arxiv.org/abs/2608.16765v1) | [pdf](https://arxiv.org/pdf/2608.16765v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Despite recent advances in unified multimodal models for multi-reference image generation, existing benchmarks remain organized around predefined task types (e.g., "subject composition"), which are ill-suited to this combinatorial setting and lead to fragmented coverage, uncontrolled complexity, and little diagnostic value. Recognizing that diverse multi-reference tasks share a common set of atomic operations, we adopt a capability-oriented perspective and formalize four operators: Anchor ($f$), Disentangle ($g$), Apply ($\oplus$), and Compose ($C$). Any multi-reference prompt can then be…
-
-## 8. Crossover from Fast Scrambling to Operator Confinement Tuned by an Auxiliary Qubit
-
-- arXiv: `2608.16674v1`
-- Published: 2026-08-17 15:01 UTC
-- Authors: Ryan Buechele, Joseph Szabo, Nandini Trivedi
-- Categories: quant-ph, cond-mat.other
-- Links: [abs](https://arxiv.org/abs/2608.16674v1) | [pdf](https://arxiv.org/pdf/2608.16674v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-We demonstrate a static, disorder-free spin chain Hamiltonian which, by tuning the coupling to an auxiliary qubit, realizes a crossover between super-ballistic, ancilla-accelerated scrambling and sub-ballistic operator confinement. Our minimal model is the mixed-field Ising chain with a spin-1/2 ancilla coupled to its longitudinal magnetization. The ancilla mediates an effective all-to-all interaction which accelerates operator spreading and entanglement growth when weakly coupled, but rapidly saturates its entanglement and projects spin chain operators into effectively frozen subspaces when…
-
-## 9. Scarred discrete time crystal in a periodically driven dimerized spin chain
-
-- arXiv: `2608.16616v1`
-- Published: 2026-08-17 14:17 UTC
-- Authors: Davood Marripour, Saeed S. Jahromi, Jahanfar Abouie
-- Categories: cond-mat.str-el, cond-mat.dis-nn, quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.16616v1) | [pdf](https://arxiv.org/pdf/2608.16616v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-We investigate the emergence of a scarred discrete time crystal (SDTC) phase in a periodically driven dimerized spin chain. While generic interacting Floquet systems are expected to thermalize according to the eigenstate thermalization hypothesis (ETH), we demonstrate that this system hosts quantum many-body scars (QMBS) that induce a regime of weak ergodicity breaking. Through an analysis of Floquet level statistics, entanglement entropy, and eigenstate fidelity, we identify a manifold of low-entanglement states characterized by semi-Poisson statistics embedded within an otherwise thermal…
-
-## 10. Quantum gate lower bounds for loss-tolerant position verification
-
-- arXiv: `2608.16495v1`
-- Published: 2026-08-17 12:33 UTC
-- Authors: Alex May, Philip Verduyn Lunel
+- arXiv: `2608.17500v1`
+- Published: 2026-08-18 08:27 UTC
+- Authors: Nishant Chaudhari, Jean-François Van Huele
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.16495v1) | [pdf](https://arxiv.org/pdf/2608.16495v1)
+- Links: [abs](https://arxiv.org/abs/2608.17500v1) | [pdf](https://arxiv.org/pdf/2608.17500v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+We systematically characterize quantum entanglement in all sixteen combinations of two-qubit Bell states across three operational regimes: pure superposition, noiseless mixing, and asymmetric mixing of one noisy and one pure Bell state. For pure superpositions, we calculate the von Neumann entropy and show that entanglement depends critically on the relative phase phi between superposed states. For mixed states, we use concurrence C under three physically motivated decoherence channels. The Depolarizing (DP) and Phase Damping (PD) channels are modeled as global, collective operations on the…
+
+## 4. Computationally Efficient Optimization of Per-Qubit Clifford Deformation for Non-uniform Biased Noise
+
+- arXiv: `2608.17870v1`
+- Published: 2026-08-18 15:05 UTC
+- Authors: Won Joon Yun, Andrew Nemec, Jonathan M. Baker
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2608.17870v1) | [pdf](https://arxiv.org/pdf/2608.17870v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+In fault-tolerant quantum computing systems with biased noise, Clifford deformation can substantially reduce the logical error rate (LER) without additional physical hardware overhead, such as extra qubits, syndrome extraction rounds, or code distance. Although Google Willow calibration data shows that $43\%$ of qubits exhibit strong $X/Z$ bias, existing calibration-aware deformation techniques remain impractical: (1) global searches over the $6^n$ deformation choices rely on computing-intensive simulations, and (2) local heuristics often underperform undeformed baselines. We present…
+
+## 5. A quantum optical concept of attosecond pulses: the attoquants
+
+- arXiv: `2608.17854v1`
+- Published: 2026-08-18 14:48 UTC
+- Authors: Sándor Varró, Ákos Gombkötő
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2608.17854v1) | [pdf](https://arxiv.org/pdf/2608.17854v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Quantum position-verification is a cryptographic task wherein a verifier attempts to establish the location in space of a prover. Recent experiments have implemented a well-studied class of position-verification schemes, known as the $f$-BB84 scenario, but their security under realistic loss and imperfect state preparation remains incompletely understood. We give a new lower bound on any attack on this scheme, in particular proving nearly-linear quantum gate lower bounds on the attacker, even when allowing the attacker to declare a transmission loss of up to $50\%$, allowing for the…
+High-harmonic generation (HHG) is conventionally understood to produce attosecond pulse trains only when the emitted harmonics are mutually phase-locked, in accordance with the classical theory of mode-locking. Such locking is necessary for pulse synthesis when the harmonic field is in a separable multimode quantum state. This requirement, however, can be circumvented entirely for harmonic combs exhibiting intermodal entanglement. We introduce a novel family of multimode quantum states, termed attoquants: states associated with highly structured pulse trains that are inherently insensitive to…
 
-## 11. Negative quasiprobability trajectories for Bell-diagonal states under local decoherence
+## 6. Operational thresholds of Bell mixtures with complex X noise
 
-- arXiv: `2608.16358v1`
-- Published: 2026-08-17 10:10 UTC
-- Authors: Qing Yu, Kun Zhang, Yang-Yang Chen, Xiao-Hui Wang
+- arXiv: `2608.17609v1`
+- Published: 2026-08-18 10:18 UTC
+- Authors: Xuan Du Trinh
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.16358v1) | [pdf](https://arxiv.org/pdf/2608.16358v1)
+- Links: [abs](https://arxiv.org/abs/2608.17609v1) | [pdf](https://arxiv.org/pdf/2608.17609v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-The fluctuation theorem (FT) relates microscopic trajectory distributions to macroscopic averages. Using quasiprobability trajectories, this framework has recently been extended to quantum information dynamics. Despite sharing the form of conventional thermodynamic FTs, information FTs involve quasiprobabilities whose negativity and statistical properties remain poorly understood. We analytically determine the properties of negative distributions based on the two-qubit Bell-diagonal states evolving under local dephasing, depolarizing, and amplitude-damping channels. We show that the…
+Noisy Bell mixtures may carry entanglement, standard teleportation usefulness, projective-measurement steerability, and optimized Cavalcanti-Jones-Wiseman-Reid (CJWR) and Clauser-Horne-Shimony-Holt (CHSH) violations. If the noise already has an ability, the mixture may lose and later recover it at distinct boundary crossings as the Bell weight decreases. We characterize ability-absence intervals and definitive thresholds for mixtures of $|Φ^+\rangle$ with arbitrary complex two-qubit $X$ noise. A closed-form singular-value flow of the Pauli correlation tensor gives the exact…
 
-## 12. Quantum Mpemba Speedups in the Thermodynamics of Landauer Erasure
+## 7. Automating Variational Quantum Sensing through Reinforcement-Learned Circuit Structures
 
-- arXiv: `2608.16254v1`
-- Published: 2026-08-17 08:25 UTC
-- Authors: Pritam Chattopadhyay
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.16254v1) | [pdf](https://arxiv.org/pdf/2608.16254v1)
+- arXiv: `2608.17582v1`
+- Published: 2026-08-18 09:47 UTC
+- Authors: Jie Liu, Xin Wang
+- Categories: quant-ph, cond-mat.dis-nn
+- Links: [abs](https://arxiv.org/abs/2608.17582v1) | [pdf](https://arxiv.org/pdf/2608.17582v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['trapped ions']
+- Keyword hits: title=[] abstract=['entanglement']
 
-We investigate how nonequilibrium quantum initial states can reduce the finite-time thermodynamic cost of Landauer erasure. Considering a general finite-dimensional quantum memory coupled to a thermal reservoir via a Davies generator, we show that the dissipated heat at a fixed operational erasure fidelity is largely controlled by the overlap of the initial state with the slowest Liouvillian relaxation mode. We derive a modified finite-time Landauer bound in which the excess dissipation above the quasistatic limit scales quadratically with this slow mode projection, and we prove a sufficient…
+Variational quantum sensing offers a promising route to high-precision parameter estimation, but its performance depends strongly on the circuit architectures used for probe preparation and measurement. Existing approaches typically optimize continuous parameters within predefined ansätze, restricting the accessible design space and limiting adaptation to sensing tasks and hardware constraints. Here, we introduce \textsc{AutoQSense}, a reinforcement-learning framework that searches circuit architectures using Fisher-information-based objectives. For few-qubit systems, a single agent…
+
+## 8. No extension of the Quantum Tensor Product admits a Superposition principle
+
+- arXiv: `2608.17572v1`
+- Published: 2026-08-18 09:30 UTC
+- Authors: Vincenzo Fiorentino, Kuntal Sengupta
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2608.17572v1) | [pdf](https://arxiv.org/pdf/2608.17572v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Textbook quantum superposition refers to the feature that certain linear combinations of Hilbert space rays, each representing a valid quantum state, are themselves valid states. This notion is not operational, and it relies on the underlying Hilbert space formalism. Recent proposals for experimental tests of indefinite causal order, as well as tests probing the non-classicality of gravity, pivot on superposition, thereby calling for a theory-independent, operational formalisation of the concept. Here, we define superposition within the framework of Generalised Probabilistic Theories, based…
+
+## 9. Absorption-emission quantum repeater using diamond quantum memories
+
+- arXiv: `2608.17470v1`
+- Published: 2026-08-18 07:56 UTC
+- Authors: Taichi Fujiwara, Yuhei Sekiguchi, Raustin Reyes, Toshiharu Makino, Hiromitsu Kato, Hideo Kosaka
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2608.17470v1) | [pdf](https://arxiv.org/pdf/2608.17470v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Quantum repeaters are essential for overcoming the exponential photon loss that limits entanglement generation over long distances in quantum networks. An absorption-emission-based quantum repeater exploits the fundamental light-matter interactions of a diamond nitrogen-vacancy (NV) center---photon absorption and photon emission---to transfer a quantum state from an absorbed photon to an emitted photon, offering a scalable architecture that operates without photon interference between remote nodes. Here we demonstrate an absorption-emission-based quantum repeater node using a single NV…
+
+## 10. Quantum sensors that compute: quantum computational magnetic-field sensing using a superconducting qubit
+
+- arXiv: `2608.17400v1`
+- Published: 2026-08-18 05:54 UTC
+- Authors: Purnendu Sen, Mathieu Ouellet, Saeed A. Khan, Wayne Wang, Sridhar Prabhu, Alen Senanian et al.
+- Categories: quant-ph, physics.app-ph, physics.ins-det
+- Links: [abs](https://arxiv.org/abs/2608.17400v1) | [pdf](https://arxiv.org/pdf/2608.17400v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+A measurement of a single-qubit quantum sensor reveals at most 1 bit of information about the signal that was sensed. To perform a classification task on the signal, the conventional approach is to repeat a sensing protocol many times, averaging the measurement results to obtain a high-precision estimate of the sensed signal, and then to apply classical postprocessing. Quantum computational sensing (QCS) is an alternative approach that breaks with the paradigm of first obtaining a classical estimate of the signal and then computing a function of the estimated signal in postprocessing. QCS…
