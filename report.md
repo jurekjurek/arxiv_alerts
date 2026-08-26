@@ -1,137 +1,125 @@
 # arXiv alert report
 
-- Generated: 2026-08-25 05:56 UTC
-- Window: papers published since 2026-08-24 05:56 UTC
-- Matches: 11
+- Generated: 2026-08-26 05:57 UTC
+- Window: papers published since 2026-08-25 05:57 UTC
+- Matches: 10
 
-## 1. Quantifying the dimensionality of multiparticle entanglement via partition rank
+## 1. Distributed Resource Theory of Entanglement and Magic
 
-- arXiv: `2608.23399v1`
-- Published: 2026-08-24 15:46 UTC
-- Authors: Sophia Denker, Ismaël Septembre, Robin Krebs, Otfried Gühne
+- arXiv: `2608.24299v1`
+- Published: 2026-08-25 09:25 UTC
+- Authors: Xiao Yuan, Wenhao Zhang, Qiming Ding, You Zhou
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.23399v1) | [pdf](https://arxiv.org/pdf/2608.23399v1)
+- Links: [abs](https://arxiv.org/abs/2608.24299v1) | [pdf](https://arxiv.org/pdf/2608.24299v1)
+- Score: 5
+- Keyword hits: title=['entanglement'] abstract=['quantum computing', 'entanglement']
+
+In distributed fault-tolerant quantum computing, entanglement and magic are essential resources for quantum communication and universal fault-tolerant computation, respectively. Although they are usually treated as distinct resource currencies, whether they admit a unified resource-theoretic description remains an open question. Here, we introduce the distributed resource theory of entanglement and magic (DREAM). In this framework, the free states are convex mixtures of product local stabilizer states, and the free operations are local stabilizer circuits assisted by classical communication…
+
+## 2. Transport interpretation of entanglement Hamiltonian cumulants in integrable quantum quenches
+
+- arXiv: `2608.24613v1`
+- Published: 2026-08-25 14:31 UTC
+- Authors: Riccardo Travaglino, Pasquale Calabrese
+- Categories: cond-mat.stat-mech, quant-ph
+- Links: [abs](https://arxiv.org/abs/2608.24613v1) | [pdf](https://arxiv.org/pdf/2608.24613v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-The usefulness of entanglement as a resource in quantum technologies increases for larger systems, that is, if more particles or higher-dimensional quantum systems are considered. Yet, the interplay between dimensionality and multiparticle entanglement is not well understood. Only for two-particle systems an unambiguous and coherent notion of entanglement dimensionality, based on the Schmidt decomposition, is known. We introduce a concept to characterize the entanglement dimensionality of multiparticle states based on decompositions of pure states into superpositions of states without genuine…
+We study the dynamics of the cumulants of the entanglement Hamiltonian in interacting integrable models following global quantum quenches. Building on recent results based on space-time duality, we show that these cumulants are exactly given by the cumulants of currents of suitable conserved charges evaluated in the macrostate selected by the initial state. This establishes a direct connection between entanglement dynamics and transport, providing a transport counterpart to the quasiparticle picture that successfully describes the evolution of the von Neumann entropy. In the free-fermion and…
 
-## 2. Entanglement-enhanced fluctuation-free daemonic ergotropy with random measurements
+## 3. A Theory of Finite-Noise Optima and Generalization in Quantum Machine Learning
 
-- arXiv: `2608.23372v1`
-- Published: 2026-08-24 15:19 UTC
-- Authors: Saptarshi Roy, Pritam Halder, Tamal Guha, Hyunseok Jeong
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.23372v1) | [pdf](https://arxiv.org/pdf/2608.23372v1)
+- arXiv: `2608.24229v1`
+- Published: 2026-08-25 08:32 UTC
+- Authors: Ziyu Zhang, Zikang Jia, Xiaosong Li, Yulong Dong
+- Categories: quant-ph, cs.LG
+- Links: [abs](https://arxiv.org/abs/2608.24229v1) | [pdf](https://arxiv.org/pdf/2608.24229v1)
 - Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
+- Keyword hits: title=['quantum machine learning'] abstract=['quantum machine learning']
 
-Optimized daemonic ergotropy can make entanglement thermodynamically dispensable in measurement-assisted work extraction: for a fixed system marginal, quantum-classical states can reproduce the maximal work obtainable by optimizing the auxiliary measurement. We show that this equivalence is broken when the auxiliary measurement is randomized. For qudit-qubit quantum-classical states under Haar-random projective measurements, we derive upper bounds on the averaged daemonic gain and prove a gain-fluctuation trade-off, showing that any positive randomized gain necessarily entails…
+Quantum noise is expected to degrade quantum machine learning by driving circuits away from their noiseless implementations. Yet recent studies show moderate noise can reduce testing error, a behavior unexplained by weak-noise perturbative error accumulation or strong-noise trainability collapse. Here we develop a statistical learning theory connecting microscopic noise processes to macroscopic learning performance. At its heart is a noise-order purity parameter, derived from a surrogate model analysis, that predicts the noise-induced reduction in model complexity and the consequent reduction…
 
-## 3. Dark-Mode Control of Contrasting Entanglement and Bell Nonlocality between Mechanical Oscillators
+## 4. Graphix: A software framework for Measurement-Based Quantum Computation
 
-- arXiv: `2608.23113v1`
-- Published: 2026-08-24 11:22 UTC
-- Authors: Souvik Agasti, Philippe Djorwe, Xin Zhou
+- arXiv: `2608.24781v1`
+- Published: 2026-08-25 16:23 UTC
+- Authors: Mateo Uldemolins, Pranav Nair, Emlyn Graham, Shinichi Sunami, Thierry Martinez, Maxime Garnier
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.23113v1) | [pdf](https://arxiv.org/pdf/2608.23113v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-This study presents a detailed proposal for an optomechanical system consisting of two mechanical oscillators coupled to a common cavity, aimed at generating pure and entangled two-mode squeezed mechanical steady states. We found that the violation of Bell's measurement may not occur where the entanglement is maximum; rather, nonlocality can be observed for lower entangled states. A central result is that optomechanical coupling imperfections can enhance mechanical entanglement while simultaneously suppressing Bell nonlocality by reducing the purity of the mechanical state. To mitigate this…
-
-## 4. Physics-Guided Linear Mapper for Quantum Error Mitigation
-
-- arXiv: `2608.23109v1`
-- Published: 2026-08-24 11:19 UTC
-- Authors: Tulsi Chaudhari, Krishna Bhatia, Shalini Devendrababu, Srinjoy Ganguly, Luis Gerardo Ayala Bertel
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.23109v1) | [pdf](https://arxiv.org/pdf/2608.23109v1)
-- Score: 4
-- Keyword hits: title=['quantum error mitigation'] abstract=['quantum error mitigation']
-
-We introduce a novel physics-guided linear mapper (PGLM) for quantum error mitigation that uses seven distinct interpretable features derived from circuit complexity and device calibration data. The goal is to provide a data-efficient, interpretable, and low-latency alternative to the black-box machine learning for quantum error mitigation in noisy-intermediate scale quantum devices. Evaluated on 52 simulated benchmark circuits (1--4 qubits), PGLM demonstrates strong performance in noise-accumulation regimes: 50.1% RMSE reduction on 3-qubit circuits and 32.3% on 4-qubit circuits, while…
-
-## 5. Extreme-ultraviolet spectroscopy using quantum logic: a feasibility study for singly-ionized helium
-
-- arXiv: `2608.23516v1`
-- Published: 2026-08-24 17:22 UTC
-- Authors: A. Martínez de Velasco, V. P. J. Barbé, E. L. Gründeman, A. Díaz Calderon, M. Collombon, J. J. Krauth et al.
-- Categories: physics.atom-ph, quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.23516v1) | [pdf](https://arxiv.org/pdf/2608.23516v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['trapped ions']
-
-Extreme-ultraviolet (XUV) spectroscopy represents an important new direction in precision physics, with potential applications ranging from the metrology of fundamental constants to tests of physics beyond the Standard Model. However, the application of quantum control methods for precision spectroscopy remains an open challenge in the XUV range. Here we present a novel quantum logic (QL) spectroscopy method for precision spectroscopy of weak XUV transitions, and numerically validate its feasibility for the $1S-2S$ transition at 40.81\,eV in singly-ionized helium (He$^{+}$). We propose a…
-
-## 6. Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty
-
-- arXiv: `2608.23497v1`
-- Published: 2026-08-24 16:57 UTC
-- Authors: Yipeng Zhao, Qishun Yang, Shenzhe Zhu, Shu Yang, Di Wang
-- Categories: cs.AI, cs.CL
-- Links: [abs](https://arxiv.org/abs/2608.23497v1) | [pdf](https://arxiv.org/pdf/2608.23497v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Reasoning-Induced Misalignment, where fine-tuning on reasoning data containing no harmful content, including mathematics, code, and problem-solving with chain-of-thought traces can induce harmful behaviors of LLM, posing a serious challenge to the safety of LLM reasoning. Cross-architecture, cross-scale, and cross-dataset checks show that RIM does not always emerge. Previous work attributed RIM to neuron-level entanglement, but did not identify the geometry of the representation space underlying this entanglement or propose a training-time fix. We provide both: a representation-space analysis…
-
-## 7. Quantum Monte Carlo in the Age of Many-Body Quantum Information
-
-- arXiv: `2608.23231v1`
-- Published: 2026-08-24 13:21 UTC
-- Authors: Yi-Ming Ding, Bin-Bin Mao, Zheng Yan
-- Categories: quant-ph, cond-mat.stat-mech, cond-mat.str-el
-- Links: [abs](https://arxiv.org/abs/2608.23231v1) | [pdf](https://arxiv.org/pdf/2608.23231v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Quantum Monte Carlo (QMC) methods are among the central numerical tools for studying strongly correlated quantum many-body systems, particularly in higher dimensions. As quantum information has introduced new information-theoretic perspectives and diagnostics into many-body physics, QMC methods have accordingly been extended beyond the measurement of conventional linear observables. This review summarizes recent progress in adapting QMC to many-body quantum-information, focusing on qubit or spin-$1/2$ systems as a concrete setting while keeping the discussion broadly applicable to qudit and…
-
-## 8. Efficient Quantum Simulation of Linearized Vlasov--Poisson Dynamics Using Trotter and THRIFT Hamiltonian Simulation Methods
-
-- arXiv: `2608.23127v1`
-- Published: 2026-08-24 11:34 UTC
-- Authors: Kartick Paul, Rahul V, S. Aravinda, Reetesh K. Gangwar
-- Categories: quant-ph, physics.comp-ph, physics.plasm-ph
-- Links: [abs](https://arxiv.org/abs/2608.23127v1) | [pdf](https://arxiv.org/pdf/2608.23127v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-The Vlasov--Poisson system provides the fundamental kinetic description of plasma and plays a central role in understanding collective phenomena such as Landau damping and wave--particle interactions. Efficient numerical simulation of these dynamics remains challenging because of the high dimensionality of phase space. In this work, we studied magnetized and non-magnetized plasma using a quantum simulation framework for the linearized Vlasov-Poisson equation by reformulating the discretized system as a Hermitian Hamiltonian suitable for gate-based quantum computation. The time evolution is…
-
-## 9. A Unified Quantum Neural Network Framework for Hamiltonian Learning and Emulation of Unknown Quantum Systems
-
-- arXiv: `2608.23025v1`
-- Published: 2026-08-24 09:30 UTC
-- Authors: Ahmad Salmanogli
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.23025v1) | [pdf](https://arxiv.org/pdf/2608.23025v1)
+- Links: [abs](https://arxiv.org/abs/2608.24781v1) | [pdf](https://arxiv.org/pdf/2608.24781v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Accurate identification of unknown quantum systems is essential for quantum computing, sensing, and control because the Hamiltonian governs quantum state evolution. This work proposes a QNN based framework for black box Hamiltonian learning and quantum system emulation using full density matrix trajectory learning. Unlike approaches based only on final states or selected observables, the method exploits the complete temporal evolution of the density matrix under Lindblad dynamics. A synthetic dataset of physically admissible Hamiltonians and dissipation parameters is generated to emulate…
+Measurement-based quantum computing (MBQC) is a powerful model for quantum computation, but dedicated software tools that bridge its theoretical foundations with practical research workflows remain limited. We present Graphix, a software framework for MBQC written in Python that provides a unified environment for developing, integrating, and exploring measurement-based protocols and algorithms. Graphix establishes a modular, extensible, and user-friendly architecture for the compilation and simulation of quantum computations in the MBQC model with abstractions closely aligned with the…
 
-## 10. Universal equilibrium magic in quantum many-body systems
+## 5. Geometry-controlled correlated electric-field noise in enclosed ion traps from billiard return spectra
 
-- arXiv: `2608.22939v1`
-- Published: 2026-08-24 08:13 UTC
-- Authors: Soumyadeep Sarma, Tobias Haug, John Preskill, Wai-Keong Mok
-- Categories: quant-ph, cond-mat.stat-mech
-- Links: [abs](https://arxiv.org/abs/2608.22939v1) | [pdf](https://arxiv.org/pdf/2608.22939v1)
+- arXiv: `2608.24770v1`
+- Published: 2026-08-25 16:09 UTC
+- Authors: Ayush Nadiger
+- Categories: quant-ph, physics.atom-ph
+- Links: [abs](https://arxiv.org/abs/2608.24770v1) | [pdf](https://arxiv.org/pdf/2608.24770v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['trapped ions']
+
+We ask how passive conducting geometry determines the spatial structure of electric-field noise seen by trapped ions. From a boundary-potential covariance and the Dirichlet Green function we construct the $N$-ion electric-field cross-spectral matrix and its blockwise motional Kossakowski generator. In a parallel slab, billiard unfolding turns the electrostatic response into a return-depth measure and yields an exact return-pair functional for arbitrary stationary surface spectra. For every finite equal-height ion array, the passive cover increases the normal-field covariance matrix in the…
+
+## 6. Beyond Uniform Local Isometry and Topology: FactoMap for Disentangled Representations
+
+- arXiv: `2608.24762v1`
+- Published: 2026-08-25 15:59 UTC
+- Authors: Sohini Gupta, Bahareh Tolooshams
+- Categories: cs.LG, cs.AI
+- Links: [abs](https://arxiv.org/abs/2608.24762v1) | [pdf](https://arxiv.org/pdf/2608.24762v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Thermalization conventionally describes local properties of isolated many-body systems at equilibrium. Magic, or nonstabilizerness $\unicode{x2013}$ the resource enabling universal quantum computation $\unicode{x2013}$ is by contrast encoded in the global structure of the many-body wavefunction. We show that, despite its global nature, the magic of equilibrium pure states of chaotic many-body systems, including late-time evolved states and energy eigenstates, is universal: it is captured by the thermal Scrooge ensemble, the minimally informative ensemble of pure states consistent with the…
+Many disentanglement methods represent generative factors using Euclidean product coordinates, although the underlying factor spaces may wrap, collapse, or have position-dependent geometry. We introduce factor-space structure, combining factor domains, generator-induced identifications, and position-dependent scales to distinguish topologically equivalent spaces with different factor geometries. We show that statistically independent factors need not be geometrically separable: hue and scale produce effects that grow at different rates, yielding anisotropy that no fixed rescaling removes. We…
 
-## 11. Implementation of nonlocal multi-photon interference by mode swapping
+## 7. Certified Fidelity Susceptibility from Classical Shadows
 
-- arXiv: `2608.22850v1`
-- Published: 2026-08-24 06:31 UTC
-- Authors: Holger F. Hofmann, Yuki Kodama, Jonte R. Hance
+- arXiv: `2608.24732v1`
+- Published: 2026-08-25 15:41 UTC
+- Authors: Kiran Adhikari
+- Categories: quant-ph, hep-th
+- Links: [abs](https://arxiv.org/abs/2608.24732v1) | [pdf](https://arxiv.org/pdf/2608.24732v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['krylov']
+
+Fidelity susceptibility is a useful probe of quantum phase transitions and quantum metrology, but its direct evaluation on a quantum device is challenging. By integrating Krylov-subspace methods with a resolvent-based reformulation, we present a method for certifying fidelity susceptibility using randomized single-copy measurements across repeated ground-state preparations. The resulting approximations form monotone lower bounds to the exact fidelity susceptibility and converge geometrically. We also present applications to metrology and linear static susceptibilities.
+
+## 8. Essentially optimal gate teleportation
+
+- arXiv: `2608.24345v1`
+- Published: 2026-08-25 10:05 UTC
+- Authors: Lukas Schmitt, David Sutter
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2608.22850v1) | [pdf](https://arxiv.org/pdf/2608.22850v1)
+- Links: [abs](https://arxiv.org/abs/2608.24345v1) | [pdf](https://arxiv.org/pdf/2608.24345v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Multi-photon interference can be observed using independently generated photons as input. In the most simple case, these photons meet up at a beam splitter, resulting in quantum interference between transmission and reflection of the photons. Here, we show that non-local multi-photon interference can be implemented by using a mode swap operation to generate entanglement between the photons detected in the outputs of two spatially separated interferometers. The spatial separation of the output photons makes this implementation of multi-photon interference particularly suitable for quantum…
+Gate teleportation allows us to implement a nonlocal unitary using local operations, classical communication (LOCC), and a shared entangled state. Known deterministic teleportation protocols consume at least one full ebit and achieve optimal entanglement consumption only for Clifford gates. Here, we present a deterministic LOCC protocol for implementing the two-qubit controlled-phase gate $U_φ=\mathrm{diag}(1,1,1,e^{i φ})$ with $φ\in [0,π]$ whose entanglement consumption is close to optimal for every $φ$. In particular, vanishing rotation angles require vanishing entanglement.
+
+## 9. A Dynamic-Kernel/QPacket Executable for Quantum Repeater Chains in Q2NS/ns-3
+
+- arXiv: `2608.24152v1`
+- Published: 2026-08-25 07:14 UTC
+- Authors: Adam Pearson, Marcello Caleffi, Angela Sara Cacciapuoti
+- Categories: quant-ph, cs.NI
+- Links: [abs](https://arxiv.org/abs/2608.24152v1) | [pdf](https://arxiv.org/pdf/2608.24152v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+The Quantum Internet operates on entanglement, a non-local, non-copyable, stateful network resource, which motivates protocol organization beyond classical layering. We present a first executable specialization of the Dynamic Kernel/QPacket logic from the beyond-layering protocol suite, targeting entanglement distribution over a linear quantum repeater chain. The implementation builds on Q2NS, an ns-3-based quantum-network simulation module available through the ns-3 App Store. It realizes QPacket meta-headers with service intent and append-only action-commit stamps processed by node-local…
+
+## 10. StabQ: Quantum Program Analysis via Weighted Stabilizer Representations
+
+- arXiv: `2608.24144v1`
+- Published: 2026-08-25 07:08 UTC
+- Authors: Shangzhou Xia, Junjie Luo, Jianjun Zhao
+- Categories: cs.SC, quant-ph
+- Links: [abs](https://arxiv.org/abs/2608.24144v1) | [pdf](https://arxiv.org/pdf/2608.24144v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Quantum program analysis remains challenging due to the exponentially large state space of quantum programs and the difficulty of precisely characterizing their execution behavior. In particular, non-Clifford operations introduce additional complexity that limits the applicability of stabilizer-based techniques. Although stabilizer representations provide compact descriptions for Clifford circuits, their limited expressiveness prevents them from directly supporting general quantum program analysis. In this work, we propose StabQ, a symbolic execution framework for quantum program analysis…
