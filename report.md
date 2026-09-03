@@ -1,65 +1,101 @@
 # arXiv alert report
 
-- Generated: 2026-09-02 09:46 UTC
-- Window: papers published since 2026-09-01 09:46 UTC
-- Matches: 5
+- Generated: 2026-09-03 09:58 UTC
+- Window: papers published since 2026-09-02 09:58 UTC
+- Matches: 8
 
-## 1. Depth-1 expanders on the unitary group and applications
+## 1. Exponential speedup of polarization stabilization for long distance DWDM quantum networks
 
-- arXiv: `2609.01605v1`
-- Published: 2026-09-01 17:59 UTC
-- Authors: Anurag Anshu, Shankar Balasubramanian, Jonas Haferkamp, Aram W. Harrow, Xinyu Tan
-- Categories: quant-ph, cond-mat.str-el, cs.CC, cs.IT, math.GR
-- Links: [abs](https://arxiv.org/abs/2609.01605v1) | [pdf](https://arxiv.org/pdf/2609.01605v1)
+- arXiv: `2609.02841v1`
+- Published: 2026-09-02 17:26 UTC
+- Authors: Jinyi Du, En Teng Lim, Xingjian Zhang, Hongwei Gao, George F. R. Chen, Dawn T. H. Tan et al.
+- Categories: quant-ph, physics.app-ph, physics.optics
+- Links: [abs](https://arxiv.org/abs/2609.02841v1) | [pdf](https://arxiv.org/pdf/2609.02841v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We construct a constant-degree and constant-gap quantum expander on $n$ qubits where each unitary can be implemented by a depth-$1$ and 1D circuit of Pauli or CNOT gates. We provide two applications of this expander. First, we use it to construct a family of frustration-free 1D Hamiltonians whose ground states obey the entanglement-gap relation $S = Θ(Δ^{-1/2})$; this is believed to be optimal, but achieving it had been open. Second, we use it to provide a streaming protocol that tests for closeness to a class of 1D volume-law entangled states. Moreover, we extend our quantum expander to a…
+Fibre-based quantum networks distributing polarization entanglement require a stable and uninterrupted transmission basis for reliable operation. Bright classical reference light enables rapid polarization feedback but can introduce noise into quantum channels. Entangled-photon-based feedback avoids this noise, but typically interrupts the target entanglement channel during calibration and becomes prohibitively slow over long distances due to the product loss of fibre links. Here, we overcome both limitations by combining wavelength-bracketed probing with switch-enabled path decomposition.…
 
-## 2. Local Gaussian bounds on the non-destructive discrimination of two-mode squeezed states
+## 2. Double Parton Distributions in the nucleon: Lattice parameter dependence
 
-- arXiv: `2609.01373v1`
-- Published: 2026-09-01 15:09 UTC
-- Authors: Mi-Jung So, James Moran, Youngrong Lim, Mahn-Soo Choi, Hyukjoon Kwon
+- arXiv: `2609.02752v1`
+- Published: 2026-09-02 15:52 UTC
+- Authors: Daniel Reitinger, Christian Zimmermann, Andreas Schäfer
+- Categories: hep-lat
+- Links: [abs](https://arxiv.org/abs/2609.02752v1) | [pdf](https://arxiv.org/pdf/2609.02752v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['wilson']
+
+To make full use of the HL-LHC, especially in the search for BSM physics, all Standard Model backgrounds have to be understood with increased precision. This is especially difficult for Double Parton Interactions (DPIs) and more generally Multi Parton Interactions (MPIs), which are very difficult to isolate precisely in experiment. DPIs are parameterized by Double Parton Distributions (DPDs) and the lattice determination of the latter is, therefore, especially attractive. In our previous work on DPDs on the lattice, we focused on the results obtained from one gauge ensemble with higher than…
+
+## 3. Transversal Gates and Magic State Distillation in an Optimally Synthesized Spin-Qubit Shuttling Bus
+
+- arXiv: `2609.02641v1`
+- Published: 2026-09-02 14:17 UTC
+- Authors: Pau Escofet, Andrii Semenov, Niall Murphy, Elena Blokhina, Carmen G. Almudéver, Sergi Abadal et al.
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.01373v1) | [pdf](https://arxiv.org/pdf/2609.01373v1)
+- Links: [abs](https://arxiv.org/abs/2609.02641v1) | [pdf](https://arxiv.org/pdf/2609.02641v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Fault-tolerant quantum computing requires not only reliable logical qubit storage, but also the ability to perform high-fidelity logical operations between error-corrected qubits at scale. While much of the existing literature focuses on optimizing syndrome extraction for a single logical qubit, the co-design of physical architectures that support both robust error correction and efficient logical computation remains an open challenge. In this work, we propose a multi-qubit spin-qubit shuttling bus architecture that addresses both requirements simultaneously. The architecture optimizes the…
+
+## 4. Exceptional Topological Signatures of Non-Hermitian Photonic Hopf-Link Braids
+
+- arXiv: `2609.02589v1`
+- Published: 2026-09-02 13:32 UTC
+- Authors: Samit Kumar Gupta
+- Categories: physics.optics, cond-mat.mes-hall, quant-ph
+- Links: [abs](https://arxiv.org/abs/2609.02589v1) | [pdf](https://arxiv.org/pdf/2609.02589v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Non-Hermitian physics endows the non-Abelian systems with exceptional topology characterized by non-commutative braid patterns. Interplay of distinct competing sources of non-Hermiticity may induce novel topological effects. Here, we provide a generalized Hatano-Nelson model with higher-order nonreciprocal hoppings, non-Abelian gauge fields, and staggered gain-loss processes showing the exceptional topological structure of the Hopf-link braids that undergoes a EP-mediated topological phase transition. We demonstrate that mixing multiple nonreciprocal channels drives the system into highly…
+
+## 5. Long-lived telecom-heralded single-photon storage in an absorptive spin-rephased quantum memory
+
+- arXiv: `2609.02579v1`
+- Published: 2026-09-02 13:23 UTC
+- Authors: Alberto E. Rodríguez-Moldes, Félicien Appas, Jonathan Hänni, Jelena V. Rakonjac, Samuele Grandi, Hugues de Riedmatten
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2609.02579v1) | [pdf](https://arxiv.org/pdf/2609.02579v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Typical measurement setups in quantum systems are destructive, meaning that states are irretrievably altered after measurement. In this work, we analyse non-destructive discrimination of two two-mode squeezed vacuum states using local Gaussian measurements. We investigate a tradeoff relation between the success probability of discrimination and the fidelity of the resulting state with the initial state, and construct a protocol given by local Gaussian measurements, which is optimal within our numerically explored class. We also extend to the case where we allow for additional pre-shared…
+Long-lived storage of single photons under the form of atomic excitations is at the foundation of long-distance entanglement distribution in quantum networks. To mitigate decoherence effects induced by the environment, rephasing of the hyperfine coherences using microwave pulses have been implemented in a variety of single-emitter and ensemble-based solid-state systems. However, the demonstration of storage of single photons in an absorptive quantum memory including such spin rephasing mechanism remains elusive. In this work, we show non-classical storage of telecom-heralded single photons in…
 
-## 3. Fast Microwave-free State Preparation and Measurement of Superconducting Qubits
+## 6. Combinatorial optimization of connected UAV communication bridges for emergency response
 
-- arXiv: `2609.01334v1`
-- Published: 2026-09-01 14:47 UTC
-- Authors: R. Abraham, F. Amet, P. Anderson, M. Arrigo, J. Arteaga, C. J. Ballard et al.
+- arXiv: `2609.02562v1`
+- Published: 2026-09-02 13:14 UTC
+- Authors: Matteo Vandelli, Daniele Dragoni
+- Categories: quant-ph, math.OC
+- Links: [abs](https://arxiv.org/abs/2609.02562v1) | [pdf](https://arxiv.org/pdf/2609.02562v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+We present a combinatorial optimization problem for the strategic deployment of UAVs equipped with 5G antennas to assist rescue operations in regions hit by natural disasters. Our goal is to optimize the placement of UAVs to provide coverage in flying ad-hoc networks among given candidate sites. Our formulation aims to maximize signal coverage and minimize interference while ensuring network connectivity. To mitigate interference effects, we incorporate the use of multiple frequencies. We formulate this problem as an integer quadratic program (IQP). We present numerical solutions obtained via…
+
+## 7. Experimental Evaluation of Passive Polarization Compensation Techniques for Fiber-Distributed Polarization-Entangled Photons
+
+- arXiv: `2609.02554v1`
+- Published: 2026-09-02 13:05 UTC
+- Authors: Gayatri Thik, Amit Loyal, Srinivasan K, Raghavan G
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.01334v1) | [pdf](https://arxiv.org/pdf/2609.01334v1)
+- Links: [abs](https://arxiv.org/abs/2609.02554v1) | [pdf](https://arxiv.org/pdf/2609.02554v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Entanglement distribution through optical fibers is essential for quantum communication networks; however, fiber transmission can alter photon polarization and modify the observed correlations of polarization-entangled states, necessitating polarization compensation to recover the desired entangled state in the measurement basis. Here, we experimentally evaluate two passive polarization compensation techniques: a free-space Quarter-Half-Quarter (QHQ) waveplate configuration and an in-fiber three-paddle Fiber Polarization Controller (FPC). The polarization transformation along each…
+
+## 8. Single-Shot Fidelity Reveals Hard and Soft Limits: A Universal Yardstick for Photon-Number-Resolving Detectors
+
+- arXiv: `2609.02503v1`
+- Published: 2026-09-02 12:07 UTC
+- Authors: Tetsuya Tsuruta, Akio Yoshizawa, Daiji Fukuda
+- Categories: quant-ph, physics.optics
+- Links: [abs](https://arxiv.org/abs/2609.02503v1) | [pdf](https://arxiv.org/pdf/2609.02503v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Fast, high-fidelity, scalable state preparation and measurement is critical to the realization of a quantum computing system. The state-of-the-art methods for preparation and readout of superconducting qubits require finely tuned microwave signals and ~100 ns of measurement time, which are major obstacles to the scalability and performance of superconducting quantum computers. Here, we have demonstrated novel, microwave-free methods for both preparation and readout of superconducting qubits with >99% fidelity in only 10 ns for either operation while maintaining qubit coherence. This…
-
-## 4. Emerging Personas and Tools for Hybrid Quantum-HPC Systems
-
-- arXiv: `2609.01299v1`
-- Published: 2026-09-01 14:29 UTC
-- Authors: Eun-Kyung Lee, Jessie Yu, Claudio Carvalho, Yoonho Park, Marcelo Amaral, Tim Osborne et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.01299v1) | [pdf](https://arxiv.org/pdf/2609.01299v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Quantum computing is entering an era where quantum processing units (QPUs) with tens to hundreds of qubits are increasingly integrated with high-performance computing (HPC) systems to support hybrid quantum-classical workloads. This paradigm, often referred to as Quantum-Centric SuperComputing (QCSC), introduces new operational, software, and infrastructure challenges. In this paper, we identify and characterize six distinct personas involved in QCSC environments. Particular attention is given to emerging roles that arise at the interface between quantum and HPC systems. We analyze the…
-
-## 5. A Dynamic Intermediate Representation for Hybrid Quantum-Classical Programs
-
-- arXiv: `2609.01037v1`
-- Published: 2026-09-01 10:35 UTC
-- Authors: Alex Rice, Chris Heunen, Tobias Grosser
-- Categories: cs.PL, quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.01037v1) | [pdf](https://arxiv.org/pdf/2609.01037v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Quantum compilers typically follow the circuit model, representing programs as fixed sequences of gates. This static view breaks down in hybrid quantum-classical applications, where gate choices depend on runtime data or measurement results. We introduce a new Intermediate Representation (IR) that elevates gates to first-class values, enabling their dynamic creation, composition, and control. This unified representation allows classical computation to steer quantum behaviour, capturing phenomena including stochastic gate selection, adaptive error correction, and measurement-driven computation…
+Photon-number-resolving (PNR) detectors are essential for photonic quantum computing, where a single measurement outcome must reliably herald a specific quantum state. However, detector fidelity is conventionally evaluated using ensemble-averaged statistics obtained from many measurements, which can remain high even when individual photon-number assignments are frequently misidentified. Here we introduce a universal single-shot fidelity that directly quantifies the probability of correctly identifying a photon number in a single measurement. The framework combines an efficiency-based POVM…
