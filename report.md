@@ -1,149 +1,161 @@
 # arXiv alert report
 
-- Generated: 2026-09-09 09:57 UTC
-- Window: papers published since 2026-09-08 09:57 UTC
-- Matches: 12
+- Generated: 2026-09-10 09:55 UTC
+- Window: papers published since 2026-09-09 09:55 UTC
+- Matches: 13
 
-## 1. Green's Functions from Sample-based Krylov Quantum Diagonalization: An Impurity Solver for Dynamical Mean-Field Theory
+## 1. The Sample Complexity of Quantum Entanglement Allocation
 
-- arXiv: `2609.09147v1`
-- Published: 2026-09-08 17:59 UTC
-- Authors: Jay Patel, Chakradhar Rangi, Ka-Ming Tam
-- Categories: cond-mat.str-el, cond-mat.mtrl-sci, quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.09147v1) | [pdf](https://arxiv.org/pdf/2609.09147v1)
-- Score: 4
-- Keyword hits: title=['krylov'] abstract=['krylov']
-
-We generalize the sample-based Krylov quantum diagonalization (SKQD) method from ground-state calculations to the evaluation of single-particle Green's functions. By constructing and sampling unitary Krylov subspaces in the N +/- 1 particle-number sectors and evaluating all sector-connecting overlaps classically, the approach reconstructs the Green's function via a Lanczos continued fraction while retaining the shallow-circuit, ancilla-free character of SKQD. The quantum device is required only to prepare and sample short-time evolutions. Applied to the particle-hole-symmetric single-impurity…
-
-## 2. Finite-size Entanglement Certification via Third-Order Local Randomized Measurements
-
-- arXiv: `2609.08635v1`
-- Published: 2026-09-08 12:04 UTC
-- Authors: Giovanni Scala, Corrado Cosimo Mattiacci, Dorota Pietryka, Gniewomir Sarbicki
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.08635v1) | [pdf](https://arxiv.org/pdf/2609.08635v1)
+- arXiv: `2609.10141v1`
+- Published: 2026-09-09 13:19 UTC
+- Authors: Nathan Roll
+- Categories: quant-ph, cs.LG
+- Links: [abs](https://arxiv.org/abs/2609.10141v1) | [pdf](https://arxiv.org/pdf/2609.10141v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Certifying entanglement in high-dimensional systems usually requires full state tomography, whose cost grows rapidly with the system dimension. Local randomized measurements offer a scalable alternative, but existing tests based on second-order correlations access only limited information about the state. Here, we derive a finite-size entanglement certificate that extends local randomized measurements to third order. The additional third-order information reveals entanglement that remains undetected at second order, while a dimension-independent concentration bound provides rigorous control…
+How many past requests are needed to decide which qubits should share entanglement? We show that the answer depends on the allocation choices created by the queries: a larger memory can require no more data. The memory stores a classical bit and answers requests through a fixed detector that preserves coherence within each measured sector. For independent commuting $X$- and $Z$-type Pauli queries, we characterize the full attainable prediction-contrast region and construct encodings that preserve the bit at every nonzero vertex. With sharp reports, a $d$-qubit path and groups of at most $k$…
 
-## 3. Closing the Loop: Non-Causal Computation, Partial Traces, & Postselected Entanglement
+## 2. Multiparameter quantum bounds for entanglement-assisted aperture synthesis
 
-- arXiv: `2609.08716v1`
-- Published: 2026-09-08 13:17 UTC
-- Authors: Mark Carney
-- Categories: quant-ph, math.CT
-- Links: [abs](https://arxiv.org/abs/2609.08716v1) | [pdf](https://arxiv.org/pdf/2609.08716v1)
-- Score: 3
-- Keyword hits: title=['entanglement'] abstract=[]
+- arXiv: `2609.10111v1`
+- Published: 2026-09-09 12:46 UTC
+- Authors: Kalaga Madhav, Pieter Kok, Nic Scott
+- Categories: quant-ph, astro-ph.IM, physics.optics
+- Links: [abs](https://arxiv.org/abs/2609.10111v1) | [pdf](https://arxiv.org/pdf/2609.10111v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-This paper gives a categorical interpretation of Baumeler \& Wolf's logically consistent non-causal circuits, connecting them to postselected quantum teleportation. Looped feedback is represented by a trace in the category of non-negative matrices, and it is shown that the traced process is stochastic precisely when the induced loop transition matrix has trace $1$ for every external input, a condition shown to be equivalent to a unique fixed point for the loop for each input to a deterministic circuit. A classical non-causal circuit is represented by a measure-and-prepare quantum channel with…
+Entanglement-assisted optical interferometry promises diffraction-limited imaging over baselines where light cannot be physically combined, but existing theory treats only a single visibility on one two-station baseline. This work formulates the multiparameter estimation problem for an M-station array imaging an extended scene. A reduction lemma shows that the multimode quantum Fisher information (QFI) equals the mean photon number times the QFI of a single delocalized photon, collapsing the problem to a finite-dimensional one. The local photon-number superselection rule (SSR) erases all…
 
-## 4. Adaptive AI for Pulse-Level Quantum Control
+## 3. Loss-correcting fault-tolerant quantum computing architecture for neutral atoms
 
-- arXiv: `2609.08727v1`
-- Published: 2026-09-08 13:25 UTC
-- Authors: Sanjeev Shapkota, Yayu Mo, Sanjaya Lohani
+- arXiv: `2609.10079v1`
+- Published: 2026-09-09 12:01 UTC
+- Authors: Sanaa Sharma, Yutaka Hirano, Akihisa Goban, Hayata Yamasaki, Shinichi Sunami, Prakash Murali
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.08727v1) | [pdf](https://arxiv.org/pdf/2609.08727v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['variational quantum eigensolver', 'vqe']
+- Links: [abs](https://arxiv.org/abs/2609.10079v1) | [pdf](https://arxiv.org/pdf/2609.10079v1)
+- Score: 4
+- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
 
-The Control Variational Quantum Eigensolver (ctrl-VQE) directly optimizes microwave pulses to enable faster and lower-error quantum-state preparation, but its continuous control landscape re- quires efficient search strategies. We demonstrate that a reinforcement-learning agent based on a deep Q learning network can autonomously discover high-performance pulse sequences using only system parameters and a reward function. The approach is fully general for superconducting qubit platforms, requires no ansatz, and operates at nanosecond resolution compatible with hardware con- straints. As a…
+Neutral-atom arrays are a leading qubit technology for large-scale, fault-tolerant quantum computing (FTQC). A dominant error source on this platform is qubit loss, which accrues with every operation and movement. The presence of loss undermines the promises of existing architectural work. Standard error correction targets stochastic Pauli errors and cannot correct loss, so most FTQC performance analyses are not directly compatible with it. Moreover, compilation and routing decisions, which strongly affect overall loss, are typically optimized against Pauli-error cost models and often remain…
 
-## 5. Impossibility of One-Way One-Round Quantum 4-Coloring via Matrix-Space Stability
+## 4. Entanglement Entropy of Interacting Scalar Theories on Fuzzy Spaces
 
-- arXiv: `2609.09091v1`
-- Published: 2026-09-08 17:35 UTC
-- Authors: Tom Gur, Longcheng Li
-- Categories: quant-ph, cs.DC
-- Links: [abs](https://arxiv.org/abs/2609.09091v1) | [pdf](https://arxiv.org/pdf/2609.09091v1)
+- arXiv: `2609.10027v1`
+- Published: 2026-09-09 11:01 UTC
+- Authors: A. Allouche, D. Dou
+- Categories: hep-th, gr-qc, quant-ph
+- Links: [abs](https://arxiv.org/abs/2609.10027v1) | [pdf](https://arxiv.org/pdf/2609.10027v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+We investigate the impact of self-interactions on the Rényi and entanglement entropies of a scalar field on $(2+1)$-dimensional spacetimes, whose spatial sections are modeled by fuzzy spaces, specifically the fuzzy sphere and the fuzzy disc. We compute the first-order perturbative correction induced by a $λφ^4$ interaction using the Green's function approach. In contrast to the free theory, where the entanglement entropy is dominated by degrees of freedom near the entangling boundary and obeys an area law, we find that the interaction correction has an extensive bulk contribution, receiving…
+
+## 5. Faster Quantum Monte Carlo Simulation by Random Compilation
+
+- arXiv: `2609.10486v1`
+- Published: 2026-09-09 17:25 UTC
+- Authors: John M. Martyn, Joshua Lin, Neill C. Warrington, Isaac L. Chuang, Andrew J. Daley
+- Categories: quant-ph, cond-mat.str-el, hep-lat
+- Links: [abs](https://arxiv.org/abs/2609.10486v1) | [pdf](https://arxiv.org/pdf/2609.10486v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-We show that one-way one-round quantum LOCAL algorithms cannot $4$-color directed cycles with high probability, even with unbounded local computation and quantum message length. This is the first lower bound in the high-probability quantum LOCAL setting that goes beyond the non-signaling and bounded-dependence models, exploiting the structure of distributed quantum algorithms. Our proof connects distributed quantum computing with noncommutative extremal combinatorics by identifying local collision probabilities with the weighted multiplicative energy of matrix-space decompositions. We obtain…
+Quantum Monte Carlo (QMC) algorithms are among the most powerful classical methods for simulating quantum systems, yet their accuracy is often limited by the systematic errors in the approximations used, such as Trotterization. Here we introduce randomly compiled quantum Monte Carlo (RC-QMC) as a general framework that suppresses these systematic errors by averaging over a family of approximations rather than relying on a single fixed one. This strategy is grounded in the concept of randomized compiling from quantum computing, which suppresses errors by sampling over quantum gates, at…
 
-## 6. Modular commutator as a robust topological invariant and approximate Markovianity
+## 6. Symmetry structure dependent diagnostic of the Quantum Mpemba Effect
 
-- arXiv: `2609.09019v1`
-- Published: 2026-09-08 16:51 UTC
-- Authors: Tai Hsuan Yang
-- Categories: quant-ph, cond-mat.str-el
-- Links: [abs](https://arxiv.org/abs/2609.09019v1) | [pdf](https://arxiv.org/pdf/2609.09019v1)
+- arXiv: `2609.10470v1`
+- Published: 2026-09-09 17:12 UTC
+- Authors: Tamizhselvan S, Manju C, Bijay Kumar Agarwalla, Uma Divakaran
+- Categories: quant-ph, cond-mat.stat-mech
+- Links: [abs](https://arxiv.org/abs/2609.10470v1) | [pdf](https://arxiv.org/pdf/2609.10470v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-The modular commutator provides a bulk, local, single-wave-function probe of the chiral central charge $c_-$ for gapped ground states. Its invariance under deformations was previously established under a local quantum Markov condition---namely, the conditional mutual information $I(A:C|B)$ is zero for all tripartitions of a disk into three consecutive strips A, B, and C \cite{Modular-commutator-Gapped}. However, the local quantum Markov condition also forces the probe to vanish, leaving open whether modular commutator remains robust in physically relevant states where the Markov property…
+Understanding symmetry restoration in isolated quantum many-body systems is an important problem in nonequilibrium many-body quantum physics. Recent studies have shown that the quantum Mpemba effect can be characterized through entanglement asymmetry, where states with stronger initial symmetry breaking restore symmetry faster. However, it remains unclear whether conventional energy-based measures, such as the trace distance, capture the same phenomenon. We investigate this question in closed spin-$1/2$ quantum systems with different symmetries by analyzing the dynamics of symmetry-breaking…
 
-## 7. No information transmission through quantum channels above capacity
+## 7. Do speech foundation models really learn words?
 
-- arXiv: `2609.08998v1`
-- Published: 2026-09-08 16:37 UTC
-- Authors: Hao-Chung Cheng, Marco Tomamichel
-- Categories: quant-ph, cs.IT, math-ph
-- Links: [abs](https://arxiv.org/abs/2609.08998v1) | [pdf](https://arxiv.org/pdf/2609.08998v1)
+- arXiv: `2609.10434v1`
+- Published: 2026-09-09 16:47 UTC
+- Authors: Robin Huo, Ewan Dunbar
+- Categories: cs.CL, cs.SD
+- Links: [abs](https://arxiv.org/abs/2609.10434v1) | [pdf](https://arxiv.org/pdf/2609.10434v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We show that the capacity of a quantum channel demarcates a phase transition: while reliable transmission below capacity is always possible, any attempt to transmit information above it fails catastrophically. Specifically, we prove exponential strong converse theorems for unassisted quantum and classical communication over arbitrary finite-dimensional memoryless quantum channels. At rates beyond the respective capacity, the entanglement-generation fidelity and the success probability for classical communication decay exponentially with the number of channel uses. This rules out transmission…
+Self-supervised speech foundation models are now used in a wide array of downstream applications, including traditional speech recognition and as the basis for tokens in speech-aware language models. Attempts to understand their usefulness have largely focused on probing their representations' ability to discriminate phonemes and words. However, discriminative ability for words need not imply specialized representation of words per se. Good discrimination of words may be explained by good encoding of word form (phonemes) rather than form-independent word representations encoding identity or…
 
-## 8. Resilience Beyond the Light Cone: Error-Detected Primitives for Practical Dynamic Circuits
+## 8. Faster Computation with the Generalized Laplacian Quantum Walk
 
-- arXiv: `2609.08925v1`
-- Published: 2026-09-08 15:50 UTC
-- Authors: Kevin C. Smith, Bibek Pokharel, Satvik Maurya, Maika Takita
+- arXiv: `2609.10429v1`
+- Published: 2026-09-09 16:41 UTC
+- Authors: Jonas Duda, Thomas G. Wong
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.08925v1) | [pdf](https://arxiv.org/pdf/2609.08925v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Dynamic circuits, which augment unitary operations with mid-circuit measurements and classical feedforward, can generate long-range entanglement in constant depth, enabling low-depth primitives ranging from nontrivial state preparation to many-qubit entangling gates. Escaping the light-cone constraints of unitary circuits, however, comes at a cost: these primitives typically require a number of mid-circuit measurements that scales with system size and that, together with feedforward latency, can introduce errors that degrade the long-range entanglement they rely on. Here, we alleviate this…
-
-## 9. Distributed Quantum Property Testing with Quantum Carrier Pigeons
-
-- arXiv: `2609.08864v1`
-- Published: 2026-09-08 15:09 UTC
-- Authors: Kenny Chen, Mina Doosti, Ryan Sweke, Chirag Wadhwa
-- Categories: quant-ph, cs.DS
-- Links: [abs](https://arxiv.org/abs/2609.08864v1) | [pdf](https://arxiv.org/pdf/2609.08864v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-We introduce a framework for distributed quantum inference under communication constraints. In our model, $m$ distributed nodes each receive one copy of an unknown $d$-dimensional quantum state $ρ$, before communicating via a constrained one-way communication channel with a central node, which aims to infer some property of $ρ$. This framework generalizes the classical distributed inference framework introduced by Acharya, Canonne, and Tyagi [COLT 2019], by allowing quantum resources such as quantum communication and shared entanglement. Within this setting, we focus on the fundamental…
-
-## 10. Quantum speed limits based on quantifiers of quantum-state texture
-
-- arXiv: `2609.08752v1`
-- Published: 2026-09-08 13:47 UTC
-- Authors: Yuhang Xie, Yanjun Chu, Chenyang Cui, Shao-Ming Fei
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.08752v1) | [pdf](https://arxiv.org/pdf/2609.08752v1)
+- Links: [abs](https://arxiv.org/abs/2609.10429v1) | [pdf](https://arxiv.org/pdf/2609.10429v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Quantum speed limits impose intrinsic lower bounds on the shortest time scale for quantum system evolution. As an emerging paradigm in quantum resource theory, quantum-state texture has attracted research interest amid the rapid advancement of quantum theory. Herein, we investigate the interplay between quantum speed limits and quantum-state texture via several canonical quantifiers, including trace distance, state rugosity and Jensen-Shannon divergence. To demonstrate our findings, we analyze the minimum evolution time of physical systems subject to dephasing and dissipative dynamics. For…
+Quantum walks are the quantum analogues of classical random walks or Markov chains. They are universal models of quantum computing, and they underpin a variety of quantum algorithms. We prove that a continuous-time quantum walk effected by a generalized Laplacian, which can arise in spin chains, can solve a computational problem more quickly than typical quantum walks governed by the standard Laplacian or adjacency matrix. This generalized Laplacian consists of the standard Laplacian plus a real-valued multiple of the degree matrix, and we prove that as the magnitude of the multiple of the…
 
-## 11. Persistence of measurement-induced nonlocality in uniformly accelerating Unruh-DeWitt detectors
+## 9. On the Limits of Quantum Multiparty Simultaneous Communication
 
-- arXiv: `2609.08653v1`
-- Published: 2026-09-08 12:23 UTC
-- Authors: Shi-Pu Gu, Ming-Ming Du, Yu-Bo Sheng, Lan Zhou
-- Categories: gr-qc, quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.08653v1) | [pdf](https://arxiv.org/pdf/2609.08653v1)
+- arXiv: `2609.10289v1`
+- Published: 2026-09-09 15:07 UTC
+- Authors: Pedro Montealegre, Ivan Rapaport, Jorge Valenzuela
+- Categories: cs.CC, quant-ph
+- Links: [abs](https://arxiv.org/abs/2609.10289v1) | [pdf](https://arxiv.org/pdf/2609.10289v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Uniform acceleration induces a thermal response to the Minkowski vacuum and can thereby modify quantum correlations. For measurement-induced nonlocality (MIN), a form of nonclassical correlation distinct from entanglement, previous field-mode analyses of bosonic fields found that it decreases with increasing acceleration and vanishes in the infinite-acceleration limit. This raises the question of whether the disappearance of MIN is a generic consequence of the Unruh effect or depends on the physical description of the accelerated quantum system. To address this question, we study two…
+The Simultaneous Message Passing (SMP) model provides a fundamental framework for comparing classical and quantum communication. For two players, Gavinsky et al. (STOC 2006) established a separation underlying the incomparability of shared randomness and quantum communication: \textsc{Index Coordination} needs $O(\log n)$ public-coin bits but $Ω(n^{1/3})$ bounded-error qubits. In this work, we establish a multiparty exponential separation through $\operatorname{IC}_{k,n}$, a natural $k$-party generalization of \textsc{Index Coordination}. Public-coin protocols solve it unambiguously with…
 
-## 12. Kinematic Control and Dephasing Dynamics of Quantum Resources in $e^{+}e^{-}\toτ^{+}τ^{-}$
+## 10. Why three? A two-level system with four mutually unbiased questions
 
-- arXiv: `2609.08555v1`
-- Published: 2026-09-08 10:38 UTC
-- Authors: Elhabib Jaloum, Omar Bachain, Mohamed Amazioug, Rachid Ahl Laamara
-- Categories: quant-ph, hep-ex, hep-ph, hep-th
-- Links: [abs](https://arxiv.org/abs/2609.08555v1) | [pdf](https://arxiv.org/pdf/2609.08555v1)
+- arXiv: `2609.10078v1`
+- Published: 2026-09-09 12:01 UTC
+- Authors: Jonte R. Hance
+- Categories: quant-ph, math-ph
+- Links: [abs](https://arxiv.org/abs/2609.10078v1) | [pdf](https://arxiv.org/pdf/2609.10078v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We characterize several quantum resources carried by the spins of the $τ^{+}τ^{-}$ pair produced in $e^{+}e^{-}$ annihilation. At the Belle-II energy, $\sqrt{s}=10.579\,\mathrm{GeV}$, Bell nonlocality, steerability, entanglement of formation, and coherence are governed by the production angle and are largest for transverse emission, $\vartheta=π/2$. Their common kinematic origin is exposed by expressing the spin state as a velocity and angle-dependent mixture of a separable contribution and a maximally entangled component. Within the physical production domain, this representation connects…
+Two sharp yes/no questions are mutually unbiased if and only if their involutions anticommute. A set of unbiased questions is therefore a Clifford algebra, whose maximal size is odd, meaning four anticommuting questions typically imply a fifth: the two-level systems of real, complex and quaternionic quantum theory allow two, three and five questions, while four is skipped. Without this operator product restriction, a two-level system with four unbiased questions exists as the four-dimensional Bloch ball, the hyperbit. The single-system postulates that pick out the Jordan state spaces allow…
+
+## 11. Accelerating A*-Based Algorithms for Decoding Quantum Low-Density Parity-Check Codes
+
+- arXiv: `2609.10056v1`
+- Published: 2026-09-09 11:30 UTC
+- Authors: Lamia Yous, Francisco Garcia Herrero, Mark F. Flanagan
+- Categories: quant-ph, eess.SP
+- Links: [abs](https://arxiv.org/abs/2609.10056v1) | [pdf](https://arxiv.org/pdf/2609.10056v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Quantum low-density parity-check (QLDPC) codes represent a promising approach for error correction in quantum computing. The recently proposed Tesseract decoder uses the A* search algorithm that guarantees finding the most likely error pattern. However, practical implementations of Tesseract often involve an extremely large graph, and the inherently sequential nature of the search results in high computational overhead and long runtime. To improve decoding efficiency, we propose a two-stage decoding framework. First, a belief propagation (BP) decoder efficiently processes the syndrome. This…
+
+## 12. Quantum computational resources and validation protocols for a three-mode non-Gaussian trilinear Hamiltonian
+
+- arXiv: `2609.10043v1`
+- Published: 2026-09-09 11:17 UTC
+- Authors: Niccolò Laurora, Matteo Bina, Giulia Ferrini, Alessandro Ferraro
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2609.10043v1) | [pdf](https://arxiv.org/pdf/2609.10043v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Non-Gaussian interactions are a key ingredient for achieving universality in continuous-variable quantum computation, yet their experimental characterization and the validation of their correct implementation remain challenging tasks. In this work, we focus on a three-mode non-Gaussian trilinear Hamiltonian that has recently been realized in superconducting microwave platforms, and present a comprehensive theoretical analysis of the computational resources it generates, together with experimentally accessible protocols to validate their presence. We systematically investigate its ability to…
+
+## 13. Fidelity-Aware Scheduling of Quantum Circuits on Multi-QPU Systems
+
+- arXiv: `2609.09980v1`
+- Published: 2026-09-09 10:10 UTC
+- Authors: Innocenzo Fulginiti, Antonio Tudisco, Salvatore Zammuto, Patrick Hopf, Deborah Volpe, Helmut Seidl et al.
+- Categories: quant-ph, cs.AI, cs.ET
+- Links: [abs](https://arxiv.org/abs/2609.09980v1) | [pdf](https://arxiv.org/pdf/2609.09980v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+High Performance Computing-Quantum Computing (HPCQC) platforms expose multiple Quantum Processing Units (QPUs) that may differ in size, topology, native gates, and noise characteristics. For current noisy devices, errors compound along the compiled circuits quickly, and minimizing them, that is, maximizing the circuits' execution fidelity, is essential for reliable results. Fidelity depends on the compilation to a specific target device: the same high-level circuit may produce different executables and, therefore, different expected fidelities across QPUs. We present a low-overhead…
