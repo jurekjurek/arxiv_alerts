@@ -1,125 +1,149 @@
 # arXiv alert report
 
-- Generated: 2026-09-23 10:10 UTC
-- Window: papers published since 2026-09-22 10:10 UTC
-- Matches: 10
+- Generated: 2026-09-24 10:18 UTC
+- Window: papers published since 2026-09-23 10:18 UTC
+- Matches: 12
 
-## 1. Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery
+## 1. The winner's curse in hardware VQE: drift-differenced remeasurement of finite-shot selection bias
 
-- arXiv: `2609.26784v1`
-- Published: 2026-09-22 17:56 UTC
-- Authors: Daniel Dilley, Anastashia Jebraeilli, Rayat Roy, Shobhit Gupta, Alvin Gonzales, Zain Saleem
+- arXiv: `2609.27704v1`
+- Published: 2026-09-23 11:22 UTC
+- Authors: Julen Larrucea
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.26784v1) | [pdf](https://arxiv.org/pdf/2609.26784v1)
-- Score: 4
-- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
+- Links: [abs](https://arxiv.org/abs/2609.27704v1) | [pdf](https://arxiv.org/pdf/2609.27704v1)
+- Score: 5
+- Keyword hits: title=['vqe'] abstract=['variational quantum eigensolver', 'vqe']
 
-Distributed quantum computing requires fault-tolerant operations across inter-QPU links that can be substantially noisier than local gates. Uniformly increasing code distance provides additional protection but also enlarges data patches used for local storage and computation. Here, we introduce distributed heterogeneous-distance lattice surgery using an eight-data-patch ancilla-mediated (8-DAM) architecture, which will be useful for near-term quantum devices with less qubit overhead. In this architecture, the central ancilla spanning the inter-QPU boundary is enlarged while the data patches…
+Finite-shot optimization can make noisy variational quantum eigensolver energies look artificially accurate. We studied six molecules on two IBM Heron r3 processors in eight replicated cells. Seven optimizer-selected values fell below the exact active-space eigenvalue by up to mHa. Independent later evaluation of the selected and final parameter points, differenced to remove a common epoch shift, showed that most of the selected advantage disappeared: the primary recovery was (approximate 95% session-level interval). Across the reported aggregation choices, recovery estimates ranged from…
 
-## 2. An Operator-Theoretic Model of Entanglement Percolation in Series-Parallel Quantum Networks
+## 2. Multipartite GHZ diagonal states and their entanglement properties
 
-- arXiv: `2609.26367v1`
-- Published: 2026-09-22 13:08 UTC
-- Authors: Kan He, Jinchuan Hou, Yaqi Zhao
+- arXiv: `2609.28351v1`
+- Published: 2026-09-23 16:24 UTC
+- Authors: Luka Burduli, Johannes Moerland, Peter Schupp
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.26367v1) | [pdf](https://arxiv.org/pdf/2609.26367v1)
+- Links: [abs](https://arxiv.org/abs/2609.28351v1) | [pdf](https://arxiv.org/pdf/2609.28351v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-The realization of entanglement distribution (ED) in large-scale quantum networks (QNs), as a fundamental theoretical framework of quantum communication, faces significant challenges. Percolation theory, drawn from statistical physics, has been identified as a potential solution to this problem. Nevertheless, when addressing ED, percolation theory primarily relies on numerical simulations and approximate algorithms. This approach often lacks interpretability and controllability for many phenomena occurring during the ED process in large-scale networks, including emergent phenomena near the…
+In this paper, we investigate the family of GHZ diagonal states, which are mixed multipartite quantum states that are diagonal in a GHZ type basis. We show that the class of GHZ diagonal states is highly symmetric and exhibits rich entanglement properties, making it relevant for applications in multipartite quantum key distribution.
 
-## 3. Entanglement Embezzlement from Diffusive Hydrodynamics
+## 3. Beyond Maximal Entanglement: Exact Resources for Multiparty Encrypted Quantum Cloning
 
-- arXiv: `2609.26362v1`
-- Published: 2026-09-22 13:06 UTC
-- Authors: Shi-Xin Zhang, Shuo Liu, Yu-Qin Chen
-- Categories: quant-ph, cond-mat.dis-nn, cond-mat.stat-mech
-- Links: [abs](https://arxiv.org/abs/2609.26362v1) | [pdf](https://arxiv.org/pdf/2609.26362v1)
+- arXiv: `2609.28241v1`
+- Published: 2026-09-23 15:05 UTC
+- Authors: Pritam Roy, Shashank Gupta
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2609.28241v1) | [pdf](https://arxiv.org/pdf/2609.28241v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Entanglement embezzlement asks how much entanglement can be borrowed from a many-body state by local operations and classical communication while returning that state with a small error. We uncover a conservation-law mechanism that redistributes the dominant probability mass of the Schmidt spectrum in the logarithmic Schmidt-rank coordinate and thereby controls this operational resource. For typical random pure states at fixed U(1) charge, we prove a finite-error conversion law: away from half filling, the charge bias converts $O(\sqrt L)$ charge fluctuations into $O(\sqrt L)$ borrowable…
+Encrypted quantum cloning distributes an unknown $k$-qubit state among $m$ encrypted clones so that no individual clone reveals the input, yet the state can be recovered from any one clone together with a common quantum key. We ask the inverse question: for a fixed encoding architecture, which multipartite pure states can serve as exact resources for this task? For $m\ge2$, we completely characterize the pure resources compatible with a sector-wise two-Pauli encoder, with necessity holding for arbitrary completely positive trace-preserving (CPTP) recovery maps. For even $m$, exact recovery…
 
-## 4. Neutral-Atom-based Quantum Optimization for Resource Allocation in NOMA Networks
+## 4. Distilling Datasets into Shallow Circuits for Quantum Machine Learning
 
-- arXiv: `2609.26556v1`
-- Published: 2026-09-22 15:10 UTC
-- Authors: Patatchona Keyela, Remon Polus, Soumaya Cherkaoui, Ola Ahmad
-- Categories: cs.AI, cs.IT
-- Links: [abs](https://arxiv.org/abs/2609.26556v1) | [pdf](https://arxiv.org/pdf/2609.26556v1)
+- arXiv: `2609.28229v1`
+- Published: 2026-09-23 14:54 UTC
+- Authors: Guang Lin, Qibin Zhao
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2609.28229v1) | [pdf](https://arxiv.org/pdf/2609.28229v1)
+- Score: 4
+- Keyword hits: title=['quantum machine learning'] abstract=['quantum machine learning']
+
+In quantum machine learning, training a quantum model requires each sample to be prepared as a quantum state by a loading circuit that must be re-executed for every shot at every training step. The total burden therefore scales with both the number of samples and the cost of preparation. Existing approaches reduce the loading cost of individual inputs or distill data and compress their representations before applying a separate quantum encoding. This separation can leave resulting samples costly to prepare or cause additional loss of the information during subsequent compilation into shallow…
+
+## 5. Sub-Doppler cooling of trapped ions using optical tweezers
+
+- arXiv: `2609.28138v1`
+- Published: 2026-09-23 13:59 UTC
+- Authors: Bas Gerritsen, Liam J. Bond, Jiri Minář, Arghavan Safavi-Naini, Robert J. Spreeuw, Rene Gerritsma
+- Categories: physics.atom-ph, quant-ph
+- Links: [abs](https://arxiv.org/abs/2609.28138v1) | [pdf](https://arxiv.org/pdf/2609.28138v1)
+- Score: 3
+- Keyword hits: title=['trapped ions'] abstract=[]
+
+We propose a sub-Doppler cooling scheme for trapped-ion crystals in Paul traps. The combination of a hollow tweezer and microwave drive creates an effective two-level system which is cooled through attractive Sisyphus cooling. For ${}^{171}\rm{Yb}^+$ ions, we numerically identify optimal parameters for one- and two-ion crystals, and investigate the cooling rate in ion crystals with up to three ions. Our cooling scheme utilizes a single ion addressed with a tweezer to achieve sub-Doppler cooling of the $N$ axial motional modes perpendicular to the tweezer propagation direction, does not rely…
+
+## 6. Image Compression Using Quantum Wavelet Transform and Quantum Convolutional Networks
+
+- arXiv: `2609.28387v1`
+- Published: 2026-09-23 16:59 UTC
+- Authors: Harshdeep Jadhav, Sreeraj Rajan Warrier, Jayasri Dontabhaktuni
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2609.28387v1) | [pdf](https://arxiv.org/pdf/2609.28387v1)
 - Score: 2
 - Keyword hits: title=[] abstract=['quantum computing', 'entanglement']
 
-In wireless communication networks, many resource optimization problems are nondeterministic polynomial-time hard (NP-hard) due to their combinatorial nature and high computational complexity. Recently, neutral-atom-based quantum computing has emerged as a promising platform for efficiently solving such problems by leveraging quantum superposition and entanglement. However, its application to wireless communication optimization problems remains largely unexplored. In this paper, we investigate the use of neutral-atom quantum platforms to solve the maximum access problem (MAP), formulated as a…
+This paper presents a hybrid quantum-classical framework for grayscale image compression and decompression, leveraging the strengths of quantum computing and deep learning. The compression pipeline integrates a Variational Quantum Daubechies Wavelet Transform (V-QDWT) and a trainable Quantum Convolutional Neural Network (QCNN) optimized end-to-end to achieve efficient, image-adaptive multi-resolution analysis and entanglement-based feature reduction. Input images are encoded using the Normal Arbitrary Superposition State (NASS) representation, enabling compact and scalable quantum storage.…
 
-## 5. Explicit channels with unbounded gains in classical communication using entangled inputs
+## 7. Simulation of a Battery Cell on Quantum Computers: Reactions & Transport
 
-- arXiv: `2609.26743v1`
-- Published: 2026-09-22 17:27 UTC
-- Authors: Hao-Chung Cheng, Peixue Wu
-- Categories: quant-ph, cs.IT, math-ph
-- Links: [abs](https://arxiv.org/abs/2609.26743v1) | [pdf](https://arxiv.org/pdf/2609.26743v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-We construct an explicit family of finite-dimensional quantum channels for which the optimal classical communication rate achievable with product-state codewords and collective decoding tends to zero, while rates achievable using entanglement only within pairs of channel inputs grow without bound. Our construction combines deterministic qudit Clifford unitaries with a binary measurement and classical feedforward, providing a derandomization to Hastings' probabilistic construction. The key ingredient is a careful design of measurement and feedforward process that yields the required one-copy…
-
-## 6. A Syndrome-Extraction Framework for Distributed Lattice Surgery on Arbitrary Rotated Surface-Code Layouts
-
-- arXiv: `2609.26736v1`
-- Published: 2026-09-22 17:25 UTC
-- Authors: Pritesh Thakur, Daniel Dilley, Zain Saleem
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.26736v1) | [pdf](https://arxiv.org/pdf/2609.26736v1)
+- arXiv: `2609.28369v1`
+- Published: 2026-09-23 16:44 UTC
+- Authors: Albert J. Pool, Michael Schelling, Birger Horstmann
+- Categories: physics.chem-ph, physics.comp-ph, quant-ph
+- Links: [abs](https://arxiv.org/abs/2609.28369v1) | [pdf](https://arxiv.org/pdf/2609.28369v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Modular quantum computing is a leading candidate for scalable fault tolerant quantum computation. Performing lattice surgery using surface code patches in different modules requires the use of inter-module gates that are noisier than the local gates. Furthermore, the merged layouts during lattice surgery expose multiple directions in which hook errors can propagate to reduce the fault distance. Existing hook-avoiding schedules either increase the syndrome extraction circuit depth, or let link faults propagate into the bulk. We introduce a seam construction that allows splitting arbitrary…
+Simulations of electrochemical materials and systems accelerate technological progress, but are still limited by computational power. In particular, quantum computing offers prospects for higher resolutions, due to the exponential amount of data that can be stored in a quantum state. As current quantum computers are still noisy, we consider a hybrid quantum-classical algorithm, that divides the problem into smaller computational tasks. We describe how to implement such an algorithm for non-linear partial differential equations, the Feynman-Kitaev Hamiltonian, in a scalable way for an…
 
-## 7. Fluctuation-Driven Nonlinear Amplification of Quantum Statistics
+## 8. The Minimal Dimension of Entangled-Noise Advantage
 
-- arXiv: `2609.26674v1`
-- Published: 2026-09-22 16:34 UTC
-- Authors: Yuewei Song, Zhenghe Zhou, Shuai Wan, Hecheng Wang, Jinpeng Li, Bowen Liu et al.
-- Categories: quant-ph, physics.optics
-- Links: [abs](https://arxiv.org/abs/2609.26674v1) | [pdf](https://arxiv.org/pdf/2609.26674v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Photon statistics have moved to the forefront of modern optics, as intensity fluctuations and correlations shape multiphoton interactions and reveal information beyond mean-intensity measurements. Developing high-quality photon sources with pronounced correlations is a fundamental necessity in these fields. Here we demonstrate fluctuation-driven nonlinear statistical amplification of quantum light in spontaneous four-wave mixing using filtered amplified spontaneous emission (ASE). Extending the coherent-pump framework to fluctuating fields, we show how nonlinear weighting of pump intensity…
-
-## 8. Power-resolved ergotropy and correlation redistribution in a bosonic quantum battery driven by a coherent-state superposition
-
-- arXiv: `2609.26573v1`
-- Published: 2026-09-22 15:23 UTC
-- Authors: João P. d'El-Rey, Tailan S. Sarubi, Ana C. S. Costa, José G. G. de Oliveira
+- arXiv: `2609.28367v1`
+- Published: 2026-09-23 16:41 UTC
+- Authors: Xiao-Ke Wang, Zi-Yuan Liu, Ming-Yang Li, Shengjun Wu, Zeng-Bing Chen
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.26573v1) | [pdf](https://arxiv.org/pdf/2609.26573v1)
+- Links: [abs](https://arxiv.org/abs/2609.28367v1) | [pdf](https://arxiv.org/pdf/2609.28367v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Ergotropic-gap relations provide thermodynamic witnesses of quantum correlations, but a direct dynamical connection between extractable work and entanglement remains largely unexplored in multipartite non-Gaussian bosonic systems. Here, we establish such a connection for a bosonic quantum battery driven by a coherent-state superposition. Despite the infinite-dimensional Hilbert space, the dynamics retains a simple structure that allows the relevant work and correlation measures to be obtained exactly. We show that the loss of extractable work associated with the passive part of the battery…
+Can entangled noise erase entanglement more efficiently than separable noise? Standard robustness restricts the added noise to separable states; generalized robustness allows any state. We prove that the two costs coincide for every two-qubit state and give an explicit full-rank qubit--qutrit state with a strict gap. Positivity under partial transpose (PPT) characterizes separability in both dimensions, so the boundary is not caused by a failure of the PPT criterion. Instead, product-vector geometry permits a rank-one bridge between the two-qubit dual optimizations and supplies a…
 
-## 9. I Prove, Therefore I Am: Spatiotemporal Multi-Party Computation
+## 9. Quantum Topological Data Analysis Beyond Betti Numbers: Complexity Hardness $\&$ An Algorithm for Torsion Witness
 
-- arXiv: `2609.26448v1`
-- Published: 2026-09-22 14:06 UTC
-- Authors: Ziqing Guo, Fuyuki Kitagawa, Xiao Liang
-- Categories: quant-ph, cs.CR
-- Links: [abs](https://arxiv.org/abs/2609.26448v1) | [pdf](https://arxiv.org/pdf/2609.26448v1)
+- arXiv: `2609.28112v1`
+- Published: 2026-09-23 13:44 UTC
+- Authors: Nhat A. Nghiem, Dominic W. Berry, Trung V. Phan
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2609.28112v1) | [pdf](https://arxiv.org/pdf/2609.28112v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Recent advances have revealed an interplay between quantum computing and topological data analysis (TDA). Most quantum TDA has focused on Betti numbers, which characterize the connectivity and ``holes'' of a dataset. Homology, however, contains additional information in the form of torsion: a nontrivial cycle can become trivial after being repeated finitely, revealing global constraints on how cycles combine and wrap around one another. Beyond applications in biomolecular studies, torsion appears in physical settings including homological quantum rotor codes, discrete charges, and gauge…
+
+## 10. Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints
+
+- arXiv: `2609.28007v1`
+- Published: 2026-09-23 12:33 UTC
+- Authors: Imtiaz Ul Hassan, Öykü Akbulut, Onur Kaya, Ardhendu Behera, Swagat Kumar, Peter Matthew et al.
+- Categories: cs.CL, cs.IR, cs.LG
+- Links: [abs](https://arxiv.org/abs/2609.28007v1) | [pdf](https://arxiv.org/pdf/2609.28007v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['wilson']
+
+Most Turkish-capable large language models (LLMs) are evaluated using general-purpose benchmarks rather than long, structurally complex domain documents. This paper evaluates five open-weight 7B-8B models for Turkish document question answering under a resource-constrained local deployment setting. The primary benchmark contains 100 systematically validated questions derived from a 109-page industrial R&D report, and the evaluation protocol is replicated using a second 112-page public-sector report and an independently constructed 100-question set. All models are evaluated locally on an…
+
+## 11. Quantum Simulation of Si/SiGe Devices with Experimentally Calibrated Micromagnet Effects
+
+- arXiv: `2609.27724v1`
+- Published: 2026-09-23 11:39 UTC
+- Authors: Andrii Sokolov, Conor Power, Mathieu Moras, Claude Rohrbacher, Brian Malone, Sergey Amitonov et al.
+- Categories: quant-ph, cond-mat.mes-hall
+- Links: [abs](https://arxiv.org/abs/2609.27724v1) | [pdf](https://arxiv.org/pdf/2609.27724v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+Silicon-based spin qubits in Si/SiGe heterostructures are a leading platform for scalable quantum computing, yet bridging the gap between theoretical computer-aided design(CAD) models and experimental reality remains a significant challenge. Standard simulations often fail to capture critical physical phenomena, such as interface dipoles, parasitic charge accumulation, and the magnetic hysteresis of on-chip micromagnets. In this work, we present a comprehensive, experimentally calibrated 3D simulation pipeline for a 6-dot Si/SiGe device. We refine the semiconductor band alignment and…
+
+## 12. Response of Hellinger-distance based coherence to weak decoherence in two-flavor neutrino oscillations
+
+- arXiv: `2609.27697v1`
+- Published: 2026-09-23 11:18 UTC
+- Authors: Saurabh Rai, Nilakshi Das, Tejhas Kapoor
+- Categories: hep-ph, quant-ph
+- Links: [abs](https://arxiv.org/abs/2609.27697v1) | [pdf](https://arxiv.org/pdf/2609.27697v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Secure multiparty computation (MPC) enables mutually distrustful parties to compute on private digital inputs. We initiate the study of spatiotemporal MPC, extending this paradigm to functionalities whose inputs additionally depend on physical facts such as the parties' locations, times, or trajectories. Such protocols must simultaneously hide spatiotemporal information and ensure its physical consistency: a malicious party should not be able to make the functionality operate on a spatiotemporal input inconsistent with its actual physical state. The main conceptual challenge is to formulate…
-
-## 10. Hyperbolic Restricted Boltzmann Machine Neural Quantum State
-
-- arXiv: `2609.26032v1`
-- Published: 2026-09-22 11:33 UTC
-- Authors: H. L. Dao
-- Categories: quant-ph, cond-mat.dis-nn, cs.LG
-- Links: [abs](https://arxiv.org/abs/2609.26032v1) | [pdf](https://arxiv.org/pdf/2609.26032v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-We construct the first type of non-Euclidean non-autoregressive neural quantum state (NQS) in the form of the hyperbolic Restricted Boltzmann Machine (HRBM), which is studied in the variational Monte-Carlo (VMC) setting of the Quantum Sherrington-Kirkpatrick (QSK) model whose ground state exhibits volume-law entanglement. Across a 512-fold increase in the Hilbert space dimension corresponding to a system size increase from $N=14$ to $N=24$, HRBM NQS robustly outperforms its Euclidean version, the RBM NQS, in terms of better ground state energy optimization as well as lower Renyi-2 $S_2$ and…
+We evaluate the Hellinger-distance coherence of the two-flavor neutrino state subject to Lindblad damping of the mass-eigenstate interference term, and obtain a closed expression in terms of the flavor-basis density-matrix elements. In the two-flavor vacuum treatment with negligible wave-packet separation, the undamped state is pure, and the smallest eigenvalue of the damped state grows linearly with $ε=1-κ$, where $κ=e^{-ΓL}$. An expansion about the pure state then yields a nonanalytic $\sqrtε$ correction to the Hellinger coherence, with coefficient $K=2\sqrt{2}\,u\sin2θ/\sqrt{1-2u}$,…
