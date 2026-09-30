@@ -1,113 +1,101 @@
 # arXiv alert report
 
-- Generated: 2026-09-29 11:27 UTC
-- Window: papers published since 2026-09-28 11:27 UTC
-- Matches: 9
+- Generated: 2026-09-30 11:15 UTC
+- Window: papers published since 2026-09-29 11:15 UTC
+- Matches: 8
 
-## 1. QC-Stark: A Multi-Task Benchmark Revealing Capability Dissociations in LLMs Evaluated on Quantum Computing Tasks
+## 1. When Classical Correlations Certify Entanglement Recovery
 
-- arXiv: `2609.35581v1`
-- Published: 2026-09-28 16:36 UTC
-- Authors: Pranav Gupta
-- Categories: quant-ph, cs.AI, cs.LG
-- Links: [abs](https://arxiv.org/abs/2609.35581v1) | [pdf](https://arxiv.org/pdf/2609.35581v1)
-- Score: 4
-- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
-
-We introduce QC-Stark, a benchmark for evaluating large language models (LLMs) on 11 quantum computing (QC) tasks, spanning circuit construction, debugging, compilation, error correction, and simulation. Across 2,750 evaluations (10 models $\times$ 11 tasks x 5 difficulty levels x 5 seeds), we find that overall rankings mask substantial per-task variation. The Spearman correlation between overall and per-task rankings is statistically insignificant for 4 out of the 11 tasks included in this benchmark. A 2-parameter Item Response Theory (IRT) model validates measurement quality, and prompt…
-
-## 2. Temporal trade-offs in high-dimensional entanglement: a comprehensive noise model for optimal time-bin QKD protocols
-
-- arXiv: `2609.35488v1`
-- Published: 2026-09-28 16:00 UTC
-- Authors: Alexandra E. Bergmayr-Mann, Gláucia Murta, Marcus Huber
+- arXiv: `2609.38168v1`
+- Published: 2026-09-29 17:59 UTC
+- Authors: Takeru Utsumi, Yota Tachibana, Yoshifumi Nakata, Takaya Matsuura, Ryuji Takagi, Francesco Buscemi et al.
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.35488v1) | [pdf](https://arxiv.org/pdf/2609.35488v1)
+- Links: [abs](https://arxiv.org/abs/2609.38168v1) | [pdf](https://arxiv.org/pdf/2609.38168v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-High-dimensional time-bin entanglement is known for having high potential for quantum key distribution (QKD) applications, being easily implementable, robust and may offer better keyrates than simple qubit protocols. The temporal encoding, combined with limited clock resolution, however, implies a trade-off: Is it better to send more low-dimensionally encoded photons or few high-dimensional ones? Answering this question presents a hard challenge as it depends on the entire context of the protocol, including the production rates, losses, dark counts, timing jitters and many more. We answer…
+Entanglement and state distinguishability have long been central topics in quantum foundations. While each has developed into a rich subject in its own right, they can be connected through measurements in complementary bases. This connection provides insights into quantum and classical correlations and underlies many information-processing tasks, most notably quantum error correction (QEC). However, it has remained largely open whether the connection between entanglement and distinguishability extends to general measurements without assuming complementarity. We answer this question in the…
 
-## 3. Fourier-Geometric Circuit Design for Gate and Entanglement Placement in Quantum Neural Networks
+## 2. A commuting operator self-test for exact entanglement embezzlement
 
-- arXiv: `2609.35489v1`
-- Published: 2026-09-28 16:00 UTC
-- Authors: Seungcheol Oh, Chaemoon Im, Daeyeun Kim, Soohyun Park, Vaneet Aggarwal, Mohsen Heidari et al.
+- arXiv: `2609.38083v1`
+- Published: 2026-09-29 17:38 UTC
+- Authors: Connor Paddock, Simon Schmidt
+- Categories: quant-ph, math.OA
+- Links: [abs](https://arxiv.org/abs/2609.38083v1) | [pdf](https://arxiv.org/pdf/2609.38083v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
+
+We show that the optimal commuting operator correlation for a variant of Coladangelo's two-player generalized nonlocal game, based on the embezzlement of entanglement, is a commuting operator self-test. Our result gives the first correlation self-test for an exact entanglement embezzlement protocol in the commuting operator framework. Because the unique optimal correlation necessitates the exact embezzlement of entanglement, the correlation is unrealizable using quantum tensor-product models, even if the local spaces are allowed to be infinite dimensional. As such, our result provides an…
+
+## 3. A Neutral Atom-Based Hybrid Classical-Quantum Approach for the Entanglement Routing Problem
+
+- arXiv: `2609.37900v1`
+- Published: 2026-09-29 16:00 UTC
+- Authors: M. Yassine Naghmouchi, Quentin Ma, Agathe Blaise, René Veyland, Wesley Coelho
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.35489v1) | [pdf](https://arxiv.org/pdf/2609.35489v1)
-- Score: 3
-- Keyword hits: title=['entanglement'] abstract=[]
+- Links: [abs](https://arxiv.org/abs/2609.37900v1) | [pdf](https://arxiv.org/pdf/2609.37900v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-The output of a parameterized quantum circuit (PQC) can be expressed as a finite Fourier series whose accessible frequencies are fixed by the data-encoding gates. While the encoder determines which frequencies can appear, the corresponding Fourier coefficients depend on how the trainable and entangling gates are arranged. Although existing studies provide metrics for characterizing how gate structure affects Fourier coefficients, they do not translate these analyses into an explicit design criterion specifying how gates should be arranged to make a target coefficient reachable. In this paper,…
+Efficient end-to-end entanglement distribution in quantum information networks requires routing under limited resources and fidelity constraints. We study entanglement routing as a fidelity-constrained unsplittable multicommodity flow problem that maximizes the number of admitted requests. As a proof of concept, we integrate neutral-atom quantum optimization into a hybrid classical--quantum column-generation framework. A classical restricted master problem selects routes, while a pricing problem generates fidelity-feasible paths. We formulate this NP-hard constrained shortest-path pricing…
 
-## 4. The power of oracle access: Optimal sample and query complexity of the abelian state hidden subgroup problem
+## 4. Universal quantum coding
 
-- arXiv: `2609.35656v1`
-- Published: 2026-09-28 17:21 UTC
-- Authors: Yuhan Liu, Jose Carrasco, Jens Eisert, Armando Bellante
+- arXiv: `2609.38038v1`
+- Published: 2026-09-29 17:13 UTC
+- Authors: Jacopo Rizzo, Ludovico Lami, Jens Eisert, Lorenzo Leone
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.35656v1) | [pdf](https://arxiv.org/pdf/2609.35656v1)
+- Links: [abs](https://arxiv.org/abs/2609.38038v1) | [pdf](https://arxiv.org/pdf/2609.38038v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-In the quest to identify further quantum algorithms exhibiting superpolynomial speed-ups, a recurring theme is that the complexity of a problem is largely shaped by the input access model. Here, we study this phenomenon for the state hidden subgroup problem (StateHSP), a quantum generalization of the hidden subgroup problem in which the goal is to identify the symmetries of an unknown quantum state. For finite abelian groups, existing Fourier-sampling algorithms use $O(\log(|G|)/ε)$ copies of the state, but whether this scaling is optimal has remained open. We settle the complexity of the…
+Entanglement distillation from noisy bipartite states and reliable quantum communication over noisy channels are fundamental tasks in quantum information theory, yet optimal coding schemes typically rely on prior knowledge of the underlying state or channel. Here, through Schur-Weyl duality, we establish a universal quantum error-correction principle that removes this dependence entirely. We show that the irreducible permutation spaces arising from the local Schur-Weyl decomposition of many identical copies of an unknown bipartite mixed state form maximally entangled quantum code spaces, with…
 
-## 5. Learning sparse quantum states from single-qubit measurements
+## 5. Towards verifiable quantum advantage with random circuits: Observables that survive concentration
 
-- arXiv: `2609.35648v1`
-- Published: 2026-09-28 17:17 UTC
-- Authors: Su-un Lee, Liang Jiang, Kunal Sharma
-- Categories: quant-ph, cs.DS, cs.IT
-- Links: [abs](https://arxiv.org/abs/2609.35648v1) | [pdf](https://arxiv.org/pdf/2609.35648v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-We study the problem of learning a sparse quantum state, an $n$-qubit quantum state whose density matrix has at most $s$ nonzero matrix entries in an unknown product basis. While such states admit compact classical descriptions, they can carry long-range entanglement that prevents reconstruction from local reduced density matrices alone. Therefore, previous learning approaches addressed such long-range-entangled states using many entangling gates to extract the necessary information. In this work, we show that sparse states can nevertheless be efficiently learned using only single-qubit…
-
-## 6. Induced Coherence in Quantum and Classical Interferometry: Origin and Control
-
-- arXiv: `2609.35523v1`
-- Published: 2026-09-28 16:11 UTC
-- Authors: Balakrishnan Viswanathan, Ravi Kamal Pandey, Devendra Kumar Mishra, Sibasish Ghosh, Prasanta K. Panigrahi
+- arXiv: `2609.37890v1`
+- Published: 2026-09-29 15:56 UTC
+- Authors: Antonio A. Mele, Francesco A. Mele, Jarrod R. McClean, Thomas E. O'Brien
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.35523v1) | [pdf](https://arxiv.org/pdf/2609.35523v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-The wave-particle duality that manifests in the Young's double-slit interferometry satisfying the well known Englert-Greenberger-Yasin inequality has recently been shown to obey a universal triality relation involving coherence, predictability and rather surprisingly entanglement. In the present work, we explicitly demonstrate the persistence of the triality relation in the quantum induced coherence interferometer and the classical configuration recovers the well known duality inequality. Furthermore, we explore the origin of coherence and entanglement, in the induced coherence…
-
-## 7. Generating Vector-Vortex $γ$ Photons by Nonlinear Compton Scattering
-
-- arXiv: `2609.35208v1`
-- Published: 2026-09-28 14:02 UTC
-- Authors: Yong-Zheng Ren, Mamutjan Ababekri, Jun-Lin Zhou, Feng Wan, Qian Zhao, Zhong-Peng Li et al.
-- Categories: physics.optics, hep-ph, quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.35208v1) | [pdf](https://arxiv.org/pdf/2609.35208v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
-
-Vector-vortex photons, characterized by a nonseparable coupling between polarization and orbital angular momentum (OAM), offer opportunities for optical manipulation, quantum communication, nuclear photonics, etc. However, their generation in the $γ$-ray regime remains challenging. Here, we put forward a novel method to generate vector-vortex $γ$ photons via nonlinear Compton scattering in elliptically polarized laser pulses. We reveal that tailoring laser ellipticity directs the multiphoton absorption to coherently populate OAM modes with opposite winding numbers, $\pm \ell$, tied to…
-
-## 8. Experimental quantum-computing-enhanced sensing using Grover's algorithm
-
-- arXiv: `2609.35016v1`
-- Published: 2026-09-28 12:16 UTC
-- Authors: Mathieu Ouellet, Purnendu Sen, Xiangqin Wang, Saswata Roy, Xingrui Song, Vladimir Kremenetski et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2609.35016v1) | [pdf](https://arxiv.org/pdf/2609.35016v1)
+- Links: [abs](https://arxiv.org/abs/2609.37890v1) | [pdf](https://arxiv.org/pdf/2609.37890v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-The combination of quantum sensing with quantum computing to provide an enhancement over conventional quantum sensing has recently emerged as a promising potential application of quantum computing that could give advantages without needing large-scale or fault-tolerant hardware. In this work, we report an experimental demonstration of a recent theoretical proposal to repurpose Grover's search algorithm to improve the ability to detect signals with unknown frequency within a large detection bandwidth. Our experiments were based on a system comprising a single superconducting qubit coupled to a…
+Demonstrating quantum advantage on current quantum hardware is a central goal of quantum computing, and random quantum circuits underpin many leading proposals. Yet sampling-based demonstrations are often difficult to verify, while observable-based approaches face a different challenge: concentration can suppress differences between circuit instances. Recent experiments have put forward the estimation of out-of-time-order correlators (OTOCs) in random circuits as a promising task for verifiable quantum advantage, yet whether their circuit-to-circuit fluctuations survive concentration as…
 
-## 9. Simulation-Based Quantum System Inference with Neural Posterior Estimation
+## 6. Attosecond correlation interferometry
 
-- arXiv: `2609.34995v1`
-- Published: 2026-09-28 12:04 UTC
-- Authors: Hang Zou, Anton Frisk Kockum, Martin Rahm, Simon Olsson
-- Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2609.34995v1) | [pdf](https://arxiv.org/pdf/2609.34995v1)
+- arXiv: `2609.37838v1`
+- Published: 2026-09-29 15:38 UTC
+- Authors: Assaf Shonfeld, Keren Deutsch, Noa Yaffe, Michael Birk, Matan Even Tzur, Barak Dayan et al.
+- Categories: physics.optics, quant-ph
+- Links: [abs](https://arxiv.org/abs/2609.37838v1) | [pdf](https://arxiv.org/pdf/2609.37838v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum error mitigation']
+- Keyword hits: title=[] abstract=['entanglement']
 
-Models of quantum systems faithfully map system parameters to observations, but the inverse problem of parameter inference from measurement data presents a fundamental challenge: computationally intractable likelihoods due to an exponentially large Hilbert space. Here, we introduce simulation-based quantum system inference, a unified, likelihood-free framework that learns parameter posteriors directly from classical simulation data. The central idea is to pair polynomial-cost classical simulators, such as Pauli propagation and tensor networks, with normalizing flows or other neural density…
+Correlations between optical modes, ranging from classical fluctuations to quantum entanglement, are a cornerstone of modern optics and emerging quantum technologies. However, probing these correlations on the natural timescale of electronic motion - the attosecond regime - remains a major challenge. Here, we generate and characterize correlated attosecond extreme-ultraviolet (XUV) emission by perturbing gas-phase high-harmonic generation with two-mode bright squeezed vacuum. The signal and idler fields imprint their correlated amplitude and phase fluctuations onto two families of harmonics,…
+
+## 7. Asymptotic Pseudospectra in Dissipative Floquet Quantum Systems: Geometric Structures and Observable Dynamics
+
+- arXiv: `2609.37523v1`
+- Published: 2026-09-29 13:12 UTC
+- Authors: Yuncheng Xie, Haozhe Shi, Zhuocheng Ma, Weibin Chu, Xin-Gao Gong
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2609.37523v1) | [pdf](https://arxiv.org/pdf/2609.37523v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['quantum computing']
+
+In periodically driven open quantum systems, nonnormality renders the Floquet spectrum insufficient as the system approaches the thermodynamic limit, so that pseudospectra are needed to characterize the dynamics accurately. While conventional approaches mainly focus on the local dynamics of isolated pseudospectra, their global connections and the resulting physical consequences for observables have remained largely unexplored. Here, we uncover this collective behavior by classifying the unit disk into distinct domains of exponential, algebraic, and bounded accuracy according to the asymptotic…
+
+## 8. Quantum Leakage Resilience of Shamir Secret Sharing
+
+- arXiv: `2609.37276v1`
+- Published: 2026-09-29 11:19 UTC
+- Authors: Rishabh Batra, Fuyuki Kitagawa, Ryo Nishimaki, Takashi Yamakawa
+- Categories: quant-ph, cs.CR
+- Links: [abs](https://arxiv.org/abs/2609.37276v1) | [pdf](https://arxiv.org/pdf/2609.37276v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+We initiate the study of quantum leakage resilience of unmodified Shamir secret sharing over prime fields. A well-studied leakage model for Shamir's secret sharing classically is single-bit local leakage from each share. We consider its quantum analogue where, for each party, a local leakage channel takes as input the party's share and outputs a leaked qubit. Without preshared entanglement, we show that the distinguishing advantage is $2^{-Ω(n)}$ when the threshold rate $t/n=τ$ exceeds $τ_\star\approx0.73339$ by a fixed positive margin. More generally, we allow disjoint entangled blocks of…
