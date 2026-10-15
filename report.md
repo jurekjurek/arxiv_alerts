@@ -1,125 +1,125 @@
 # arXiv alert report
 
-- Generated: 2026-10-14 10:23 UTC
-- Window: papers published since 2026-10-13 10:23 UTC
+- Generated: 2026-10-15 10:08 UTC
+- Window: papers published since 2026-10-14 10:08 UTC
 - Matches: 10
 
-## 1. Gaussian entanglement and quantum communication: geodesic optimization and multimode bounds
+## 1. Quantum Work Statistics from Entanglement-Assisted Invariance
 
-- arXiv: `2610.18827v1`
-- Published: 2026-10-13 17:53 UTC
-- Authors: Hemant K. Mishra, Mark M. Wilde
-- Categories: quant-ph, cs.IT
-- Links: [abs](https://arxiv.org/abs/2610.18827v1) | [pdf](https://arxiv.org/pdf/2610.18827v1)
+- arXiv: `2610.20528v1`
+- Published: 2026-10-14 17:25 UTC
+- Authors: Akira Sone, Akram Touil, Emery Doucet, Sebastian Deffner
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2610.20528v1) | [pdf](https://arxiv.org/pdf/2610.20528v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Loss and noise limit the use of light to distribute entanglement, transmit quantum information, and establish secret keys. Gaussian states have a compact description in terms of means and covariance matrices, but their entanglement still requires global optimization. We develop a framework for computing Gaussian-restricted versions of the relative entropy of entanglement and Rains entanglement. An integral representation reveals a convex geometry under matrix geometric means and reduces Gaussian Rains entanglement to relative entropy minimized over Gaussian states with positive partial…
+We demonstrate that the one-time measurement scheme is more consistent than the standard two-time measurement scheme with respect to the fundamental symmetry of entanglement, namely entanglement-assisted invariance (envariance). In particular, the work statistics obtained from the one-time measurement scheme arise naturally as a direct consequence of envariance for any driving unitary, without involving an explicit measurement postulate, whereas the analogous identification for the two-time measurement scheme is possible only for a Haar-measure-zero set of unitaries. This envariance-based…
 
-## 2. On the coincidence of discrete and continuous definitions of Entanglement of Formation
+## 2. Hyperentanglement in intermediate phase-space planes: benchmarking a photon-pair source for quantum key distribution
 
-- arXiv: `2610.18816v1`
-- Published: 2026-10-13 17:49 UTC
-- Authors: Haobo Ma, Maksim E. Shirokov, Wenlin Zhang
-- Categories: quant-ph, math-ph, math.FA
-- Links: [abs](https://arxiv.org/abs/2610.18816v1) | [pdf](https://arxiv.org/pdf/2610.18816v1)
+- arXiv: `2610.20005v1`
+- Published: 2026-10-14 11:21 UTC
+- Authors: Murilo H. Magiotto, Millena B. Novaes, Wesley B. Cardoso, Ardiley T. Avelar, 1 Paulo H. Souto Ribeiro, Stephen P. Walborn et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2610.20005v1) | [pdf](https://arxiv.org/pdf/2610.20005v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-It is proved that every Borel ensemble of pure states on a separable bipartite Hilbert space with finite average entanglement admits a countable ensemble with the same barycenter and arbitrarily small additional average entanglement. Consequently, the discrete and continuous versions of the Entanglement of Formation coincide on the whole space of states of infinite-dimensional bipartite quantum system (with infinite values allowed). The main idea of the proof (realized with the AI-assistance) is the identification of a Borel ensemble of pure bipartite states with a Borel probability measure…
+We characterize a source of photon pairs simultaneously entangled in polarization and in the transverse spatial degree of freedom, with the spatial measurements performed in intermediate planes of the fractional Fourier transform. The source consists of two crossed type-I crystals in a non-collinear geometry, such that the transverse variables carry information about the crystal of origin. Detection in the crystal plane reveals this information completely and destroys the polarization entanglement, so that a scheme using the near and far fields as conjugate spatial bases cannot support a…
 
-## 3. Beyond Gaussian Entanglement: Practical Criteria for Polynomially Excited Quantum States
+## 3. Deterministic and Programmable Fusion for Scalable Generation of Photonic Graph States
 
-- arXiv: `2610.18365v1`
-- Published: 2026-10-13 13:26 UTC
-- Authors: Gábor Homa, Richárd Balka, Nikolett Német, András Bodor, Tamás Kiss, András Csordás
-- Categories: quant-ph, math-ph
-- Links: [abs](https://arxiv.org/abs/2610.18365v1) | [pdf](https://arxiv.org/pdf/2610.18365v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-Polynomial excitations consisting of creation and annihilation operators are studied. Subsystem entanglement is proven produced and preserved by such manipulations. NPT entanglement already present between any two subsystems of a general pure or mixed multipartite Gaussian state is preserved under all polynomial excitations. Nevertheless, these excitations can create NPT entanglement between initially separable subsystems, implying that the number of NPT entangled pairs cannot decrease. Polynomial excitations of a wide class of initially separable pure states are considered. For these states,…
-
-## 4. Explicitly correlated ground states with a feedback-free variational hybrid algorithm
-
-- arXiv: `2610.18681v1`
-- Published: 2026-10-13 16:38 UTC
-- Authors: Benjamin Corbett, Akimasa Miyake
-- Categories: quant-ph, cond-mat.str-el
-- Links: [abs](https://arxiv.org/abs/2610.18681v1) | [pdf](https://arxiv.org/pdf/2610.18681v1)
+- arXiv: `2610.19927v1`
+- Published: 2026-10-14 10:15 UTC
+- Authors: Yan Li, Yunfan Yang, Zenghui Bao, Jize Yang, Luyan Sun, Yipu Song et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2610.19927v1) | [pdf](https://arxiv.org/pdf/2610.19927v1)
 - Score: 2
-- Keyword hits: title=[] abstract=['krylov', 'entanglement']
+- Keyword hits: title=[] abstract=['quantum computing', 'entanglement']
 
-Explicitly correlated methods, which represent dominant short-range correlations by a diagonal Jastrow-type correlator, are designed to accurately describe systems of strongly correlated electrons, such as the fully periodic 2D Fermi--Hubbard model. However, as the reference state is compact in momentum space whereas the correlator acts naturally in real space, there is a fundamental mismatch of bases that classical algorithms resolve only by restricting the reference or the correlator. Here we propose a hybrid algorithm in which a quantum processor prepares a low-entanglement momentum-space…
+Entanglement in multiphoton graph states is an important resource with various applications, such as measurement-based quantum computing and memory-less quantum repeaters. While some primitive instances have been successfully prepared, scalable generation of large-scale graph states with programmable connections remains an outstanding challenge. Fusion provides a promising "divide-and-conquer" approach by linking smaller resource states into larger, more complex graphs. However, its practical scalability has been limited by the probabilistic nature of conventional fusion protocols, which…
 
-## 5. Deterministic and programmable generation of mechanical multipartite entangled states
+## 4. Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge
 
-- arXiv: `2610.18778v1`
-- Published: 2026-10-13 17:32 UTC
-- Authors: Isabelle Franzen, Max-Emanuel Kern, Q. Rumman Rahman, Igor Kladarić, Stefano Marti, Yiwen Chu et al.
+- arXiv: `2610.20570v1`
+- Published: 2026-10-14 17:53 UTC
+- Authors: Bruno Leonardo Santos Menezes, Carlos Leonardo Souza Cardoso, Fabio André Machado Porto
+- Categories: cs.CL
+- Links: [abs](https://arxiv.org/abs/2610.20570v1) | [pdf](https://arxiv.org/pdf/2610.20570v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['wilson']
+
+Brazilian Portuguese remains underserved by open-source language models, and the few that are safety-aligned rarely document what did not work or validate comparisons with statistical significance. We present Manacá-1B-Instruct-2, the second-generation post-training alignment of Manacá-1B (1.72B parameters, trained from scratch for PT-BR), with an SFT corpus of 291,223 examples. We document three DPO attempts, all negative, including a case where the training reward margin reaches 1.0 while free generation does not change at all, and show that safety came from a dedicated safety-SFT (LLM-jp…
+
+## 5. Geometric-resource bounds and permutation-averaged success probabilities for the WZP algorithm
+
+- arXiv: `2610.20198v1`
+- Published: 2026-10-14 13:46 UTC
+- Authors: Linlin Ye, Linmao Wang, Zhaoqi Wu, Shao-Ming Fei
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2610.18778v1) | [pdf](https://arxiv.org/pdf/2610.18778v1)
+- Links: [abs](https://arxiv.org/abs/2610.20198v1) | [pdf](https://arxiv.org/pdf/2610.20198v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Multimode mechanical resonators offer a large set of densely packed, long-lived bosonic modes within a single compact device, making them attractive for quantum simulation, quantum information processing, and quantum-enhanced sensing. Many such applications rely on multipartite entanglement, yet deterministic mechanical entanglement has so far been largely limited to pairs of modes. Here we demonstrate the deterministic and programmable preparation of multipartite entangled states among the phonon modes of a high-overtone bulk acoustic wave resonator coupled to a superconducting transmon…
+Solving linear systems of equations is a fundamental task in machine learning and optimization. In this work, we extend the original WZP algorithm from real symmetric linear systems to complex Hermitian linear systems. We then study the success probability of the modified WZP algorithm from a resource-theoretic perspective. By expressing the postselection success probability as the expectation value of a positive operator, we derive upper and lower bounds of the maximal success probability over separable, incoherent, and real pure states. These bounds further establish connections between the…
 
-## 6. Quantum-enhanced mechanical sensing with machine-learning estimation
+## 6. Loss-Tolerant Measurement-Device-Independent QKD over Untrusted Repeaters via High-Dimensional Time-Bin Multiplexing
 
-- arXiv: `2610.18776v1`
-- Published: 2026-10-13 17:32 UTC
-- Authors: Finn Müßigbrodt, Andraž Omahen, Q. Rumman Rahman, Giulio Corazza, Yiwen Chu, Matteo Fadel
+- arXiv: `2610.20148v1`
+- Published: 2026-10-14 13:08 UTC
+- Authors: Yu-Chun Yin, Ching-Yi Lai, Alexei Ashikhmin
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2610.18776v1) | [pdf](https://arxiv.org/pdf/2610.18776v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['trapped ions']
-
-Massive mechanical oscillators couple directly to forces, accelerations and gravity, making them attractive probes of new physics and of quantum mechanics at macroscopic scales. Pushing sensitivities beyond the standard quantum limit for signals of unknown phase requires non-Gaussian quantum states, whose metrological advantage has so far been confined to lighter systems such as trapped ions. Here we operate a microgram-scale acoustic mode of a high-overtone bulk acoustic wave resonator as a phase-insensitive quantum-enhanced sensor. A transmon qubit prepares the mode in Fock states of up to…
-
-## 7. Finite-energy two-way assisted capacities: Exact formulas for multimode loss and fading
-
-- arXiv: `2610.18731v1`
-- Published: 2026-10-13 17:06 UTC
-- Authors: Stefano Pirandola, Gaetana Spedalieri
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2610.18731v1) | [pdf](https://arxiv.org/pdf/2610.18731v1)
+- Links: [abs](https://arxiv.org/abs/2610.20148v1) | [pdf](https://arxiv.org/pdf/2610.20148v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We study quantum communication, entanglement distribution, and secret-key generation through multimode bosonic loss and fading channels, assisted by local quantum operations and two-way classical communication. Using sector teleportation, we determine the exact two-way quantum and secret-key capacities of multimode pure-loss channels under a mean photon-number constraint, allowing arbitrary adaptive quantum protocols. We extend these results to continuous frequency-dependent loss under a power constraint and identify the optimal allocation of photons among optical modes. For constant loss…
+We propose a loss-tolerant measurement-device-independent quantum key distribution (MDI-QKD) protocol using time-bin-multiplexed single photons entangled with local qubits stored in nitrogen-vacancy (NV) centers. In each round, Alice and Bob each send a single multiplexed photon to an untrusted intermediary, Charlie. Each photon first becomes entangled with Charlie's NV-center qubits; Charlie then performs entanglement swapping between his NV qubits to establish EPR pairs between Alice's and Bob's local qubits. With $d$ time bins per photon, $\log_2 d + 1$ EPR pairs can be generated per…
 
-## 8. Lifting: Quantum State Discrimination Framework for Mid-Circuit Measurements
+## 7. Provable Transformer Context Compression for In-Context Reinforcement Learning
 
-- arXiv: `2610.18482v1`
-- Published: 2026-10-13 14:43 UTC
-- Authors: Chi Zhang, Neel Vora, Yilun Xu, Gang Huang, Fan Chen, Lei Jiang
-- Categories: quant-ph, cs.ET, cs.LG
-- Links: [abs](https://arxiv.org/abs/2610.18482v1) | [pdf](https://arxiv.org/pdf/2610.18482v1)
+- arXiv: `2610.20004v1`
+- Published: 2026-10-14 11:21 UTC
+- Authors: Yajie Zhao, Yingjun Mo, Zhiyong Wang, Bo Tang, Chao Xu, Fang Kong
+- Categories: cs.LG, cs.AI
+- Links: [abs](https://arxiv.org/abs/2610.20004v1) | [pdf](https://arxiv.org/pdf/2610.20004v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
+- Keyword hits: title=[] abstract=['krylov']
 
-Quantum computing promises new capabilities beyond classical computation. Mid-circuit measurements (MCMs) enable error correction and outcome-dependent control, but their reliability is limited by noise on superconducting hardware. These operations depend on accurate quantum state discrimination (QSD), which assigns measured signals to state labels. Neural network-based (NN-based) QSD improves this assignment, yet its error remains bounded below by the Bayes risk of the available readout distributions. A complementary challenge is state deterioration as successive measurements accumulate and…
+Transformers can perform in-context reinforcement learning without parameter updates. However, existing theoretical constructions often require context sizes that grow with the number of sampled transitions, leading to increasing memory costs in large-scale problems. This raises a fundamental scalability question: how much context is intrinsically necessary to carry out such learning? We answer this question for fixed-policy TD evaluation. We show that, with a shared linear decoder, the minimum context dimension required to exactly reproduce the first $L$ TD iterates is the Krylov dimension…
 
-## 9. Experimental Benchmarking of a 256-Qubit Room-Temperature NV-Diamond Quantum Processor with an Optically Programmable Biomolecular Quantum Bus
+## 8. Joint-measurement advantage and finite-time transitions in accelerated detector registers
 
-- arXiv: `2610.18245v1`
-- Published: 2026-10-13 12:10 UTC
-- Authors: Adams Ivanov, Daniela Herrmann, Erick Giovani Sperandio Nascimento
+- arXiv: `2610.19941v1`
+- Published: 2026-10-14 10:25 UTC
+- Authors: Zhiming Huang
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2610.18245v1) | [pdf](https://arxiv.org/pdf/2610.18245v1)
+- Links: [abs](https://arxiv.org/abs/2610.19941v1) | [pdf](https://arxiv.org/pdf/2610.19941v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We report Zeus-256, a room-temperature nitrogen-vacancy (NV) diamond processor with 256 simultaneously active processor-level logical qubits arranged in a 16 x 16 array. Each logical qubit combines an NV electron-spin ensemble with nuclear-spin memory and ancillary resources. OpenQASM 2.0 circuits are transpiled into RFSoC-controlled microwave, radio-frequency, optical, timing, measurement and bus-configuration sequences. An optically programmable proprietary protein-chromophore layer with an internal metastable-triplet spin mediator provides a reconfigurable biomolecular quantum bus for…
+The Unruh response thermalizes accelerated detectors, but the entanglement remaining in a register does not by itself specify what distributed measurements can recover. We study this distinction for a four-qubit cluster state whose two assisting nodes independently undergo generalized amplitude damping, while the target nodes remain isolated and the environments are inaccessible. We derive the exact joint-assisted concurrence and the exact one-way value for arbitrary local measurements. The joint optimum equals the bipartition negativity, and computational-basis measurements attain the…
 
-## 10. Distance Prediction for Quantum Codes
+## 9. Majorana Edge Modes Reshape Kibble-Zurek Scaling in Kitaev Honeycomb Ribbons
 
-- arXiv: `2610.18130v1`
-- Published: 2026-10-13 10:39 UTC
-- Authors: Nadav Schneider, Eliya Nachmani
-- Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2610.18130v1) | [pdf](https://arxiv.org/pdf/2610.18130v1)
+- arXiv: `2610.19923v1`
+- Published: 2026-10-14 10:14 UTC
+- Authors: Hyesung Choi, Antonio Mandarino, Mahn-Soo Choi
+- Categories: quant-ph, cond-mat.str-el
+- Links: [abs](https://arxiv.org/abs/2610.19923v1) | [pdf](https://arxiv.org/pdf/2610.19923v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
+- Keyword hits: title=[] abstract=['entanglement']
 
-The distance of a quantum code is a fundamental metric that dictates its error-correction capability. While quantum low-density parity-check (qLDPC) families such as Bivariate Bicycle (BB) codes offer a promising pathway to low-overhead fault-tolerant quantum computing, computing their distance is challenging. Current exact solvers and even search heuristics that provide a distance upper bound suffer from severe computational bottlenecks, restricting the discovery of optimal codes. In this paper, we construct a dataset of BB codes with corresponding distance upper bounds obtained through…
+Recent progress in programmable quantum simulators motivates exact benchmarks for nonequilibrium dynamics in topological quantum matter. We study the Kitaev honeycomb model driven through its critical regions by a linear ramp of the bond coupling $J_z$ over a ramp time $τ$, comparing zigzag and armchair ribbons with fully periodic tubes. The production of excitations exhibits a geometry-dependent finite-size crossover controlled by $N_2/\sqrtτ$, the ratio of the ribbon width to the Kibble--Zurek length. Periodic tubes obey the expected critical-line Kibble--Zurek scaling and serve as the…
+
+## 10. Quantum Folding in Chebyshev-Based Quantum Subspace Diagonalization
+
+- arXiv: `2610.19922v1`
+- Published: 2026-10-14 10:13 UTC
+- Authors: Seung Park, Dongni Chen, Stefano Chesi, Kyunghyun Baek, Mahn-Soo Choi
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2610.19922v1) | [pdf](https://arxiv.org/pdf/2610.19922v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['krylov']
+
+Quantum subspace diagonalization (QSD) with a Krylov space spanned by Chebyshev polynomials of the Hamiltonian is a natural ground-state method for fault-tolerant quantum computers, but every guarantee it offers---convergence rate, noise floor, and the cost of turning its classical output back into a physical state---is controlled by the overlap of the reference state with the true ground state, which decays exponentially with system size for any product state and non-trivial Hamiltonian. We propose quantum folding: for a system governed by a local Hamiltonian, seed the QSD with the product…
