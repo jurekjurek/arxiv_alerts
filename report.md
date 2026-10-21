@@ -1,101 +1,113 @@
 # arXiv alert report
 
-- Generated: 2026-10-20 10:14 UTC
-- Window: papers published since 2026-10-19 10:14 UTC
-- Matches: 8
+- Generated: 2026-10-21 10:23 UTC
+- Window: papers published since 2026-10-20 10:23 UTC
+- Matches: 9
 
-## 1. A General Master Equation for Two Accelerated Detectors: Stationary States and Entanglement
+## 1. Entanglement Distribution in Quantum Switch Networks: Memory Limits and Achievability
 
-- arXiv: `2610.26753v1`
-- Published: 2026-10-19 17:14 UTC
-- Authors: Riccardo Acquaviva, Paolo Facchi
+- arXiv: `2610.28596v1`
+- Published: 2026-10-20 17:46 UTC
+- Authors: Lei Hu, Alptug Aytekin, Stavros Mitrolaris, Mohamed Nomeir, Subhankar Banerjee, Sennur Ulukus et al.
+- Categories: cs.IT, cs.NI, quant-ph
+- Links: [abs](https://arxiv.org/abs/2610.28596v1) | [pdf](https://arxiv.org/pdf/2610.28596v1)
+- Score: 3
+- Keyword hits: title=['entanglement'] abstract=[]
+
+We study the minimum persistent memory required to distribute a graph state through a quantum switch. Specifically, consider a central switch that assists $n$ remote users in distributing a graph state, using independently generated user-switch Bell pairs. Since Bell-pair generation is probabilistic, different links generally succeed at different times. When a Bell-pair is generated, the qubits may need to be stored in memory while waiting for other links to succeed. Recently, new protocols have been proposed to reduce this storage overhead by processing and releasing some switch qubits…
+
+## 2. Tuning between collective dynamics and scrambling through initial-state symmetry alignment in long-range spin models
+
+- arXiv: `2610.28462v1`
+- Published: 2026-10-20 16:15 UTC
+- Authors: Sridevi Kuriyattil, Johannes Kombe, Andrew J. Daley, Pablo M. Poggi
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2610.26753v1) | [pdf](https://arxiv.org/pdf/2610.26753v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-We derive a general Gorini-Kossakowski-Lindblad-Sudarshan master equation for two co-located, uniformly accelerated two-level detectors weakly coupled to scalar fields in the Minkowski vacuum, retaining coherent and dissipative contributions for arbitrary orientations, field masses, and spacetime dimensions. For equal orientations, we determine stationary states and their entanglement for two couplings to massless fields in four dimensions: symmetric coupling yields acceleration-dependent concurrence, whereas rotating-wave coupling gives acceleration-independent concurrence.
-
-## 2. Supervised Learning with Quantum Hamiltonian Embeddings
-
-- arXiv: `2610.26833v1`
-- Published: 2026-10-19 17:56 UTC
-- Authors: Riccardo Molteni, Minjun Jeon, Paolo Braccia, Abhinav Deshpande, Vedran Dunjko, Liang Jiang et al.
-- Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2610.26833v1) | [pdf](https://arxiv.org/pdf/2610.26833v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['quantum machine learning', 'quantum computing']
-
-Machine learning is widely regarded as a promising application in which quantum computing could offer a computational advantage. However, general quantum machine learning models with provable guarantees on performance, trainability, and efficient inference remain limited. In this work, we introduce quantum Hamiltonian embeddings, a supervised learning framework in which a classical training dataset is encoded into a single effective, parameterized Hamiltonian. Training optimizes the parameters of this data-dependent Hamiltonian, whose approximate ground state defines the classification rule.…
-
-## 3. PPT-assisted capacities of bosonic Gaussian channels
-
-- arXiv: `2610.26783v1`
-- Published: 2026-10-19 17:35 UTC
-- Authors: Matthew Barber, Stefano Pirandola
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2610.26783v1) | [pdf](https://arxiv.org/pdf/2610.26783v1)
+- Links: [abs](https://arxiv.org/abs/2610.28462v1) | [pdf](https://arxiv.org/pdf/2610.28462v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We determine the exact quantum communication and entanglement-distribution capacities of three fundamental bosonic channels, namely thermal loss, thermal amplification and additive Gaussian noise, assisted by operations that completely preserve positive partial transpose (PPT). These operations are more powerful than local operations and classical communication (LOCC), but cannot generate distillable entanglement on their own. For thermal loss, the unconstrained capacity coincides with the Pirandola-Laurenza-Ottaviani-Banchi (PLOB) bound throughout the non-entanglement-breaking regime. The…
+Long-range interactions in many-body quantum systems give rise to a wide range of dynamical phenomena, from collective dynamics well described by integrable mean-field models with symmetric all-to-all couplings, to fast scrambling of quantum information from disordered long-range interactions. Here, we investigate scenarios in which both regimes emerge within a single deterministic, translation-invariant XY spin model with long-range couplings. We consider a sparse powers-of-two (PWR2) graph, where each spin interacts with a logarithmic number of neighbors, and a power-law-decaying model. By…
 
-## 4. Measurement-efficient energy estimator for quantum chemistry of photodynamic materials
+## 3. Orbital-angular-momentum control of localized Floquet states and photocurrents in Weyl semimetals
 
-- arXiv: `2610.26689v1`
-- Published: 2026-10-19 16:34 UTC
-- Authors: Connor Lenihan, Kripa Panchagnula, Luca Erhart, Jem Guhit, Carlo A. Gaggioli, Gabriel Greene-Diniz et al.
-- Categories: quant-ph, physics.chem-ph
-- Links: [abs](https://arxiv.org/abs/2610.26689v1) | [pdf](https://arxiv.org/pdf/2610.26689v1)
+- arXiv: `2610.28396v1`
+- Published: 2026-10-20 15:42 UTC
+- Authors: Kyle S. Netherwood, Juan I. Aranzadi, Nils Jacobsen, Michael A. Sentef, Sang Soon Oh
+- Categories: cond-mat.mes-hall, quant-ph
+- Links: [abs](https://arxiv.org/abs/2610.28396v1) | [pdf](https://arxiv.org/pdf/2610.28396v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['wilson']
+
+Structured light provides a route to controlling quantum materials not only through its polarization, but also through its spatial profile and orbital angular momentum (OAM). We develop real space theories of a Weyl semimetal driven by a vortex beam and show that optical OAM generates highly localized Floquet vortex states with pronounced circulating photocurrents. Exploiting cylindrical symmetry, we derive a Bogoliubov-de Gennes-like radial equation that resolves the states by angular momentum and reveals their evolution between the light-dressed Weyl cones. For Laguerre-Gaussian beams, the…
+
+## 4. CO$Φ$ - COmpiling PHotonics into dIgital quantum circuits
+
+- arXiv: `2610.28349v1`
+- Published: 2026-10-20 15:15 UTC
+- Authors: Grzegorz Czelusta, Marcin Markiewicz, Jakub Mielczarek, Artur Miroszewski
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2610.28349v1) | [pdf](https://arxiv.org/pdf/2610.28349v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Accurate modelling of chemical reaction rates requires precise correlated energy differences. Quantum computing offers a potential route to their determination, but extracting energies from quantum-prepared states can demand prohibitive sampling. We demonstrate measurement-efficient correlated energy estimation using an electronically challenging H$_2$DBB--Ru model derived from a Ru-functionalized hafnium metal-organic framework relevant to radiodynamic and photodynamic therapies. The mixed estimator combines a quantum-prepared target with sparse multiconfiguration references and recovers…
+Photonic and qubit-based (digital) approaches to quantum computing are largely regarded as separate paradigms. This article aims to bridge these paradigms by developing a method for mapping quantum-optical systems onto qubit-based quantum circuits. The key ingredient enabling this mapping is the introduction of a truncation of the Fock space describing single-mode optical states. Within this framework, representations of basic photonic operations are developed, including the phase-rotation operator, the displacement operator, the squeezing operator, and the beam splitter. Explicit quantum…
 
-## 5. Beyond Fidelity: Resolving Errors in Photonic Seed State Generation
+## 5. Quantum Broker: QoS-Aware Distribution of Quantum Computations
 
-- arXiv: `2610.26603v1`
-- Published: 2026-10-19 15:44 UTC
-- Authors: Sara Bartolucci, Patrick Birchall, Jacob Bulmer, Sam Gartenstein, Mihir Pant, Terry Rudolph et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2610.26603v1) | [pdf](https://arxiv.org/pdf/2610.26603v1)
+- arXiv: `2610.28342v1`
+- Published: 2026-10-20 15:08 UTC
+- Authors: Giuseppe Bisicchia, Alessandro Bocci, Jose Garcia-Alonso, Juan Manuel Murillo, Antonio Brogi
+- Categories: quant-ph, cs.ET, cs.SE
+- Links: [abs](https://arxiv.org/abs/2610.28342v1) | [pdf](https://arxiv.org/pdf/2610.28342v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-An important aspect of many linear optical quantum computing architectures is probabilistically generating small dual-rail qubit entangled states, or seed states. While many schemes to achieve this have been discovered, attention has been primarily focused on minimizing input resources and maximizing success probability rather than establishing a detailed understanding of linear-optical error performance. In this work, we develop a framework for resolving sensitivities to physically distinct errors in linear optical state generation, allowing us to identify precise ways in which these errors…
+Cloud-accessible quantum computing has made heterogeneous Quantum Processing Units (QPUs) available through provider platforms that differ in qubit technology, calibration state, queueing behavior, and pricing model. This heterogeneity makes execution management a quantum-engineering concern: a quantum circuit may be executable on several backends, but the resulting cost, latency, fidelity, and reproducibility depend on backend selection and on how measurement shots are allocated. This paper presents the Quantum Broker, an open-source and provider-agnostic framework for…
 
-## 6. Local Measurement Theory for Quantum Cellular Automata
+## 6. Dynamics of two bosons with density-assisted tunnelling in a one-dimensional tilted lattice
 
-- arXiv: `2610.26587v1`
-- Published: 2026-10-19 15:34 UTC
-- Authors: Tommaso Brambilla, Alessandro Tosini, Paolo Perinotti
-- Categories: quant-ph, hep-th
-- Links: [abs](https://arxiv.org/abs/2610.26587v1) | [pdf](https://arxiv.org/pdf/2610.26587v1)
+- arXiv: `2610.28278v1`
+- Published: 2026-10-20 14:31 UTC
+- Authors: Muhammad S. Hasan, Vikash Mittal, Tomasz Sowiński
+- Categories: cond-mat.quant-gas, quant-ph
+- Links: [abs](https://arxiv.org/abs/2610.28278v1) | [pdf](https://arxiv.org/pdf/2610.28278v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-The formulation of quantum measurements compatible with relativistic causality is obstructed by the tension between the locality of observable algebras and the dynamical state transformations induced by measurement processes. We develop a local measurement theory for quantum cellular automata, lattices of finite-dimensional quantum systems with a causal reversible dynamics evolving in discrete time steps. Measurement processes are described by localized completely positive maps and organized into operational measurement protocols, finite non-adaptive sequences of local instruments distributed…
+We investigate the dynamics of two bosons in a tilted one-dimensional optical lattice with both standard and density-assisted tunnelling. The relative sign of the two tunnelling processes strongly affects the Bloch dynamics, leading to distinct reinforcing and competing regimes. We examine how the tunnelling processes generate correlations and find that, in the absence of onsite interactions, the early-time entanglement growth follows the same scaling with the density-assisted tunnelling amplitude. Finite onsite interaction changes this picture by breaking the symmetry between the reinforcing…
 
-## 7. Exact projective-steering boundary and sample-size optimization for angularly averaged hyperon-antihyperon states
+## 7. Parallel Teleportation via AME(5,2) States on IBM Quantum Hardware
 
-- arXiv: `2610.26526v1`
-- Published: 2026-10-19 14:54 UTC
-- Authors: Weicheng Miao, Linzhi Jiang, Bingbing Li
-- Categories: quant-ph, hep-ph
-- Links: [abs](https://arxiv.org/abs/2610.26526v1) | [pdf](https://arxiv.org/pdf/2610.26526v1)
+- arXiv: `2610.28204v1`
+- Published: 2026-10-20 13:44 UTC
+- Authors: Zheng Liang Lim, Hoi-Kwong Lo
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2610.28204v1) | [pdf](https://arxiv.org/pdf/2610.28204v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-In hyperon-antihyperon production through electron-positron annihilation, quantum steering provides a stricter test of nonclassical spin correlations than entanglement. We determine when steering survives angular averaging and optimize angular selections to reduce the sample size needed to resolve it. In the specified production-frame spin convention, we show that windows symmetric about 90 degrees with even production-angle acceptance yield phase-independent Bell-diagonal states. Applying the necessary and sufficient criterion for steering under arbitrary dichotomic projective measurements…
+The five-qubit Absolutely Maximally Entangled AME$(5,2)$ state, whose every pair of qubits is maximally mixed so that all its information lives in non-local correlations, could in principle serve as a single shared quantum networking resource for teleporting two unknown qubits in parallel (each via its own Bell measurement and Pauli correction). Nonetheless, its hardware implementations remain scarce despite its theoretical importance. Here, we demonstrate parallel teleportation based on a five-qubit absolutely maximally entangled state, AME$(5,2)$, on the superconducting processor…
 
-## 8. A Readout-Aware Theory of Approximate Heisenberg Propagation
+## 8. Black Holes are about Quantum Information
 
-- arXiv: `2610.26222v1`
-- Published: 2026-10-19 11:49 UTC
-- Authors: Yubraj Bhandari, Jakob S. Kottmann, Adelina Bärligea
-- Categories: quant-ph, math-ph
-- Links: [abs](https://arxiv.org/abs/2610.26222v1) | [pdf](https://arxiv.org/pdf/2610.26222v1)
+- arXiv: `2610.28185v1`
+- Published: 2026-10-20 13:21 UTC
+- Authors: Aude Corbeel, Sebastian De Haro
+- Categories: physics.hist-ph, hep-th, quant-ph
+- Links: [abs](https://arxiv.org/abs/2610.28185v1) | [pdf](https://arxiv.org/pdf/2610.28185v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['krylov']
+- Keyword hits: title=[] abstract=['entanglement']
 
-Classical methods for computing quantum expectation values often propagate observables in the Heisenberg picture. To remain tractable, these methods rely on approximations that discard operator components during evolution. Yet the magnitude of these components alone does not determine the resulting expectation-value error, which also depends on their subsequent evolution and the input state. We develop \emph{generalized Pauli propagation}, a common algebraic framework encompassing Pauli propagation, Lie-algebraic simulation, and Krylov subspace methods. Using weighted commutator graphs, we…
+We review and analyse quantum information-theoretic approaches to black hole evaporation that purport to bring us closer to a resolution of the black hole information paradox. Our focus is on the Page-time paradox and on the contribution of the Hayden-Preskill model to understanding information release under the assumption of unitary evaporation. In this model, the black hole is taken to be a finite-dimensional quantum system whose dynamics can be represented by a quantum circuit, and its information-processing and communication abilities are studied. We identify the assumptions underlying…
+
+## 9. Optimal Approximate Quantum Conversion from a Taut-String Principle in Majorization-Based Resource Theories
+
+- arXiv: `2610.28015v1`
+- Published: 2026-10-20 11:06 UTC
+- Authors: Franco Meroi, Cesar Massri, Marcelo Losada, Guido Bellomo, Gustavo Martin Bosyk
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2610.28015v1) | [pdf](https://arxiv.org/pdf/2610.28015v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Optimal approximate state conversion is a fundamental task in quantum resource theories, yet existing solutions are largely tailored to specific distinguishability measures and resource theories. We show that every optimal approximate-conversion problem in the three paradigmatic majorization-based quantum resource theories of non-uniformity, bipartite pure-state entanglement, and pure-state coherence reduces exactly to one of only four elementary taut-string constructions. This holds for problems generated by Schur-convex spectral distances and by a broad family of quantum divergences…
