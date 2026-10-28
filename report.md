@@ -1,173 +1,113 @@
 # arXiv alert report
 
-- Generated: 2026-10-27 10:44 UTC
-- Window: papers published since 2026-10-26 10:44 UTC
-- Matches: 14
+- Generated: 2026-10-28 11:28 UTC
+- Window: papers published since 2026-10-27 11:28 UTC
+- Matches: 9
 
-## 1. The $\varepsilon$-smoothed Entanglement of Formation and its relation to the Moreau-Yosida approximation
+## 1. Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops
 
-- arXiv: `2610.35797v1`
-- Published: 2026-10-26 17:33 UTC
-- Authors: M. E. Shirokov
-- Categories: quant-ph, math-ph, math.FA
-- Links: [abs](https://arxiv.org/abs/2610.35797v1) | [pdf](https://arxiv.org/pdf/2610.35797v1)
+- arXiv: `2610.37656v1`
+- Published: 2026-10-27 17:58 UTC
+- Authors: Aakash Sarkar, Ananya Mukherjee, Motoshige Sato
+- Categories: cs.LG, cs.AI, physics.comp-ph
+- Links: [abs](https://arxiv.org/abs/2610.37656v1) | [pdf](https://arxiv.org/pdf/2610.37656v1)
 - Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
+- Keyword hits: title=['wilson'] abstract=['wilson']
 
-We describe a family of convex continuous functions $E_{F,\varepsilon}$, $\varepsilon\in(0,1]$, on the set of states of a bipartite quantum system (consisting of finite-dimensional or infinite-dimensional subsystems) obtained by applying the Mora-Piani-Briegel construction of $\varepsilon$-measure (proposed in [Phys. Rev. A 109, 052413]) to the Entanglement of Formation (EoF) with the use of the trace norm distance in the role of basic metric. These functions are non-increasing in $\varepsilon$ and converge pointwise to the EoF as $\varepsilon\to0^+$. We conducted a detailed analysis of…
+Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's father; verifying a composed relation means closing the loop. We show that if each entity's coordinate frame may be rotated independently (per-entity frame freedom), three things follow. In the pure-gauge sector, relations that share no cycle cannot interact at all. The only gauge-invariant score of a triangle is a class function of its holonomy $H = T_{ij} T_{jk} T_{ki}$ - a Wilson loop. And the…
 
-## 2. Competing coherence geometries in positive maps: positivity hierarchies, atomicity, and optimal entanglement witnesses
+## 2. Deployed entanglement-based BBM92 quantum key distribution using frequency-converted photons emitted by a quantum dot
 
-- arXiv: `2610.35758v1`
-- Published: 2026-10-26 17:04 UTC
-- Authors: Massimiliano F. Sacchi
-- Categories: quant-ph, math-ph
-- Links: [abs](https://arxiv.org/abs/2610.35758v1) | [pdf](https://arxiv.org/pdf/2610.35758v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-We introduce a family of positive maps on qudits whose Choi operators combine two competing coherence patterns: independent exchange couplings and a collective set of diagonal couplings. For every mixed member of the family, we derive exact conditions for positivity, complete positivity, and all intermediate levels of k-positivity, and we determine the complete phase structure of decomposability and atomicity. The higher-positivity thresholds depend on the channel multiplicities, whereas the exact decomposability boundary is universal in scale-free coordinates. Its proof combines an explicit…
-
-## 3. Distillable entanglement is continuous
-
-- arXiv: `2610.35722v1`
-- Published: 2026-10-26 16:42 UTC
-- Authors: Lukas Schmitt, David Sutter
+- arXiv: `2610.37268v1`
+- Published: 2026-10-27 14:01 UTC
+- Authors: Michal Vyvlecka, Raphael Joos, Benjamin Breiholz, Emma Marmasse, Ilenia Neureuther, Timo Schnieber et al.
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2610.35722v1) | [pdf](https://arxiv.org/pdf/2610.35722v1)
+- Links: [abs](https://arxiv.org/abs/2610.37268v1) | [pdf](https://arxiv.org/pdf/2610.37268v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We prove continuity of distillable entanglement, the optimal asymptotic rate at which copies of a bipartite state can be converted into maximally entangled pairs by local operations and classical communication (LOCC) with vanishing error. We establish an explicit asymptotic continuity bound that holds for arbitrary bipartite states and depends logarithmically on the system dimension. This bound has the same structure as known continuity bounds for conditional entropy, entanglement cost, and relative entropy of entanglement. Our proof constructs an explicit LOCC protocol that converts either…
+Establishing secure communication is an important requirement in existing and future networks. Although current solutions rely on classical approaches, quantum mechanics offers the possibility of moving from computational to information-theoretic security. Quantum key distribution (QKD) has been extensively studied as a means of achieving such security. Recently, epitaxial quantum dots started to be studied and employed in quantum cryptography, because of their rapid development that made them one of the brightest sources of quantum light to date. In particular, they are known to be excellent…
 
-## 4. Quantum state revivals, time quasicrystals, and entanglement steering in a Fibonacci-driven central-spin model
+## 3. Certification Time for Weak-Force-Mediated Entanglement between Levitated Particles
 
-- arXiv: `2610.35555v1`
-- Published: 2026-10-26 14:57 UTC
-- Authors: Anushka Agrawal, Adithya A. Vasista, Tanay Nag, Sayan Choudhury
-- Categories: quant-ph, cond-mat.quant-gas, cond-mat.stat-mech
-- Links: [abs](https://arxiv.org/abs/2610.35555v1) | [pdf](https://arxiv.org/pdf/2610.35555v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-Motivated by the search for non-equilibrium phases of matter beyond the Floquet paradigm, we propose a route to realize perfect revivals and time quasicrystals (TQCs) in a Fibonacci-driven central-spin model with Ising interactions between the central and satellite spins in the absence of disorder. We analytically demonstrate that when the interaction strength, $λ$ is tuned to $2 m π$, no entanglement is generated between the central and satellite spins at stroboscopic times, independent of the strength of the transverse driving field and the drive sequence. This leads to indefinitely…
-
-## 5. Electron-photon entanglement in real space from quantum electrodynamics
-
-- arXiv: `2610.35467v1`
-- Published: 2026-10-26 14:00 UTC
-- Authors: Ivan P. Christov
+- arXiv: `2610.37094v1`
+- Published: 2026-10-27 11:56 UTC
+- Authors: Yao-Tong Chen, Salambo Dago, Oriol Romero-Isart, Andreu Riera-Campeny
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2610.35467v1) | [pdf](https://arxiv.org/pdf/2610.35467v1)
+- Links: [abs](https://arxiv.org/abs/2610.37094v1) | [pdf](https://arxiv.org/pdf/2610.37094v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-We study the entanglement between an electron and the photon it scatters, resolved in real space and time. Starting from nonrelativistic QED in Fermi's oscillator representation, we write Fock's coupled equations for components with fixed photon number in the photon configuration space, in the length gauge, where the photon is created around the atom through a nonlocal kernel. Truncated at one photon, the equations are solved numerically without the rotating-wave approximation for a one-dimensional model atom in a waveguide with a single transverse mode and enhanced coupling. The atom is…
+Certifying motional entanglement generated by weak forces between levitated nanoparticles requires distinguishing entangled from separable states using finite, noisy measurement records. We show that the number of measurements required to certify Gaussian entanglement can vary among equally entangled states, and quantify this variation. We derive an attainable lower bound showing that, near the separability threshold, the required number of measurements diverges inversely with the square of the distance from this threshold. We translate the required number of measurements into an experimental…
 
-## 6. Multipartite dynamics beyond bipartite entanglement equilibration
+## 4. Optimal quantum discrimination at Liouvillian exceptional points
 
-- arXiv: `2610.35377v1`
-- Published: 2026-10-26 13:01 UTC
-- Authors: Yan Liu, Ya-Wen Sun, Ren-Jie Ying, Jun-Yuan Zeng
-- Categories: quant-ph, cond-mat.stat-mech, hep-th
-- Links: [abs](https://arxiv.org/abs/2610.35377v1) | [pdf](https://arxiv.org/pdf/2610.35377v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
+- arXiv: `2610.37660v1`
+- Published: 2026-10-27 17:59 UTC
+- Authors: Aritra Ghosh, M. Bhattacharya
+- Categories: quant-ph, math-ph, physics.optics
+- Links: [abs](https://arxiv.org/abs/2610.37660v1) | [pdf](https://arxiv.org/pdf/2610.37660v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['trapped ions']
 
-Entanglement equilibration need not mark the end of quantum-information dynamics in quantum thermalization. We show that the complete Schmidt spectra of a fixed tripartition can become stationary while its multipartite correlation structure, distinguished by local-unitary invariants, continues to evolve. This separation occurs exactly within a finite window in self-dual kicked-Ising dynamics and asymptotically in Haar-random circuits. We further demonstrate an independently tunable timescale for multipartite dynamics using quantum-error-correcting codes. When coupled to a locally scrambling…
+Central to non-Hermitian sensing is the question of whether exceptional points (EPs) can make weak perturbations easier to detect. We show that despite enhanced spectral response, in finite-dimensional Lindblad systems with a unique stationary state and a nonzero relaxation gap, EPs offer no fundamental advantage in how the observation time required for reliable detection of a weak perturbation scales with the perturbation strength. We nevertheless demonstrate that by selectively choosing perturbations that enhance the quantum Fisher information rate, EPs can shorten the observation time…
 
-## 7. A Control Line Multiplexing Framework for Scalable Quantum Computing
+## 5. Dynamical quantum simulations as laboratories for quantum information
 
-- arXiv: `2610.35227v1`
-- Published: 2026-10-26 11:16 UTC
-- Authors: Dayu Li, Naibin Zhou, Zhiyuan Chen, Zihua Chen, Yu Xu, Yuan Li et al.
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2610.35227v1) | [pdf](https://arxiv.org/pdf/2610.35227v1)
-- Score: 4
-- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
-
-Universal fault-tolerant superconducting quantum computers are expected to require millions of physical qubits; yet extending the prevailing dedicated-control-line paradigm to this scale would exceed the wiring density and cooling-power budget of dilution refrigerators. Microwave frequency-division multiplexing (FDM) revolutionized classical communications by enabling many independent channels to share common transmission infrastructure. Translating this principle to superconducting quantum control, however, requires an all-microwave architecture and experimental validation of…
-
-## 8. Twist-controlled imaginary-time Mpemba effect in quantum spin systems
-
-- arXiv: `2610.35784v1`
-- Published: 2026-10-26 17:24 UTC
-- Authors: Zhi-Yao Ning, Zi-Xiang Li, Naoki Kawashima
-- Categories: quant-ph, cond-mat.str-el
-- Links: [abs](https://arxiv.org/abs/2610.35784v1) | [pdf](https://arxiv.org/pdf/2610.35784v1)
+- arXiv: `2610.37589v1`
+- Published: 2026-10-27 17:26 UTC
+- Authors: Su Yeon Chang, Hailey S. Murray, Brian Barch, Greeshma Oruganti, Luis Pedro García-Pintos, Martin Larocca et al.
+- Categories: quant-ph, cond-mat.mtrl-sci
+- Links: [abs](https://arxiv.org/abs/2610.37589v1) | [pdf](https://arxiv.org/pdf/2610.37589v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We construct a controllable imaginary-time Mpemba effect in quantum spin systems using spatially modulated local rotations without changing initial bipartite entanglement spectra and correlation magnitudes. This feature unambiguously isolates the redistribution of spectral weights as the sole driver of the anomalous relaxation. Using the compact-boson description, we reveal that these twists act as precise mode selectors: higher-harmonic twists exclusively populate high-energy standing waves, structurally bypassing slow-decaying infrared modes to accelerate convergence. We derive exact…
+Dynamical quantum simulations are commonly designed to access a particular response function or correlation function. Yet the underlying protocol prepares a family of many-body states that contains information well beyond the observable for which the simulation was originally designed. In this work, we explore the idea of using these states as laboratories for quantum information. As a case study, we consider the local-pulse protocols used to compute Green functions in finite XX and XXX spin chains, and we interpret opposite source rotations as encoding a classical bit into the many-body…
 
-## 9. Bell-pair distillation under imperfect operations
+## 6. ETAMem: Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents
 
-- arXiv: `2610.35699v1`
-- Published: 2026-10-26 16:25 UTC
-- Authors: András Kinyó, Tamás Kiss, Orsolya Kálmán
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2610.35699v1) | [pdf](https://arxiv.org/pdf/2610.35699v1)
+- arXiv: `2610.37443v1`
+- Published: 2026-10-27 15:51 UTC
+- Authors: Xinying Qian, Ying Zhang, Yu Zhao, Xubo Liu, Baohang Zhou, Jeff Z. Pan
+- Categories: cs.CL
+- Links: [abs](https://arxiv.org/abs/2610.37443v1) | [pdf](https://arxiv.org/pdf/2610.37443v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-We recently proposed an entanglement distillation protocol based on local operations and classical communication that probabilistically and universally distills a maximally entangled Bell pair from multiple copies of an unknown two-qubit state [Phys. Rev. Lett. 135, 260202 (2025)]. Here, we investigate the robustness of this protocol against imperfections in its implementation. We consider several incoherent and coherent gate-error models, as well as measurement readout errors, and determine the regimes in which distillation enhances the fidelity with the target Bell state. We find that the…
+Long-term memory enables Large Language Models (LLMs) to maintain coherent and personalized interactions across extended conversations. However, existing memory systems face two key challenges: (1) Information Entanglement, where heterogeneous information is mixed within coarse-grained memory units; and (2) Organizational Mismatch, where memory structures based primarily on semantic similarity may overlook other associations. To address these challenges, we propose ETAMem, a multi-view memory framework that decouples heterogeneous conversational information and aligns memory representations…
 
-## 10. Quantum computation of energy level degeneracy and thermodynamical properties of spin systems
+## 7. HTM: A Hybrid Classical-Quantum Computation Model
 
-- arXiv: `2610.35660v1`
-- Published: 2026-10-26 16:08 UTC
-- Authors: V. M. Tkachuk, M. I. Samar
+- arXiv: `2610.37249v1`
+- Published: 2026-10-27 13:48 UTC
+- Authors: Guoqiang Shu, Zongjiang Yi, Jinyang Yao, Haomiao Dong, Zhihang Li, Fudong Liu et al.
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2610.35660v1) | [pdf](https://arxiv.org/pdf/2610.35660v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-We propose a hybrid quantum-classical method for reconstructing energy-level degeneracies and thermodynamic properties of spin systems. A single ancilla qubit is used to measure the partition function at imaginary inverse temperatures. For spectra lying on a known equally spaced energy grid, the inverse discrete Fourier transform allows exact reconstruction of degeneracies in the absence of noise, without spectral leakage. The quantum circuits are optimized using commuting interactions and Eulerian ordering. We demonstrate the method for frustrated Ising antiferromagnets on periodic Kagome…
-
-## 11. Quantum-enhanced metrology with classical shadows
-
-- arXiv: `2610.35632v1`
-- Published: 2026-10-26 15:42 UTC
-- Authors: Luca Ion, Manuel Gessner
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2610.35632v1) | [pdf](https://arxiv.org/pdf/2610.35632v1)
+- Links: [abs](https://arxiv.org/abs/2610.37249v1) | [pdf](https://arxiv.org/pdf/2610.37249v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Quantum metrology relies on observables that maximize information about the parameter of interest, but are often hard to access. We develop a protocol that combines Pauli moments estimated from a fixed ensemble of randomized local measurements into an optimized method-of-moments estimator. For local Pauli classical shadows, we derive the shadow information which determines estimator variance and sample-complexity guarantees. Identifying the separable-state sensitivity limit, we show that entanglement can lead to a constant-factor sensitivity enhancement, as illustrated with one-axis-twisted…
+Classical and quantum computers have achieved collaborative computation and completed applications across numerous fields. Nevertheless, the absence of a unified hybrid computation model has led to issues such as non-standardized engineering architecture design, ambiguous task partitioning criteria and so on. To address these issues, this research proposes a hybrid classical-quantum computation model (HTM). By constructing unified state sets and transition function representations, HTM clarifies hybrid control logic and implements a control-sharing mechanism. Simultaneously, a comprehensive…
 
-## 12. Toward Compute-Bound Lattice-QCD Software
+## 8. QNETSIM for memory assisted design of satellite and hybrid quantum networks
 
-- arXiv: `2610.35526v1`
-- Published: 2026-10-26 14:43 UTC
-- Authors: Anthony V. Grebe
-- Categories: hep-lat
-- Links: [abs](https://arxiv.org/abs/2610.35526v1) | [pdf](https://arxiv.org/pdf/2610.35526v1)
+- arXiv: `2610.37204v1`
+- Published: 2026-10-27 13:23 UTC
+- Authors: Seid Koudia, Francesco Vista, Heyang Peng, Ilora Maity, Intidhar Bedhief, Juan Carlos Hernandez Hernandez et al.
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2610.37204v1) | [pdf](https://arxiv.org/pdf/2610.37204v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['krylov']
+- Keyword hits: title=[] abstract=['entanglement']
 
-Multi-right-hand-side multigrid inverters for lattice QCD are much less memory constrained than single-right-hand-side Krylov solvers, so the upper bound on efficiency of modern solvers is much higher than what was historically possible. This work presents a reanalysis of roofline estimates to reflect this new reality. It also describes the qc library, which implements multi-right-hand-side multigrid at an efficiency that can exceed 50% of the processor roofline.
+Space-based quantum information networks require simulation tools that capture orbital dynamics, probabilistic quantum operations, and classical coordination. We introduce QNETSIM, a modular discrete-event simulator for the design and performance evaluation of satellite and hybrid space-ground quantum networks. The framework integrates orbital geometry, free-space optical and fiber channels, quantum memories, entanglement generation, and Bell-state measurements within a common event-driven architecture. Physical models account for optical loss, atmospheric turbulence, detector imperfections,…
 
-## 13. Measurement-dependent reduction of open dynamics in the quantum phase estimation algorithm: the visible subspace and the damped Fejér kernel
+## 9. Generative quantum extreme learning machines
 
-- arXiv: `2610.35332v1`
-- Published: 2026-10-26 12:29 UTC
-- Authors: Marina O. Gordeichuk, Oleg M. Kiselev
-- Categories: math-ph, math.NA, quant-ph
-- Links: [abs](https://arxiv.org/abs/2610.35332v1) | [pdf](https://arxiv.org/pdf/2610.35332v1)
+- arXiv: `2610.37116v1`
+- Published: 2026-10-27 12:14 UTC
+- Authors: Marcin Płodzień
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2610.37116v1) | [pdf](https://arxiv.org/pdf/2610.37116v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['krylov']
+- Keyword hits: title=[] abstract=['entanglement']
 
-For the quantum phase estimation (QPE) algorithm we study the minimal space of observables that is sufficient to predict the entire output distribution under open dynamics of the counting register. Building on the general Krylov theory of reduction, we compute the structure of this space explicitly for the full Fourier measurement. The outcome probabilities are determined by cyclic sums of the state matrix. If the adjoint generator is diagonal on the matrix units, the spectral classes inside the residue classes of the index difference modulo the register dimension $M$ give a constructive…
-
-## 14. Trainable Boundary-Keeping Where No Formal Answer Exists: A Controlled Knock-In Study of Reward Training in Evidence-Sufficiency Judgment
-
-- arXiv: `2610.35226v1`
-- Published: 2026-10-26 11:16 UTC
-- Authors: YaJie Yin
-- Categories: cs.AI, cs.CL, cs.LG
-- Links: [abs](https://arxiv.org/abs/2610.35226v1) | [pdf](https://arxiv.org/pdf/2610.35226v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['wilson']
-
-Reasoning-tuned and reward-trained models are often assumed to verify more reliably because they reason longer or receive correctness signals. We test this in evidence-sufficiency judgment: deciding whether available information actually supports a causal claim, a domain with no decidable correctness reward. Using a pre-registered, same-base, controlled knock-in design, we compare a boundary-keeping recipe (SFT then GRPO) with its own baseline, a scrambled-pairing placebo, and a general-purpose reasoning model under an action-pressure protocol with no evaluation invitation. All load-bearing…
+Training the circuit of a quantum generative model is hampered by barren plateaus, where gradients vanish exponentially with the number of qubits. In the present work we propose a generative protocol based on the paradigm of quantum extreme learning machines, in which the circuit is never trained. A random latent vector is encoded into a quantum state, evolved with a fixed unitary and measured, and only a linear output layer is trained. The encoding of the latent variable determines the functions available to the model, while the unitary decides which combinations of them are seen by the…
