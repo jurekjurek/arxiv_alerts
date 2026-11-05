@@ -1,113 +1,101 @@
 # arXiv alert report
 
-- Generated: 2026-11-04 13:09 UTC
-- Window: papers published since 2026-11-03 13:09 UTC
-- Matches: 9
+- Generated: 2026-11-05 13:22 UTC
+- Window: papers published since 2026-11-04 13:22 UTC
+- Matches: 8
 
-## 1. Operational Thresholds for Long-Range Entanglement in Quantum Networks
+## 1. Optimal Holding Times for Entanglement Swapping
 
-- arXiv: `2611.05069v1`
-- Published: 2026-11-03 15:31 UTC
-- Authors: Arn Caesar, Xinqi Hu, Kim Christensen
-- Categories: quant-ph, cond-mat.stat-mech
-- Links: [abs](https://arxiv.org/abs/2611.05069v1) | [pdf](https://arxiv.org/pdf/2611.05069v1)
+- arXiv: `2611.06823v1`
+- Published: 2026-11-04 17:32 UTC
+- Authors: Van Sy Mai, Richard J. La, Abdella Battou
+- Categories: quant-ph, math.OC
+- Links: [abs](https://arxiv.org/abs/2611.06823v1) | [pdf](https://arxiv.org/pdf/2611.06823v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-Quantum networks distribute entanglement between distant nodes by combining many short entangled links using local quantum operations. These operations only succeed probabilistically, yet existing percolation-based theories of entanglement transmission treat them as perfect. We approach the problem through statistical physics, using a stochastic generalization of concurrence percolation to determine how reliable local operations must be for long-range entanglement to remain possible. On hierarchical $(U,V)$-flower networks, which permit full analytical control across network scales, we derive…
+We revisit the optimization of entanglement holding times in memory-based quantum repeaters for maximizing entanglement swapping throughput under different fidelity constraints - strict, probabilistic, and mean. We consider two heterogeneous quantum links that are equipped with single or multiple memories and differ in decoherence rates, memory capacities, entanglement attempt rates and success probabilities, as well as classical communication latencies. Efficient models are developed to estimate the expected entanglement throughput and the probability density functions of the conditional…
 
-## 2. Recoverability of Gravitational Entanglement under Decoherence
+## 2. Resource-efficient formulations of the Knapsack problem for quantum computing
 
-- arXiv: `2611.05044v1`
-- Published: 2026-11-03 15:14 UTC
-- Authors: Yi-Xuan Wang, Julen S. Pedernales, Martin B. Plenio
+- arXiv: `2611.06797v1`
+- Published: 2026-11-04 17:14 UTC
+- Authors: Pim van den Heuvel, Vrinda Mehta, Dennis Willsch, J. A. Montanez-Barrera, Kristel Michielsen
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2611.05044v1) | [pdf](https://arxiv.org/pdf/2611.05044v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-Decoherence can make gravitationally generated entanglement arbitrarily small, or even vanishing, without necessarily rendering the effective matter dynamics separable. We ask whether this hidden non-separability can be revealed using strictly local quantum error correction. For Newtonian gravity supplemented by physically relevant localization noise, including environmental noise, and noise from collapse models such as GRW, CSL, and Diósi--Penrose, we analyze when the underlying entangling resource is locally recoverable. For GRW- and CSL-type noise, we analytically establish that strictly…
-
-## 3. On Revolutionizing Power Systems: Suitability of Quantum Computing-Ready Pipelines for Stochastic Unit Commitment Optimization
-
-- arXiv: `2611.05030v1`
-- Published: 2026-11-03 15:05 UTC
-- Authors: Ying-Yi Hong, Dylan Josh Domingo Lopez
-- Categories: quant-ph, eess.SY
-- Links: [abs](https://arxiv.org/abs/2611.05030v1) | [pdf](https://arxiv.org/pdf/2611.05030v1)
+- Links: [abs](https://arxiv.org/abs/2611.06797v1) | [pdf](https://arxiv.org/pdf/2611.06797v1)
 - Score: 4
 - Keyword hits: title=['quantum computing'] abstract=['quantum computing']
 
-Modern unit commitment (UC) scenarios, particularly those involving uncertainties from demand fluctuations and renewable energy sources, pose significant challenges to traditional optimization methods due to the large search spaces they encompass. This paper proposes a quantum computing-ready optimization pipeline for deterministic and stochastic UC, integrating classical, quantum-inspired, quantum annealing, and hybrid quantum-classical solvers across test systems, including the IEEE 118-bus system. A novel Quadratic Unconstrained Binary Optimization (QUBO) reformulation accommodates…
+Quantum computing has emerged as a new tool for solving combinatorial optimization problems. Quantum optimization approaches usually operate on the subclass of Quadratic Unconstrained Binary Optimization (QUBO) problems. Many optimization problems can be reformulated in this form, though there are often multiple ways to do so. The choice of formulation can considerably affect the performance of QUBO solvers in practice. In this work, we study QUBO formulations of the Knapsack problem, a canonical example of a problem with inequality constraints. In the standard formulation these constraints…
 
-## 4. Simple proof of conditions requiring maximal entanglement for local state verification and discrimination
+## 3. Entanglement Entropy in Non Relativistic Collisions
 
-- arXiv: `2611.05317v1`
-- Published: 2026-11-03 18:23 UTC
-- Authors: Somshubhro Bandyopadhyay
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2611.05317v1) | [pdf](https://arxiv.org/pdf/2611.05317v1)
-- Score: 3
-- Keyword hits: title=['entanglement'] abstract=[]
+- arXiv: `2611.06774v1`
+- Published: 2026-11-04 16:51 UTC
+- Authors: Bertrand Giraud, Robi Peschanski
+- Categories: quant-ph, hep-th
+- Links: [abs](https://arxiv.org/abs/2611.06774v1) | [pdf](https://arxiv.org/pdf/2611.06774v1)
+- Score: 4
+- Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-For deterministic state verification by separable measurements, the Schmidt rank of an entangled resource must be at least that of the state being verified [N. Yu, R. Duan, and M. Ying, IEEE Trans. Inf. Theory 60, 2069 (2014)], and if the two are equal, the resource must be maximally entangled [S. Akibue, J. Miyazaki, and H. Osaka, Lett. Math. Phys. 116, 110 (2026)]. The latter was derived from a general theorem proved using algebraic geometry. In this paper, we give a simple, self-contained proof of both statements using only linear algebra. We then use these results to show that among pure…
+We study numerically the build-up of entanglement entropy between two colliding, non relativistic particles, that are driven by the plain Schrödinger equation containing local, finite range potentials, and whose initial state is the product of two independent wave packets. Different situations are considered, ranging from a tunnel and mirror effect at low energy in front of a barrier, to higher energies, and also attraction rather than repulsion. While the calculated wave functions and density matrices significantly depend on the physical situations described by our models, the build-up…
 
-## 5. An Exact QFT/Lattice Map for Fermions
+## 4. Non-compact Kogut-Susskind gauge theories: 1D lattice models with exact ${\rm SL}(2,\mathbb{R})$ gauge invariance
 
-- arXiv: `2611.05329v1`
-- Published: 2026-11-03 18:33 UTC
-- Authors: Shu-Heng Shao, Nikita Sopenko
-- Categories: hep-th, cond-mat.str-el, hep-lat, math-ph
-- Links: [abs](https://arxiv.org/abs/2611.05329v1) | [pdf](https://arxiv.org/pdf/2611.05329v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['Schwinger model', 'entanglement']
-
-We construct an exact map between continuum fermion fields and lattice fields in 1+1 dimensions. This map rewrites a continuum Hamiltonian as a lattice Hamiltonian with nearest-neighbor couplings and an infinite-dimensional local Hilbert space. The resulting lattice model reproduces exactly the energy spectrum, global operator algebra, chiral symmetries, and anomalies of the continuum QFT on any finite lattice. Unlike domain wall fermions, truncating the local Hilbert space introduces no extra massless modes, and the entanglement entropy of an interval converges as the truncation is removed.…
-
-## 6. Band structure of two-dimensional graphene and of one-dimensional nanoribbons via variational quantum algorithms: from energies to wavefunction quality
-
-- arXiv: `2611.04975v1`
-- Published: 2026-11-03 14:30 UTC
-- Authors: Raúl Medrano Millán, Rodrigo Gil-Merino y Rubio, Juan Borge, Unai Aseguinolaza Aguirreche
-- Categories: cond-mat.mtrl-sci, quant-ph
-- Links: [abs](https://arxiv.org/abs/2611.04975v1) | [pdf](https://arxiv.org/pdf/2611.04975v1)
-- Score: 2
-- Keyword hits: title=[] abstract=['variational quantum eigensolver', 'vqe']
-
-Simulating quantum many-body systems classically encounters exponential bottlenecks, which quantum devices circumvent by natively encoding wavefunctions. In the Noisy Intermediate-Scale Quantum (NISQ) era, however, hardware noise constrains simulation accuracy. As a stepping stone toward strongly correlated materials, we compute the band structure of 2D monolayer graphene and 1D nanoribbons (zigzag and armchair) using a single variational workflow in the $p_z$ tight-binding approximation. Non-interacting ground states also provide essential initial reference states for subspace and…
-
-## 7. Data informed Ansatz Selection for Variational Quantum Circuits
-
-- arXiv: `2611.05079v1`
-- Published: 2026-11-03 15:41 UTC
-- Authors: Manav Seksaria, Advith Desu, Anil Prabhakar
-- Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2611.05079v1) | [pdf](https://arxiv.org/pdf/2611.05079v1)
+- arXiv: `2611.06771v1`
+- Published: 2026-11-04 16:50 UTC
+- Authors: Carlos Fulgado-Claudio, Torsten V. Zache
+- Categories: quant-ph, gr-qc, hep-lat, hep-th
+- Links: [abs](https://arxiv.org/abs/2611.06771v1) | [pdf](https://arxiv.org/pdf/2611.06771v1)
 - Score: 1
-- Keyword hits: title=[] abstract=['entanglement']
+- Keyword hits: title=[] abstract=['Schwinger model']
 
-Choosing a variational quantum circuit (VQC) usually means searching over ansatze and depths, and training each candidate. We give three rules that fix these choices from the data and the gate set alone, before any training. First, a circuit without entangling gates has a rank-one Fourier coefficient tensor on every subset of qubits. A singular value decomposition of a dataset's Fourier coefficients therefore indicates whether entanglement is needed, which qubits it connects, and a lower bound on the error of omitting it. Second, the rank of the quantum Fisher information matrix grows by…
+The Kogut-Susskind (KS) formulation of gauge theories constructs quantum many-body Hamiltonians with gauge invariance under a compact Lie group exactly implemented on a spatial lattice. Here, we revisit this construction for a non-compact gauge group. Although motivated in part by theories like general relativity whose first-order formulation involves the non-compact Lorentz group as a local symmetry, we focus on simpler cases in one spatial dimension akin to the Schwinger model. In a bottom-up approach, we show how exact gauge invariance under the simplest non-compact Lie group ${\rm…
 
-## 8. Reopening the one clean qubit case of a semi-grand challenge
+## 5. Efficient quantum ultraspherical transform and a well-conditioned quantum spectral method
 
-- arXiv: `2611.05046v1`
-- Published: 2026-11-03 15:15 UTC
-- Authors: Christopher W. Mansell
+- arXiv: `2611.06651v1`
+- Published: 2026-11-04 15:29 UTC
+- Authors: Trong Duong, Norbert Hosters
 - Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2611.05046v1) | [pdf](https://arxiv.org/pdf/2611.05046v1)
+- Links: [abs](https://arxiv.org/abs/2611.06651v1) | [pdf](https://arxiv.org/pdf/2611.06651v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-In his 2005 list of semi-grand challenges for quantum computing theory, Scott Aaronson asked whether a quantum computer that is always in a separable mixed state can be simulated by a classical computer in polynomial time. An affirmative answer was claimed for the one clean qubit model of quantum computation. The supporting mathematical arguments relied on an exhaustive characterization of circuits that stay in separable states. Here, we give a counterexample where one pure qubit, known as the clean qubit, controls a sequence of three gates that act on a maximally mixed three-qubit register.…
+Solving differential equations is a promising application of quantum computing. Spectral methods, where the solution is represented by coefficients in a basis, are particularly well suited to quantum solvers because their structured discretizations can enable efficient linear-algebra operations while providing rapid convergence. Their quantum implementation, however, requires an efficient transform between amplitudes encoding function values and amplitudes encoding expansion coefficients. This work develops two key components of a quantum spectral method. First, we construct the quantum…
 
-## 9. Ultracold polar molecules for quantum science and technology
+## 6. Equivalence of Correlated Catalytic and Marginal Asymptotic Transformations in Quantum Resource Theories
 
-- arXiv: `2611.05040v1`
-- Published: 2026-11-03 15:11 UTC
-- Authors: Philip D. Gregory, Simon L. Cornish
-- Categories: physics.atom-ph, cond-mat.quant-gas, quant-ph
-- Links: [abs](https://arxiv.org/abs/2611.05040v1) | [pdf](https://arxiv.org/pdf/2611.05040v1)
+- arXiv: `2611.06573v1`
+- Published: 2026-11-04 14:33 UTC
+- Authors: Jingsong Ao, Aby Philip, Alexander Streltsov
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2611.06573v1) | [pdf](https://arxiv.org/pdf/2611.06573v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Ultracold polar molecules present a rich platform for experimental quantum science leveraging their unique properties. Of particular relevance is the intrinsic electric dipole moment of the molecule, which results in strong coupling to microwave fields and can be used to engineer long-range, anisotropic, and tunable dipole-dipole interactions. Such interactions can generate entanglement between molecules and enable the study of novel quantum many-body phenomena in parameter regimes inaccessible in other systems. Modern experiments in optical tweezers and optical lattices have demonstrated…
+We prove that correlated-catalytic state conversion is possible if and only if the marginal asymptotic conversion rate is at least one. Under general operational assumptions, this equivalence holds for arbitrary states in broad classes of entanglement, coherence, and magic theories. It reduces the characterization of correlated-catalytic convertibility to the computation of marginal asymptotic rates, and yields transitivity and equality of catalytic and marginal conversion rates. Under local operations and classical communication, we fully characterize correlated-catalytic conversion from…
+
+## 7. Parrondo's paradox for three discrete-time quantum walks with distinct shift operators
+
+- arXiv: `2611.06568v1`
+- Published: 2026-11-04 14:31 UTC
+- Authors: Zbigniew Walczak, Jarosław H. Bauer
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2611.06568v1) | [pdf](https://arxiv.org/pdf/2611.06568v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Parrondo's paradox describes a surprising phenomenon in which certain combinations of biased quantum walks result in an unexpected reversal of their bias direction. To date, research on this effect has predominantly focused on one-dimensional discrete-time quantum walks that employ fixed sequences of two or three quantum coins, paired with a single shift operator. In this work, we first introduce a wide class of unitary shift operators which allow for three movement options (left, right or stay in place) of a walker in one time step, and we then demonstrate that Parrondo's paradox can also…
+
+## 8. A Variational Quantum Algorithm for Multi-Skill Project Scheduling
+
+- arXiv: `2611.06502v1`
+- Published: 2026-11-04 13:33 UTC
+- Authors: Raul Martinez, Miguel Sánchez-Beato, Matilde Osa, Jorge Parra, Mario Calonge
+- Categories: quant-ph, math.OC
+- Links: [abs](https://arxiv.org/abs/2611.06502v1) | [pdf](https://arxiv.org/pdf/2611.06502v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+Job scheduling is an NP-hard optimization problem with clear industrial relevance. In practice, distributing work across a team is not only about meeting deadlines or improving productivity; it also affects fatigue, stress, and employee well-being. Variational Quantum Algorithms (VQAs) provide a promising way to address these problems through QUBO formulations, although their scalability on near-term NISQ hardware is still limited by Hilbert-space growth and barren plateaus. In this work, we simulate a VQA for a realistic Multi-Skill Resource-Constrained Project Scheduling Problem (MS-RCPSP),…
