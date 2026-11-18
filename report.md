@@ -1,125 +1,77 @@
 # arXiv alert report
 
-- Generated: 2026-11-17 14:44 UTC
-- Window: papers published since 2026-11-16 14:44 UTC
-- Matches: 10
+- Generated: 2026-11-18 14:23 UTC
+- Window: papers published since 2026-11-17 14:23 UTC
+- Matches: 6
 
-## 1. Entanglement distillation, nonlocal magic, and state sharing in an isospectral non-Hermitian bipartite model
+## 1. Performance of Fusion-Based Quantum Computing with Imperfect Photon Indistinguishability
 
-- arXiv: `2611.21490v1`
-- Published: 2026-11-16 17:56 UTC
-- Authors: Chenhuan Wu
-- Categories: quant-ph, math-ph
-- Links: [abs](https://arxiv.org/abs/2611.21490v1) | [pdf](https://arxiv.org/pdf/2611.21490v1)
+- arXiv: `2611.23083v1`
+- Published: 2026-11-17 17:08 UTC
+- Authors: Katia Hakem, Grégoire de Gliniasty, Nathan Shettell, Paul Hilaire, Stephen C. Wein
+- Categories: quant-ph
+- Links: [abs](https://arxiv.org/abs/2611.23083v1) | [pdf](https://arxiv.org/pdf/2611.23083v1)
+- Score: 4
+- Keyword hits: title=['quantum computing'] abstract=['quantum computing']
+
+Fusion-based quantum computation (FBQC) is a promising route to fault-tolerant photonic quantum computing, connecting small entangled resource states through linear-optical fusion measurements. While logical encoding can substantially improve resilience to photon loss, whether these benefits extend to other noise remain an open question. In this work, we show that this is not generally the case when accounting for partial photon distinguishability during resource state generation and fusion measurement. We develop hardware-motivated noise models to capture these effects and investigate their…
+
+## 2. Entanglement cost and classical capacity of multimode Gaussian states and channels
+
+- arXiv: `2611.22915v1`
+- Published: 2026-11-17 15:16 UTC
+- Authors: Yuan Gao, Gerardo Adesso
+- Categories: quant-ph, hep-th, math-ph
+- Links: [abs](https://arxiv.org/abs/2611.22915v1) | [pdf](https://arxiv.org/pdf/2611.22915v1)
 - Score: 4
 - Keyword hits: title=['entanglement'] abstract=['entanglement']
 
-An invertible nonunitary similarity deformation leaves a two-qubit Hamiltonian's spectrum unchanged while varying a selected normalized right eigenstate in the fixed physical inner product. We embed this state in a two-parameter maximally correlated family that includes local dephasing and noisy circuit preparation. Hashing and a matching diagonal relative-entropy bound give the exact distillable entanglement and the PPT comparison distances at every finite tensor power. Correlated PPT catalysts cannot improve the Bell-pair distillation rate. The optimized CHSH value is \(2\sqrt{1+t^2}\):…
+Gaussian states and operations are central to continuous-variable quantum information and communication. For systems with any finite number of modes, we prove that entanglement of formation, Gaussian entanglement of formation, and entanglement cost coincide for every finite-energy bipartite Gaussian state. Their common value is strongly superadditive and lower-bounds entanglement of formation and entanglement cost for arbitrary non-Gaussian states with the same covariance matrix. We then determine the entanglement cost of every multimode Gaussian channel as well as its classical capacity…
 
-## 2. Catalytic compression of classical communication in exact entanglement transformations
+## 3. Expressivity of two-dimensional Gaussian fermion tensor network states
 
-- arXiv: `2611.21349v1`
-- Published: 2026-11-16 16:27 UTC
-- Authors: Vito Viesti, Alexander Streltsov
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2611.21349v1) | [pdf](https://arxiv.org/pdf/2611.21349v1)
-- Score: 4
-- Keyword hits: title=['entanglement'] abstract=['entanglement']
-
-Entanglement catalysis is usually associated with making otherwise impossible transformations possible. Here we show that it can also change how much classical communication a transformation requires. A catalyst, returned exactly and uncorrelated with the output, can reduce the message alphabet size required for exact transformations of bipartite pure states by a factor that grows without bound as the Schmidt rank increases. In the asymptotic many-copy regime, however, this advantage disappears at the level of the leading communication rate: the optimal catalytic and noncatalytic rates…
-
-## 3. A boson representation of the electronic structure calculation based on the quantum Krylov subspace algorithm
-
-- arXiv: `2611.21242v1`
-- Published: 2026-11-16 15:24 UTC
-- Authors: Hiroki Katow, Hisao Nakamura
-- Categories: cond-mat.mtrl-sci, quant-ph
-- Links: [abs](https://arxiv.org/abs/2611.21242v1) | [pdf](https://arxiv.org/pdf/2611.21242v1)
-- Score: 4
-- Keyword hits: title=['krylov'] abstract=['krylov']
-
-Quantum calculations are expected to broaden the range of strongly correlated phenomena in solids accessible to first-principles calculations. The quantum Krylov diagonalization method, or in a broader sense, the quantum subspace expansion method (QSE) offers an advantage over other variational methods in terms of numerical stability. In this work, we propose a boson representation of electronic systems with the aim of reducing QSE quantum circuit depth, where electron-hole pair bosons serve as the fundamental degrees of freedom. We benchmark the boson representation in comparison with a…
-
-## 4. The speed limit of gravitational entanglement and the cost of noise
-
-- arXiv: `2611.21546v1`
-- Published: 2026-11-16 18:30 UTC
-- Authors: Ekta Panwar, Anubhav Chaturvedi
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2611.21546v1) | [pdf](https://arxiv.org/pdf/2611.21546v1)
-- Score: 3
-- Keyword hits: title=['entanglement'] abstract=[]
-
-Is gravity quantum? A proposed test lets two small masses, each in a superposition of two places, become entangled through their mutual gravity. Gravity is weak, so the masses must stay coherent for seconds while random forces disturb them. Here we ask how fast gravity can entangle two masses, and what noise costs. Without noise we find the maximum rate exactly: it falls as the inverse cube of the separation, and two positions per mass achieve it. Above a noise level set by the masses and their separation, gravity's leading pull can be imitated by classical signals, and every strategy is…
-
-## 5. Benchmarking memory and nonlinear processing capacity of quantum recurrent neural networks for time series prediction
-
-- arXiv: `2611.21552v1`
-- Published: 2026-11-16 18:32 UTC
-- Authors: José Daniel Viqueira, Andrés Gómez, David Mera
-- Categories: quant-ph, cs.LG
-- Links: [abs](https://arxiv.org/abs/2611.21552v1) | [pdf](https://arxiv.org/pdf/2611.21552v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum machine learning']
-
-Quantum machine learning has emerged as a promising approach to time series prediction. While quantum reservoir computing has been widely explored for this setting, variational quantum models tailored to sequential data remain comparatively understudied, largely because they are difficult to train. In this work, we present a rigorous benchmark of variational quantum recurrent neural networks (QRNNs) on time series prediction tasks, focusing on two key capabilities: memory and nonlinear processing. We introduce a task-driven methodology that quantifies model capacity, enabling an intuitive and…
-
-## 6. Finite temperature Sp(4) lattice gauge theory with matter fields
-
-- arXiv: `2611.21493v1`
-- Published: 2026-11-16 17:58 UTC
-- Authors: Chris Allton, Ed Bennett, Luigi Del Debbio, Ryan C. Hill, Deog Ki Hong, Jong-Wan Lee et al.
-- Categories: hep-lat
-- Links: [abs](https://arxiv.org/abs/2611.21493v1) | [pdf](https://arxiv.org/pdf/2611.21493v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['wilson']
-
-We perform the first finite-temperature lattice study of the Sp(4) gauge theory coupled to two Wilson-Dirac fermions transforming in the fundamental representation. Its continuum limit plays an important role in many extensions of the Standard Model for particle physics with composite dynamics. For example, it provides a compelling realisation of the strongly interacting massive particle (SIMP) paradigm for dark matter. If realised in nature, it might lead to a first-order thermal phase transition in the early universe, and produce a detectable relic stochastic background of gravitational…
-
-## 7. Reinforcement Learning designs Quantum Repeater Protocols on Networks beyond the Chain Scenario
-
-- arXiv: `2611.21414v1`
-- Published: 2026-11-16 17:04 UTC
-- Authors: Andrés Agustí Casado, Álvaro Troyano Olivas, Javier Faba García, Luis M. Robledo, Vicente Martín, Laura Ortiz
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2611.21414v1) | [pdf](https://arxiv.org/pdf/2611.21414v1)
+- arXiv: `2611.23227v1`
+- Published: 2026-11-17 18:59 UTC
+- Authors: Pok Man Tam, William Musk, Zhehao Dai
+- Categories: quant-ph, cond-mat.mes-hall, cond-mat.str-el, cond-mat.supr-con
+- Links: [abs](https://arxiv.org/abs/2611.23227v1) | [pdf](https://arxiv.org/pdf/2611.23227v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Small-scale quantum repeater protocols have been shown to distribute entanglement over existing telecommunication infrastructure by means of short range quantum communications and long range classical messages. For larger networks, there are a number of theoretical proposals about how to operate the network to achieve a good performance under varying metrics. Moreover, since the dimension of the space of possible protocols grows exponentially with network size, plenty of those proposals are based on heuristics that reduce the search space. One of these is entanglement routing, which…
+Tensor network states (TNS) provide a family of efficiently compressed approximations to physically relevant many-body quantum states. An important quantity that characterizes the computational resources required by a TNS is its bond dimension. While in one dimension an area law for the Renyi-0 entropy guarantees an exact matrix product state representation with a bond dimension independent of the system size, an analogous statement does not hold for general states in two dimensions (2D). This leaves open the question of how the expressivity of 2D TNS is related to the entanglement properties…
 
-## 8. SCOPE: A Physical Execution Latency-Guided Quantum Circuit Compilation Framework
+## 4. From nonlocal correlations to local symmetry breaking: Asymmetry dynamics of crosscap states
 
-- arXiv: `2611.21270v1`
-- Published: 2026-11-16 15:39 UTC
-- Authors: Bolin Zhang, Zhiyuan Zhang, Yongguang Lv, Ruiqing He, Hengliang Guo, Jiandong Shang et al.
-- Categories: quant-ph, cs.AR, cs.ET
-- Links: [abs](https://arxiv.org/abs/2611.21270v1) | [pdf](https://arxiv.org/pdf/2611.21270v1)
-- Score: 1
-- Keyword hits: title=[] abstract=['quantum computing']
-
-Quantum computing requires compilers to translate algorithms represented in the quantum circuit model into unitary operations supported by physical devices. Limited coherence time makes physical execution latency an important compilation objective. Gate fusion can shorten pulses, but gate count and depth do not capture fused targets' control demands. Evaluating every candidate with quantum optimal control (QOC) would embed pulse optimization in structural search. We present Schmidt-guided Compilation for Optimized Pulse Execution (SCOPE), driven by an operator Schmidt time surrogate. The…
-
-## 9. What kind of quantum advantage is this?
-
-- arXiv: `2611.21239v1`
-- Published: 2026-11-16 15:23 UTC
-- Authors: Christophe Pere
-- Categories: quant-ph
-- Links: [abs](https://arxiv.org/abs/2611.21239v1) | [pdf](https://arxiv.org/pdf/2611.21239v1)
+- arXiv: `2611.23224v1`
+- Published: 2026-11-17 18:57 UTC
+- Authors: Konstantinos Chalas, Pasquale Calabrese, Colin Rylands
+- Categories: cond-mat.stat-mech, quant-ph
+- Links: [abs](https://arxiv.org/abs/2611.23224v1) | [pdf](https://arxiv.org/pdf/2611.23224v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['entanglement']
 
-Quantum advantage encompasses fundamentally different claims, from resource reductions to exponential separations in sample complexity. Evaluating these claims requires distinguishing how an algorithm achieves an advantage from what is necessary for the separation and how strongly it is supported against classical alternatives. We propose a multi-label taxonomy that makes these distinctions explicit, classifying structural, interference, and coherent mechanisms while separately recording their necessity and the evidence for the classical comparison. Coherent mechanisms are further divided…
+Under unitary dynamics preserving a global symmetry, bipartite entanglement typically grows while an initially broken symmetry is locally restored. Here, we show that this conventional scenario can be reversed when symmetry-breaking coherence is initially encoded in long-range entanglement. We investigate this phenomenon in a family of charge deformed crosscap states, characterized by antipodal entangled pairs with tunable entanglement and symmetry breaking. We first characterize their static properties, finding a Page-like entanglement profile and an entanglement asymmetry that vanishes for…
 
-## 10. Specifying & Verifying Quantum Error-Correcting Codes
+## 5. Nonlinearity-preserving quantum simulation of flows in the early fault-tolerant regime
 
-- arXiv: `2611.21236v1`
-- Published: 2026-11-16 15:20 UTC
-- Authors: Stavan Jain, Nithin Raveendran, Aws Albarghouthi
-- Categories: quant-ph, cs.PL
-- Links: [abs](https://arxiv.org/abs/2611.21236v1) | [pdf](https://arxiv.org/pdf/2611.21236v1)
+- arXiv: `2611.23196v1`
+- Published: 2026-11-17 18:38 UTC
+- Authors: Hansol Noh, Unam Oh, Sangkyu Baek, Doyeol, Ahn
+- Categories: quant-ph, cs.CE, nlin.CD
+- Links: [abs](https://arxiv.org/abs/2611.23196v1) | [pdf](https://arxiv.org/pdf/2611.23196v1)
 - Score: 1
 - Keyword hits: title=[] abstract=['quantum computing']
 
-Building quantum computers is challenging due to the noise that affects qubits. Quantum error correction tackles noise by encoding information in quantum error-correcting (QEC) codes. These codes are often complex, increasingly found by computational search, presented in diverse formalisms with informal arguments, and hard to reason about algorithmically. Given that the rest of the quantum computing stack relies on a QEC code's properties for correct computation, we propose a formally verified foundation for QEC codes. We present QECLean, a Lean-based framework for formally specifying and…
+Ensemble prediction of nonlinear dynamics propagates a probability density whose linear transport equation retains the nonlinear drift, but grid-dependent circuit costs leave end-to-end feasibility in early fault-tolerant quantum computing unresolved. We couple polynomial reduced-order models fitted by sparse identification of nonlinear dynamics to Walsh-synthesized Koopman-von Neumann (KvN) transport and surface-code resource estimation. At fixed model dimension and drift degree, per-step transport rotation counts scale polylogarithmically with cells per reduced coordinate. Balancing model…
+
+## 6. Non-equilibrium topological order from Floquet anyon proliferation in the toric code
+
+- arXiv: `2611.23132v1`
+- Published: 2026-11-17 17:50 UTC
+- Authors: Francesco Petiziol
+- Categories: quant-ph, cond-mat.quant-gas
+- Links: [abs](https://arxiv.org/abs/2611.23132v1) | [pdf](https://arxiv.org/pdf/2611.23132v1)
+- Score: 1
+- Keyword hits: title=[] abstract=['entanglement']
+
+We analyze the dynamics of Kitaev's toric code in Floquet quenches where the drive coherently creates and propagates fermionic $f$ anyons. We show that the long-time state departs from pure-state topological order but retains long-range entanglement, thereby realizing a Floquet analog of intrinsic mixed-state topological order. As a key result enabling this analysis, we derive decompositions of the entanglement entropy and logarithmic negativity that separate the ground-state value, including topological terms, from a contribution given by the driven quasiparticles. For a drive inducing…
